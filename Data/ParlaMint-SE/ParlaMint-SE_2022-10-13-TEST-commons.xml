@@ -81,6 +81,11 @@
                who="#Q122121">
                <seg xml:id="ParlaMint-GR_2015-02-06-S1-commons.seg4">Det här är ett test</seg>
             </u>
+            <u xml:id="ParlaMint-GR_2015-02-06-S1-commons.u2"
+               ana="#chair"
+               who="#Q122121">
+               <seg xml:id="ParlaMint-GR_2015-02-06-S1-commons.seg4">Det här är också ett test</seg>
+            </u>
       </body>
    </text>
 </TEI>
