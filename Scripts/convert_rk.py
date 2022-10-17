@@ -62,6 +62,46 @@ def main(args):
         #<measure xml:lang="sv" unit="speeches" quantity="1">1 tal</measure>
         fileDesc.insert(fileDesc.index(editionStmt)+1, newelem)
 
+    # Add 'profileDesc' 
+    """
+    <profileDesc>
+     <settingDesc>
+        <setting>
+           <name type="org">Parlament České republiky - Poslanecká sněmovna</name>
+           <name type="address">Sněmovní 176/4</name>
+           <name type="city">Praha</name>
+           <name key="CZ" type="country">Czech Republic</name>
+           <date when="2016-04-13" ana="#parla.sitting">2016-04-13</date>
+        </setting>
+     </settingDesc>
+    </profileDesc>
+    """
+        # Add 'extent' section
+    for encodingDesc in root.findall(f".//{args.ns}encodingDesc"):
+        teiHeader = encodingDesc.getparent()
+        profileDesc = etree.Element("profileDesc")
+        settingDesc = etree.SubElement(profileDesc, "settingDesc")
+        setting = etree.SubElement(settingDesc, "setting")
+        name_org = etree.SubElement(setting, "name")
+        name_org.attrib["type"] = "org"
+        name_org.text = "Sveriges riksdag"
+        name_address = etree.SubElement(setting, "name")
+        name_address.attrib["type"] = "address"
+        name_address.text = "Riksgatan 1"
+        name_city = etree.SubElement(setting, "name")
+        name_city.attrib["type"] = "city"
+        name_city.text = "Stockholm"
+        name_country = etree.SubElement(setting, "name")
+        name_country.attrib["type"] = "country"
+        name_country.text = "Sweden"
+        name_country = etree.SubElement(setting, "date")
+        name_country.attrib["when"] = date
+        name_country.attrib["ana"] = "#parla.sitting"
+        name_country.text = date
+
+        teiHeader.insert(teiHeader.index(encodingDesc)+1, profileDesc)
+
+
     ## TEXT
     # Remove 'front' section from text
     for text in root.findall(f".//{args.ns}text"):
