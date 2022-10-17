@@ -18,7 +18,30 @@ def main(args):
     for u in root.findall(f".//{args.ns}u"):
         # TODO: find chair or regular participant in the meeting
         u.attrib["ana"] = "#regular"
-        print(u)
+
+    #
+
+    date = None
+    for docDate in root.findall(f".//{args.ns}docDate"):
+        # TODO: find chair or regular participant in the meeting
+        date = docDate.attrib["when"]
+
+    # Remove 'front' section from text
+    for text in root.findall(f".//{args.ns}text"):
+        for front in text.findall(f".//{args.ns}front"):
+            front.getparent().remove(front)
+
+    # Tag plaintext section divs with 'debateSection'
+    for body in root.findall(f".//{args.ns}body"):
+        for div in body.findall(f".//{args.ns}div"):
+            div.attrib["type"] = "debateSection"
+
+    # Mark whether we have covid or reference section
+    for text in root.findall(f".//{args.ns}text"):
+        if date >= "2020-01-01":
+            text.attrib["ana"] = "#covid"
+        else:
+            text.attrib["ana"] = "#reference"
 
     protocol_no = protocol_id.split("prot-")[-1]
     filename = f"ParlaMint-SE_{protocol_no}-commons.xml"
