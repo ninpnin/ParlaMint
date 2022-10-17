@@ -86,12 +86,23 @@
             <u xml:id="ParlaMint-GR_2015-02-06-S1-commons.u1"
                ana="#chair"
                who="#Q122121">
-               <seg xml:id="ParlaMint-GR_2015-02-06-S1-commons.seg4">Det här är ett test</seg>
-            </u>
-            <u xml:id="ParlaMint-GR_2015-02-06-S1-commons.u2"
-               ana="#chair"
-               who="#Q122121">
-               <seg xml:id="ParlaMint-GR_2015-02-06-S1-commons.seg5">Det här är också ett test</seg>
+               <seg xml:id="ParlaMint-GR_2015-02-06-S1-commons.seg4">                  <s xml:id="ParlaMint-CZ_2016-04-13-ps2013-044-02-013-114.u1.p1.s1">
+                     <num ana="ne:ni" xml:id="ParlaMint-CZ_2016-04-13-ps2013-044-02-013-114.ne1">
+                        <w xml:id="ParlaMint-CZ_2016-04-13-ps2013-044-02-013-114.u1.p1.s1.w1"
+                           lemma="114"
+                           msd="UPosTag=NUM|NumForm=Digit|NumType=Card"
+                           join="right">114</w>
+                     </num>
+                     <pc xml:id="ParlaMint-CZ_2016-04-13-ps2013-044-02-013-114.u1.p1.s1.w2"
+                         msd="UPosTag=PUNCT">.</pc>
+                     <linkGrp targFunc="head argument" type="UD-SYN">
+                        <link ana="ud-syn:root"
+                              target="#ParlaMint-CZ_2016-04-13-ps2013-044-02-013-114.u1.p1.s1 #ParlaMint-CZ_2016-04-13-ps2013-044-02-013-114.u1.p1.s1.w1"/>
+                        <link ana="ud-syn:punct"
+                              target="#ParlaMint-CZ_2016-04-13-ps2013-044-02-013-114.u1.p1.s1.w1 #ParlaMint-CZ_2016-04-13-ps2013-044-02-013-114.u1.p1.s1.w2"/>
+                     </linkGrp>
+                  </s>
+</seg>
             </u>
          </div>
       </body>
