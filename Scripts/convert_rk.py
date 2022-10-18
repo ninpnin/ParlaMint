@@ -3,6 +3,15 @@ import argparse
 from pathlib import Path
 import datetime
 
+def generate_txt(root, args):
+    s = ""
+    for u in root.findall(f".//{args.ns}u"):
+        for seg in u:
+            id_seg = seg.attrib[f"{args.xml_ns}id"]
+            text_seg = seg.text
+            s += f"{id_seg}\t{text_seg}\n"
+    return s
+
 def main(args):
     print(args)
     todays_date = datetime.date.today().strftime("%Y-%m-%d")
@@ -217,11 +226,18 @@ def main(args):
 
     # Write to file
     root_bytes = etree.tostring(root, pretty_print=True, encoding="utf-8", xml_declaration=True)
-    p = Path("data/ParlaMint-SE") / filename
+    folder = Path("data/ParlaMint-SE")
+    p = folder / filename
     with p.open("wb") as f:
         f.write(root_bytes)
     #with 
 
+    txt = generate_txt(root, args)
+    print(len(txt))
+    filename_txt = f"ParlaMint-SE_{session}--{protocol_no}.txt"
+    p = folder / filename_txt
+    with p.open("w") as f:
+        f.write(txt)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
