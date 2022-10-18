@@ -38,10 +38,20 @@ def main(args):
     # Add language, ID and tags
     root.attrib[f"{args.xml_ns}lang"] = "sv"
     root.attrib[f"{args.xml_ns}id"] = f"ParlaMint-SE_{session}--{protocol_no}-commons"
-    if protocols_date >= "2020-01-01":
+    if protocols_date >= args.covid_start:
         root.attrib["ana"] = "#parla.sitting #covid"
     else:
         root.attrib["ana"] = "#parla.sitting #reference"
+
+    # Convert Riksdagen Corpus edition to ParlaMint edition
+    editionStmts = root.findall(f".//{args.ns}editionStmt")
+    assert len(editionStmts) == 1
+    editionStmt = editionStmts[0]
+    editions = editionStmt.findall(f".//{args.ns}edition")
+    assert len(editions) == 1
+    edition = editions[0]
+    edition.text = args.parlamint_edition
+
 
     # Fix 'title' content, add type
     for title in root.findall(f".//{args.ns}title"):
@@ -184,7 +194,7 @@ def main(args):
 
     # Mark whether we have covid or reference section
     for text in root.findall(f".//{args.ns}text"):
-        if protocols_date >= "2020-01-01":
+        if protocols_date >= args.covid_start:
             text.attrib["ana"] = "#covid"
         else:
             text.attrib["ana"] = "#reference"
@@ -218,6 +228,8 @@ if __name__ == '__main__':
     parser.add_argument("--path", type=str)
     parser.add_argument("--ns", type=str, default="{http://www.tei-c.org/ns/1.0}")
     parser.add_argument("--xml_ns", type=str, default="{http://www.w3.org/XML/1998/namespace}")
+    parser.add_argument("--parlamint_edition", type=str, default="2.0")
+    parser.add_argument("--covid_start", type=str, default="2020-01-01")
     args = parser.parse_args()
 
     main(args)
