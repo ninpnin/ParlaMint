@@ -1,9 +1,12 @@
 from lxml import etree
 import argparse
 from pathlib import Path
+import datetime
 
 def main(args):
     print(args)
+    todays_date = datetime.date.today().strftime("%Y-%m-%d")
+    print(f"NOW {todays_date}")
     parser = etree.XMLParser(remove_blank_text=True)
 
     root = etree.parse(args.path, parser).getroot()
@@ -17,11 +20,14 @@ def main(args):
             for head in div.findall(f".//{args.ns}head"):
                 protocol_id = head.text
     protocol_no = protocol_id.split("prot-")[-1]
+    session = protocol_no.split("-")[0]
+    session_str = f"{session[:4]}/{session[4:]}"
+    protocol_no = protocol_no.split("--")[-1]
 
     # Find protocol date
-    date = None
+    protocols_date = None
     for docDate in root.findall(f".//{args.ns}docDate"):
-        date = docDate.attrib["when"]
+        protocols_date = docDate.attrib["when"]
 
     # Find number of introductions
     intros = [note for note in root.findall(f".//{args.ns}note") if note.attrib.get("type") == "speaker"]
@@ -31,8 +37,8 @@ def main(args):
     ## HEADER
     # Add language, ID and tags
     root.attrib[f"{args.xml_ns}lang"] = "sv"
-    root.attrib[f"{args.xml_ns}id"] = f"ParlaMint-SE_{protocol_no}-commons"
-    if date >= "2020-01-01":
+    root.attrib[f"{args.xml_ns}id"] = f"ParlaMint-SE_{session}--{protocol_no}-commons"
+    if protocols_date >= "2020-01-01":
         root.attrib["ana"] = "#parla.sitting #covid"
     else:
         root.attrib["ana"] = "#parla.sitting #reference"
@@ -40,7 +46,7 @@ def main(args):
     # Fix 'title' content, add type
     for title in root.findall(f".//{args.ns}title"):
         title.attrib["type"] = "main"
-        title.text = f"Riksdagens protokoll {protocol_no}"
+        title.text = f"Riksdagens protokoll {session_str} nr. {protocol_no}"
 
     # Remove all 'authority' sections
     for authority in root.findall(f".//{args.ns}authority"):
@@ -49,6 +55,16 @@ def main(args):
     # Remove all 'editorialDecl' sections
     for editorialDecl in root.findall(f".//{args.ns}editorialDecl"):
         editorialDecl.getparent().remove(editorialDecl)
+
+    # Add 'meeting' section
+    # <meeting ana="#parla.term #parla.lower #parliament.PSP7" n="ps2013">ps2013</meeting>
+    for titleStmt in root.findall(f".//{args.ns}titleStmt"):
+        title = titleStmt.findall(f".//{args.ns}title")[-1]
+        meeting = etree.Element("meeting")
+        meeting.text = session_str
+        meeting.attrib["n"] = session
+        meeting.attrib["ana"] = "#parla.uni #parla.term"
+        titleStmt.insert(titleStmt.index(title)+1, meeting)
 
     # Add 'extent' section
     for editionStmt in root.findall(f".//{args.ns}editionStmt"):
@@ -62,21 +78,75 @@ def main(args):
         #<measure xml:lang="sv" unit="speeches" quantity="1">1 tal</measure>
         fileDesc.insert(fileDesc.index(editionStmt)+1, newelem)
 
+    # Add 'publisher' to 'publicationStmt'
+    publicationStmts = list(root.findall(f".//{args.ns}publicationStmt"))
+    assert len(publicationStmts) == 1
+    publicationStmt = publicationStmts[0]
+    publisher = etree.SubElement(publicationStmt, "publisher")
+    orgName = etree.SubElement(publisher, "orgName")
+    orgName.attrib[f"{args.xml_ns}lang"] = "en"
+    orgName.text = "CLARIN research infrastructure"
+    ref = etree.SubElement(publisher, "ref")
+    ref.attrib["target"] = "https://www.clarin.eu/"
+    ref.text = "www.clarin.eu"
+
+    # Add 'idno' to 'publicationStmt'
+    idno = etree.SubElement(publicationStmt, "idno")
+    idno.text = "https://github.com/clarin-eric/ParlaMint"
+    idno.attrib["type"] = "URI"
+
+    # Add 'availability' to 'publicationStmt'
+    availability = etree.SubElement(publicationStmt, "availability")
+    availability.attrib["status"] = "free"
+    licence = etree.SubElement(availability, "licence")
+    licence.text = "http://creativecommons.org/licenses/by/4.0/"
+    p = etree.XML('<p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>')
+    availability.append(p)
+
+    # Add 'date' to 'publicationStmt'
+    date = etree.SubElement(publicationStmt, "date")
+    date.text = todays_date
+    date.attrib["when"] = todays_date
+
+    # Add 'idno' to 'bibl'
+    bibls = list(root.findall(f".//{args.ns}bibl"))
+    assert len(bibls) == 1
+    bibl = bibls[0]
+    idno = date = etree.SubElement(bibl, "idno")
+    idno.attrib["type"] = "URI"
+    idno.attrib["subtype"] = "parliament"
+    idno.text = "https://data.riksdagen.se/data/dokument/"
+    idno = date = etree.SubElement(bibl, "idno")
+    idno.attrib["type"] = "URI"
+    idno.text = "https://github.com/welfare-state-analytics/riksdagen-corpus"
+
+    project_desc_str = """<projectDesc>
+        <p xml:lang="sv">
+            <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+            <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+    </projectDesc>
+    """
+    project_desc = etree.XML(project_desc_str)
+    encodingDescs = list(root.findall(f".//{args.ns}encodingDesc"))
+    assert len(encodingDescs) == 1
+    encodingDesc = encodingDescs[0]
+    encodingDesc.insert(0, project_desc)
+
+    # Add 'tagsDecl'
+    text = root.findall(f".//{args.ns}text")[0]
+    tagsDecl = etree.Element("tagsDecl")
+    namespace = etree.SubElement(tagsDecl, "namespace")
+    namespace.attrib["name"] = args.ns.replace("{", "").replace("}", "")
+    for tag in ["text", "body", "div", "note", "pb", "u", "seg", "kinesic", "vocal", "incident", "gap", "desc", "time"]:
+        tagUsage = etree.SubElement(namespace, "tagUsage")
+        tagUsage.attrib["gi"] = tag
+        tagUsage.attrib["occurs"] = str(len(text.findall(f".//{args.ns}{tag}")))
+    encodingDesc.insert(encodingDesc.index(project_desc) + 1, tagsDecl)
+
     # Add 'profileDesc' 
-    """
-    <profileDesc>
-     <settingDesc>
-        <setting>
-           <name type="org">Parlament České republiky - Poslanecká sněmovna</name>
-           <name type="address">Sněmovní 176/4</name>
-           <name type="city">Praha</name>
-           <name key="CZ" type="country">Czech Republic</name>
-           <date when="2016-04-13" ana="#parla.sitting">2016-04-13</date>
-        </setting>
-     </settingDesc>
-    </profileDesc>
-    """
-        # Add 'extent' section
     for encodingDesc in root.findall(f".//{args.ns}encodingDesc"):
         teiHeader = encodingDesc.getparent()
         profileDesc = etree.Element("profileDesc")
@@ -95,12 +165,11 @@ def main(args):
         name_country.attrib["type"] = "country"
         name_country.text = "Sweden"
         name_country = etree.SubElement(setting, "date")
-        name_country.attrib["when"] = date
+        name_country.attrib["when"] = protocols_date
         name_country.attrib["ana"] = "#parla.sitting"
-        name_country.text = date
+        name_country.text = protocols_date
 
         teiHeader.insert(teiHeader.index(encodingDesc)+1, profileDesc)
-
 
     ## TEXT
     # Remove 'front' section from text
@@ -115,7 +184,7 @@ def main(args):
 
     # Mark whether we have covid or reference section
     for text in root.findall(f".//{args.ns}text"):
-        if date >= "2020-01-01":
+        if protocols_date >= "2020-01-01":
             text.attrib["ana"] = "#covid"
         else:
             text.attrib["ana"] = "#reference"
@@ -133,7 +202,7 @@ def main(args):
         # Remove line breaks
         note.text = " ".join(note.text.split())
 
-    filename = f"ParlaMint-SE_{protocol_no}-commons.xml"
+    filename = f"ParlaMint-SE_{session}--{protocol_no}-commons.xml"
     print(filename)
 
     # Write to file
