@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201617--3-commons" ana="#parla.sitting #reference">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201617--3" ana="#parla.sitting #reference">
   <teiHeader>
     <fileDesc>
       <titleStmt>

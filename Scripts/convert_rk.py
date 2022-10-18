@@ -37,7 +37,7 @@ def main(args):
     ## HEADER
     # Add language, ID and tags
     root.attrib[f"{args.xml_ns}lang"] = "sv"
-    root.attrib[f"{args.xml_ns}id"] = f"ParlaMint-SE_{session}--{protocol_no}-commons"
+    root.attrib[f"{args.xml_ns}id"] = f"ParlaMint-SE_{session}--{protocol_no}"
     if protocols_date >= args.covid_start:
         root.attrib["ana"] = "#parla.sitting #covid"
     else:
@@ -212,7 +212,7 @@ def main(args):
         # Remove line breaks
         note.text = " ".join(note.text.split())
 
-    filename = f"ParlaMint-SE_{session}--{protocol_no}-commons.xml"
+    filename = f"ParlaMint-SE_{session}--{protocol_no}.xml"
     print(filename)
 
     # Write to file
