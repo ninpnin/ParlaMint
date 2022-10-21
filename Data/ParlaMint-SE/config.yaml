@@ -1,0 +1,25 @@
+metadata:
+    language: swe
+    id: '0'
+    name:
+        eng: test
+        swe: test
+    description:
+        eng: 'Test Corpus
+
+            '
+        swe: |+
+            Testkorpus
+
+import:
+    importer: xml_import:parse
+export:
+    annotations:
+        - <token>:stanza.ufeats
+        - <token>:stanza.msd
+        - <token>:stanza.pos
+        - <token>:misc.upos
+        - <token>:stanza.baseform
+        - swener.ne
+swener:
+    binary: "hfst-swener"
