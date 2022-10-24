@@ -102,7 +102,7 @@ def main(args):
                         continue
                     link = etree.SubElement(linkGrp, "link")
                     link.attrib["ana"] = "ud-syn:" + deprel_str
-                    link.attrib["target"] = f"#{this_id} #{other_id}"
+                    link.attrib["target"] = f"#{other_id} #{this_id}"
 
         
         # Delete unnecessary arguments in 'w' elements
