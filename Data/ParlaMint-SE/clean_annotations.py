@@ -5,6 +5,11 @@ import uuid
 import base58
 import pandas as pd
 
+def generate_and_format_uuid():
+    new_id = uuid.uuid1()
+    formatted_id = base58.b58encode(new_id.bytes).decode("utf-8")
+    return f"i-{formatted_id}"
+
 def main(args):
     parser = etree.XMLParser(remove_blank_text=True)
     export_folder = Path("./export/xml_export.pretty/")
@@ -44,7 +49,7 @@ def main(args):
                             for sentence in sentences:
                                 if len(sentence) == 0:
                                     continue
-                                s = etree.SubElement(seg, "s")
+                                s = etree.SubElement(seg, f"{args.tei_ns}s")
                                 for token in sentence:
                                     # Wrap named entities in a 'name' element
                                     if token.attrib.get("pos") == "PM":
@@ -56,24 +61,23 @@ def main(args):
                                     token.tag = f"{args.tei_ns}w"
                                 s = etree.SubElement(s, f"{args.tei_ns}linkGrp")
                     elif elem.tag == f"{args.tei_ns}note":
-                        print(elem, len(elem))
                         elemtext = []
                         for token in elem:
                             token.getparent().remove(token)
                             elemtext.append(token.text)
                             
                         elem.text = " ".join(elemtext)
-                        print(elem, len(elem))
                         del elem.attrib[f"id"]
         
         # Add IDs for 'w' elements
         for w in text.findall(f".//{args.tei_ns}w"):
             w.attrib["lemma"] = w.attrib["baseform"]
             w.attrib["msd"] = "UPosTag=" + w.attrib["upos"] +  w.attrib["ufeats"]
-            w_id = uuid.uuid1()
-            w_id = base58.b58encode(w_id.bytes).decode("utf-8")
-            w_id = f"i-{w_id}"
-            w.attrib[f"{args.xml_ns}id"] = w_id
+            w.attrib[f"{args.xml_ns}id"] = generate_and_format_uuid()
+
+        # Add IDs for 's' elements
+        for s in text.findall(f".//{args.tei_ns}s"):
+            s.attrib[f"{args.xml_ns}id"] = generate_and_format_uuid()
 
         # Format dependency parsing
         mambda_to_ud = pd.read_csv("mamba_ud.csv", na_filter = False)
@@ -85,6 +89,7 @@ def main(args):
 
             s = linkGrp.getparent()
             w_ids = {w.attrib["ref"]: w.attrib[f"{args.xml_ns}id"] for w in s.findall(f".//{args.tei_ns}w")}
+            ws_with_parents = set()
 
             for w in s.findall(f".//{args.tei_ns}w"):
                 dephead_ref = w.attrib.get("dephead_ref")
@@ -103,6 +108,16 @@ def main(args):
                     link = etree.SubElement(linkGrp, "link")
                     link.attrib["ana"] = "ud-syn:" + deprel_str
                     link.attrib["target"] = f"#{other_id} #{this_id}"
+                    ws_with_parents.add(this_id)
+
+            # Link first 'w' without out-edges to the sentence (root of the sentence)
+            w_xml_ids = [w for w in w_ids.values() if w not in ws_with_parents]
+            if len(w_xml_ids) > 0:
+                w_xml_id = w_xml_ids[0]
+                link = etree.SubElement(linkGrp, "link")
+                link.attrib["ana"] = "ud-syn:root"
+                other_id = s.attrib.get(f"{args.xml_ns}id")
+                link.attrib["target"] = f"#{other_id} #{w_xml_id}"
 
         
         # Delete unnecessary arguments in 'w' elements
