@@ -1840,3 +1840,8 @@ Data/ParlaMint-IS/ParlaMint-IS_2022-06-15.ana.xml
 Data/ParlaMint-IS/ParlaMint-IS_2022-06-15.xml
 Data/ParlaMint-IS/ParlaMint-IS_2022-06-16.ana.xml
 Data/ParlaMint-IS/ParlaMint-IS_2022-06-16.xml
+**.DS_Store
+Data/ParlaMint-SE/export/
+Data/ParlaMint-SE/logs/
+Data/ParlaMint-SE/.snakemate/
+Data/ParlaMint-SE/sparv-workdir/
