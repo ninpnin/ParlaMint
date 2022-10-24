@@ -18,6 +18,9 @@ export:
         - <token>:stanza.ufeats
         - <token>:stanza.msd
         - <token>:stanza.pos
+        - <token>:stanza.ref
+        - <token>:stanza.dephead_ref
+        - <token>:stanza.deprel
         - <token>:misc.upos
         - <token>:stanza.baseform
         - swener.ne
