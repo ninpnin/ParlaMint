@@ -46,7 +46,13 @@ def main(args):
                                     continue
                                 s = etree.SubElement(seg, "s")
                                 for token in sentence:
-                                    s.append(token)
+                                    # Wrap named entities in a 'name' element
+                                    if token.attrib.get("pos") == "PM":
+                                        name = etree.SubElement(s, "name")
+                                        name.append(token)
+                                    # Other words are included directly
+                                    else:
+                                        s.append(token)
                                     token.tag = f"{args.tei_ns}w"
                                 s = etree.SubElement(s, f"{args.tei_ns}linkGrp")
                     elif elem.tag == f"{args.tei_ns}note":
@@ -98,7 +104,7 @@ def main(args):
                     link.attrib["ana"] = "ud-syn:" + deprel_str
                     link.attrib["target"] = f"#{this_id} #{other_id}"
 
-
+        
         # Delete unnecessary arguments in 'w' elements
         for w in text.findall(f".//{args.tei_ns}w"):
             for attrib in list(w.attrib):
