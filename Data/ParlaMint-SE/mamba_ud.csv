@@ -6,13 +6,15 @@ XT,amod
 DT,det
 EO,dobj
 ES,nsubj
+ET,nmod
+HD,det
 FO,expl
 FS,expl
 "I*",punct
 "J*",punct
 IM,mark
 IO,iobj
-NA,neg
+"NA",neg
 OO,dobj
 OP,xxomp
 VO,xxomp
