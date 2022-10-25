@@ -21,17 +21,17 @@ CURRENT_COMMIT := $(shell git rev-parse --short HEAD)
 ###### Setup
 ## check-prereq ## test if prerequisities are installed, more about installing prerequisities in CONTRIBUTING.md file
 check-prereq:
-	@test -f /usr/share/java/saxon.jar
-	@unzip -p /usr/share/java/saxon.jar META-INF/MANIFEST.MF|grep 'Main-Class:'| grep -q 'net.sf.saxon.Transform'
+	@test -f ./jars/saxon.jar
+	@unzip -p ./jars/saxon.jar META-INF/MANIFEST.MF|ggrep 'Main-Class:'| ggrep -q 'net.sf.saxon.Transform'
 	@echo "Saxon: OK"
-	@test -f /usr/share/java/jing.jar
-	@unzip -p /usr/share/java/jing.jar META-INF/MANIFEST.MF|grep 'Main-Class:'| grep -q 'relaxng'
+	@test -f ./jars/jing.jar
+	@unzip -p ./jars/jing.jar META-INF/MANIFEST.MF|ggrep 'Main-Class:'| ggrep -q 'relaxng'
 	@echo "Jing: OK"
 	@test -f Scripts/tools/validate.py
 	@python -m re
 	@echo "UD tools: OK"
 	@echo "INFO: Maximum java heap size (saxon needs 5-times more than the size of processed xml file)"
-	@java -XX:+PrintFlagsFinal -version 2>&1| grep " MaxHeapSize"|sed "s/^.*= *//;s/ .*$$//"|awk '{print "\t" $$1/1024/1024/1024 " GB"}'
+	@java -XX:+PrintFlagsFinal -version 2>&1| ggrep " MaxHeapSize"|sed "s/^.*= *//;s/ .*$$//"|awk '{print "\t" $$1/1024/1024/1024 " GB"}'
 
 
 setup-parliament:
@@ -105,12 +105,12 @@ val-schema-ParlaCLARIN: $(val-schema-ParlaCLARIN-XX)
 $(val-schema-ParlaCLARIN-XX): val-schema-ParlaCLARIN-%: val-schema-tei-ParlaCLARIN-% val-schema-ana-ParlaCLARIN-%
 
 $(val-schema-tei-ParlaMint-XX): val-schema-tei-ParlaMint-%: %
-	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | grep -v '.ana.' | grep -v '_' | xargs ${vrt}
-	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | grep -v '.ana.' | grep    '_' | xargs ${vct}
+	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | ggrep -v '.ana.' | ggrep -v '_' | xargs ${vrt}
+	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | ggrep -v '.ana.' | ggrep    '_' | xargs ${vct}
 
 $(val-schema-ana-ParlaMint-XX): val-schema-ana-ParlaMint-%: %
-	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | grep    '.ana.' | grep -v '_' | xargs ${vra}
-	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | grep    '.ana.' | grep    '_' | xargs ${vca}
+	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | ggrep    '.ana.' | ggrep -v '_' | xargs ${vra}
+	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | ggrep    '.ana.' | ggrep    '_' | xargs ${vca}
 
 
 $(val-schema-tei-ParlaCLARIN-XX): val-schema-tei-ParlaCLARIN-%: % working-dir-%
@@ -134,7 +134,7 @@ check-links-XX = $(addprefix check-links-, $(PARLIAMENTS))
 check-links: $(check-links-XX)
 ## check-links-XX ## ...
 $(check-links-XX): check-links-%: %
-	for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | grep -P "ParlaMint-$<${CORPUSDIR_SUFFIX}(|ana).xml"`;	do \
+	for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | ggrep -P "ParlaMint-$<${CORPUSDIR_SUFFIX}(|ana).xml"`;	do \
 	  echo "checking links in root:" $${root}; \
 	  ${s} ${vlink} $${root}; \
 	  for component in `echo $${root}| xargs ${getheaderincludes}`; do \
@@ -155,7 +155,7 @@ check-content-XX = $(addprefix check-content-, $(PARLIAMENTS))
 check-content: $(check-content-XX)
 ## check-content-XX ## ...
 $(check-content-XX): check-content-%: %
-	for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-$<${CORPUSDIR_SUFFIX}*.xml" | grep -P "ParlaMint-$<${CORPUSDIR_SUFFIX}(|ana).xml"`;	do \
+	for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-$<${CORPUSDIR_SUFFIX}*.xml" | ggrep -P "ParlaMint-$<${CORPUSDIR_SUFFIX}(|ana).xml"`;	do \
 	  echo "checking content in root:" $${root}; \
 	  echo "  - general"; \
 	  ${s} ${vcontent} $${root}; \
@@ -211,7 +211,7 @@ text: $(text-XX)
 ## text-XX ## convert tei files to text
 $(text-XX): text-%: %
 	rm -f ${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-$<_*.txt
-	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-$<_*.xml" | grep -v '.ana.' | $P --jobs 10 \
+	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-$<_*.xml" | ggrep -v '.ana.' | $P --jobs 10 \
 	'$s -xsl:Scripts/parlamint-tei2text.xsl {} > ${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/{/.}.txt'
 
 
@@ -222,7 +222,7 @@ meta: $(meta-XX)
 ## meta-XX ## ...
 $(meta-XX): meta-%: %
 	rm -f ${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/*-meta.tsv
-	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*_*.xml" | grep -v '.ana.' | $P --jobs 10 \
+	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*_*.xml" | ggrep -v '.ana.' | $P --jobs 10 \
 	'$s meta=../${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-$<.xml -xsl:Scripts/parlamint2meta.xsl \
 	{} > ${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/{/.}-meta.tsv'
 
@@ -299,11 +299,11 @@ help-intro:
 help-variables:
 	@echo "\033[1m\033[32mVARIABLES:\033[0m"
 	@echo "Variable VAR with value 'value' can be set when calling target TARGET in $(MAKEFILE_LIST): make VAR=value TARGET"
-	@grep -E '^## *\$$[a-zA-Z_-]*.*?##.*$$' $(MAKEFILE_LIST) |sed 's/^## *\$$/##/'| awk 'BEGIN {FS = " *## *"}; {printf "\033[1m%s\033[0m\033[36m%-18s\033[0m %s\n", $$4, $$2, $$3}'
+	@ggrep -E '^## *\$$[a-zA-Z_-]*.*?##.*$$' $(MAKEFILE_LIST) |sed 's/^## *\$$/##/'| awk 'BEGIN {FS = " *## *"}; {printf "\033[1m%s\033[0m\033[36m%-18s\033[0m %s\n", $$4, $$2, $$3}'
 
 help-targets:
 	@echo "\033[1m\033[32mTARGETS:\033[0m"
-	@grep -E '^## *[a-zA-Z_-]+.*?##.*$$|^####' $(MAKEFILE_LIST) | awk 'BEGIN {FS = " *## *"}; {printf "\033[1m%s\033[0m\033[36m%-25s\033[0m %s\n", $$4, $$2, $$3}'
+	@ggrep -E '^## *[a-zA-Z_-]+.*?##.*$$|^####' $(MAKEFILE_LIST) | awk 'BEGIN {FS = " *## *"}; {printf "\033[1m%s\033[0m\033[36m%-25s\033[0m %s\n", $$4, $$2, $$3}'
 
 
 .PHONY: help
@@ -314,7 +314,7 @@ help: help-intro help-variables help-targets
 help-advanced: help
 	@echo "\033[1m\033[32mADVANCED:\033[0m"
 	@echo "If you want to run target on multiple targets but not all, you can overwrite PARLIAMENTS variable. E.g. make check-links PARLIAMENTS=\"GB CZ\""
-	@grep -E '^## *![a-zA-Z_-]+.*?##.*$$|^##!##' $(MAKEFILE_LIST) |sed 's/^## *!/##/'| awk 'BEGIN {FS = " *## *"}; {printf "\033[1m%s\033[0m\033[35m%-25s\033[0m %s\n", $$4, $$2, $$3}'
+	@ggrep -E '^## *![a-zA-Z_-]+.*?##.*$$|^##!##' $(MAKEFILE_LIST) |sed 's/^## *!/##/'| awk 'BEGIN {FS = " *## *"}; {printf "\033[1m%s\033[0m\033[35m%-25s\033[0m %s\n", $$4, $$2, $$3}'
 
 
 
@@ -326,10 +326,10 @@ $(addprefix working-dir-, $(PARLIAMENTS)): working-dir-%: %
 ##!####DEVEL
 ##!DEV-list-script-local-deps## for each file in Scripts folder shows list of dependencies in Script folder
 DEV-list-script-local-deps:
-	regex=`ls -p Scripts| grep -v "/"| tr '\n' '|'|sed 's/|$$//'`; \
-	for file in `ls -p Scripts| grep -v "/"`; do \
+	regex=`ls -p Scripts| ggrep -v "/"| tr '\n' '|'|sed 's/|$$//'`; \
+	for file in `ls -p Scripts| ggrep -v "/"`; do \
 	  echo -n "$$file:\t"; \
-	  grep -Eo "$$regex" Scripts/$$file|grep -v "^$$file$$"|sort|uniq| tr '\n' ' '; \
+	  ggrep -Eo "$$regex" Scripts/$$file|ggrep -v "^$$file$$"|sort|uniq| tr '\n' ' '; \
 	  echo;\
 	done
 
@@ -339,7 +339,7 @@ DEV-validate-particDesc-XX = $(addprefix DEV-validate-particDesc-, $(PARLIAMENTS
 DEV-validate-particDesc: $(DEV-validate-particDesc-XX)
 ##!DEV-validate-particDesc-XX ##
 $(DEV-validate-particDesc-XX): DEV-validate-particDesc-%: % working-dir-%
-	for file in `find ${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX} -name ParlaMint-$<.xml | grep -v "_"`; do \
+	for file in `find ${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX} -name ParlaMint-$<.xml | ggrep -v "_"`; do \
 	  ${s} -xsl:Scripts/validate-parlamint-particDesc.xsl $${file} ;\
 	done
 
@@ -359,7 +359,7 @@ DEV-links-summ:
 	make $(DEV-links-summ-XX) | perl -e 'my (%tab,%country);while(<>){my($$n,$$c,$$t)=/^(\d+)\t([^\t]*)\t(.*)/; next unless $$c; $$country{$$c}=1;$$tab{$$t}//={};$$tab{$$t}->{$$c}=$$n;};print "file\tfromAt\tfromEl\ttoEl\ttarget";foreach $$c (sort keys %country){printnum($$c)};print "\n";foreach my $$t (sort keys %tab){print "$$t";foreach $$c (sort keys %country){printnum($$tab{$$t}->{$$c}//"-")};print "\n"};sub printnum{print "\t" . shift}'
 ##!DEV-links-summ-XX## ...
 $(DEV-links-summ-XX): DEV-links-summ-%: %
-	@for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | grep -v '_'`;	do \
+	@for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | ggrep -v '_'`;	do \
 	  ${s} ${listlink} $${root} 2>&1; \
 	  for component in `echo $${root}| xargs ${getincludes}`; do \
 	    ${s} meta=$(PWD)/$${root} ${listlink} ${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/$${component} 2>&1; \
@@ -381,7 +381,7 @@ DEV-attributes-summ:
 	make $(DEV-attributes-summ-XX) | perl -e 'my (%tab,%country);while(<>){my($$n,$$c,$$t)=/^(\d+)\t([^\t]*)\t(.*)/; next unless $$c; $$country{$$c}=1;$$tab{$$t}//={};$$tab{$$t}->{$$c}=$$n;};print "element\tattribute";foreach $$c (sort keys %country){printnum($$c)};print "\n";foreach my $$t (sort keys %tab){print "$$t";foreach $$c (sort keys %country){printnum($$tab{$$t}->{$$c}//"-")};print "\n"};sub printnum{print "\t" . shift}'
 ##!DEV-attributes-summ-XX## ...
 $(DEV-attributes-summ-XX): DEV-attributes-summ-%: %
-	@for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | grep -v '_'`;	do \
+	@for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | ggrep -v '_'`;	do \
 	  ${s} ${listattr} $${root} 2>&1; \
 	  for component in `echo $${root}| xargs ${getincludes}`; do \
 	    ${s} ${listattr} ${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/$${component} 2>&1; \
@@ -391,8 +391,8 @@ $(DEV-attributes-summ-XX): DEV-attributes-summ-%: %
 ##!DEV-speaker_types-in-taxonomy## print speaker types: id english_term ParlaMint-XX local_term
 DEV-speaker_types-in-taxonomy:
 	@echo -n "category_id\tterm_en\tcode\tterm_local\n"
-	@for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-*${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | grep -v '_'| grep -v '.ana.xml'`; do \
-	  java -cp /usr/share/java/saxon.jar net.sf.saxon.Query -xi:off \!method=adaptive \
+	@for root in `find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-*${CORPUSDIR_SUFFIX}/ParlaMint-*.xml" | ggrep -v '_'| ggrep -v '.ana.xml'`; do \
+	  java -cp ./jars/saxon.jar net.sf.saxon.Query -xi:off \!method=adaptive \
 	      -qs:'//*:taxonomy[@xml:id="speaker_types"]//*:category/concat(@xml:id,"|"  ,.//*:term[ancestor-or-self::*[@xml:lang][1]/@xml:lang="en"],"|"   ,/*:teiCorpus/@xml:id,"|"   ,.//*:term[not(ancestor-or-self::*[@xml:lang][1]/@xml:lang="en") ])' \
 	      -s:$${root} ; \
 	  echo;\
@@ -430,7 +430,7 @@ fix-overlapping-affiliations: $(fix-overlapping-affiliations-XX)
 $(fix-overlapping-affiliations-XX): fix-overlapping-affiliations-%: % working-dir-%
 	rm -rf ${WORKINGDIR}/fix-overlapping-affiliations/ParlaMint-$<${CORPUSDIR_SUFFIX}
 	mkdir -p ${WORKINGDIR}/fix-overlapping-affiliations/ParlaMint-$<${CORPUSDIR_SUFFIX}
-	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-$<*.xml" -printf '%f\n' | grep -v '_' \
+	find ${DATADIR} -type f -path "${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/ParlaMint-$<*.xml" -printf '%f\n' | ggrep -v '_' \
 	| xargs -I {} $s ${faff} -s:${DATADIR}/ParlaMint-$<${CORPUSDIR_SUFFIX}/{} -o:${WORKINGDIR}/fix-overlapping-affiliations/ParlaMint-$<${CORPUSDIR_SUFFIX}/{}
 
 
@@ -565,9 +565,9 @@ insert-ministries-test:
 	${s} ${vlink} Scripts/tmp/ParlaMint-${MC}.xml
 
 ######################VARIABLES
-s = java -jar /usr/share/java/saxon.jar
+s = java -jar ./jars/saxon.jar
 P = parallel --gnu --halt 2
-j = java -jar /usr/share/java/jing.jar
+j = java -jar ./jars/jing.jar
 copy = -I % $s -xi:on -xsl:Scripts/copy.xsl -s:% -o:%.all-in-one.xml
 vlink = -xsl:Scripts/check-links.xsl
 listlink = -xsl:Scripts/list-links.xsl
@@ -575,9 +575,9 @@ listrole = -xsl:Scripts/list-affiliation-org-role-pairs.xsl
 listattr = -xsl:Scripts/list-element-attribute.xsl
 faff = -xsl:Scripts/fixings/fix-overlapping-affiliations.xsl
 vcontent = -xsl:Scripts/validate-parlamint.xsl
-getincludes = -I % java -cp /usr/share/java/saxon.jar net.sf.saxon.Query -xi:off \!method=adaptive -qs:'//*[local-name()="include"]/@href' -s:% |sed 's/^ *href="//;s/"//'
-getheaderincludes = -I % java -cp /usr/share/java/saxon.jar net.sf.saxon.Query -xi:off \!method=adaptive -qs:'//*[local-name()="teiHeader"]//*[local-name()="include"]/@href' -s:% |sed 's/^ *href="//;s/"//'
-getcomponentincludes = -I % java -cp /usr/share/java/saxon.jar net.sf.saxon.Query -xi:off \!method=adaptive -qs:'/*/*[local-name()="include"]/@href' -s:% |sed 's/^ *href="//;s/"//'
+getincludes = -I % java -cp ./jars/saxon.jar net.sf.saxon.Query -xi:off \!method=adaptive -qs:'//*[local-name()="include"]/@href' -s:% |sed 's/^ *href="//;s/"//'
+getheaderincludes = -I % java -cp ./jars/saxon.jar net.sf.saxon.Query -xi:off \!method=adaptive -qs:'//*[local-name()="teiHeader"]//*[local-name()="include"]/@href' -s:% |sed 's/^ *href="//;s/"//'
+getcomponentincludes = -I % java -cp ./jars/saxon.jar net.sf.saxon.Query -xi:off \!method=adaptive -qs:'/*/*[local-name()="include"]/@href' -s:% |sed 's/^ *href="//;s/"//'
 pc =  $j Schema/parla-clarin.rng                # Validate with Parla-CLARIN schema
 vrt = $j Schema/ParlaMint-teiCorpus.rng 	# Corpus root / text
 vct = $j Schema/ParlaMint-TEI.rng		# Corpus component / text

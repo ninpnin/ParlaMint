@@ -26,8 +26,8 @@ use File::Spec;
 $schemaDir = File::Spec->rel2abs(shift);
 $inDirs = File::Spec->rel2abs(shift);
 
-$Jing  = 'java -jar /usr/share/java/jing.jar';
-$Saxon = 'java -jar /usr/share/java/saxon.jar';
+$Jing  = 'java -jar ./jars/jing.jar';
+$Saxon = 'java -jar ./jars/saxon.jar';
 $Links = "$Bin/check-links.xsl";
 $Valid = "$Bin/validate-parlamint.xsl";
 $Valid_particDesc = "$Bin/validate-parlamint-particDesc.xsl";
