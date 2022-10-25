@@ -142,7 +142,15 @@ def main(args):
                 del elem.attrib[f"{args.tei_ns}id"]
             if elem_id is not None:
                 elem.attrib[f"{args.xml_ns}id"] = elem_id
-    
+        
+        # Pad references to other elements with '#'
+        link_attribs = ["who", "prev", "next"]
+        for elem in text.iter():
+            for attrib in link_attribs:
+                if attrib in elem.attrib:
+                    if elem.attrib[attrib][:1] != "#":
+                        elem.attrib[attrib] = f"#{elem.attrib[attrib]}"
+
         tei = unnann_root
         tei.append(text)
 

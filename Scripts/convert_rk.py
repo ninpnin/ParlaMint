@@ -224,6 +224,15 @@ def main(args):
     filename = f"ParlaMint-SE_{session}--{protocol_no}.xml"
     print(filename)
 
+        # Pad references to other elements with '#'
+    link_attribs = ["who", "prev", "next"]
+    for elem in root.iter():
+        for attrib in link_attribs:
+            if attrib in elem.attrib:
+                if elem.attrib[attrib][:1] != "#":
+                    elem.attrib[attrib] = f"#{elem.attrib[attrib]}"
+
+
     # Write to file
     root_bytes = etree.tostring(root, pretty_print=True, encoding="utf-8", xml_declaration=True)
     folder = Path("data/ParlaMint-SE")
@@ -238,6 +247,7 @@ def main(args):
     p = folder / filename_txt
     with p.open("w") as f:
         f.write(txt)
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
