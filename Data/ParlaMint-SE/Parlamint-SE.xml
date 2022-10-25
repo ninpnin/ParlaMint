@@ -83,15 +83,15 @@
       </tagsDecl>
       <classDecl>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                href="ParlaMint-taxonomy-parla.legislature.xml"/>
+                href="taxonomy-parla.legislature.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                href="ParlaMint-CZ-taxonomy-meeting.parts.xml"/>
+                href="SE-taxonomy-meeting.parts.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                href="ParlaMint-CZ-taxonomy-parla.links.xml"/>
+                href="SE-taxonomy-parla.links.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                href="ParlaMint-taxonomy-speaker_types.xml"/>
+                href="taxonomy-speaker_types.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                href="ParlaMint-taxonomy-subcorpus.xml"/>
+                href="taxonomy-subcorpus.xml"/>
       </classDecl>
     </encodingDesc>
     <profileDesc>
@@ -105,9 +105,9 @@
         </setting>
       </settingDesc>
       <particDesc>
-        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-SE-listOrg.xml"/>
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="SE-listOrg.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-                href="ParlaMint-SE-listPerson.xml"/>
+                href="SE-listPerson.xml"/>
       </particDesc>
       <langUsage>
         <language ident="sv" xml:lang="sv">svenska</language>
