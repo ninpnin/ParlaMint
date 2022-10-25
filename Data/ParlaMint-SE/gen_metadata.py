@@ -5,6 +5,9 @@ import uuid
 import base58
 import pandas as pd
 
+tei_ns ="{http://www.tei-c.org/ns/1.0}"
+xml_ns = "{http://www.w3.org/XML/1998/namespace}"
+
 def governments(root, gov_df, minister_df, xml_ns=None):
     gov_df_alt = gov_df[(gov_df["start"] < "2022-08-01") & (gov_df["start"] > "2016-01-01")]
     gov_df = gov_df[gov_df["end"] > "2015-01-01"]
@@ -40,7 +43,65 @@ def governments(root, gov_df, minister_df, xml_ns=None):
 def parties(root, df):
     return root
 
-def main(args):
+def people(root, df, minister_df):
+    print(minister_df)
+    df = df.where(pd.notnull(df), None)
+    df_alt = df[df["start"] >= "2015-01-01"]
+    df = df[df["end"] >= "2015-01-01"]
+    df = pd.concat([df,df_alt])
+    df = df.drop_duplicates(["wiki_id", "start"])
+    print(df)
+
+    for _, row in df.drop_duplicates("wiki_id").iterrows():
+        person = etree.SubElement(root, "person")
+        person.attrib[f"{xml_ns}id"] = row["wiki_id"]
+        persName = etree.SubElement(person, "persName")
+        surname = etree.SubElement(persName, "surname")
+        surname.text = row["name"].split()[-1]
+        forename = etree.SubElement(persName, "forename")
+        forename.text = " ".join(row["name"].split()[:-1])
+        if row.get("gender") is not None:
+            sex = etree.SubElement(person, "sex")
+            sex.attrib["value"] = "F"
+            if row.get("gender") == "man":
+                sex.attrib["value"] = "M"
+
+        # Terms in office
+        for _, row_prime in df[df["wiki_id"] == row["wiki_id"]].iterrows():
+            party = row_prime["party"]
+            start = row_prime.get("start")
+            end = row_prime.get("end")
+
+            affiliation = etree.SubElement(person, "affiliation")
+            affiliation.attrib["role"] = "member"
+            affiliation.attrib["ref"] = "#Riksdagen"
+            affiliation.attrib["from"] = start
+            if end is not None:
+                affiliation.attrib["to"] = end
+
+        # Minister affiliations
+        minister_df = minister_df.drop_duplicates(["wiki_id", "role", "start", "end"])
+        for _, row_prime in minister_df[minister_df["wiki_id"] == row["wiki_id"]].iterrows():
+            start = row_prime.get("start")
+            if start is None or start < "2015-01-01":
+                continue
+            end = row_prime.get("end")
+            role = row_prime.get("role")
+            affiliation = etree.SubElement(person, "affiliation")
+            affiliation.attrib["role"] = "member"
+            affiliation.attrib["ref"] = "#GOV"
+            affiliation.attrib["from"] = start
+            if end is not None:
+                affiliation.attrib["to"] = end
+            if role is not None:
+                affiliation.attrib["role"] = "minister"
+                roleName = etree.SubElement(affiliation, "roleName")
+                roleName.attrib[f"{xml_ns}lang"] = "sv"
+                roleName.text = role.strip()
+
+    return root
+
+def listorg(args):
     path = Path(args.metadata_db)
     party_df = pd.read_csv(path / "party_abbreviation.csv")
     gov_df = pd.read_csv(path / "government.csv")
@@ -82,7 +143,38 @@ def main(args):
     b = etree.tostring(
         root, pretty_print=True, encoding="utf-8", xml_declaration=True
     )
-    with open("ParlaMint-SE-listOrg.xml", "wb") as f:
+    with open("SE-listOrg.xml", "wb") as f:
+        f.write(b)
+
+def listperson(args):
+    path = Path(args.metadata_db)
+    party_df = pd.read_csv(path / "party_abbreviation.csv")
+    gov_df = pd.read_csv(path / "government.csv")
+    minister_df = pd.read_csv(path / "minister.csv")
+    minister_df = minister_df.where(pd.notnull(minister_df), None)
+    people_df = pd.read_csv(path / "person.csv")
+    mp_df = pd.read_csv(path / "member_of_parliament.csv")
+    name_df = pd.read_csv(path / "name.csv")
+    name_df = name_df[name_df["primary_name"] == True]
+    people_df = people_df.merge(mp_df, on="wiki_id", how="left")
+    people_df = people_df.merge(name_df, on="wiki_id", how="left")
+    print(people_df)
+
+    # Populate root with basic elements
+    nsmap = {None: args.tei_ns.replace("{", "").replace("}", "")}
+    root = etree.Element("listPerson", nsmap=nsmap)
+    listPerson = root
+    head = etree.SubElement(listPerson, "head")
+    head.text = "List of speakers"
+
+    # Populate with metadata
+    root = people(root, people_df, minister_df)
+
+    # Write to disk
+    b = etree.tostring(
+        root, pretty_print=True, encoding="utf-8", xml_declaration=True
+    )
+    with open("SE-listPerson.xml", "wb") as f:
         f.write(b)
 
 if __name__ == "__main__":
@@ -91,4 +183,5 @@ if __name__ == "__main__":
     parser.add_argument("--tei_ns", type=str, default="{http://www.tei-c.org/ns/1.0}")
     parser.add_argument("--xml_ns", type=str, default="{http://www.w3.org/XML/1998/namespace}")
     args = parser.parse_args()
-    main(args)
+    listorg(args)
+    listperson(args)
