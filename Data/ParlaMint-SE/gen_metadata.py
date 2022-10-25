@@ -13,17 +13,17 @@ def governments(root, gov_df, minister_df, xml_ns=None):
     gov_df = gov_df.drop_duplicates("wikidata_item_id")
     gov_df = gov_df.sort_values("start")
 
-    listOrgs = root.findall(".//listOrg")
-    assert len(listOrgs) == 1
-    listOrg = listOrgs[0]
+    listOrg = root
     
     print(gov_df)
     org = etree.SubElement(listOrg, "org")
     org.attrib[f"{xml_ns}id"] = "GOV"
+    org.attrib["role"] = "government"
 
     orgName = etree.SubElement(org, "orgName")
     orgName.text = "Sveriges regering"
     orgName.attrib[f"{xml_ns}lang"] = "sv"
+    orgName.attrib["full"] = "yes"
     listEvent = etree.SubElement(org, "listEvent")
     for _, gov in gov_df.iterrows():
         event = etree.SubElement(listEvent, "event")
@@ -40,9 +40,6 @@ def governments(root, gov_df, minister_df, xml_ns=None):
 def parties(root, df):
     return root
 
-def people(root, df):
-    return root
-
 def main(args):
     path = Path(args.metadata_db)
     party_df = pd.read_csv(path / "party_abbreviation.csv")
@@ -54,33 +51,38 @@ def main(args):
     print(people_df)
 
     # Populate root with basic elements
-    root = etree.Element("root")
-    listOrg = etree.SubElement(root, "listOrg")
+    nsmap = {None: args.tei_ns.replace("{", "").replace("}", "")}
+    root = etree.Element("listOrg", nsmap=nsmap)
+    listOrg = root
     org = etree.SubElement(listOrg, "org") # Stats on the parliament
     org.attrib[f"{args.xml_ns}id"] = "Riksdagen"
     org.attrib["role"] = "parliament"
     org.attrib["ana"] = "#parla.uni #parla.national"
     orgName = etree.SubElement(org, "orgName") # Name
+    orgName.attrib["full"] = "yes"
+    orgName.attrib[f"{args.xml_ns}lang"] = "sv"
     orgName.text = "Sveriges riksdag"
     orgName = etree.SubElement(org, "orgName") # Name
     orgName.text = "Riksdagen"
+    orgName.attrib["full"] = "abb"
+    orgName.attrib[f"{args.xml_ns}lang"] = "sv"
     listEvent = etree.SubElement(org, "listEvent") # Sessions
     mandate_periods = [("2014-09-29","2018-09-24"), ("2018-09-24", "2018-09-11")]
     for start, end in mandate_periods:
         event = etree.SubElement(listEvent, "event") # Sessions
         event.attrib["from"] = start
         event.attrib["to"] = end
-    listPerson = etree.SubElement(root, "listPerson")
+        label = etree.SubElement(event, "label")
+        label.text = "Riksdagen {start} - {end}"
 
     # Populate with metadata
     root = governments(root, gov_df, minister_df, xml_ns=args.xml_ns)
     root = parties(root, party_df)
-    root = people(root, people_df)
 
     b = etree.tostring(
         root, pretty_print=True, encoding="utf-8", xml_declaration=True
     )
-    with open("metadata-SE.xml", "wb") as f:
+    with open("ParlaMint-SE-listOrg.xml", "wb") as f:
         f.write(b)
 
 if __name__ == "__main__":
