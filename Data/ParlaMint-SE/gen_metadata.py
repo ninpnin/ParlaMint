@@ -96,22 +96,24 @@ def people(root, person_df, mp_df, minister_df):
         # Minister affiliations
         minister_df = minister_df.drop_duplicates(["wiki_id", "role", "start", "end"])
         for _, row_prime in minister_df[minister_df["wiki_id"] == row["wiki_id"]].iterrows():
-            start = row_prime.get("start")
-            if start is None or start < "2015-01-01":
-                continue
-            end = row_prime.get("end")
-            role = row_prime.get("role")
-            affiliation = etree.SubElement(person, "affiliation")
-            affiliation.attrib["role"] = "member"
-            affiliation.attrib["ref"] = "#GOV"
-            affiliation.attrib["from"] = start
-            if end is not None:
-                affiliation.attrib["to"] = end
-            if role is not None:
-                affiliation.attrib["role"] = "minister"
-                roleName = etree.SubElement(affiliation, "roleName")
-                roleName.attrib[f"{xml_ns}lang"] = "sv"
-                roleName.text = role.strip()
+            for affiliationtype in ["member", "minister"]:
+                start = row_prime.get("start")
+                if start is None or start < "2015-01-01":
+                    continue
+                end = row_prime.get("end")
+                role = row_prime.get("role")
+                affiliation = etree.SubElement(person, "affiliation")
+                affiliation.attrib["role"] = "member"
+                affiliation.attrib["ref"] = "#GOV"
+                affiliation.attrib["from"] = start
+                if end is not None:
+                    affiliation.attrib["to"] = end
+                if affiliationtype is "member" or role is not None:
+                    affiliation.attrib["role"] = affiliationtype
+                    if affiliationtype is not "member":
+                        roleName = etree.SubElement(affiliation, "roleName")
+                        roleName.attrib[f"{xml_ns}lang"] = "sv"
+                        roleName.text = role.strip()
 
     return root
 
