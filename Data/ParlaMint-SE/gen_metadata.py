@@ -43,18 +43,30 @@ def governments(root, gov_df, minister_df, xml_ns=None):
 def parties(root, df):
     return root
 
-def people(root, df, minister_df):
-    print(minister_df)
-    df = df.where(pd.notnull(df), None)
-    df_alt = df[df["start"] >= "2015-01-01"]
-    df = df[df["end"] >= "2015-01-01"]
-    df = pd.concat([df,df_alt])
-    df = df.drop_duplicates(["wiki_id", "start"])
-    print(df)
+def people(root, person_df, mp_df, minister_df):
+    relevant_people = []
+    for df, role in zip([mp_df, minister_df], ["mp", "minister"]):
+        df_alt = df[df["start"] >= "2015-01-01"]
+        df = df[df["end"] >= "2015-01-01"]
+        wiki_ids = list(set(df["wiki_id"]))
+        rows = [[wid, role] for wid in wiki_ids]
+        df = pd.DataFrame(rows, columns=["wiki_id", "relevancy"])
+        relevant_people.append(df)
 
-    for _, row in df.drop_duplicates("wiki_id").iterrows():
+
+    relevant_people = pd.concat(relevant_people)
+    unknown = ['unknown', '2014-09-29', '2022-08-01', None, None, 'mp']
+    mp_df.loc[len(mp_df.index)] = unknown
+
+    print(relevant_people)
+    print(person_df)
+    relevant_people = relevant_people.merge(person_df, on="wiki_id")
+    relevant_people.loc[len(relevant_people.index)] = ['unknown', 'unknown', None, None, 'gender', None, None, 'unknown mp', 'unknown mp']
+
+
+    for _, row in relevant_people.iterrows():
         person = etree.SubElement(root, "person")
-        person.attrib[f"{xml_ns}id"] = row["wiki_id"]
+        person.attrib[f"{xml_ns}id"] = row.get("wiki_id")
         persName = etree.SubElement(person, "persName")
         surname = etree.SubElement(persName, "surname")
         surname.text = row["name"].split()[-1]
@@ -62,12 +74,14 @@ def people(root, df, minister_df):
         forename.text = " ".join(row["name"].split()[:-1])
         if row.get("gender") is not None:
             sex = etree.SubElement(person, "sex")
-            sex.attrib["value"] = "F"
+            sex.attrib["value"] = "unknown"
             if row.get("gender") == "man":
                 sex.attrib["value"] = "M"
+            elif row.get("gender") == "woman":
+                sex.attrib["value"] = "F"
 
         # Terms in office
-        for _, row_prime in df[df["wiki_id"] == row["wiki_id"]].iterrows():
+        for _, row_prime in mp_df[mp_df["wiki_id"] == row["wiki_id"]].iterrows():
             party = row_prime["party"]
             start = row_prime.get("start")
             end = row_prime.get("end")
@@ -109,7 +123,6 @@ def listorg(args):
     people_df = pd.read_csv(path / "person.csv")
     mp_df = pd.read_csv(path / "member_of_parliament.csv")
     people_df = people_df.merge(mp_df, on="wiki_id", how="left")
-    print(people_df)
 
     # Populate root with basic elements
     nsmap = {None: args.tei_ns.replace("{", "").replace("}", "")}
@@ -153,10 +166,11 @@ def listperson(args):
     minister_df = pd.read_csv(path / "minister.csv")
     minister_df = minister_df.where(pd.notnull(minister_df), None)
     people_df = pd.read_csv(path / "person.csv")
+    people_df = people_df.where(pd.notnull(people_df), None)
     mp_df = pd.read_csv(path / "member_of_parliament.csv")
+    mp_df = mp_df.where(pd.notnull(mp_df), None)
     name_df = pd.read_csv(path / "name.csv")
     name_df = name_df[name_df["primary_name"] == True]
-    people_df = people_df.merge(mp_df, on="wiki_id", how="left")
     people_df = people_df.merge(name_df, on="wiki_id", how="left")
     print(people_df)
 
@@ -168,7 +182,7 @@ def listperson(args):
     head.text = "List of speakers"
 
     # Populate with metadata
-    root = people(root, people_df, minister_df)
+    root = people(root, people_df, mp_df, minister_df)
 
     # Write to disk
     b = etree.tostring(
