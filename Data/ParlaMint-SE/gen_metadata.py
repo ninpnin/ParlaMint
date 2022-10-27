@@ -54,7 +54,7 @@ def people(root, person_df, mp_df, minister_df):
         relevant_people.append(df)
 
     relevant_people = pd.concat(relevant_people)
-    #relevant_people = relevant_people.drop_duplicates("wiki_id")
+    relevant_people = relevant_people.drop_duplicates("wiki_id")
     unknown = ['unknown', '2014-09-29', '2022-08-01', None, None, 'mp']
     mp_df.loc[len(mp_df.index)] = unknown
 
