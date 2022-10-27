@@ -83,6 +83,9 @@ def people(root, person_df, mp_df, minister_df):
 
         # Terms in office
         for _, row_prime in mp_df[mp_df["wiki_id"] == row["wiki_id"]].iterrows():
+            end_date = row_prime.get("end", "2024-01-01")
+            if end_date is not None and end_date < "2015-01-01":
+                continue
             party = row_prime["party"]
             start = row_prime.get("start")
             end = row_prime.get("end")
@@ -97,6 +100,10 @@ def people(root, person_df, mp_df, minister_df):
         # Minister affiliations
         minister_df = minister_df.drop_duplicates(["wiki_id", "role", "start", "end"])
         for _, row_prime in minister_df[minister_df["wiki_id"] == row["wiki_id"]].iterrows():
+            end_date = row_prime.get("end", "2024-01-01")
+            if end_date is not None and end_date < "2015-01-01":
+                continue
+
             for affiliationtype in ["member", "minister"]:
                 start = row_prime.get("start")
                 if start is None or start < "2015-01-01":

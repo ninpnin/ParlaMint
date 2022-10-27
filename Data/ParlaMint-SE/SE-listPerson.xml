@@ -23,7 +23,6 @@
       <forename>Maria</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4933704">
@@ -32,9 +31,6 @@
       <forename>Tina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-01-11" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-12-21" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-19" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-26"/>
   </person>
@@ -52,9 +48,6 @@
       <forename>Amir</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-18"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-19" to="2010-10-25"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-26" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-12-03" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-01-01" to="2020-05-03"/>
@@ -65,9 +58,6 @@
       <forename>Christer</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-07-01" to="2017-03-05"/>
   </person>
   <person xml:id="Q18237118">
@@ -89,9 +79,6 @@
       <forename>Ann-Christin</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2005-01-18" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -101,7 +88,6 @@
       <forename>Anders</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-09-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-01-10"/>
   </person>
   <person xml:id="Q4118653">
@@ -110,8 +96,6 @@
       <forename>Abir</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-09-30" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-14" to="2019-06-19"/>
   </person>
   <person xml:id="Q50353151">
@@ -136,8 +120,6 @@
       <forename>Jabar</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2012-03-11"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-05-21" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q74566289">
@@ -164,8 +146,6 @@
       <forename>Jan R.</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-03-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-06-22"/>
@@ -176,7 +156,6 @@
       <forename>Johan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -186,7 +165,6 @@
       <forename>Jörgen</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q18237283">
@@ -203,7 +181,6 @@
       <forename>Magdalena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
   </person>
   <person xml:id="Q3370155">
@@ -212,9 +189,6 @@
       <forename>Phia</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-02-15"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-04-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4935938">
@@ -223,8 +197,6 @@
       <forename>Ulla</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -234,7 +206,6 @@
       <forename>Michael</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-07-14" to="2010-10-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-01-13"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-31"/>
   </person>
@@ -244,7 +215,6 @@
       <forename>Alexandra</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-08-01" to="2017-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -254,11 +224,6 @@
       <forename>Sofia</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-06" to="2006-11-15"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-11-16" to="2007-09-17"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-09-18" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2012-11-18"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-04-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q3540867">
@@ -276,12 +241,6 @@
       <forename>Beatrice</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1988-10-03" to="1988-10-27"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-08" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-12-31"/>
   </person>
@@ -300,8 +259,6 @@
       <forename>Lena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q105414501">
@@ -318,8 +275,6 @@
       <forename>Anti</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q5563036">
@@ -328,10 +283,6 @@
       <forename>Lennart</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2000-09-20" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q57232743">
@@ -357,7 +308,6 @@
       <forename>Hanif</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -367,11 +317,6 @@
       <forename>Anna Kinberg</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2000-05-01" to="2000-06-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2001-09-18" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-11-16"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-04-12" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q103821442">
@@ -398,11 +343,6 @@
       <forename>Ibrahim</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-07" to="2007-08-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-01-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-03-27"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-08-16" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
@@ -420,7 +360,6 @@
       <forename>Lars</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-02-15" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -439,8 +378,6 @@
       <forename>Finn</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-06" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q28125366">
@@ -457,8 +394,6 @@
       <forename>Erik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-01-20"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-31" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-04-26"/>
   </person>
@@ -468,8 +403,6 @@
       <forename>Ulf</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-09-12"/>
   </person>
   <person xml:id="Q5572155">
@@ -478,8 +411,6 @@
       <forename>Sten</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-11-16" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -514,7 +445,6 @@
       <forename>Håkan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q109830262">
@@ -531,9 +461,6 @@
       <forename>Hannah</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-08-20" to="2008-03-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-10-22" to="2009-01-25"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-08-02" to="2018-04-15"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-06-15" to="2018-09-24"/>
@@ -547,7 +474,6 @@
       <forename>Stina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q16162546">
@@ -566,13 +492,6 @@
       <forename>Per</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2001-01-15"/>
-    <affiliation role="member" ref="#Riksdagen" from="2001-02-17" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-09-16"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-11-01" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-08-27"/>
   </person>
   <person xml:id="Q3112958">
@@ -581,9 +500,6 @@
       <forename>Tobias</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -611,8 +527,6 @@
       <forename>Patrik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -622,8 +536,6 @@
       <forename>Jan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-10-31"/>
   </person>
@@ -633,8 +545,6 @@
       <forename>Torbjörn</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-04-07" to="2015-06-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-08-03" to="2016-01-04"/>
   </person>
@@ -655,11 +565,6 @@
       <forename>Gustav</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-03" to="2008-09-07"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-12-08" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-02-06"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-06-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-10-03" to="2016-12-02"/>
   </person>
   <person xml:id="Q5580727">
@@ -668,7 +573,6 @@
       <forename>Carl-Oskar</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-08-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-02-02" to="2021-12-02"/>
@@ -680,10 +584,6 @@
       <forename>Per</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-03" to="2008-08-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-01-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-09-16" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
     <affiliation role="member" ref="#GOV" from="2016-04-18" to="2016-05-25"/>
@@ -721,8 +621,6 @@
       <forename>Helena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -748,8 +646,6 @@
       <forename>Katarina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -759,9 +655,6 @@
       <forename>Catharina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4609816">
@@ -770,8 +663,6 @@
       <forename>Sven-Erik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-01-30"/>
   </person>
@@ -789,8 +680,6 @@
       <forename>Daniel</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-04-22" to="2013-05-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-04-01" to="2014-06-18"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -800,7 +689,6 @@
       <forename>Agneta</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q20095387">
@@ -818,7 +706,6 @@
       <forename>Andreas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-06" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-01-15"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-03-19"/>
@@ -839,7 +726,6 @@
       <forename>Clas-Göran</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-27" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -849,9 +735,6 @@
       <forename>Gunilla</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -861,9 +744,6 @@
       <forename>Gunilla</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -884,8 +764,6 @@
       <forename>Mikael</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4942378">
@@ -894,14 +772,6 @@
       <forename>Margareta</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1999-09-14" to="2000-04-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2000-05-01" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-26" to="2007-09-17"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-09-18" to="2008-05-07"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-05-07" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-18"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-19" to="2010-10-25"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-26" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -920,7 +790,6 @@
       <forename>Åsa</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -974,13 +843,6 @@
       <forename>Mikael</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2003-01-20"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-03-01" to="2004-04-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-08-16" to="2004-08-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-10-05" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
@@ -1002,11 +864,6 @@
       <forename>Staffan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-10-09" to="2003-11-08"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-07-20" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-08-01" to="2018-09-24"/>
   </person>
   <person xml:id="Q18169826">
@@ -1031,7 +888,6 @@
       <forename>Adnan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1041,11 +897,6 @@
       <forename>Rossana</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1999-01-11" to="1999-02-11"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-05-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-06-05" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4944871">
@@ -1054,8 +905,6 @@
       <forename>Esabelle</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q18238432">
@@ -1084,11 +933,6 @@
       <forename>Susanne</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4945656">
@@ -1097,7 +941,6 @@
       <forename>Annika</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-05-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-01" to="2018-09-24"/>
   </person>
@@ -1115,9 +958,6 @@
       <forename>Lena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2003-10-08"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-11-09" to="2004-07-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2015-07-31"/>
   </person>
   <person xml:id="Q30035685">
@@ -1134,7 +974,6 @@
       <forename>Kent</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q30000444">
@@ -1174,7 +1013,6 @@
       <forename>Hans</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1222,12 +1060,6 @@
       <forename>Tomas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="1999-04-07"/>
-    <affiliation role="member" ref="#Riksdagen" from="1999-06-14" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-07-26"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#GOV" from="2017-07-27"/>
@@ -1241,8 +1073,6 @@
       <forename>Annicka</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1252,10 +1082,6 @@
       <forename>Christer</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-08-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2005-01-01" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-01-31"/>
   </person>
   <person xml:id="Q4946795">
@@ -1272,9 +1098,6 @@
       <forename>Hillevi</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-05"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2015-01-19"/>
   </person>
   <person xml:id="Q30000498">
@@ -1293,11 +1116,6 @@
       <forename>Karin</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2003-09-21"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-06-19" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2012-04-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1307,8 +1125,6 @@
       <forename>Jan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1328,7 +1144,6 @@
       <forename>Fredrik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-10-22" to="2014-12-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-22" to="2018-09-24"/>
   </person>
   <person xml:id="Q5716673">
@@ -1337,7 +1152,6 @@
       <forename>Jonas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-01-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-08-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-11-03"/>
@@ -1348,8 +1162,6 @@
       <forename>Lars</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-06"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-10-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-03-19"/>
   </person>
   <person xml:id="Q470630">
@@ -1358,11 +1170,6 @@
       <forename>Peter</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="1998-12-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-06-23"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
       <roleName xml:lang="sv">bostadsminister</roleName>
@@ -1402,11 +1209,6 @@
       <forename>Eskil</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-03-12"/>
   </person>
@@ -1416,10 +1218,6 @@
       <forename>Matilda</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-02-20"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-02-21" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-08-29" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
@@ -1437,8 +1235,6 @@
       <forename>Ali</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-02-13" to="2013-04-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-11-14" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-05-11"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-07-28" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -1494,7 +1290,6 @@
       <forename>Maria</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-05-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-22"/>
@@ -1506,7 +1301,6 @@
       <forename>Maria</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-05-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-22"/>
@@ -1527,7 +1321,6 @@
       <forename>Thomas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4982413">
@@ -1536,10 +1329,6 @@
       <forename>Ewa Thalén</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-09-14" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4948092">
@@ -1548,7 +1337,6 @@
       <forename>Lotta</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-01-31"/>
   </person>
@@ -1575,9 +1363,6 @@
       <forename>Kenneth G.</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1587,9 +1372,6 @@
       <forename>Johan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-11-15"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-03-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-04-29" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1599,9 +1381,6 @@
       <forename>Jakob</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-04-15" to="2003-06-13"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-04-26" to="2004-05-27"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-01-13"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-03-05" to="2017-01-11"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-02-13" to="2018-09-24"/>
@@ -1614,7 +1393,6 @@
       <forename>Josef</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1632,7 +1410,6 @@
       <forename>Per Olsson</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-13"/>
     <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
       <roleName xml:lang="sv">biståndsminister</roleName>
@@ -1644,10 +1421,6 @@
       <forename>Gustav</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2012-06-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-01-01" to="2014-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-09-30"/>
   </person>
@@ -1672,7 +1445,6 @@
       <forename>Isak</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1724,9 +1496,6 @@
       <forename>Agneta</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q56925588">
@@ -1743,8 +1512,6 @@
       <forename>Jonas Jacobsson</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-04-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-06-23" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-09-27"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-01" to="2018-09-24"/>
   </person>
@@ -1754,11 +1521,6 @@
       <forename>Marie</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-10-20"/>
   </person>
@@ -1777,11 +1539,6 @@
       <forename>Monica</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4990177">
@@ -1790,7 +1547,6 @@
       <forename>Camilla Waltersson</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1800,7 +1556,6 @@
       <forename>Jonas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-08-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-01-22" to="2018-09-24"/>
   </person>
@@ -1810,7 +1565,6 @@
       <forename>Penilla</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q18245444">
@@ -1849,7 +1603,6 @@
       <forename>Roger</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1866,7 +1619,6 @@
       <forename>Anna</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-02-21" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-10-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-10-08" to="2018-09-24"/>
   </person>
@@ -1903,7 +1655,6 @@
       <forename>Robert</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -1921,9 +1672,6 @@
       <forename>Lena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-07" to="2008-03-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-03-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-03-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#GOV" from="2018-03-08" to="2019-01-21"/>
@@ -1945,7 +1693,6 @@
       <forename>Pia</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-09-13"/>
   </person>
   <person xml:id="Q5785730">
@@ -1954,7 +1701,6 @@
       <forename>Arhe</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-03-01"/>
   </person>
   <person xml:id="Q438397">
@@ -1972,9 +1718,6 @@
       <forename>Krister</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-07-20" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q5786666">
@@ -1983,9 +1726,6 @@
       <forename>Krister</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-07-20" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q17265833">
@@ -2004,10 +1744,6 @@
       <forename>Anders</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2009-03-01"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-05-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-01-09"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-03-05" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2044,8 +1780,6 @@
       <forename>Margareta Gunsdotter</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-05-01"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-08-26" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-02-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-05-16" to="2018-09-24"/>
   </person>
@@ -2055,8 +1789,6 @@
       <forename>Gunnar</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-02-25" to="2012-12-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-01-13" to="2014-04-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-01" to="2015-05-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-18" to="2017-06-18"/>
   </person>
@@ -2066,8 +1798,6 @@
       <forename>Johan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-09-03" to="2013-04-26"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-06-16" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-13"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-06-20" to="2020-12-31"/>
@@ -2079,8 +1809,6 @@
       <forename>Roza Güclü</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-01-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-08-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-01-09"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-01-10"/>
@@ -2100,8 +1828,6 @@
       <forename>Ulrika</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2130,8 +1856,6 @@
       <forename>Jörgen</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2141,8 +1865,6 @@
       <forename>Emma</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-06" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q5801464">
@@ -2151,7 +1873,6 @@
       <forename>Stig</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2002-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-10-31"/>
   </person>
   <person xml:id="Q56669198">
@@ -2179,7 +1900,6 @@
       <forename>Carina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2197,7 +1917,6 @@
       <forename>Shadiye</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2017-07-27"/>
   </person>
   <person xml:id="Q18242588">
@@ -2206,7 +1925,6 @@
       <forename>Annika</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-06-24" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-12-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-08-07" to="2017-10-18"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-04-18" to="2018-09-24"/>
@@ -2235,9 +1953,6 @@
       <forename>Lars</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2012-08-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-01-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-02-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-05-11"/>
@@ -2248,11 +1963,6 @@
       <forename>Hans</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1995-11-16" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1999-10-15" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2262,7 +1972,6 @@
       <forename>Gustaf</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-01-18"/>
   </person>
   <person xml:id="Q5109735">
@@ -2271,8 +1980,6 @@
       <forename>Christian</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q946708">
@@ -2281,7 +1988,6 @@
       <forename>Jens</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2309,7 +2015,6 @@
       <forename>Johan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-09-11"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-02-27" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-09-08"/>
@@ -2321,9 +2026,6 @@
       <forename>Peter</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
   </person>
   <person xml:id="Q918261">
@@ -2332,12 +2034,6 @@
       <forename>Göran</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1991-09-30" to="1994-10-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-04-24"/>
   </person>
   <person xml:id="Q3359013">
@@ -2346,11 +2042,6 @@
       <forename>Kent</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2003-10-27"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-12-19" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q21531339">
@@ -2384,9 +2075,6 @@
       <forename>Berit</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-03-26"/>
   </person>
   <person xml:id="Q56706638">
@@ -2412,10 +2100,6 @@
       <forename>Leif</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-10-01" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-06-14"/>
   </person>
   <person xml:id="Q18242990">
@@ -2441,8 +2125,6 @@
       <forename>Eva-Lena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-03"/>
   </person>
@@ -2452,8 +2134,6 @@
       <forename>Eva-Lena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-03"/>
   </person>
@@ -2463,7 +2143,6 @@
       <forename>Mikael</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q3370145">
@@ -2472,8 +2151,6 @@
       <forename>Peter</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q3370145">
@@ -2482,8 +2159,6 @@
       <forename>Peter</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4956643">
@@ -2492,9 +2167,6 @@
       <forename>Isabella</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-17" to="2018-09-24"/>
   </person>
   <person xml:id="Q96309958">
@@ -2521,7 +2193,6 @@
       <forename>Anna</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-28" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2540,15 +2211,6 @@
       <forename>Morgan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2000-01-23"/>
-    <affiliation role="member" ref="#Riksdagen" from="2000-04-21" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-07" to="2007-10-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-12-22" to="2009-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-01-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-02-28"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-06-18" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#GOV" from="2017-07-27" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2019-01-21">
@@ -2573,8 +2235,6 @@
       <forename>Ola</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-03-09"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-04-18" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2584,8 +2244,6 @@
       <forename>Wiwi-Anne</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-10-31"/>
   </person>
   <person xml:id="Q3369258">
@@ -2594,10 +2252,6 @@
       <forename>Ylva</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1988-10-03" to="1991-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-07" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
@@ -2610,8 +2264,6 @@
       <forename>Ann-Charlotte Hammar</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-11-09" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2621,7 +2273,6 @@
       <forename>Per-Ingvar</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q5890031">
@@ -2630,7 +2281,6 @@
       <forename>Richard</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2650,7 +2300,6 @@
       <forename>Anders W.</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2668,7 +2317,6 @@
       <forename>Mattias</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2678,9 +2326,6 @@
       <forename>Peter</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-10-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-12-08" to="2018-09-24"/>
   </person>
@@ -2699,11 +2344,6 @@
       <forename>Håkan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-09-11"/>
   </person>
   <person xml:id="Q4957570">
@@ -2712,7 +2352,6 @@
       <forename>Ellen</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-02-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-04-12"/>
@@ -2723,7 +2362,6 @@
       <forename>Carin</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-07" to="2006-12-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-05-28"/>
   </person>
   <person xml:id="Q18649282">
@@ -2749,9 +2387,6 @@
       <forename>Amineh</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-02-16" to="2008-06-17"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-06-18" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-08-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-08-28"/>
@@ -2762,9 +2397,6 @@
       <forename>Mehmet</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2007-05-27"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-07-09" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
   </person>
   <person xml:id="Q18451082">
     <persName>
@@ -2782,7 +2414,6 @@
       <forename>Annelie</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2824,7 +2455,6 @@
       <forename>Mattias</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2843,7 +2473,6 @@
       <forename>Sara</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-05-14"/>
   </person>
   <person xml:id="Q4958187">
@@ -2852,11 +2481,6 @@
       <forename>Ulrika</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-09-17" to="2004-10-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-01-12"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-04-18" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-11-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-05-31" to="2017-05-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-06-19" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-04-26" to="2022-04-08"/>
@@ -2889,10 +2513,6 @@
       <forename>Yilmaz</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-10-01" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-19" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q5910434">
@@ -2910,8 +2530,6 @@
       <forename>Margareta B.</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-02-14"/>
   </person>
   <person xml:id="Q5912635">
@@ -2920,7 +2538,6 @@
       <forename>Dag</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-01-01" to="2018-09-24"/>
   </person>
   <person xml:id="Q18243330">
@@ -2978,9 +2595,6 @@
       <forename>Ulf</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1991-10-05" to="1994-10-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2000-04-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -2990,9 +2604,6 @@
       <forename>Julia</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-11"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-04-18" to="2013-03-10"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-09-25" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-06-13"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-03-19" to="2017-03-20"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-15" to="2018-09-24"/>
@@ -3022,7 +2633,6 @@
       <forename>Emil</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-09-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-04-01" to="2021-09-13"/>
@@ -3033,9 +2643,6 @@
       <forename>Katarina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-06"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-09-01" to="2007-12-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-10-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-16" to="2017-10-18"/>
   </person>
@@ -3092,7 +2699,6 @@
       <forename>Christina Höj</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3102,15 +2708,6 @@
       <forename>Hillevi</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-11-23" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-10-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-11-01" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2008-06-08"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-01-02" to="2009-09-13"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-10-17" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-11-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-07-01" to="2011-10-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-01-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-10-19"/>
   </person>
@@ -3120,10 +2717,6 @@
       <forename>Jan-Olof</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2001-12-12" to="2002-01-13"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-01-09"/>
   </person>
   <person xml:id="Q3358494">
@@ -3132,9 +2725,6 @@
       <forename>Lars Mejern</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2005-03-01" to="2005-05-26"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3153,7 +2743,6 @@
       <forename>Stina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2005-10-17" to="2005-12-23"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-04-07" to="2020-11-29"/>
   </person>
   <person xml:id="Q1593545">
@@ -3162,8 +2751,6 @@
       <forename>Olof</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q18448703">
@@ -3183,7 +2770,6 @@
       <forename>Annika</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q24018140">
@@ -3211,8 +2797,6 @@
       <forename>Helena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-09-30" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3230,8 +2814,6 @@
       <forename>Teres</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-04-01" to="2012-07-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-01-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2015-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-10-01" to="2017-05-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-29" to="2017-09-24"/>
@@ -3275,8 +2857,6 @@
       <forename>Hans</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-06-07"/>
   </person>
   <person xml:id="Q5954984">
@@ -3285,8 +2865,6 @@
       <forename>Göran</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-09-30" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-09-11" to="2016-03-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-12-13" to="2020-08-31"/>
   </person>
@@ -3296,9 +2874,6 @@
       <forename>Åsa</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3335,11 +2910,6 @@
       <forename>Jan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-01-23" to="1998-02-22"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-08-16" to="2004-11-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-11-15" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q18243811">
@@ -3374,8 +2944,6 @@
       <forename>Per</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-30"/>
   </person>
@@ -3385,7 +2953,6 @@
       <forename>Eva</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q62287348">
@@ -3402,7 +2969,6 @@
       <forename>Elin</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3412,9 +2978,6 @@
       <forename>Kerstin</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3434,10 +2997,6 @@
       <forename>Nina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-02-03" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-11-17" to="2015-07-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-08-25" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-11-01"/>
@@ -3464,7 +3023,6 @@
       <forename>David</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3474,7 +3032,6 @@
       <forename>Petter</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-02-16" to="2010-03-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3484,10 +3041,6 @@
       <forename>Emma Carlsson</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-12-04" to="2007-01-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-06-22" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-06" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-03-11"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-03-11" to="2021-07-31"/>
@@ -3498,9 +3051,6 @@
       <forename>Johan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-08-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-01" to="2017-02-26"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-01" to="2018-09-24"/>
@@ -3512,7 +3062,6 @@
       <forename>Stefan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
   </person>
   <person xml:id="Q5969761">
@@ -3563,8 +3112,6 @@
       <forename>Annie</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-09-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2015-09-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-04-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-12-12"/>
@@ -3576,10 +3123,6 @@
       <forename>Cecilia</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q3675520">
@@ -3588,10 +3131,6 @@
       <forename>Fredrik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-06" to="2009-03-01"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-09-03" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-02-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-08-15" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3601,9 +3140,6 @@
       <forename>Betty</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-09-17"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-09-18" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3647,7 +3183,6 @@
       <forename>Adam</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-05-02" to="2013-08-25"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3733,7 +3268,6 @@
       <forename>Valter</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q29059703">
@@ -3751,7 +3285,6 @@
       <forename>Mia Sydow</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3781,7 +3314,6 @@
       <forename>Pyry</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3799,7 +3331,6 @@
       <forename>Ingemar</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-08-31"/>
   </person>
@@ -3809,8 +3340,6 @@
       <forename>Jennie</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-06-30"/>
@@ -3825,7 +3354,6 @@
       <forename>Kerstin</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4958119">
@@ -3834,7 +3362,6 @@
       <forename>Kristina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3844,9 +3371,6 @@
       <forename>Pia</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-11-01" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3882,8 +3406,6 @@
       <forename>Lars-Axel</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-01-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4969998">
@@ -3892,7 +3414,6 @@
       <forename>Gunilla</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4970036">
@@ -3901,7 +3422,6 @@
       <forename>Lise</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q6015398">
@@ -3910,9 +3430,6 @@
       <forename>Rickard</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-10-12" to="2013-10-20"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-12-21" to="2014-03-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-04-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3922,8 +3439,6 @@
       <forename>Andreas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-09-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-01-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
@@ -3934,10 +3449,6 @@
       <forename>Christer</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2000-11-21" to="2000-12-20"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -3973,9 +3484,6 @@
       <forename>Marta</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-06-06"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-08-25" to="2011-12-12"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-01-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-08-27" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-04-25"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-04-09" to="2022-05-06"/>
@@ -3986,10 +3494,6 @@
       <forename>Birgitta</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-02-01"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2014-11-16"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-07-04" to="2018-09-24"/>
   </person>
   <person xml:id="Q3363827">
@@ -3998,10 +3502,6 @@
       <forename>Carina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4019,11 +3519,6 @@
       <forename>Fredrik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2003-09-11"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-09-12" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-01-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-06-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-10-01"/>
   </person>
@@ -4033,9 +3528,6 @@
       <forename>Caroline Helmersson</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-06"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-05-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4055,8 +3547,6 @@
       <forename>Lotta</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2012-03-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-02-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4066,8 +3556,6 @@
       <forename>Lotta</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2012-03-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-02-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4085,8 +3573,6 @@
       <forename>Jasenko</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-08-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-01"/>
@@ -4106,10 +3592,6 @@
       <forename>Mikael</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4119,7 +3601,6 @@
       <forename>Erik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-01-20" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-12-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-02-01"/>
@@ -4139,11 +3620,6 @@
       <forename>Veronica</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2003-02-20"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-08-02" to="2003-10-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-03-15" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-09-30"/>
   </person>
   <person xml:id="Q71137237">
@@ -4161,12 +3637,6 @@
       <forename>Johan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2003-11-17"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-12-19" to="2006-01-09"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-02-11" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-04-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4176,8 +3646,6 @@
       <forename>Kristina</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1993-10-06" to="1994-10-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1995-01-09"/>
   </person>
   <person xml:id="Q18245020">
     <persName>
@@ -4205,7 +3673,6 @@
       <forename>Peter</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-08-31"/>
   </person>
@@ -4223,8 +3690,6 @@
       <forename>Mats</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-09-15" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-12-11" to="2016-08-06"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-19" to="2018-04-17"/>
   </person>
@@ -4242,10 +3707,6 @@
       <forename>Helene</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-10-01" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q3373674">
@@ -4254,10 +3715,6 @@
       <forename>Helene</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-10-01" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4972634">
@@ -4266,8 +3723,6 @@
       <forename>Jenny</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-11-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-03-30" to="2018-01-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-05-07" to="2018-09-24"/>
   </person>
@@ -4277,12 +3732,6 @@
       <forename>Désirée</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1999-05-01" to="2000-05-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2000-10-09" to="2001-01-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2001-09-18" to="2002-07-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2003-11-11" to="2003-12-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-06" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-02-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-01" to="2021-02-10"/>
@@ -4293,8 +3742,6 @@
       <forename>Göran</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q3374237">
@@ -4303,8 +3750,6 @@
       <forename>Helén</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4314,9 +3759,6 @@
       <forename>Leif</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2008-11-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-01-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4973078">
@@ -4325,8 +3767,6 @@
       <forename>Maria</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4559562">
@@ -4335,8 +3775,6 @@
       <forename>Jessica</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-07-01"/>
   </person>
@@ -4363,12 +3801,6 @@
       <forename>Raimo</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1992-02-19" to="1992-04-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="1996-03-23" to="1996-04-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q30035679">
@@ -4387,9 +3819,6 @@
       <forename>Annika</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4399,7 +3828,6 @@
       <forename>Saila</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4409,7 +3837,6 @@
       <forename>Per</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4461,7 +3888,6 @@
       <forename>Patrick</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-05-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-07" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -4491,7 +3917,6 @@
       <forename>Edward</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4501,9 +3926,6 @@
       <forename>Åsa</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2012-11-22"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-05-18" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-06-07" to="2017-07-14"/>
   </person>
   <person xml:id="Q4975481">
@@ -4512,8 +3934,6 @@
       <forename>Jessica</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-18"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-19" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-08-25"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-05-04"/>
@@ -4524,7 +3944,6 @@
       <forename>Jessika</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4534,8 +3953,6 @@
       <forename>Hans</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4562,7 +3979,6 @@
       <forename>Marie-Louise</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-04-02" to="2002-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-10-01" to="2017-04-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-09-13" to="2017-10-15"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-19" to="2018-09-24"/>
@@ -4573,11 +3989,6 @@
       <forename>Fredrik Lundh</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2007-08-19"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-04-01" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2011-11-22"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-05-02" to="2013-08-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-02-16" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4596,9 +4007,6 @@
       <forename>Mats</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2011-04-04" to="2011-06-22"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-11-02" to="2021-05-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-03-14"/>
   </person>
@@ -4640,9 +4048,6 @@
       <forename>Fredrik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-16" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-02-11" to="2019-07-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-07-02" to="2022-03-22"/>
@@ -4672,9 +4077,6 @@
       <forename>Ardalan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-04-15" to="2013-11-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-01-01" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#GOV" from="2019-10-01"/>
     <affiliation role="minister" ref="#GOV" from="2019-10-01">
@@ -4705,7 +4107,6 @@
       <forename>Jonas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-11-03"/>
   </person>
@@ -4724,7 +4125,6 @@
       <forename>Johnny</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4759,11 +4159,6 @@
       <forename>Tuve</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1991-09-30" to="1994-10-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -4793,10 +4188,6 @@
       <forename>Karin Svensson</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2005-06-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2005-06-03" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q18245930">
@@ -4816,8 +4207,6 @@
       <forename>Eva</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q30035701">
@@ -4842,8 +4231,6 @@
       <forename>Lars-Arne</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-09-09" to="2020-03-01"/>
   </person>
@@ -4904,10 +4291,6 @@
       <forename>Thomas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-10-01" to="2002-12-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2005-08-01" to="2005-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q6192010">
@@ -4916,10 +4299,6 @@
       <forename>Torkild</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2007-01-10"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-12-20"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-12-18"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-25"/>
   </person>
   <person xml:id="Q4980750">
@@ -5001,7 +4380,6 @@
       <forename>Mathias</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-05-01" to="2012-12-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q6197506">
@@ -5010,7 +4388,6 @@
       <forename>Stefan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-08-22" to="2014-02-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-10-11" to="2017-01-01"/>
   </person>
   <person xml:id="Q4981393">
@@ -5019,8 +4396,6 @@
       <forename>Elisabeth</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-09-16"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5030,7 +4405,6 @@
       <forename>Gunilla</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5049,7 +4423,6 @@
       <forename>Michael</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4981553">
@@ -5058,7 +4431,6 @@
       <forename>Suzanne</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-03-28" to="2022-05-15"/>
   </person>
@@ -5068,12 +4440,6 @@
       <forename>Björn von</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-08" to="1995-10-09"/>
-    <affiliation role="member" ref="#Riksdagen" from="1995-10-10" to="1996-03-22"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q4981717">
@@ -5082,8 +4448,6 @@
       <forename>Caroline</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-08-21"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-03-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-10-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-01" to="2018-09-23"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
@@ -5094,7 +4458,6 @@
       <forename>Sven-Olof</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5113,7 +4476,6 @@
       <forename>Björn</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5123,7 +4485,6 @@
       <forename>Larry</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-04-25" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5133,7 +4494,6 @@
       <forename>Anna-Lena</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q24701062">
@@ -5153,8 +4513,6 @@
       <forename>Cecilie</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-09-30" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5164,8 +4522,6 @@
       <forename>Olle</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-08-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-04-02" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -5176,9 +4532,6 @@
       <forename>Tomas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-09-17"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-12-09" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-07-01"/>
   </person>
@@ -5207,9 +4560,6 @@
       <forename>Lars</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q18202407">
@@ -5229,10 +4579,6 @@
       <forename>Erik</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2005-01-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2005-07-16" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-07-14" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2010-10-05"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2016-08-25"/>
   </person>
   <person xml:id="Q6219711">
@@ -5241,10 +4587,6 @@
       <forename>Hans</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-09-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-10-22" to="2009-01-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-07-14" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-01-15" to="2013-07-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-03-31"/>
   </person>
   <person xml:id="Q6220743">
@@ -5253,7 +4595,6 @@
       <forename>Roland</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-03-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-05-23" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -5284,10 +4625,6 @@
       <forename>Börje</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2006-10-06"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-12-22" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2015-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-10-01" to="2017-05-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-29" to="2017-09-22"/>
@@ -5346,8 +4683,6 @@
       <forename>Hans</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5357,8 +4692,6 @@
       <forename>Hans</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5368,8 +4701,6 @@
       <forename>Emma</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-01-18" to="2012-04-09"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-07-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-06-07"/>
   </person>
   <person xml:id="Q237522">
@@ -5378,8 +4709,6 @@
       <forename>Margot</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1979-10-01" to="1982-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="1982-10-04" to="1985-09-30"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
       <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
@@ -5391,8 +4720,6 @@
       <forename>Anna</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2013-01-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2013-06-11" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-10-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-15" to="2018-03-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-04-30" to="2018-09-24"/>
@@ -5412,7 +4739,6 @@
       <forename>Ingela Nylund</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5430,12 +4756,6 @@
       <forename>Barbro</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="1988-10-03" to="1991-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="1991-09-30" to="1994-10-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="1999-10-01"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5465,10 +4785,6 @@
       <forename>Cecilia</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-04-12"/>
-    <affiliation role="member" ref="#Riksdagen" from="2004-08-07" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5487,9 +4803,6 @@
       <forename>Allan</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5511,7 +4824,6 @@
       <forename>Markus</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-12-03" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-10-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-25"/>
@@ -5531,7 +4843,6 @@
       <forename>Tony</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q6241556">
@@ -5565,17 +4876,6 @@
       <forename>Anders</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1995-01-10" to="1995-07-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="1995-08-01" to="1995-10-09"/>
-    <affiliation role="member" ref="#Riksdagen" from="1995-10-10" to="1995-12-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="1996-01-01" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2004-10-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="2005-04-11" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2007-03-17"/>
-    <affiliation role="member" ref="#Riksdagen" from="2007-09-18" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-28" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
@@ -5603,8 +4903,6 @@
       <forename>Solveig</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-12-31"/>
   </person>
@@ -5622,9 +4920,6 @@
       <forename>Boriana</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2008-01-07" to="2008-03-14"/>
-    <affiliation role="member" ref="#Riksdagen" from="2009-03-02" to="2009-04-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5634,8 +4929,6 @@
       <forename>Rolf</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-14" to="2016-03-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-01-12" to="2017-02-12"/>
   </person>
@@ -5654,7 +4947,6 @@
       <forename>Jonas</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q6255521">
@@ -5663,8 +4955,6 @@
       <forename>Anders</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5674,7 +4964,6 @@
       <forename>Anette</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2012-09-01" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q518776">
@@ -5683,8 +4972,6 @@
       <forename>Jimmie</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
-    <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2014-10-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-04-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5694,7 +4981,6 @@
       <forename>Ann-Britt</forename>
     </persName>
     <sex value="F"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-09-13" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
   </person>
@@ -5704,8 +4990,6 @@
       <forename>Per</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-04-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-05-07"/>
@@ -5740,15 +5024,6 @@
       <forename>Krister</forename>
     </persName>
     <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="1992-03-17" to="1992-05-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="1992-11-26" to="1992-12-31"/>
-    <affiliation role="member" ref="#Riksdagen" from="1993-01-11" to="1993-01-25"/>
-    <affiliation role="member" ref="#Riksdagen" from="1993-01-26" to="1994-10-03"/>
-    <affiliation role="member" ref="#Riksdagen" from="1994-10-03" to="1998-10-05"/>
-    <affiliation role="member" ref="#Riksdagen" from="1998-10-05" to="2002-09-30"/>
-    <affiliation role="member" ref="#Riksdagen" from="2002-09-30" to="2006-10-02"/>
-    <affiliation role="member" ref="#Riksdagen" from="2006-10-02" to="2010-10-04"/>
-    <affiliation role="member" ref="#Riksdagen" from="2010-10-04" to="2014-09-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
   </person>
   <person xml:id="Q18246550">
