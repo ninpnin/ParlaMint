@@ -53,8 +53,8 @@ def people(root, person_df, mp_df, minister_df):
         df = pd.DataFrame(rows, columns=["wiki_id", "relevancy"])
         relevant_people.append(df)
 
-
     relevant_people = pd.concat(relevant_people)
+    #relevant_people = relevant_people.drop_duplicates("wiki_id")
     unknown = ['unknown', '2014-09-29', '2022-08-01', None, None, 'mp']
     mp_df.loc[len(mp_df.index)] = unknown
 
@@ -62,7 +62,8 @@ def people(root, person_df, mp_df, minister_df):
     print(person_df)
     relevant_people = relevant_people.merge(person_df, on="wiki_id")
     relevant_people.loc[len(relevant_people.index)] = ['unknown', 'unknown', None, None, 'gender', None, None, 'unknown mp', 'unknown mp']
-
+    relevant_people["lastname"] = relevant_people["name"].str.split().str[-1]
+    relevant_people = relevant_people.sort_values(["lastname", "name"])
 
     for _, row in relevant_people.iterrows():
         person = etree.SubElement(root, "person")
