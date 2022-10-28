@@ -8,6 +8,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-04-19" to="2022-05-22"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18237073">
     <persName>
@@ -16,6 +17,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q4933653">
     <persName>
@@ -24,6 +26,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4933704">
     <persName>
@@ -33,6 +36,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-19" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-26"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q17080318">
     <persName>
@@ -41,6 +45,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-05-04"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q5542465">
     <persName>
@@ -51,6 +56,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-10-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-12-03" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-01-01" to="2020-05-03"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3363842">
     <persName>
@@ -59,6 +65,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-07-01" to="2017-03-05"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18237118">
     <persName>
@@ -72,6 +79,8 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-07-01" to="2017-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-11-01" to="2017-11-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-01" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069" to="2018"/>
+    <affiliation role="member" ref="#Q50383811" from="2018"/>
   </person>
   <person xml:id="Q3375059">
     <persName>
@@ -81,6 +90,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5543999">
     <persName>
@@ -89,6 +99,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-01-10"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4118653">
     <persName>
@@ -97,6 +108,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-14" to="2019-06-19"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q50353151">
     <persName>
@@ -105,6 +117,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-01" to="2018-05-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5548875">
     <persName>
@@ -113,6 +126,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451" from="1998"/>
   </person>
   <person xml:id="Q74566289">
     <persName>
@@ -122,6 +136,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-21" to="2021-09-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-03"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q19724763">
     <persName>
@@ -131,6 +146,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-11-11"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5554868">
     <persName>
@@ -141,6 +157,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-03-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-06-22"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5554920">
     <persName>
@@ -150,6 +167,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5555097">
     <persName>
@@ -158,6 +176,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18237283">
     <persName>
@@ -166,6 +185,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4935873">
     <persName>
@@ -174,6 +194,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3370155">
     <persName>
@@ -182,6 +203,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4935938">
     <persName>
@@ -191,6 +213,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q5556973">
     <persName>
@@ -200,6 +223,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-01-13"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-31"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q30035697">
     <persName>
@@ -209,6 +233,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-08-01" to="2017-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4936454">
     <persName>
@@ -217,6 +242,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3540867">
     <persName>
@@ -226,6 +252,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-01-31"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q297850">
     <persName>
@@ -235,6 +262,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-12-31"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q71131688">
     <persName>
@@ -244,6 +272,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-05-27"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-06-28"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q4987091">
     <persName>
@@ -252,6 +281,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q105414501">
     <persName>
@@ -260,6 +290,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-02-09" to="2021-11-30"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q574782">
     <persName>
@@ -268,6 +299,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5563036">
     <persName>
@@ -276,6 +308,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q57232743">
     <persName>
@@ -285,6 +318,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-10-15" to="2019-01-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-02-01" to="2019-07-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q26305110">
     <persName>
@@ -293,6 +327,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-02"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5564796">
     <persName>
@@ -302,6 +337,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4767161">
     <persName>
@@ -310,6 +346,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q103821442">
     <persName>
@@ -319,6 +356,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-12-01" to="2021-05-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-06-01" to="2021-11-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3055916">
     <persName>
@@ -328,6 +366,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
       <roleName xml:lang="sv">samordningsminister</roleName>
@@ -345,6 +384,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-02-15" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18237639">
     <persName>
@@ -354,6 +394,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5570168">
     <persName>
@@ -362,6 +403,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q28125366">
     <persName>
@@ -370,6 +412,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-05-12" to="2016-07-27"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q5388484">
     <persName>
@@ -379,6 +422,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-31" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-04-26"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5571416">
     <persName>
@@ -387,6 +431,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-09-12"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5572155">
     <persName>
@@ -396,6 +441,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q57168687">
     <persName>
@@ -405,6 +451,8 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-05-20"/>
+    <affiliation role="member" ref="#Q213451"/>
+    <affiliation role="member" ref="#Q10585380"/>
   </person>
   <person xml:id="Q70994131">
     <persName>
@@ -413,6 +461,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-23" to="2021-11-30"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q30000515">
     <persName>
@@ -421,6 +470,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-02-05" to="2015-03-10"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5572663">
     <persName>
@@ -429,6 +479,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q109830262">
     <persName>
@@ -437,6 +488,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-12-02" to="2022-02-13"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4938643">
     <persName>
@@ -450,6 +502,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2019-02-26" to="2019-11-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-03-15" to="2021-08-27"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4938708">
     <persName>
@@ -458,6 +511,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q16162546">
     <persName>
@@ -468,6 +522,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-10-18"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-12-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-02-28"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5575977">
     <persName>
@@ -476,6 +531,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-08-27"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3112958">
     <persName>
@@ -485,6 +541,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q96323930">
     <persName>
@@ -495,6 +552,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2019-07-15" to="2019-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30" to="2022-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-02-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18237754">
     <persName>
@@ -503,6 +561,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5577436">
     <persName>
@@ -512,6 +571,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q911372">
     <persName>
@@ -521,6 +581,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-10-31"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q5578151">
     <persName>
@@ -530,6 +591,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-04-07" to="2015-06-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-08-03" to="2016-01-04"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q18202336">
     <persName>
@@ -541,6 +603,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-11-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-06-01" to="2020-08-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-05-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5579118">
     <persName>
@@ -549,6 +612,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-10-03" to="2016-12-02"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5580727">
     <persName>
@@ -560,6 +624,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-08-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-02-02" to="2021-12-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-02-14"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5581337">
     <persName>
@@ -569,6 +634,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
+    <affiliation role="member" ref="#Q213451"/>
     <affiliation role="member" ref="#GOV" from="2016-04-18" to="2016-05-25"/>
     <affiliation role="minister" ref="#GOV" from="2016-04-18" to="2016-05-25">
       <roleName xml:lang="sv">bostadsminister</roleName>
@@ -597,6 +663,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-05" to="2018-03-05"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4940303">
     <persName>
@@ -606,6 +673,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q96324202">
     <persName>
@@ -614,6 +682,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-21" to="2021-06-29"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4941068">
     <persName>
@@ -623,6 +692,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3363818">
     <persName>
@@ -631,6 +701,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4609816">
     <persName>
@@ -640,6 +711,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-01-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q15992158">
     <persName>
@@ -648,6 +720,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q18600515">
     <persName>
@@ -657,6 +730,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4941553">
     <persName>
@@ -665,6 +739,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q20095387">
     <persName>
@@ -674,6 +749,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5602835">
     <persName>
@@ -684,6 +760,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-01-15"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-03-19"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q27750419">
     <persName>
@@ -694,6 +771,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-12-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-02-11" to="2021-11-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-01-29"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q4887285">
     <persName>
@@ -703,6 +781,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-27" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3374499">
     <persName>
@@ -712,6 +791,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18202339">
     <persName>
@@ -723,6 +803,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-01-02" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-02-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-12-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5605493">
     <persName>
@@ -731,6 +812,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4942378">
     <persName>
@@ -740,6 +822,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18238133">
     <persName>
@@ -749,6 +832,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4943175">
     <persName>
@@ -758,6 +842,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18238235">
     <persName>
@@ -768,6 +853,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-08-18"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-03-01"/>
+    <affiliation role="member" ref="#Q110837" from="2020-10-31"/>
   </person>
   <person xml:id="Q5615474">
     <persName>
@@ -775,6 +861,7 @@
       <forename>Hans</forename>
     </persName>
     <sex value="M"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-07-09"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-07-09">
       <roleName xml:lang="sv">EU-minister</roleName>
@@ -792,6 +879,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5616258">
     <persName>
@@ -802,6 +890,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-10-14" to="2015-05-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-05-18" to="2015-12-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-12-18" to="2016-06-06"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q3372917">
     <persName>
@@ -810,6 +899,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
       <roleName xml:lang="sv">inrikesminister</roleName>
@@ -823,6 +913,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q5616883">
     <persName>
@@ -831,6 +922,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-08-01" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q18169826">
     <persName>
@@ -839,6 +931,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q50353170">
     <persName>
@@ -847,6 +940,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-11-01" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q5621490">
     <persName>
@@ -856,6 +950,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4944866">
     <persName>
@@ -864,6 +959,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q4944871">
     <persName>
@@ -872,6 +968,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18238432">
     <persName>
@@ -881,6 +978,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q18202365">
     <persName>
@@ -892,6 +990,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-02-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-02-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-09-10"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3370127">
     <persName>
@@ -900,6 +999,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4945656">
     <persName>
@@ -909,6 +1009,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-05-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-01" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q23915305">
     <persName>
@@ -917,6 +1018,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-03-13" to="2019-05-16"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q535342">
     <persName>
@@ -925,6 +1027,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2015-07-31"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q30035685">
     <persName>
@@ -933,6 +1036,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-10-12" to="2015-12-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3369252">
     <persName>
@@ -941,6 +1045,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069" from="2006-05"/>
   </person>
   <person xml:id="Q30000444">
     <persName>
@@ -949,6 +1054,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-01-10" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4946204">
     <persName>
@@ -956,6 +1062,7 @@
       <forename>Anna</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2016-09-13" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-09-13" to="2019-01-21">
       <roleName xml:lang="sv">ungdomsminister</roleName>
@@ -981,6 +1088,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q30035682">
     <persName>
@@ -990,6 +1098,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-06-15" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18747077">
     <persName>
@@ -999,6 +1108,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q18238607">
     <persName>
@@ -1008,6 +1118,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q18202405">
     <persName>
@@ -1019,6 +1130,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-11-25" to="2019-05-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-10-04" to="2019-11-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-09-01" to="2021-04-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5711551">
     <persName>
@@ -1028,6 +1140,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-07-26"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2017-07-27"/>
     <affiliation role="minister" ref="#GOV" from="2017-07-27">
       <roleName xml:lang="sv">infrastrukturminister</roleName>
@@ -1041,6 +1154,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3359406">
     <persName>
@@ -1049,6 +1163,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-01-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4946795">
     <persName>
@@ -1057,6 +1172,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-01-14" to="2020-08-30"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q772089">
     <persName>
@@ -1065,6 +1181,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2015-01-19"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q30000498">
     <persName>
@@ -1075,6 +1192,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2017-03-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-04-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-01-09"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3544279">
     <persName>
@@ -1084,6 +1202,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q1681740">
     <persName>
@@ -1093,6 +1212,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18238692">
     <persName>
@@ -1103,6 +1223,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-02-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q21497027">
     <persName>
@@ -1111,6 +1232,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-22" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5716673">
     <persName>
@@ -1121,6 +1243,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-01-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-08-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-11-03"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q5716833">
     <persName>
@@ -1129,6 +1252,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-03-19"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q470630">
     <persName>
@@ -1136,6 +1260,7 @@
       <forename>Peter</forename>
     </persName>
     <sex value="M"/>
+    <affiliation role="member" ref="#Q213451"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
       <roleName xml:lang="sv">bostadsminister</roleName>
@@ -1168,6 +1293,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-03-20" to="2018-03-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-22" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3058054">
     <persName>
@@ -1177,6 +1303,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-03-12"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q3373058">
     <persName>
@@ -1186,6 +1313,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
       <roleName xml:lang="sv">högskoleminister</roleName>
@@ -1204,6 +1332,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-05-11"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-07-28" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q56229207">
     <persName>
@@ -1212,6 +1341,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-06-07" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q18238731">
     <persName>
@@ -1221,6 +1351,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q21558211">
     <persName>
@@ -1231,6 +1362,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-10-11"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q61122062">
     <persName>
@@ -1240,6 +1372,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-06-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-12-18"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18238811">
     <persName>
@@ -1249,6 +1382,9 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-03-15"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-16" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069" to="2018-03-15"/>
+    <affiliation role="member" ref="#Q50383811" from="2018-03-15"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4947860">
     <persName>
@@ -1260,6 +1396,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-01-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-22"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18238847">
     <persName>
@@ -1269,6 +1406,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5731042">
     <persName>
@@ -1277,6 +1415,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4982413">
     <persName>
@@ -1285,6 +1424,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4948092">
     <persName>
@@ -1294,6 +1434,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-01-31"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18243097">
     <persName>
@@ -1303,6 +1444,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q18238922">
     <persName>
@@ -1311,6 +1453,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-03-02"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q3373169">
     <persName>
@@ -1320,6 +1463,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5737622">
     <persName>
@@ -1329,6 +1473,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5737841">
     <persName>
@@ -1341,6 +1486,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-02-13" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-01-13"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-02-21"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q5740653">
     <persName>
@@ -1350,6 +1496,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q108598507">
     <persName>
@@ -1358,6 +1505,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-19" to="2022-05-15"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q19977122">
     <persName>
@@ -1365,6 +1513,7 @@
       <forename>Per Olsson</forename>
     </persName>
     <sex value="M"/>
+    <affiliation role="member" ref="#Q213451"/>
     <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
       <roleName xml:lang="sv">biståndsminister</roleName>
@@ -1378,6 +1527,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-09-30"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q4949040">
     <persName>
@@ -1385,6 +1535,7 @@
       <forename>Heléne</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2017-07-27" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2019-01-21">
       <roleName xml:lang="sv">migrationsminister</roleName>
@@ -1402,6 +1553,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18452054">
     <persName>
@@ -1411,6 +1563,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q106785041">
     <persName>
@@ -1419,6 +1572,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-05-10" to="2021-05-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18202361">
     <persName>
@@ -1427,6 +1581,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5750886">
     <persName>
@@ -1435,6 +1590,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q18239164">
     <persName>
@@ -1444,6 +1600,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-07-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-06" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3375136">
     <persName>
@@ -1452,6 +1609,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q56925588">
     <persName>
@@ -1460,6 +1618,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5826571">
     <persName>
@@ -1469,6 +1628,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-09-27"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-01" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3373324">
     <persName>
@@ -1478,6 +1638,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-10-20"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18239250">
     <persName>
@@ -1487,6 +1648,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3358763">
     <persName>
@@ -1495,6 +1657,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4990177">
     <persName>
@@ -1504,6 +1667,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5776889">
     <persName>
@@ -1513,6 +1677,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-08-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-01-22" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4951444">
     <persName>
@@ -1521,6 +1686,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q18245444">
     <persName>
@@ -1534,6 +1700,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-02-01" to="2020-07-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q50353165">
     <persName>
@@ -1543,6 +1710,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-08-02" to="2018-01-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-27" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q30000227">
     <persName>
@@ -1551,6 +1719,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-09-12" to="2017-02-26"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5781437">
     <persName>
@@ -1560,6 +1729,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q18176335">
     <persName>
@@ -1567,6 +1737,7 @@
       <forename>Aida</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6930975">
     <persName>
@@ -1576,6 +1747,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-10-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-10-08" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069" to="2016-10"/>
   </person>
   <person xml:id="Q18202340">
     <persName>
@@ -1585,6 +1757,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q97971343">
     <persName>
@@ -1594,6 +1767,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-01" to="2021-11-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-30" to="2022-02-06"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5783589">
     <persName>
@@ -1603,6 +1777,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q42393729">
     <persName>
@@ -1611,6 +1786,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-20" to="2022-05-19"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q3431836">
     <persName>
@@ -1620,6 +1796,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-03-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2018-03-08" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2018-03-08" to="2019-01-21">
       <roleName xml:lang="sv">jämställdhetsminister</roleName>
@@ -1640,6 +1817,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-09-13"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5785730">
     <persName>
@@ -1648,6 +1826,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-03-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q438397">
     <persName>
@@ -1657,6 +1836,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-09-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-09-05" to="2022-01-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5786666">
     <persName>
@@ -1665,6 +1845,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q17265833">
     <persName>
@@ -1675,6 +1856,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-03-12"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-05-17"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q4753804">
     <persName>
@@ -1684,6 +1866,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q22923559">
     <persName>
@@ -1693,6 +1876,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-18" to="2016-07-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-11-04"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18202412">
     <persName>
@@ -1702,6 +1886,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q104215963">
     <persName>
@@ -1711,6 +1896,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-02-25" to="2019-05-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-01" to="2021-11-30"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4961125">
     <persName>
@@ -1729,6 +1915,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-01" to="2015-05-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-18" to="2017-06-18"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5795894">
     <persName>
@@ -1740,6 +1927,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-13"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-06-20" to="2020-12-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-03-01"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4951217">
     <persName>
@@ -1750,6 +1938,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-01-09"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-01-10"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18274557">
     <persName>
@@ -1759,6 +1948,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q4987958">
     <persName>
@@ -1768,6 +1958,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q30000205">
     <persName>
@@ -1778,6 +1969,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2015-09-28" to="2015-12-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-11-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-05-03" to="2022-03-13"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q25935880">
     <persName>
@@ -1787,6 +1979,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-11" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q5799323">
     <persName>
@@ -1796,6 +1989,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4953633">
     <persName>
@@ -1804,6 +1998,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q5801464">
     <persName>
@@ -1812,6 +2007,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-10-31"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q56669198">
     <persName>
@@ -1820,6 +2016,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-12-16"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5803123">
     <persName>
@@ -1831,6 +2028,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2020-12-08" to="2021-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-12-10" to="2022-03-22"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-03-23"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4988712">
     <persName>
@@ -1840,6 +2038,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q16633048">
     <persName>
@@ -1848,6 +2047,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-01-01" to="2021-02-28"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4953894">
     <persName>
@@ -1856,6 +2056,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2017-07-27"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18242588">
     <persName>
@@ -1868,6 +2069,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-04-18" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-06-19"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q96678365">
     <persName>
@@ -1876,6 +2078,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-03-09" to="2020-06-21"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q96324213">
     <persName>
@@ -1884,6 +2087,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-21"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q5807932">
     <persName>
@@ -1894,6 +2098,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-02-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-05-11"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3374562">
     <persName>
@@ -1903,6 +2108,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5809040">
     <persName>
@@ -1911,6 +2117,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-01-18"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5109735">
     <persName>
@@ -1919,6 +2126,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q946708">
     <persName>
@@ -1928,6 +2136,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q18202338">
     <persName>
@@ -1937,6 +2146,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18242665">
     <persName>
@@ -1946,6 +2156,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q5816436">
     <persName>
@@ -1957,6 +2168,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-02-27" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-09-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-03-02"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3370162">
     <persName>
@@ -1965,6 +2177,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q918261">
     <persName>
@@ -1973,6 +2186,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-04-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q3359013">
     <persName>
@@ -1981,6 +2195,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q21531339">
     <persName>
@@ -1990,6 +2205,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q54365869">
     <persName>
@@ -1998,6 +2214,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-05-18" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q99527006">
     <persName>
@@ -2006,6 +2223,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-31" to="2021-02-01"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3375804">
     <persName>
@@ -2014,6 +2232,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-03-26"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q56706638">
     <persName>
@@ -2023,6 +2242,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-10-23"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-01-16" to="2020-03-18"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q59243593">
     <persName>
@@ -2031,6 +2251,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-12-13" to="2019-01-13"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3373340">
     <persName>
@@ -2039,6 +2260,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-06-14"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18242990">
     <persName>
@@ -2047,6 +2269,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q37013194">
     <persName>
@@ -2056,6 +2279,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-08-31" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q3374622">
     <persName>
@@ -2065,6 +2289,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-03"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q563289">
     <persName>
@@ -2073,6 +2298,8 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069" from="1993" to="2018-04-09"/>
+    <affiliation role="member" ref="#Q50383811" from="2018-04-09"/>
   </person>
   <person xml:id="Q3370145">
     <persName>
@@ -2081,6 +2308,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4956643">
     <persName>
@@ -2089,6 +2317,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-12-17" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q96309958">
     <persName>
@@ -2098,6 +2327,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-08-26" to="2019-12-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-01-01"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4936116">
     <persName>
@@ -2107,6 +2337,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-10-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q4956893">
     <persName>
@@ -2116,6 +2347,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-28" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5887149">
     <persName>
@@ -2125,6 +2357,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5887217">
     <persName>
@@ -2133,6 +2366,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2017-07-27" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2019-01-21">
       <roleName xml:lang="sv">inrikesminister</roleName>
@@ -2158,6 +2392,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4957112">
     <persName>
@@ -2166,6 +2401,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-10-31"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q3369258">
     <persName>
@@ -2174,6 +2410,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112" from="1994"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
       <roleName xml:lang="sv">integrationsminister</roleName>
@@ -2187,6 +2424,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5889601">
     <persName>
@@ -2195,6 +2433,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q5890031">
     <persName>
@@ -2204,6 +2443,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q27299991">
     <persName>
@@ -2214,6 +2454,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-09-14" to="2016-10-11"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-10-12" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5891398">
     <persName>
@@ -2223,6 +2464,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q98744750">
     <persName>
@@ -2231,6 +2473,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-01-14" to="2020-02-20"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q5891875">
     <persName>
@@ -2240,6 +2483,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5891935">
     <persName>
@@ -2249,6 +2493,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-10-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-12-08" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q70574439">
     <persName>
@@ -2258,6 +2503,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-08-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-12-01"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q714508">
     <persName>
@@ -2266,6 +2512,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-09-11"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4957570">
     <persName>
@@ -2276,6 +2523,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-02-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-04-12"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q2938797">
     <persName>
@@ -2284,6 +2532,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-05-28"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18649282">
     <persName>
@@ -2293,6 +2542,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-01"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q18243197">
     <persName>
@@ -2301,6 +2551,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-30" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q3675519">
     <persName>
@@ -2311,6 +2562,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-08-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-08-28"/>
+    <affiliation role="member" ref="#Q110837" to="2019-08-28"/>
   </person>
   <person xml:id="Q4822657">
     <persName>
@@ -2318,6 +2570,7 @@
       <forename>Mehmet</forename>
     </persName>
     <sex value="M"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18451082">
     <persName>
@@ -2328,6 +2581,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2015-08-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-04-05" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-11-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4958102">
     <persName>
@@ -2337,6 +2591,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q30035688">
     <persName>
@@ -2352,6 +2607,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-03-21" to="2017-05-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-15" to="2017-06-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-06-02" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q18923356">
     <persName>
@@ -2360,6 +2616,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-01-19" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18243244">
     <persName>
@@ -2369,6 +2626,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q5901848">
     <persName>
@@ -2378,6 +2636,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q16633140">
     <persName>
@@ -2387,6 +2646,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4958167">
     <persName>
@@ -2395,6 +2655,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-05-14"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4958187">
     <persName>
@@ -2406,6 +2667,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-06-19" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-04-26" to="2022-04-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-05-06"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q56923131">
     <persName>
@@ -2414,6 +2676,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-03-08"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q29059095">
     <persName>
@@ -2427,6 +2690,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-09-05"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-09-05" to="2020-03-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-03-09"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3055894">
     <persName>
@@ -2435,6 +2699,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5910434">
     <persName>
@@ -2444,6 +2709,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q4958997">
     <persName>
@@ -2452,6 +2718,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-02-14"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5912635">
     <persName>
@@ -2468,6 +2735,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q18243354">
     <persName>
@@ -2476,6 +2744,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q4953463">
     <persName>
@@ -2485,6 +2754,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2020-07-31"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2016-08-15" to="2016-09-13"/>
     <affiliation role="minister" ref="#GOV" from="2016-08-15" to="2016-09-13">
       <roleName xml:lang="sv">skolminister</roleName>
@@ -2501,6 +2771,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-01-09" to="2017-06-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q1780398">
     <persName>
@@ -2510,6 +2781,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4959972">
     <persName>
@@ -2521,6 +2793,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-03-19" to="2017-03-20"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-15" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q62287119">
     <persName>
@@ -2530,6 +2803,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-09-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-12-02"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4725739">
     <persName>
@@ -2539,6 +2813,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-06-18"/>
+    <affiliation role="member" ref="#Q213451" from="2014-09-30"/>
   </person>
   <person xml:id="Q5928457">
     <persName>
@@ -2549,6 +2824,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-09-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-04-01" to="2021-09-13"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4960356">
     <persName>
@@ -2558,6 +2834,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-10-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-16" to="2017-10-18"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q26710616">
     <persName>
@@ -2568,6 +2845,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2017-03-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-09-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q104214592">
     <persName>
@@ -2576,6 +2854,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-12-29" to="2021-05-23"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18243576">
     <persName>
@@ -2585,6 +2864,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q30035705">
     <persName>
@@ -2595,6 +2875,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-04-24" to="2017-12-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-08-23"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-12-16"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4955459">
     <persName>
@@ -2604,6 +2885,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q3375042">
     <persName>
@@ -2613,6 +2895,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-10-19"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3374555">
     <persName>
@@ -2621,6 +2904,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-01-09"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3358494">
     <persName>
@@ -2630,6 +2914,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5938586">
     <persName>
@@ -2639,6 +2924,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q96678492">
     <persName>
@@ -2647,6 +2933,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-04-07" to="2020-11-29"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q1593545">
     <persName>
@@ -2655,6 +2942,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18448703">
     <persName>
@@ -2666,6 +2954,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-01-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-10-20"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-05-18"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4962191">
     <persName>
@@ -2674,6 +2963,8 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451" to="2019-01-17"/>
+    <affiliation role="member" ref="#Q61791721" from="2019"/>
   </person>
   <person xml:id="Q24018140">
     <persName>
@@ -2681,6 +2972,7 @@
       <forename>Amanda</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q213451"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
       <roleName xml:lang="sv">idrottsminister</roleName>
@@ -2702,6 +2994,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q109352589">
     <persName>
@@ -2710,6 +3003,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-01" to="2021-12-19"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4962466">
     <persName>
@@ -2722,6 +3016,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-05-29" to="2017-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-09-25" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18243775">
     <persName>
@@ -2729,6 +3024,7 @@
       <forename>Ann</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
       <roleName xml:lang="sv">EU-minister</roleName>
@@ -2761,6 +3057,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-06-07"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q5954984">
     <persName>
@@ -2770,6 +3067,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-09-11" to="2016-03-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-12-13" to="2020-08-31"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4962686">
     <persName>
@@ -2779,6 +3077,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q30035702">
     <persName>
@@ -2790,6 +3089,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-04-18" to="2017-01-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-02-27" to="2017-06-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q23916255">
     <persName>
@@ -2798,6 +3098,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-21"/>
+    <affiliation role="member" ref="#Q213451"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-02-05"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-02-05">
       <roleName xml:lang="sv">jämställdhetsminister</roleName>
@@ -2814,6 +3115,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18243811">
     <persName>
@@ -2822,6 +3124,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q50353159">
     <persName>
@@ -2830,6 +3133,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-09" to="2018-07-15"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18243853">
     <persName>
@@ -2840,6 +3144,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-05-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-01-01"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q5962258">
     <persName>
@@ -2849,6 +3154,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-30"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4963441">
     <persName>
@@ -2857,6 +3163,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q62287348">
     <persName>
@@ -2865,6 +3172,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-03-31"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q4989123">
     <persName>
@@ -2874,6 +3182,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4964100">
     <persName>
@@ -2883,6 +3192,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q21561347">
     <persName>
@@ -2893,6 +3203,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-10-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-12-20"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4356431">
     <persName>
@@ -2903,6 +3214,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-11-17" to="2015-07-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-08-25" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-11-01"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q54006296">
     <persName>
@@ -2911,6 +3223,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-08" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5969249">
     <persName>
@@ -2920,6 +3233,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q5969317">
     <persName>
@@ -2929,6 +3243,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4941925">
     <persName>
@@ -2939,6 +3254,8 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-03-11"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-03-11" to="2021-07-31"/>
+    <affiliation role="member" ref="#Q110857" to="2019-03-11"/>
+    <affiliation role="member" ref="#Q327591" from="2019-03-11"/>
   </person>
   <person xml:id="Q4563305">
     <persName>
@@ -2950,6 +3267,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-01-01" to="2017-02-26"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q2740012">
     <persName>
@@ -2958,6 +3276,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5969761">
     <persName>
@@ -2968,6 +3287,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2015-11-01" to="2016-04-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-04-01" to="2017-08-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q109747746">
     <persName>
@@ -2976,6 +3296,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-15" to="2022-01-28"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q96678352">
     <persName>
@@ -2984,6 +3305,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-02-29" to="2021-02-28"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q241208">
     <persName>
@@ -2992,6 +3314,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-02-05"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-02-05">
       <roleName xml:lang="sv">miljöminister</roleName>
@@ -3011,6 +3334,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-04-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-12-12"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-09-01"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4964936">
     <persName>
@@ -3019,6 +3343,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3675520">
     <persName>
@@ -3028,6 +3353,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q4898916">
     <persName>
@@ -3037,6 +3363,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5973694">
     <persName>
@@ -3045,6 +3372,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q5974768">
     <persName>
@@ -3055,6 +3383,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-03-27"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-05-16"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q64684689">
     <persName>
@@ -3063,6 +3392,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-08-19" to="2020-02-29"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q15963975">
     <persName>
@@ -3072,6 +3402,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q57168719">
     <persName>
@@ -3081,6 +3412,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-12-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-05-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4967237">
     <persName>
@@ -3088,6 +3420,7 @@
       <forename>Lena</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2019-10-01" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2019-10-01" to="2021-11-30">
       <roleName xml:lang="sv">civilminister</roleName>
@@ -3105,6 +3438,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-31"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q62287016">
     <persName>
@@ -3115,6 +3449,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-05-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-11-11" to="2020-02-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-09-08" to="2020-12-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3492112">
     <persName>
@@ -3123,6 +3458,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q4967713">
     <persName>
@@ -3131,6 +3467,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-01-02" to="2017-04-30"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q57168699">
     <persName>
@@ -3140,6 +3477,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-18"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-05-16"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q21529026">
     <persName>
@@ -3148,6 +3486,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-10-29" to="2017-09-12"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5998644">
     <persName>
@@ -3156,6 +3495,8 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451" to="2019-01-17"/>
+    <affiliation role="member" ref="#Q61791721"/>
   </person>
   <person xml:id="Q29059703">
     <persName>
@@ -3165,6 +3506,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-02" to="2017-07-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-06" to="2017-08-06"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q4981668">
     <persName>
@@ -3174,6 +3516,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q19977055">
     <persName>
@@ -3183,6 +3526,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-10-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-11-04"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4968944">
     <persName>
@@ -3194,6 +3538,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-05-08" to="2019-11-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-02-15"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6007973">
     <persName>
@@ -3203,6 +3548,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q108986522">
     <persName>
@@ -3211,6 +3557,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-10-20" to="2021-11-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q6010550">
     <persName>
@@ -3220,6 +3567,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-08-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4563096">
     <persName>
@@ -3230,6 +3578,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-06-30"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-06-30"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-06-30">
       <roleName xml:lang="sv">landsbygdsminister</roleName>
@@ -3242,6 +3591,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4958119">
     <persName>
@@ -3251,6 +3601,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3370093">
     <persName>
@@ -3260,6 +3611,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q21503959">
     <persName>
@@ -3270,6 +3622,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2016-06-06"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-06-07" to="2017-07-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-15" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18244644">
     <persName>
@@ -3278,6 +3631,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q18244660">
     <persName>
@@ -3286,6 +3640,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q6014428">
     <persName>
@@ -3294,6 +3649,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q4969998">
     <persName>
@@ -3302,6 +3658,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4970036">
     <persName>
@@ -3310,6 +3667,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q6015398">
     <persName>
@@ -3319,6 +3677,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4755577">
     <persName>
@@ -3329,6 +3688,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-09-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-01-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q5109199">
     <persName>
@@ -3338,6 +3698,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q20652878">
     <persName>
@@ -3348,6 +3709,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-01-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q98744563">
     <persName>
@@ -3356,6 +3718,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-02-11" to="2019-11-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4970743">
     <persName>
@@ -3366,6 +3729,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2015-08-27" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-04-25"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-04-09" to="2022-05-06"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q429001">
     <persName>
@@ -3374,6 +3738,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-07-04" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q3363827">
     <persName>
@@ -3383,6 +3748,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q105604453">
     <persName>
@@ -3391,6 +3757,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-05-28" to="2019-06-27"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q3373667">
     <persName>
@@ -3400,6 +3767,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-10-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3374751">
     <persName>
@@ -3409,6 +3777,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6027267">
     <persName>
@@ -3419,6 +3788,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-12-12"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-14"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4971184">
     <persName>
@@ -3428,6 +3798,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q29059638">
     <persName>
@@ -3436,6 +3807,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-04-01" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6028336">
     <persName>
@@ -3446,6 +3818,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-08-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18244900">
     <persName>
@@ -3455,6 +3828,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q6030080">
     <persName>
@@ -3464,6 +3838,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q19977128">
     <persName>
@@ -3474,6 +3849,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2015-01-20" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-12-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-02-01"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q16633339">
     <persName>
@@ -3483,6 +3859,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4971741">
     <persName>
@@ -3491,6 +3868,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-09-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q71137237">
     <persName>
@@ -3500,6 +3878,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-10-01"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q6039678">
     <persName>
@@ -3509,6 +3888,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-04-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q4972535">
     <persName>
@@ -3516,6 +3896,7 @@
       <forename>Kristina</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18245020">
     <persName>
@@ -3536,6 +3917,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-07-03" to="2017-07-05"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-08-07" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q6043655">
     <persName>
@@ -3545,6 +3927,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-08-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18692956">
     <persName>
@@ -3553,6 +3936,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q6043976">
     <persName>
@@ -3562,6 +3946,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-12-11" to="2016-08-06"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-19" to="2018-04-17"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q54365866">
     <persName>
@@ -3570,6 +3955,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-22" to="2018-04-29"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3373674">
     <persName>
@@ -3578,6 +3964,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4972634">
     <persName>
@@ -3587,6 +3974,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-03-30" to="2018-01-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-05-07" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4972645">
     <persName>
@@ -3597,6 +3985,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-02-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-01" to="2021-02-10"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q3742553">
     <persName>
@@ -3605,6 +3994,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3374237">
     <persName>
@@ -3614,6 +4004,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q3373346">
     <persName>
@@ -3622,6 +4013,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4973078">
     <persName>
@@ -3630,6 +4022,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4559562">
     <persName>
@@ -3639,6 +4032,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-07-01"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q50353141">
     <persName>
@@ -3648,6 +4042,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-06-07" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q96323475">
     <persName>
@@ -3656,6 +4051,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-04-26" to="2019-05-02"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3358814">
     <persName>
@@ -3664,6 +4060,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q30035679">
     <persName>
@@ -3674,6 +4071,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-11-03" to="2015-03-29"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-01-29" to="2018-05-06"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4769498">
     <persName>
@@ -3683,6 +4081,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4973765">
     <persName>
@@ -3692,6 +4091,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q6062372">
     <persName>
@@ -3701,6 +4101,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q98530561">
     <persName>
@@ -3709,6 +4110,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-02-18" to="2019-04-11"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q16596143">
     <persName>
@@ -3718,6 +4120,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-05-18" to="2015-12-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-12-18" to="2015-12-31"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18451520">
     <persName>
@@ -3728,6 +4131,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2015-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-10-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18177071">
     <persName>
@@ -3735,6 +4139,7 @@
       <forename>Åsa</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6068516">
     <persName>
@@ -3745,6 +4150,8 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-05-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-07" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843" to="2017-05-07"/>
+    <affiliation role="member" ref="#Q504069" from="2017-05-07"/>
   </person>
   <person xml:id="Q18245374">
     <persName>
@@ -3754,6 +4161,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q18245379">
     <persName>
@@ -3764,6 +4172,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-03-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-03-31"/>
+    <affiliation role="member" ref="#Q504069" to="2022-03-30"/>
   </person>
   <person xml:id="Q6071900">
     <persName>
@@ -3773,6 +4182,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q271230">
     <persName>
@@ -3781,6 +4191,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-06-07" to="2017-07-14"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q4975481">
     <persName>
@@ -3791,6 +4202,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-08-25"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-05-04"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4984640">
     <persName>
@@ -3800,6 +4212,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q378195">
     <persName>
@@ -3809,6 +4222,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q29784015">
     <persName>
@@ -3817,6 +4231,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-03" to="2017-09-30"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q18245556">
     <persName>
@@ -3826,6 +4241,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q21585331">
     <persName>
@@ -3836,6 +4252,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-10-01" to="2017-04-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-09-13" to="2017-10-15"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-19" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q5966830">
     <persName>
@@ -3845,6 +4262,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q56706633">
     <persName>
@@ -3854,6 +4272,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-04-18"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-05-23"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6092482">
     <persName>
@@ -3863,6 +4282,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-11-02" to="2021-05-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-03-14"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q54365860">
     <persName>
@@ -3871,6 +4291,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-05-14" to="2018-05-17"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q1040479">
     <persName>
@@ -3879,6 +4300,8 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451" from="1990" to="2019"/>
+    <affiliation role="member" ref="#Q61791721"/>
   </person>
   <person xml:id="Q19977216">
     <persName>
@@ -3887,6 +4310,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q58769193">
     <persName>
@@ -3895,6 +4319,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-11-12" to="2021-12-10"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q6169540">
     <persName>
@@ -3905,6 +4330,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-10-16" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-02-11" to="2019-07-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-07-02" to="2022-03-22"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q72922068">
     <persName>
@@ -3916,6 +4342,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-02-01" to="2020-07-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18245726">
     <persName>
@@ -3924,6 +4351,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-08-31"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q4787806">
     <persName>
@@ -3932,6 +4360,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2019-10-01"/>
     <affiliation role="minister" ref="#GOV" from="2019-10-01">
       <roleName xml:lang="sv">socialförsäkringsminister</roleName>
@@ -3945,6 +4374,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-10-21" to="2020-05-17"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-24" to="2020-12-15"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q99541757">
     <persName>
@@ -3954,6 +4384,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-09-22" to="2021-03-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-14"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q2029704">
     <persName>
@@ -3963,6 +4394,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-11-03"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q18617010">
     <persName>
@@ -3972,6 +4404,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q6328008">
     <persName>
@@ -3981,6 +4414,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q4979119">
     <persName>
@@ -3990,6 +4424,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2022-01-10"/>
+    <affiliation role="member" ref="#Q213451"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
       <roleName xml:lang="sv">miljöminister</roleName>
@@ -4006,6 +4441,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-10-29" to="2015-12-07"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4354054">
     <persName>
@@ -4015,6 +4451,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q30035676">
     <persName>
@@ -4027,6 +4464,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-04-16" to="2018-06-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-21"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6181121">
     <persName>
@@ -4035,6 +4473,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-02-05" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q4981479">
     <persName>
@@ -4043,6 +4482,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18245930">
     <persName>
@@ -4054,6 +4494,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2015-06-22" to="2015-08-02"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-05" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q3374627">
     <persName>
@@ -4062,6 +4503,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q30035701">
     <persName>
@@ -4078,6 +4520,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-06-02" to="2017-06-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-10-01" to="2017-10-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-12-01" to="2018-02-28"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q6187608">
     <persName>
@@ -4087,6 +4530,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-09-09" to="2020-03-01"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q59243589">
     <persName>
@@ -4096,6 +4540,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-12-01" to="2019-01-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-12-20" to="2020-08-09"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18202362">
     <persName>
@@ -4105,6 +4550,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q64524335">
     <persName>
@@ -4112,6 +4558,7 @@
       <forename>Märta</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q213451"/>
     <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
       <roleName xml:lang="sv">bostadsminister</roleName>
@@ -4129,6 +4576,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-30" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q4980571">
     <persName>
@@ -4138,6 +4586,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q6191909">
     <persName>
@@ -4146,6 +4595,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6192010">
     <persName>
@@ -4154,6 +4604,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-25"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q4980750">
     <persName>
@@ -4163,6 +4614,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-10-01" to="2021-11-30"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2017-07-27" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2019-01-21">
       <roleName xml:lang="sv">socialminister</roleName>
@@ -4180,6 +4632,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-09-01" to="2021-11-15"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-16"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18202390">
     <persName>
@@ -4189,6 +4642,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18246207">
     <persName>
@@ -4198,6 +4652,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q99836915">
     <persName>
@@ -4206,6 +4661,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-10-02" to="2021-09-07"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18454922">
     <persName>
@@ -4218,6 +4674,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-06-07" to="2017-07-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-15" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2021-11-30"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q18246234">
     <persName>
@@ -4227,6 +4684,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-30" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q10578332">
     <persName>
@@ -4235,6 +4693,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q6197506">
     <persName>
@@ -4243,6 +4702,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-10-11" to="2017-01-01"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q4981393">
     <persName>
@@ -4252,6 +4712,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4981396">
     <persName>
@@ -4261,6 +4722,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18246258">
     <persName>
@@ -4270,6 +4732,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q6198899">
     <persName>
@@ -4278,6 +4741,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4981553">
     <persName>
@@ -4287,6 +4751,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-03-28" to="2022-05-15"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q879773">
     <persName>
@@ -4295,6 +4760,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4981717">
     <persName>
@@ -4305,6 +4771,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-10-10"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-01" to="2018-09-23"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q6201234">
     <persName>
@@ -4314,6 +4781,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q18202413">
     <persName>
@@ -4323,6 +4791,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-11-30"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4919772">
     <persName>
@@ -4332,6 +4801,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q21578777">
     <persName>
@@ -4341,6 +4811,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-04-25" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q4981914">
     <persName>
@@ -4349,6 +4820,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q24701062">
     <persName>
@@ -4360,6 +4832,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-05-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-11-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-06-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4982318">
     <persName>
@@ -4369,6 +4842,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q6209093">
     <persName>
@@ -4379,6 +4853,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-08-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-04-02" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6212174">
     <persName>
@@ -4388,6 +4863,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-07-01"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q16633513">
     <persName>
@@ -4398,6 +4874,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2017-07-15" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-02-01"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q4983517">
     <persName>
@@ -4407,6 +4884,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-11-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q6217745">
     <persName>
@@ -4415,6 +4893,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q18202407">
     <persName>
@@ -4426,6 +4905,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-02-25"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-12-01" to="2021-03-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-08-28"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4588714">
     <persName>
@@ -4434,6 +4914,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-04" to="2016-08-25"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q6219711">
     <persName>
@@ -4442,6 +4923,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-03-31"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6220743">
     <persName>
@@ -4452,6 +4934,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-03-07"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-05-23" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q213654" from="2010"/>
   </person>
   <person xml:id="Q18246818">
     <persName>
@@ -4460,6 +4943,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q6223773">
     <persName>
@@ -4472,6 +4956,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2019-01-21" to="2019-07-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-03-09" to="2022-01-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-02-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q512590">
     <persName>
@@ -4482,6 +4967,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2015-09-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-10-01" to="2017-05-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-29" to="2017-09-22"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q27107494">
     <persName>
@@ -4493,6 +4979,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2016-08-10" to="2017-04-01"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-07-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-01"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18202415">
     <persName>
@@ -4504,6 +4991,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-10-14"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-08-01" to="2021-05-09"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-02-07"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4990062">
     <persName>
@@ -4512,6 +5000,8 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-04-04" to="2022-05-06"/>
+    <affiliation role="member" ref="#Q110832"/>
+    <affiliation role="member" ref="#Q3360009"/>
   </person>
   <person xml:id="Q18202414">
     <persName>
@@ -4522,6 +5012,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-06-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-03-06" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q30035703">
     <persName>
@@ -4530,6 +5021,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-03-08" to="2016-05-22"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q5650816">
     <persName>
@@ -4539,6 +5031,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q18335045">
     <persName>
@@ -4547,6 +5040,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-06-07"/>
+    <affiliation role="member" ref="#Q110837"/>
   </person>
   <person xml:id="Q237522">
     <persName>
@@ -4554,6 +5048,7 @@
       <forename>Margot</forename>
     </persName>
     <sex value="F"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
     <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
       <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
@@ -4568,6 +5063,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-10-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-15" to="2018-03-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-04-30" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6232261">
     <persName>
@@ -4577,6 +5073,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-07-01"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4970595">
     <persName>
@@ -4586,6 +5083,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18335061">
     <persName>
@@ -4594,6 +5092,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q4859755">
     <persName>
@@ -4603,6 +5102,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q19977330">
     <persName>
@@ -4613,6 +5113,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2015-02-01" to="2017-10-08"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-07-16" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q269859">
     <persName>
@@ -4623,6 +5124,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-10-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-05-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q4990451">
     <persName>
@@ -4632,6 +5134,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q50353136">
     <persName>
@@ -4641,6 +5144,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-09-11" to="2017-12-31"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q4731041">
     <persName>
@@ -4650,6 +5154,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q20156222">
     <persName>
@@ -4662,6 +5167,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-11-30"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-02" to="2019-12-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-08-10"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6240455">
     <persName>
@@ -4672,6 +5178,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-10-19"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-11-25"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q4990502">
     <persName>
@@ -4681,6 +5188,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-09-25"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-09-25" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q6241274">
     <persName>
@@ -4689,6 +5197,8 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q6241556">
     <persName>
@@ -4697,6 +5207,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-03-20" to="2018-03-21"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18202393">
     <persName>
@@ -4705,6 +5216,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q6247957">
     <persName>
@@ -4714,6 +5226,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q3375050">
     <persName>
@@ -4723,6 +5236,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-07-28" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
+    <affiliation role="member" ref="#Q105112"/>
     <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
     <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
       <roleName xml:lang="sv">digitaliseringsminister</roleName>
@@ -4741,6 +5255,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-04-06"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-11-30"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4990884">
     <persName>
@@ -4750,6 +5265,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2020-12-31"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="unknown">
     <persName>
@@ -4767,6 +5283,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q6254697">
     <persName>
@@ -4776,6 +5293,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-01-14" to="2016-03-04"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-01-12" to="2017-02-12"/>
+    <affiliation role="member" ref="#Q213654"/>
   </person>
   <person xml:id="Q18275046">
     <persName>
@@ -4785,6 +5303,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q6255280">
     <persName>
@@ -4793,6 +5312,8 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q6255521">
     <persName>
@@ -4802,6 +5323,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q4991052">
     <persName>
@@ -4810,6 +5332,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q518776">
     <persName>
@@ -4819,6 +5342,7 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-04-01" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q4991079">
     <persName>
@@ -4828,6 +5352,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2016-09-13" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q6255956">
     <persName>
@@ -4838,6 +5363,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2022-04-03"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-05-07"/>
+    <affiliation role="member" ref="#Q110832"/>
   </person>
   <person xml:id="Q96678443">
     <persName>
@@ -4846,6 +5372,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-05-04" to="2020-12-31"/>
+    <affiliation role="member" ref="#Q213451"/>
   </person>
   <person xml:id="Q39871399">
     <persName>
@@ -4854,6 +5381,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2021-07-01" to="2021-12-17"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q19977344">
     <persName>
@@ -4862,6 +5390,7 @@
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-04-20" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q110857"/>
   </person>
   <person xml:id="Q3845415">
     <persName>
@@ -4870,6 +5399,7 @@
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18246550">
     <persName>
@@ -4879,6 +5409,7 @@
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q504069"/>
   </person>
   <person xml:id="Q30035700">
     <persName>
@@ -4889,6 +5420,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2015-10-01" to="2017-05-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2017-05-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
   <person xml:id="Q18275164">
     <persName>
@@ -4898,5 +5430,6 @@
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-02-28"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-06-01" to="2018-09-24"/>
+    <affiliation role="member" ref="#Q105112"/>
   </person>
 </listPerson>

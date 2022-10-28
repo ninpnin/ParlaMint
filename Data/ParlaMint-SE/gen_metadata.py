@@ -42,17 +42,14 @@ def governments(root, gov_df, minister_df, xml_ns=None):
 
 def parties(root, party_df, party_aff_df, relevant_people):
     print("parties:")
-    print(party_aff_df)
     party_aff_df = party_aff_df.merge(relevant_people[["wiki_id"]], on="wiki_id", how="inner")
     party_aff_df = party_aff_df.drop_duplicates(["party_id", "party"])
     party_aff_df = party_aff_df.merge(party_df, on="party", how="left")
     party_aff_df = party_aff_df.where(pd.notnull(party_aff_df), None)
     party_aff_df = party_aff_df.sort_values("party")
     print(party_aff_df)
-    print(party_df)
 
     for _, row in party_aff_df.iterrows():
-        print(row["party"], row["party_id"])
         org = etree.SubElement(root, "org")
         org.attrib[f"{xml_ns}id"] = row["party_id"]
         org.attrib["role"] = "parliamentaryGroup"
@@ -91,7 +88,7 @@ def get_relevant_people(person_df, mp_df, minister_df):
     relevant_people = relevant_people.drop_duplicates("wiki_id")
     return relevant_people
 
-def people(root, person_df, mp_df, minister_df, relevant_people):
+def people(root, person_df, mp_df, minister_df, party_aff_df, relevant_people):
 
     for _, row in relevant_people.iterrows():
         person = etree.SubElement(root, "person")
@@ -122,6 +119,26 @@ def people(root, person_df, mp_df, minister_df, relevant_people):
             affiliation.attrib["role"] = "member"
             affiliation.attrib["ref"] = "#Riksdagen"
             affiliation.attrib["from"] = start
+            if end is not None:
+                affiliation.attrib["to"] = end
+
+        # Party affiliations
+        for _, row_prime in party_aff_df[party_aff_df["wiki_id"] == row["wiki_id"]].iterrows():
+            end_date = row_prime.get("end", "2024-01-01")
+            party_id = row_prime.get("party_id")
+            if end_date is not None and end_date < "2015-01-01":
+                continue
+            if row_prime.get("party_id") is None:
+                continue
+
+            start = row_prime.get("start")
+            end = row_prime.get("end")
+            role = row_prime.get("role")
+            affiliation = etree.SubElement(person, "affiliation")
+            affiliation.attrib["role"] = "member"
+            affiliation.attrib["ref"] = f"#{row_prime['party_id']}"
+            if start is not None:
+                affiliation.attrib["from"] = start
             if end is not None:
                 affiliation.attrib["to"] = end
 
@@ -207,6 +224,7 @@ def listorg(args):
 def listperson(args):
     path = Path(args.metadata_db)
     party_aff_df = pd.read_csv(path / "party_affiliation.csv")
+    party_aff_df = party_aff_df.where(pd.notnull(party_aff_df), None)
     gov_df = pd.read_csv(path / "government.csv")
     minister_df = pd.read_csv(path / "minister.csv")
     minister_df = minister_df.where(pd.notnull(minister_df), None)
@@ -228,7 +246,7 @@ def listperson(args):
     head.text = "List of speakers"
 
     # Populate with metadata
-    root = people(root, people_df, mp_df, minister_df, relevant_people)
+    root = people(root, people_df, mp_df, minister_df, party_aff_df, relevant_people)
 
     # Write to disk
     b = etree.tostring(
