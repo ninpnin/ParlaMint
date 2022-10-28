@@ -40,10 +40,35 @@ def governments(root, gov_df, minister_df, xml_ns=None):
 
     return root
 
-def parties(root, df):
+def parties(root, party_df, party_aff_df, relevant_people):
+    print("parties:")
+    print(party_aff_df)
+    party_aff_df = party_aff_df.merge(relevant_people[["wiki_id"]], on="wiki_id", how="inner")
+    party_aff_df = party_aff_df.drop_duplicates(["party_id", "party"])
+    party_aff_df = party_aff_df.merge(party_df, on="party", how="left")
+    party_aff_df = party_aff_df.where(pd.notnull(party_aff_df), None)
+    party_aff_df = party_aff_df.sort_values("party")
+    print(party_aff_df)
+    print(party_df)
+
+    for _, row in party_aff_df.iterrows():
+        print(row["party"], row["party_id"])
+        org = etree.SubElement(root, "org")
+        org.attrib[f"{xml_ns}id"] = row["party_id"]
+        org.attrib["role"] = "parliamentaryGroup"
+        orgName = etree.SubElement(org, "orgName")
+        orgName.text = row["party"]
+        orgName.attrib["full"] = "yes"
+        orgName.attrib[f"{xml_ns}lang"] = "sv"
+        if row.get("abbreviation") is not None:
+            orgName = etree.SubElement(org, "orgName")
+            orgName.text = row["abbreviation"]
+            orgName.attrib["full"] = "abb"
+            orgName.attrib[f"{xml_ns}lang"] = "sv"
+
     return root
 
-def people(root, person_df, mp_df, minister_df):
+def get_relevant_people(person_df, mp_df, minister_df):
     relevant_people = []
     for df, role in zip([mp_df, minister_df], ["mp", "minister"]):
         df_alt = df[df["start"] >= "2015-01-01"]
@@ -54,16 +79,19 @@ def people(root, person_df, mp_df, minister_df):
         relevant_people.append(df)
 
     relevant_people = pd.concat(relevant_people)
+
     unknown = ['unknown', '2014-09-29', '2022-08-01', None, None, 'mp']
     mp_df.loc[len(mp_df.index)] = unknown
+    mp_df = mp_df.drop_duplicates(["wiki_id", "start", "end"])
 
-    print(relevant_people)
-    print(person_df)
     relevant_people = relevant_people.merge(person_df, on="wiki_id")
     relevant_people.loc[len(relevant_people.index)] = ['unknown', 'unknown', None, None, 'gender', None, None, 'unknown mp', 'unknown mp']
     relevant_people["lastname"] = relevant_people["name"].str.split().str[-1]
     relevant_people = relevant_people.sort_values(["lastname", "name"])
     relevant_people = relevant_people.drop_duplicates("wiki_id")
+    return relevant_people
+
+def people(root, person_df, mp_df, minister_df, relevant_people):
 
     for _, row in relevant_people.iterrows():
         person = etree.SubElement(root, "person")
@@ -128,11 +156,18 @@ def people(root, person_df, mp_df, minister_df):
 def listorg(args):
     path = Path(args.metadata_db)
     party_df = pd.read_csv(path / "party_abbreviation.csv")
+    party_aff_df = pd.read_csv(path / "party_affiliation.csv")
     gov_df = pd.read_csv(path / "government.csv")
     minister_df = pd.read_csv(path / "minister.csv")
+    minister_df = minister_df.where(pd.notnull(minister_df), None)
     people_df = pd.read_csv(path / "person.csv")
+    people_df = people_df.where(pd.notnull(people_df), None)
     mp_df = pd.read_csv(path / "member_of_parliament.csv")
-    people_df = people_df.merge(mp_df, on="wiki_id", how="left")
+    mp_df = mp_df.where(pd.notnull(mp_df), None)
+    name_df = pd.read_csv(path / "name.csv")
+    name_df = name_df[name_df["primary_name"] == True]
+    people_df = people_df.merge(name_df, on="wiki_id", how="left")
+    relevant_people = get_relevant_people(people_df, mp_df, minister_df)
 
     # Populate root with basic elements
     nsmap = {None: args.tei_ns.replace("{", "").replace("}", "")}
@@ -161,7 +196,7 @@ def listorg(args):
 
     # Populate with metadata
     root = governments(root, gov_df, minister_df, xml_ns=args.xml_ns)
-    root = parties(root, party_df)
+    root = parties(root, party_df, party_aff_df, relevant_people)
 
     b = etree.tostring(
         root, pretty_print=True, encoding="utf-8", xml_declaration=True
@@ -171,7 +206,7 @@ def listorg(args):
 
 def listperson(args):
     path = Path(args.metadata_db)
-    party_df = pd.read_csv(path / "party_abbreviation.csv")
+    party_aff_df = pd.read_csv(path / "party_affiliation.csv")
     gov_df = pd.read_csv(path / "government.csv")
     minister_df = pd.read_csv(path / "minister.csv")
     minister_df = minister_df.where(pd.notnull(minister_df), None)
@@ -182,6 +217,7 @@ def listperson(args):
     name_df = pd.read_csv(path / "name.csv")
     name_df = name_df[name_df["primary_name"] == True]
     people_df = people_df.merge(name_df, on="wiki_id", how="left")
+    relevant_people = get_relevant_people(people_df, mp_df, minister_df)
     print(people_df)
 
     # Populate root with basic elements
@@ -192,7 +228,7 @@ def listperson(args):
     head.text = "List of speakers"
 
     # Populate with metadata
-    root = people(root, people_df, mp_df, minister_df)
+    root = people(root, people_df, mp_df, minister_df, relevant_people)
 
     # Write to disk
     b = etree.tostring(
