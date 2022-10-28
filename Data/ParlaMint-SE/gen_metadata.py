@@ -107,7 +107,8 @@ def people(root, person_df, mp_df, minister_df, party_aff_df, relevant_people):
                 sex.attrib["value"] = "F"
 
         # Terms in office
-        for _, row_prime in mp_df[mp_df["wiki_id"] == row["wiki_id"]].iterrows():
+        riksdagen_periods = set()
+        for _, row_prime in mp_df[mp_df["wiki_id"] == row["wiki_id"]].sort_values(["wiki_id", "start"]).iterrows():
             end_date = row_prime.get("end", "2024-01-01")
             if end_date is not None and end_date < "2015-01-01":
                 continue
@@ -115,6 +116,21 @@ def people(root, person_df, mp_df, minister_df, party_aff_df, relevant_people):
             start = row_prime.get("start")
             end = row_prime.get("end")
 
+            # Do not add overlapping periods
+            start_date = row_prime.get("start", "2014-01-01")
+            if start_date is None:
+                start_date = "2014-01-01"
+            if end_date is None:
+                end_date = "2024-01-01"
+
+            skip = False
+            for start_prime, end_prime in list(riksdagen_periods):
+                if start_prime <= start_date and end_prime >= end_date:
+                    skip = True
+                    
+            if skip:
+                continue
+            riksdagen_periods.add((start_date,end_date))
             affiliation = etree.SubElement(person, "affiliation")
             affiliation.attrib["role"] = "member"
             affiliation.attrib["ref"] = "#Riksdagen"
@@ -142,31 +158,45 @@ def people(root, person_df, mp_df, minister_df, party_aff_df, relevant_people):
             if end is not None:
                 affiliation.attrib["to"] = end
 
+
         # Minister affiliations
         minister_df = minister_df.drop_duplicates(["wiki_id", "role", "start", "end"])
+        government_periods = set()
         for _, row_prime in minister_df[minister_df["wiki_id"] == row["wiki_id"]].iterrows():
+            start = row_prime.get("start")
             end_date = row_prime.get("end", "2024-01-01")
             if end_date is not None and end_date < "2015-01-01":
                 continue
 
             for affiliationtype in ["member", "minister"]:
-                start = row_prime.get("start")
+                start_date = row_prime.get("start", "2014-01-01")
+                if start_date is None:
+                    start_date = "2014-01-01"
+                if end_date is None:
+                    end_date = "2024-01-01"
+
+                if affiliationtype == "member":
+                    # Only add 'member' of government once even if
+                    # there are multiple minister positions for this period
+                    for start_prime, end_prime in list(government_periods):
+                        if start_prime <= start_date and end_prime >= end_date:
+                            continue
+                else:
+                    government_periods.add((start_date,end_date))
                 if start is None or start < "2015-01-01":
                     continue
                 end = row_prime.get("end")
                 role = row_prime.get("role")
                 affiliation = etree.SubElement(person, "affiliation")
-                affiliation.attrib["role"] = "member"
+                affiliation.attrib["role"] = affiliationtype
                 affiliation.attrib["ref"] = "#GOV"
                 affiliation.attrib["from"] = start
                 if end is not None:
                     affiliation.attrib["to"] = end
-                if affiliationtype is "member" or role is not None:
-                    affiliation.attrib["role"] = affiliationtype
-                    if affiliationtype is not "member":
-                        roleName = etree.SubElement(affiliation, "roleName")
-                        roleName.attrib[f"{xml_ns}lang"] = "sv"
-                        roleName.text = role.strip()
+                if affiliationtype != "member" or role is not None:
+                    roleName = etree.SubElement(affiliation, "roleName")
+                    roleName.attrib[f"{xml_ns}lang"] = "sv"
+                    roleName.text = role.strip()
 
     return root
 
