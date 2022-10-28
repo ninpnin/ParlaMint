@@ -1,28 +1,28 @@
-mamba,ud,explanation
-"*A",advmod,
-AN,appos,
-AT,amod,
-XT,amod,
-DT,det,
-EO,dobj,Direct object
-ES,nsubj,
-ET,nmod,
-HD,det,
-FO,expl,
-FS,expl,
-"I*",punct,
-"J*",punct,
-IM,mark,
-IO,iobj,
-"NA",neg,Negation modifier
-OO,dobj,
-OP,xcomp,
-VO,xcomp,
-VS,xcomp,
-PL,prt,Verb particle
-SS,nsubj,
-TT,vocative,
-UK,mark,
-XF,dislocated,
-XX,foreign,Foreign word
-YY,dislocated,
+mamba,ud
+"*A",advmod
+AN,appos
+AT,amod
+XT,amod
+DT,det
+EO,obj
+ES,nsubj
+ET,nmod
+HD,det
+FO,expl
+FS,expl
+"I*",punct
+"J*",punct
+IM,mark
+IO,iobj
+"NA",prt
+OO,obj
+OP,xcomp
+VO,xcomp
+VS,xcomp
+PL,prt
+SS,nsubj
+TT,vocative
+UK,mark
+XF,dislocated
+XX,flat_foreign
+YY,dislocated
