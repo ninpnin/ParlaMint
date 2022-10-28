@@ -90,6 +90,7 @@
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="taxonomy-speaker_types.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="taxonomy-subcorpus.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="taxonomy-UD-SYN.xml"/>
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="taxonomy-NER.xml"/>
       </classDecl>
       <listPrefixDef>
         <prefixDef ident="ud-syn" matchPattern="(.+)" replacementPattern="#$1">
