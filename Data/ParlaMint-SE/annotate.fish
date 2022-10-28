@@ -9,4 +9,3 @@ conda_init && conda activate data
 rm export/xml_export.pretty/*.xml
 sparv run
 rm source/*.xml
-python3 clean_annotations.py
