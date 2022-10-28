@@ -3,6 +3,9 @@ import argparse
 from pathlib import Path
 import datetime
 
+tei_ns = "{http://www.tei-c.org/ns/1.0}"
+xml_ns = "{http://www.w3.org/XML/1998/namespace}"
+
 def generate_txt(root, args):
     s = ""
     for u in root.findall(f".//{args.ns}u"):
@@ -42,6 +45,9 @@ def main(args):
     intros = [note for note in root.findall(f".//{args.ns}note") if note.attrib.get("type") == "speaker"]
     no_of_speeches = len(intros)
 
+    utterances = root.findall(f".//{tei_ns}u")
+    no_of_words = sum([len(" ".join(u.itertext())) for u in utterances])
+
     ## ADUST TO SCHEMA ##
     ## HEADER
     # Add language, ID and tags
@@ -63,9 +69,21 @@ def main(args):
 
 
     # Fix 'title' content, add type
-    for title in root.findall(f".//{args.ns}title"):
-        title.attrib["type"] = "main"
-        title.text = f"Riksdagens protokoll {session_str} nr. {protocol_no}"
+    titleStmts = root.findall(f".//{args.ns}titleStmt")
+    assert len(titleStmts) == 1
+    titleStmt = titleStmts[0]
+    titles = titleStmt.findall(f".//{args.ns}title")
+    assert len(titles) == 1
+    title = titles[0]
+    title.attrib[f"{xml_ns}lang"] = "sv"
+    title.attrib["type"] = "main"
+    title.text = f"Riksdagens protokoll {session_str} nr. {protocol_no} [ParlaMint]"
+
+    title = etree.SubElement(titleStmt, "title")
+    title.attrib[f"{xml_ns}lang"] = "en"
+    title.attrib["type"] = "main"
+    title.text = f"Swedish parliamentary corpus ParlaMint-SE, {session_str} nr. {protocol_no} [ParlaMint SAMPLE]"
+
 
     # Remove all 'authority' sections
     for authority in root.findall(f".//{args.ns}authority"):
@@ -79,23 +97,31 @@ def main(args):
     # <meeting ana="#parla.term #parla.lower #parliament.PSP7" n="ps2013">ps2013</meeting>
     for titleStmt in root.findall(f".//{args.ns}titleStmt"):
         title = titleStmt.findall(f".//{args.ns}title")[-1]
-        meeting = etree.Element("meeting")
+        meeting = etree.SubElement(titleStmt, "meeting")
         meeting.text = session_str
         meeting.attrib["n"] = session
         meeting.attrib["ana"] = "#parla.uni #parla.term"
-        titleStmt.insert(titleStmt.index(title)+1, meeting)
 
     # Add 'extent' section
     for editionStmt in root.findall(f".//{args.ns}editionStmt"):
+        # Speeches
         fileDesc = editionStmt.getparent()
-        newelem = etree.Element("extent")
-        measure = etree.SubElement(newelem, "measure")
+        extent1 = etree.Element("extent")
+        measure = etree.SubElement(extent1, "measure")
         measure.attrib[f"{args.xml_ns}lang"] = "sv"
         measure.attrib["unit"] = "speeches"
         measure.attrib["quantity"] = f"{no_of_speeches}"
         measure.text = f"{no_of_speeches} tal"
-        #<measure xml:lang="sv" unit="speeches" quantity="1">1 tal</measure>
-        fileDesc.insert(fileDesc.index(editionStmt)+1, newelem)
+        fileDesc.insert(fileDesc.index(editionStmt)+1, extent1)
+
+        # Words
+        extent2 = etree.Element("extent")
+        measure = etree.SubElement(extent2, "measure")
+        measure.attrib[f"{args.xml_ns}lang"] = "sv"
+        measure.attrib["unit"] = "words"
+        measure.attrib["quantity"] = f"{no_of_words}"
+        measure.text = f"{no_of_words} ord"
+        fileDesc.insert(fileDesc.index(extent1)+1, extent2)
 
     # Add 'publisher' to 'publicationStmt'
     publicationStmts = list(root.findall(f".//{args.ns}publicationStmt"))

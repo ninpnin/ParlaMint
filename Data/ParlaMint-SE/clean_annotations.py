@@ -5,6 +5,9 @@ import uuid
 import base58
 import pandas as pd
 
+tei_ns = "{http://www.tei-c.org/ns/1.0}"
+xml_ns = "{http://www.w3.org/XML/1998/namespace}"
+
 def generate_and_format_uuid():
     new_id = uuid.uuid1()
     formatted_id = base58.b58encode(new_id.bytes).decode("utf-8")
@@ -153,6 +156,15 @@ def main(args):
 
         tei = unnann_root
         tei.append(text)
+
+        # Change main title from '[ParlaMint SAMPLE]' to '[ParlaMint.ana SAMPLE]'
+        titleStmts = unnann_root.findall(f".//{tei_ns}titleStmt")
+        assert len(titleStmts) == 1
+        titleStmt = titleStmts[0]
+        for title in titleStmt.findall(f"{tei_ns}title"):
+            title.text = title.text.replace("[ParlaMint ", "[ParlaMint.ana ")
+            
+        unnann_root.attrib[f"{xml_ns}id"] = f"{newstem}.ana"
 
         b = etree.tostring(
             unnann_root, pretty_print=True, encoding="utf-8", xml_declaration=True
