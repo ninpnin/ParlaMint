@@ -106,22 +106,20 @@ def main(args):
     for editionStmt in root.findall(f".//{args.ns}editionStmt"):
         # Speeches
         fileDesc = editionStmt.getparent()
-        extent1 = etree.Element("extent")
-        measure = etree.SubElement(extent1, "measure")
+        extent = etree.Element("extent")
+        measure = etree.SubElement(extent, "measure")
         measure.attrib[f"{args.xml_ns}lang"] = "sv"
         measure.attrib["unit"] = "speeches"
         measure.attrib["quantity"] = f"{no_of_speeches}"
         measure.text = f"{no_of_speeches} tal"
-        fileDesc.insert(fileDesc.index(editionStmt)+1, extent1)
 
         # Words
-        extent2 = etree.Element("extent")
-        measure = etree.SubElement(extent2, "measure")
+        measure = etree.SubElement(extent, "measure")
         measure.attrib[f"{args.xml_ns}lang"] = "sv"
         measure.attrib["unit"] = "words"
         measure.attrib["quantity"] = f"{no_of_words}"
         measure.text = f"{no_of_words} ord"
-        fileDesc.insert(fileDesc.index(extent1)+1, extent2)
+        fileDesc.insert(fileDesc.index(editionStmt)+1, extent)
 
     # Add 'publisher' to 'publicationStmt'
     publicationStmts = list(root.findall(f".//{args.ns}publicationStmt"))
