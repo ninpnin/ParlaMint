@@ -3,7 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Riksdagens protokoll</title>
+        <title xml:lang="sv" type="main">Riksdagens protokoll [ParlaMint SAMPLE]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE [ParlaMint SAMPLE]</title>
         <respStmt>
           <persName>Väinö Yrjänäinen</persName>
           <resp xml:lang="en">TEI XML corpus encoding</resp>
