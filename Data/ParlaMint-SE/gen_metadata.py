@@ -153,10 +153,14 @@ def people(root, person_df, mp_df, minister_df, party_aff_df, relevant_people):
             affiliation = etree.SubElement(person, "affiliation")
             affiliation.attrib["role"] = "member"
             affiliation.attrib["ref"] = f"#{row_prime['party_id']}"
-            if start is not None:
-                affiliation.attrib["from"] = start
             if end is not None:
+                if start is not None:
+                    affiliation.attrib["from"] = start
+                else:
+                    affiliation.attrib["from"] = "2014-09-29"
                 affiliation.attrib["to"] = end
+            elif start is not None:
+                affiliation.attrib["from"] = start
 
 
         # Minister affiliations
