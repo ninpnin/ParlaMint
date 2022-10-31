@@ -115,11 +115,18 @@ def main(args):
             # Link first 'w' without out-edges to the sentence (root of the sentence)
             w_xml_ids = [w for w in w_ids.values() if w not in ws_with_parents]
             if len(w_xml_ids) > 0:
-                w_xml_id = w_xml_ids[0]
+                root_xml_id = w_xml_ids[0]
                 link = etree.SubElement(linkGrp, "link")
                 link.attrib["ana"] = "ud-syn:root"
-                other_id = s.attrib.get(f"{args.xml_ns}id")
-                link.attrib["target"] = f"#{other_id} #{w_xml_id}"
+                sentence_id = s.attrib.get(f"{args.xml_ns}id")
+                link.attrib["target"] = f"#{sentence_id} #{root_xml_id}"
+
+                # Link other 'w's without out-edges to the root word
+                for w_xml_id in w_xml_ids:
+                    if w_xml_id != root_xml_id:
+                        link = etree.SubElement(linkGrp, "link")
+                        link.attrib["ana"] = "ud-syn:dep"
+                        link.attrib["target"] = f"#{root_xml_id} #{w_xml_id}"
 
         
         # Delete unnecessary arguments in 'w' elements
