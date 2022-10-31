@@ -13,7 +13,7 @@ binmode(STDERR, 'utf8');
 
 `mkdir $outDir` unless -e "$outDir";
 
-$Saxon = 'java -jar /usr/share/java/saxon.jar';
+$Saxon = 'java -jar ./jars/saxon.jar';
 $TEI2VERT  = "$Bin/parlamint2xmlvert.xsl";
 $POLISH = "$Bin/parlamint-xml2vert.pl";
 

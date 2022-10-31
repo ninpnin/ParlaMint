@@ -83,9 +83,9 @@ $outDir = File::Spec->rel2abs($outDir);
 
 #Execution
 #$Parallel = "parallel --gnu --halt 2 --jobs 15";
-$Saxon   = "java -jar /usr/share/java/saxon.jar";
+$Saxon   = "java -jar ./jars/saxon.jar";
 # Problem with Out of heap space with TR, NL, GB for ana
-$SaxonX  = "java -Xmx120g -jar /usr/share/java/saxon.jar";
+$SaxonX  = "java -Xmx120g -jar ./jars/saxon.jar";
 
 $Final   = "$Bin/parlamint2final.xsl";
 $Polish  = "$Bin/polish-xml.pl";

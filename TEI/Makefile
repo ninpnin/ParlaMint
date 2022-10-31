@@ -77,5 +77,5 @@ setup:
 	git -C ../Scripts clone git@github.com:TEIC/Stylesheets.git
 
 ### Location of Jing (for RelaxNG validation) and Saxon (for XSLT stylesheets)
-j = java -jar /usr/share/java/jing.jar
-s = java -jar /usr/share/java/saxon.jar
+j = java -jar ./jars/jing.jar
+s = java -jar ./jars/saxon.jar

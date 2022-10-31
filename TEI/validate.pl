@@ -29,7 +29,7 @@ unless (-d $inDir) {
     die "Second parameter must be top level input directory\n"
 }
 #Execution
-$Jing   = "java -jar /usr/share/java/jing.jar";
+$Jing   = "java -jar ./jars/jing.jar";
 $Schema = "$Bin/ParlaMint.odd.rng";
 foreach my $inFile (glob "$inDir/$mask") {
     ($fName) = $inFile =~ m|([^/]+\.xml)|;

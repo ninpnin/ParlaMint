@@ -29,7 +29,7 @@ $inDir = File::Spec->rel2abs(shift);
 $outDir = File::Spec->rel2abs(shift);
 
 $Para  = 'parallel --gnu --halt 0 --jobs 8';
-$Saxon = 'java -jar /usr/share/java/saxon.jar';
+$Saxon = 'java -jar ./jars/saxon.jar';
 $Convert = "$Bin/parlamint2conllu.xsl";
 $Meta = "$Bin/parlamint2meta.xsl";
 $Valid = "$Bin/tools/validate.py";

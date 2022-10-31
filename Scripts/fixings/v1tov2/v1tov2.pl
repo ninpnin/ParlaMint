@@ -9,7 +9,7 @@ $outDir = File::Spec->rel2abs(shift);
 
 binmode(STDERR, 'utf8');
 
-$Saxon = 'java -jar /usr/share/java/saxon.jar';
+$Saxon = 'java -jar ./jars/saxon.jar';
 $CNV = "$Bin/v1tov2.xsl";
 $POLISH = "$Bin/../../polish-xml.pl";
 

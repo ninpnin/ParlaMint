@@ -8,5 +8,5 @@ get:
 	dos2unix ParlaMint-Coalitions.tsv
 
 ################################################
-s = java -jar /usr/share/java/saxon.jar
-j = java -jar /usr/share/java/jing.jar
+s = java -jar ./jars/saxon.jar
+j = java -jar ./jars/jing.jar

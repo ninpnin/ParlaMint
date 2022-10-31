@@ -54,7 +54,7 @@ all:	trang
 xall:	val trang
 
 #Authored, strangely enough, in .rng!
-t = java -jar /usr/share/java/trang.jar
+t = java -jar ./jars/trang.jar
 trang:	rnc
 rnc:
 	$t ParlaMint-TEI.rng ParlaMint-TEI.rnc
@@ -87,8 +87,8 @@ val:
 	-ls ${DATADIR}/ParlaMint-*/ParlaMint-*.xml | grep    '.ana.' | grep -v '_' | xargs ${vra}
 	-ls ${DATADIR}/ParlaMint-*/ParlaMint-*.xml | grep    '.ana.' | grep    '_' | xargs ${vca}
 
-s = java -jar /usr/share/java/saxon.jar
-j = java -jar /usr/share/java/jing.jar
+s = java -jar ./jars/saxon.jar
+j = java -jar ./jars/jing.jar
 pc = -I % $s -xi -xsl:../Scripts/copy.xsl % | $j parla-clarin.rng
 vrt = $j ParlaMint-teiCorpus.rng 	# Corpus root / text
 vct = $j ParlaMint-TEI.rng		# Corpus component / text

@@ -33,16 +33,16 @@ definitions from each other, so they should be copied together. The schemas are 
 definitions imported into other schemas.
 
 So, for the ParlaMint corpus of country XX in the directory ParlaMint-XX/ and using standard
-ParlaMint file names, validation using `jing` installed in `/usr/share/java/` would be:
+ParlaMint file names, validation using `jing` installed in `./jars/` would be:
 
 ```
-$ java -jar /usr/share/java/jing.jar ParlaMint-teiCorpus.rng     ParlaMint-XX/ParlaMint-XX.xml
-$ java -jar /usr/share/java/jing.jar ParlaMint-TEI.rng           ParlaMint-XX/ParlaMint-XX_*.xml
-$ java -jar /usr/share/java/jing.jar ParlaMint-teiCorpus.ana.rng ParlaMint-XX/ParlaMint-XX.ana.xml
-$ java -jar /usr/share/java/jing.jar ParlaMint-TEI.ana.rng       ParlaMint-XX/ParlaMint-XX_*.ana.xml
-$ java -jar /usr/share/java/jing.jar ParlaMint-listPerson.rng    ParlaMint-XX/ParlaMint-XX-listPerson.xml
-$ java -jar /usr/share/java/jing.jar ParlaMint-listOrg.rng       ParlaMint-XX/ParlaMint-XX-listOrg.xml
-$ java -jar /usr/share/java/jing.jar ParlaMint-taxonomy.rng      ParlaMint-XX/ParlaMint-XX-taxonomy-*.xml
+$ java -jar ./jars/jing.jar ParlaMint-teiCorpus.rng     ParlaMint-XX/ParlaMint-XX.xml
+$ java -jar ./jars/jing.jar ParlaMint-TEI.rng           ParlaMint-XX/ParlaMint-XX_*.xml
+$ java -jar ./jars/jing.jar ParlaMint-teiCorpus.ana.rng ParlaMint-XX/ParlaMint-XX.ana.xml
+$ java -jar ./jars/jing.jar ParlaMint-TEI.ana.rng       ParlaMint-XX/ParlaMint-XX_*.ana.xml
+$ java -jar ./jars/jing.jar ParlaMint-listPerson.rng    ParlaMint-XX/ParlaMint-XX-listPerson.xml
+$ java -jar ./jars/jing.jar ParlaMint-listOrg.rng       ParlaMint-XX/ParlaMint-XX-listOrg.xml
+$ java -jar ./jars/jing.jar ParlaMint-taxonomy.rng      ParlaMint-XX/ParlaMint-XX-taxonomy-*.xml
 ```
 
 Note that - probably depending on Java version used - some implementations will
@@ -53,7 +53,7 @@ ParlaMint-teiCorpus schemas don't include elements from the component files. To 
 disable XInclude validation, you might use:
 
 ```
-java -Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.StandardParserConfiguration -jar /usr/share/java/jing.jar ...
+java -Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.StandardParserConfiguration -jar ./jars/jing.jar ...
 ```
 Note also that more info about the technical aspects of the validation is available in the
 [Parla-CLARIN Wiki](https://github.com/clarin-eric/parla-clarin/wiki/Validating-your-data).
