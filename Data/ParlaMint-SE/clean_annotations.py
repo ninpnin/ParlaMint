@@ -106,8 +106,7 @@ def main(args):
                     if deprel_str is None:
                         deprel_str =  mambda_to_ud.get(f"{deprel[:1]}*")
                     if deprel_str is None:
-                        #print(f"{deprel} not found in mapping")
-                        continue
+                        deprel_str = "dep"
                     link = etree.SubElement(linkGrp, "link")
                     link.attrib["ana"] = "ud-syn:" + deprel_str
                     link.attrib["target"] = f"#{other_id} #{this_id}"
