@@ -68,14 +68,15 @@ def parties(root, party_df, party_aff_df, relevant_people):
 def get_relevant_people(person_df, mp_df, minister_df):
     relevant_people = []
     for df, role in zip([mp_df, minister_df], ["mp", "minister"]):
-        df_alt = df[df["start"] >= "2015-01-01"]
-        df = df[df["end"] >= "2015-01-01"]
+        df = df[(df["end"] >= "2015-01-01") | (df["start"] >= "2015-01-01")]
         wiki_ids = list(set(df["wiki_id"]))
         rows = [[wid, role] for wid in wiki_ids]
         df = pd.DataFrame(rows, columns=["wiki_id", "relevancy"])
         relevant_people.append(df)
 
     relevant_people = pd.concat(relevant_people)
+    missing_in_relevant = "Q4939382" in set(relevant_people["wiki_id"])
+    print("missing_in_relevant", missing_in_relevant)
 
     unknown = ['unknown', '2014-09-29', '2022-08-01', None, None, 'mp']
     mp_df.loc[len(mp_df.index)] = unknown
