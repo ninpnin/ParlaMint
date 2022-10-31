@@ -136,6 +136,8 @@ def main(args):
                     del w.attrib[attrib]
             if w.attrib.get("msd", "")[-1] == "|":
                 w.attrib["msd"] = w.attrib["msd"][:-1]
+            if "UPosTag=CONJ" in w.attrib.get("msd", ""):
+                w.attrib["msd"] = w.attrib["msd"].replace("UPosTag=CONJ", "UPosTag=CCONJ")
 
         # Convert punctuation from 'w' into 'pc'        
         for w in text.findall(f".//{args.tei_ns}w"):
