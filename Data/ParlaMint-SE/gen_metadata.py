@@ -200,6 +200,23 @@ def people(root, person_df, mp_df, minister_df, party_aff_df, relevant_people):
 
     return root
 
+def coalitions(root):
+    listRelation = etree.SubElement(root, "listRelation")
+    coalition_df = pd.read_csv("ad_hoc_govs.csv")
+    coalition_df = coalition_df.where(pd.notnull(coalition_df), None)
+    print(coalition_df)
+    for _, row in coalition_df.iterrows():
+        start = row["from"]
+        end = row["to"]
+
+        relation = etree.SubElement(listRelation, "relation")
+        relation.attrib["name"] = "coalition"
+        relation.attrib["mutual"] = row["parties"]
+        relation.attrib["from"] = start
+        if end is not None:
+            relation.attrib["to"] = end
+    return root
+
 def listorg(args):
     path = Path(args.metadata_db)
     party_df = pd.read_csv(path / "party_abbreviation.csv")
@@ -244,6 +261,7 @@ def listorg(args):
     # Populate with metadata
     root = governments(root, gov_df, minister_df, xml_ns=args.xml_ns)
     root = parties(root, party_df, party_aff_df, relevant_people)
+    root = coalitions(root)
 
     b = etree.tostring(
         root, pretty_print=True, encoding="utf-8", xml_declaration=True
