@@ -14,12 +14,12 @@ FS,expl
 "J*",punct
 IM,mark
 IO,iobj
-"NA",prt
+"NA",dep
 OO,obj
 OP,xcomp
 VO,xcomp
 VS,xcomp
-PL,prt
+PL,dep
 SS,nsubj
 TT,vocative
 UK,mark
