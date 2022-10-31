@@ -134,6 +134,8 @@ def main(args):
             for attrib in list(w.attrib):
                 if attrib not in ["lemma", "msd", f"{args.xml_ns}id"]:
                     del w.attrib[attrib]
+            if w.attrib.get("msd", "")[-1] == "|":
+                w.attrib["msd"] = w.attrib["msd"][:-1]
 
         # Convert punctuation from 'w' into 'pc'        
         for w in text.findall(f".//{args.tei_ns}w"):
