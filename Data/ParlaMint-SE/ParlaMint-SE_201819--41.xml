@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201819--41" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 41 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 41 [ParlaMint SAMPLE]</title>
+        <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="0">0 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+            <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en">
+            <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+    </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="39"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="0"/>
+          <tagUsage gi="seg" occurs="0"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2019-01-22" ana="#parla.sitting">2019-01-22</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="debateSection">
+        <note xml:id="i-TKS4kL83qoEV5wYpFLuTFL">§ 1 Ärenden för bordläggning</note>
+        <note xml:id="i-3fN38VppQy3pYvUjYQ6AGZ">Följande dokument anmäldes och bordlades:</note>
+        <note xml:id="i-qQwVJ4SKubBcCD3pgSoFD">Konstitutionsutskottets betänkanden</note>
+        <note xml:id="i-Wf7vcNQQnHgxhazWfQM5US">2018/19:KU5 Uppföljning av riksdagens tillämpning av subsidiaritetsprincipen</note>
+        <note xml:id="i-pgdeG1zuTcHwpBsuioZWs">2018/19:KU10 Granskning av statsrådens tjänsteutövning och regerings ­ ärendenas handläggning</note>
+        <note xml:id="i-7RpaU1U7V6CTo9shAzXtXh">2018/19:KU11 Justitieombudsmännens ämbetsberättelse</note>
+        <note xml:id="i-CaREyQqxh5nmMeH6kwUfK3">2018/19:KU13 Nystart för en stärkt minoritetspolitik</note>
+        <note xml:id="i-FFuvLvSGYXd4KNyoSQFrzs">§ 2 Bordläggning</note>
+        <note xml:id="i-3XWSdCc18w2fGh5EGW3o3V">Följande dokument anmäldes och bordlades:</note>
+        <note xml:id="i-3kFa7gG9EEGfHqowjeyrvb">Proposition</note>
+        <note xml:id="i-VA4LfDN8n8VbPrbCNZcuaC">2018/19:37 Anpassning av lagen om passagerarregister till EU:s dataskyddsreform</note>
+        <note xml:id="i-VqQjuXsrLCG9YgEyAEpqWz">Motioner</note>
+        <note xml:id="i-HdpnCKd2yzhnjurPdTnsXd">med anledning av skr. 2018/19:25 Riksrevisionens rapport om skyddet av värdefull skog</note>
+        <note xml:id="i-RZbENehPRKV15z9CDf3ATq">2018/19:3004 av Mats Nordberg m.fl. (SD)</note>
+        <note xml:id="i-H4PUf43cn1SHiLAwjGst33">2018/19:3008 av Magnus Oscarsson m.fl. (KD)</note>
+        <note xml:id="i-Wn6c3mM9wAHzZ9j3V5aRxn">2018/19:3009 av Kristina Yngwe m.fl. (C)</note>
+        <note xml:id="i-HzGJ1KFjQnbr9fGEsACfdW">2018/19:3011 av Maria Malmer Stenergard m.fl. (M)</note>
+        <note xml:id="i-N64wDawKrNZQBQ4RPiNYgB">med anledning av skr. 2018/19:27 Riksrevisionens rapport om försäkringsmedicinskt beslutsstöd</note>
+        <note xml:id="i-UDbK1nsJ4EwuPnUyHduGYj">2018/19:3002 av Nooshi Dadgostar m.fl. (V)</note>
+        <note xml:id="i-VBcdjWM6acWHRwBnkGceN7">2018/19:3013 av Johan Forssell m.fl. (M, KD)</note>
+        <note xml:id="i-8v8SKhU6hC3wn6w3yWcQm">med anledning av skr. 2018/19:31 Riksrevisionens rapport om nytt signalsystem för järnvägen</note>
+        <note xml:id="i-XUiJF55kPpovWHc5T9Dyrj">2018/19:3003 av Jens Holm m.fl. (V)</note>
+        <note xml:id="i-EPnfvYfHj3e9Syvs2zCeU8">2018/19:3006 av Patrik Jönsson m.fl. (SD)</note>
+        <note xml:id="i-AfuVkoG4eAWJ2pEx2v6Uzr">2018/19:3007 av Magnus Jacobsson m.fl. (KD)</note>
+        <note xml:id="i-LJpGSuvNmDo2P946x93if3">2018/19:3010 av Anders Åkesson m.fl. (C, L)</note>
+        <note xml:id="i-Ed6x79N5TdpcPEMiwJzuhJ">2018/19:3014 av Jessica Rosencrantz m.fl. (M)</note>
+        <note xml:id="i-BJfC8r5KSXJDKWqXbn2BT">med anledning av skr. 2018/19:70 Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet</note>
+        <note xml:id="i-28XRJc3mGeQ6cau8w4JyVq">2018/19:3005 av Roger Richtoff m.fl. (SD)</note>
+        <note xml:id="i-J4DhBu7BoUhqPaQ8EzY2TP">2018/19:3012 av Beatrice Ask m.fl. (M)</note>
+        <note xml:id="i-7p3bs5kk3qk8LFk79THkyG">§ 3 Kammaren åtskildes kl. 13.00 .</note>
+        <note xml:id="i-3cxvCWdRx8JKf8viGWszcp">Sammanträdet leddes av tredje vice talmannen .</note>
+        <note xml:id="i-3h4m1jsedL3MosrqDqk2ea">Vid protokollet</note>
+        <note xml:id="i-3gzhbq1LwhpKRMDH5Y4ocx">ANN LARSSON</note>
+        <note xml:id="i-VpmQU13NqKPT9yC122NJBG">/Olof Pilo</note>
+        <note xml:id="i-QgZg9QBFHh7HSzvGyB64KD">Innehållsförteckning</note>
+        <note xml:id="i-XB2nsggNV4zs6tFVYLgRB7">§ 1 Ärenden för bordläggning</note>
+        <note xml:id="i-CdBP4LA3KYCU8DMDDo9ekx">§ 2 Bordläggning</note>
+        <note xml:id="i-U5fu29H8Dy64b4E2dWb5to">§ 3 Kammaren åtskildes kl. 13.00.</note>
+        <note xml:id="i-HWWKqBuc4VfUtzKVgkXJi6">Tryck: Elanders Sverige AB, Vällingby 2019</note>
+      </div>
+    </body>
+  </text>
+</TEI>

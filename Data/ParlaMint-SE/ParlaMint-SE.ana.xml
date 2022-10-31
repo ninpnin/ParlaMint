@@ -20,10 +20,10 @@
         <edition>2.0</edition>
       </editionStmt>
       <extent>
-        <measure xml:lang="en" unit="speeches" quantity="616">616 speeches</measure>
-        <measure xml:lang="sv" unit="speeches" quantity="616">616 tal</measure>
-        <measure xml:lang="en" unit="words" quantity="88721">88721 words</measure>
-        <measure xml:lang="sv" unit="words" quantity="88721">88721 ord</measure>
+        <measure xml:lang="en" unit="speeches" quantity="167243">167243 speeches</measure>
+        <measure xml:lang="sv" unit="speeches" quantity="167243">167243 tal</measure>
+        <measure xml:lang="en" unit="words" quantity="29280826">29280826 words</measure>
+        <measure xml:lang="sv" unit="words" quantity="29280826">29280826 ord</measure>
       </extent>
       <publicationStmt>
         <publisher>
