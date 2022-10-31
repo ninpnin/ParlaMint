@@ -100,7 +100,7 @@ def people(root, person_df, mp_df, minister_df, party_aff_df, relevant_people):
         forename.text = " ".join(row["name"].split()[:-1])
         if row.get("gender") is not None:
             sex = etree.SubElement(person, "sex")
-            sex.attrib["value"] = "unknown"
+            sex.attrib["value"] = "U"
             if row.get("gender") == "man":
                 sex.attrib["value"] = "M"
             elif row.get("gender") == "woman":
