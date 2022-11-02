@@ -4,6 +4,7 @@ import argparse
 import uuid
 import base58
 import pandas as pd
+import progressbar
 
 tei_ns = "{http://www.tei-c.org/ns/1.0}"
 xml_ns = "{http://www.w3.org/XML/1998/namespace}"
@@ -16,11 +17,13 @@ def generate_and_format_uuid():
 def main(args):
     parser = etree.XMLParser(remove_blank_text=True)
     export_folder = Path("./export/xml_export.pretty/")
-    for path in export_folder.glob("*.xml"):
-        with path.open() as f:
-            root = etree.parse(f, parser).getroot()
+    for path in progressbar.progressbar(list(export_folder.glob("*.xml"))):
         newstem = path.stem.replace("_export", "")
         newpath = Path(".") / f"{newstem}.ana.xml"
+        if newpath.exists:
+            continue
+        with path.open() as f:
+            root = etree.parse(f, parser).getroot()
         unannotated_path =  Path(".") / f"{newstem}.xml"
         with unannotated_path.open() as f:
             unnann_root = etree.parse(f, parser).getroot()
@@ -74,8 +77,12 @@ def main(args):
         
         # Add IDs for 'w' elements
         for w in text.findall(f".//{args.tei_ns}w"):
-            w.attrib["lemma"] = w.attrib["baseform"]
-            w.attrib["msd"] = "UPosTag=" + w.attrib["upos"] +  w.attrib["ufeats"]
+            if "baseform" not in w.attrib:
+                print("WARNING no baseform")
+            w.attrib["lemma"] = w.attrib.get("baseform", w.text)
+            if "ufeats" not in w.attrib:
+                print("WARNING no baseform")
+            w.attrib["msd"] = "UPosTag=" + w.attrib["upos"] +  w.attrib.get("ufeats", "")
             w.attrib[f"{args.xml_ns}id"] = generate_and_format_uuid()
 
         # Add IDs for 's' elements
@@ -85,7 +92,7 @@ def main(args):
         # Format dependency parsing
         mambda_to_ud = pd.read_csv("mamba_ud.csv", na_filter = False)
         mambda_to_ud = {m: ud for m, ud, in zip(mambda_to_ud["mamba"], mambda_to_ud["ud"])}
-        print(mambda_to_ud)
+        #print(mambda_to_ud)
         for linkGrp in list(text.findall(f".//{args.tei_ns}linkGrp")):
             linkGrp.attrib[f"targFunc"] = "head argument"
             linkGrp.attrib[f"type"] = "UD-SYN"

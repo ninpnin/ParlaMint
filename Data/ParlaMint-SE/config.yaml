@@ -26,3 +26,7 @@ export:
         - swener.ne
 swener:
     binary: "hfst-swener"
+stanza:
+    batch_size: 250
+    max_sentence_length: 100
+    use_gpu: false
