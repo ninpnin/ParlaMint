@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201819--36.ana" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 36 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 36 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="245">245 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="52"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="2"/>
+          <tagUsage gi="seg" occurs="2"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2019-01-14" ana="#parla.sitting">2019-01-14</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Justering av protokoll</note>
+        <note>Protokollen för den 4 , 5 , 10 – 15 och 17 – 21 december 2018 justerades .</note>
+        <note>§ 2 Anmälan om återtagande av plats i riksdagen</note>
+        <note>T almannen meddelade</note>
+        <note>att Désirée Pethrus ( KD ) återta git sin plats i riksdagen från och med den 1 januari , varigenom uppdraget som ersättare upphört för Christian Carlsson ( KD ) ,</note>
+        <note>a tt Björn Wiechel ( S ) återta git sin plats i riksdagen från och med den 2 januari , varigenom uppdraget som ersättare upphört för Fredrik Stenberg ( S ) samt</note>
+        <note>att Kalle Olsson ( S ) återtagit sin plats i riksdagen från och med den 14 januari , varigenom uppdraget som ersättare upphört för Maria Jacobsson ( S ) .</note>
+        <note>§ 3 Anmälan om ersättare</note>
+        <note>Talmannen anmälde att Erica Nådin ( S ) skulle tjänstgöra som ersättare för Teresa Carvalho ( S ) under tiden för henne s ledighet den 11 februari – 30 november .</note>
+        <note>§ 4 Anmälan om kompletteringsval</note>
+        <note>T almannen meddelade att Krist demokraternas riksdagsgrupp anmält Désirée Pethrus som suppleant i arbetsmarknadsutskottet .</note>
+        <note>T almannen förklarade vald till</note>
+        <note>suppleant i arbetsmarknadsutskottet</note>
+        <note>Désirée Pethrus ( KD )</note>
+        <note>§ 5 Anmälan om faktapromemorior</note>
+        <u ana="#regular" who="#unknown" xml:id="i-H99LWx53hVmu2sBfGsz3A7">
+          <seg xml:id="i-FWB5sDQE1ZrXT5U1yq3kct">
+            <s xml:id="i-DZmkNgm1NkkKCr4JmsPfYh">
+              <w lemma="Talmannen" msd="UPosTag=X" xml:id="i-DZmT5rEejoXHa8t7kjnL1b">Talmannen</w>
+              <w lemma="anmäl" msd="UPosTag=X" xml:id="i-DZme8NAixcYpEx64xyTWzh">anmäl</w>
+              <w lemma="de" msd="UPosTag=X" xml:id="i-DZmeQC3gsoSWyPh4NMbMEd">de</w>
+              <w lemma="att" msd="UPosTag=X" xml:id="i-DZmeZMT66H7cEofwvD3Fau">att</w>
+              <w lemma="följande" msd="UPosTag=X" xml:id="i-DZmejMAS9LwXSM76hW59RP">följande</w>
+              <w lemma="faktapromemorior" msd="UPosTag=X" xml:id="i-DZmhLwUWcWdwHjWtsnjXw3">faktapromemorior</w>
+              <w lemma="om" msd="UPosTag=X" xml:id="i-DZmhXmVoWAcgRQQJtXMRFj">om</w>
+              <w lemma="förslag" msd="UPosTag=X" xml:id="i-DZmhg6bFt48wkgvwCwDL7o">förslag</w>
+              <w lemma="från" msd="UPosTag=X" xml:id="i-DZmhr6Jbw7xrxEN5zEFDxH">från</w>
+              <w lemma="Europeiska" msd="UPosTag=X" xml:id="i-DZmhzRQ4K1V8HWtiJe78pM">Europeiska</w>
+              <w lemma="kommissionen" msd="UPosTag=X" xml:id="i-DZmi8kVWgu1PcoRLd3y3gR">kommissionen</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-DZmiH5ay4nXex5wxwTpxYV">hade</w>
+              <w lemma="kommit" msd="UPosTag=X" xml:id="i-DZmiQaNUc5u6MF2L2S6svM">kommit</w>
+              <w lemma="in" msd="UPosTag=X" xml:id="i-DZmiZjmspZaBcf1DaHYnGd">in</w>
+              <w lemma="och" msd="UPosTag=X" xml:id="i-DZmihEZPMrwd1p5afFpheV">och</w>
+              <w lemma="överlämnats" msd="UPosTag=X" xml:id="i-DZmirPxnaLciHE4UD7Gbzm">överlämnats</w>
+              <w lemma="till" msd="UPosTag=X" xml:id="i-DZmizj4ExE8ycWb6XX8Wrq">till</w>
+              <w lemma="utskott" msd="UPosTag=X" xml:id="i-DZmj8DqkVXWR1ffTcVQSEh">utskott</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-DZmjHPF9i1BWH5eMALrLay">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-DZmkNgm1NkkKCr4JmsPfYh #i-DZmT5rEejoXHa8t7kjnL1b"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZme8NAixcYpEx64xyTWzh"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmeQC3gsoSWyPh4NMbMEd"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmeZMT66H7cEofwvD3Fau"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmejMAS9LwXSM76hW59RP"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmhLwUWcWdwHjWtsnjXw3"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmhXmVoWAcgRQQJtXMRFj"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmhg6bFt48wkgvwCwDL7o"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmhr6Jbw7xrxEN5zEFDxH"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmhzRQ4K1V8HWtiJe78pM"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmi8kVWgu1PcoRLd3y3gR"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmiH5ay4nXex5wxwTpxYV"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmiQaNUc5u6MF2L2S6svM"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmiZjmspZaBcf1DaHYnGd"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmihEZPMrwd1p5afFpheV"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmirPxnaLciHE4UD7Gbzm"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmizj4ExE8ycWb6XX8Wrq"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmj8DqkVXWR1ffTcVQSEh"/>
+                <link ana="ud-syn:dep" target="#i-DZmT5rEejoXHa8t7kjnL1b #i-DZmjHPF9i1BWH5eMALrLay"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>2018 / 19:FPM20 Meddelande om den inre marknaden COM ( 2018 ) 772 till näringsutskottet</note>
+        <note>2018 / 19:FPM21 EU:s strategi för Indien JOIN ( 2018 ) 28 till utrikesutskottet</note>
+        <note>2018 / 19:FPM22 Mot en förstärkt internationell roll för euron COM ( 2018 ) 796 till finansutskottet</note>
+        <note>§ 6 Ärende för hänvisning till utskott</note>
+        <u ana="#regular" who="#unknown" xml:id="i-65WTmCu5C1crzkJavBz1sh">
+          <seg xml:id="i-WGR9Li4D3NahAHKLZEhAZe">
+            <s xml:id="i-DZmkWBYWv47kc18frqfavZ">
+              <w lemma="Följande" msd="UPosTag=X" xml:id="i-DZmjQt2fFJYwgEiiFK8Fxq">Följande</w>
+              <w lemma="dokument" msd="UPosTag=X" xml:id="i-DZmjZD87dC5D1XFLZizApu">dokument</w>
+              <w lemma="hänvisades" msd="UPosTag=X" xml:id="i-DZmjhYDa15bULomxt8r5gy">hänvisades</w>
+              <w lemma="till" msd="UPosTag=X" xml:id="i-DZmjrhcyDZGZcDkrRzHz3F">till</w>
+              <w lemma="utskott" msd="UPosTag=X" xml:id="i-DZmjzCQUkre11NqDWxZuR7">utskott</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-DZmk8XVw8kAGLfMqqNRpHB">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-DZmkWBYWv47kc18frqfavZ #i-DZmjQt2fFJYwgEiiFK8Fxq"/>
+                <link ana="ud-syn:dep" target="#i-DZmjQt2fFJYwgEiiFK8Fxq #i-DZmjZD87dC5D1XFLZizApu"/>
+                <link ana="ud-syn:dep" target="#i-DZmjQt2fFJYwgEiiFK8Fxq #i-DZmjhYDa15bULomxt8r5gy"/>
+                <link ana="ud-syn:dep" target="#i-DZmjQt2fFJYwgEiiFK8Fxq #i-DZmjrhcyDZGZcDkrRzHz3F"/>
+                <link ana="ud-syn:dep" target="#i-DZmjQt2fFJYwgEiiFK8Fxq #i-DZmjzCQUkre11NqDWxZuR7"/>
+                <link ana="ud-syn:dep" target="#i-DZmjQt2fFJYwgEiiFK8Fxq #i-DZmk8XVw8kAGLfMqqNRpHB"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Skrivelse</note>
+        <note>2018 / 19:20 till finansutskottet</note>
+        <note>§ 7 Bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Propositioner</note>
+        <note>2018 / 19:32 Höjda och miljödifferentierade vägavgifter inom eurovinjettsamarbetet</note>
+        <note>2018 / 19:33 Behandling av personuppgifter samt registrering och användning av fordon på vägtrafikområdet</note>
+        <note>Skrivelser</note>
+        <note>2018 / 19:29 Riksrevisionens rapport om nedsatt moms på livsmedel</note>
+        <note>2018 / 19:30 Riksrevisionens rapport om investeringssparkonto</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2018 ) 892 Förslag till Europaparlamentets och rådets förordning om möjliggörande av en fortsättning för de territoriella samarbetsprogrammen Peace IV ( Irland – Förenade kungariket ) och Förenade kungariket – Irland ( Ireland – North Ireland – Scotland ) i samband med Förenade kungarikets utträde ur Europeiska unionen</note>
+        <note>COM ( 2018 ) 893 Förslag till Europaparlamentets och rådets förordning om gemensamma bestämmelser för grundläggande flygförbindelser med anledning av Förenade konungariket Storbritannien och Nordirlands utträde ur Europeiska unionen</note>
+        <note>COM ( 2018 ) 894 Förslag till Europaparlamentets och rådets förordning om vissa aspekter på luftfartssäkerhet med anledning av Förenade ko ­ nungariket Storbritannien och Nordirlands utträde ur Europeiska unio ­ nen</note>
+        <note>COM ( 2018 ) 895 Förslag till Europaparlamentets och rådets förordning om gemensamma bestämmelser för att säkerställa grundläggande förbin ­ delser vad gäller godstransporter på väg med anledning av Förenade konungariket Storbritannien och Nordirlands utträde ur Europeiska unionen</note>
+        <note>Motion</note>
+        <note>med anledning av skr . 2018 / 19:23 Riksrevisionens rapport om Trafikverkets stöd till forskning och innovation</note>
+        <note>2018 / 19:3001 av Patrik Jönsson m.fl. ( SD )</note>
+        <note>§ 8 Kammaren åtskildes kl. 16.02 .</note>
+        <note>Sammanträdet leddes av talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANNA ASPEGREN</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Anmälan om återtagande av plats i riksdagen</note>
+        <note>§ 3 Anmälan om ersättare</note>
+        <note>§ 4 Anmälan om kompletteringsval</note>
+        <note>§ 5 Anmälan om faktapromemorior</note>
+        <note>§ 6 Ärende för hänvisning till utskott</note>
+        <note>§ 7 Bordläggning</note>
+        <note>§ 8 Kammaren åtskildes kl. 16.02 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2019</note>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201819--23.ana" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 23 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 23 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="356">356 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="42"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="2"/>
+          <tagUsage gi="seg" occurs="2"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2018-12-04" ana="#parla.sitting">2018-12-04</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Justering av protokoll</note>
+        <note>Protokollen för den 12 och 13 november justerades .</note>
+        <note>§ 2 Anmälan om faktapromemoria</note>
+        <u ana="#regular" who="#unknown" xml:id="i-PS6f5XNdELdgpzfNuQpLxs">
+          <seg xml:id="i-RQKjunLrhWvpRQCSM7m7FQ">
+            <s xml:id="i-QDP7t89gMcxvgy9L7Aw2jo">
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing" lemma="Andre" xml:id="i-QDNsJi723xW6SYYmtR627o">Andre</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="vice" xml:id="i-QDNy7D6zVqyyUTUsWdrSbP">vice</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="talman" xml:id="i-QDNyLY47uGRCQWj5DhEJNh">talmannen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="anmäla" xml:id="i-QDNyWXmTxLF7c4ADzzGCDB">anmälde</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-QDNygXUp1Q52obbNnHJ63f">att</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-QDNyrXCA4Ttx192XZaKyt9">följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="faktapromemoria" xml:id="i-QDNyzrHcSMRDLRZ9szBtkD">faktapromemoria</w>
+              <w msd="UPosTag=ADP" lemma="om" xml:id="i-QDNz9BP4pEwUfi5nCQ3ocH">om</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="förslag" xml:id="i-QDNzHWUXC8TjzzcQWouiUM">förslag</w>
+              <w msd="UPosTag=ADP" lemma="från" xml:id="i-QDNzRqZya1z1LH92qDmdLR">från</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="europeisk" xml:id="i-QDNzaAfRwuWGfZff9ddYCV">Europeiska</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="kommissio" xml:id="i-QDNzhfSwVCsi4ik2EbuTaM">kommissio</w>
+              <name>
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="­" xml:id="i-QDNzqzYPs6PyQ1GeZ1mNSR">­</w>
+              </name>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="nen" xml:id="i-QDP119wo5a54fRFY6sDGnh">nen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-QDP19V3FTTbKzhnARH5Bem">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="komma" xml:id="i-QDP1Hp8hqM7bKzJnjgw6Wq">kommit</w>
+              <w msd="UPosTag=PART" lemma="in" xml:id="i-QDP1RJvDNeV2j9P9pfD1th">in</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-QDP1Ze1fkY1J4Run954vkm">och</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="överlämna" xml:id="i-QDP1h8oBHqNjTaz9E3Lr8d">överlämnats</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-QDP1qTtdfitznsWmYTCkzh">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="utskott" xml:id="i-QDP1zdJ2tCa64HVf6JefLy">utskott</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-QDP2885YRVwXTSa2BGvaiq">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-QDP7t89gMcxvgy9L7Aw2jo #i-QDNsJi723xW6SYYmtR627o"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNy7D6zVqyyUTUsWdrSbP"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNyLY47uGRCQWj5DhEJNh"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNyWXmTxLF7c4ADzzGCDB"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNygXUp1Q52obbNnHJ63f"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNyrXCA4Ttx192XZaKyt9"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNyzrHcSMRDLRZ9szBtkD"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNz9BP4pEwUfi5nCQ3ocH"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNzHWUXC8TjzzcQWouiUM"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNzRqZya1z1LH92qDmdLR"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNzaAfRwuWGfZff9ddYCV"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNzhfSwVCsi4ik2EbuTaM"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDNzqzYPs6PyQ1GeZ1mNSR"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP119wo5a54fRFY6sDGnh"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP19V3FTTbKzhnARH5Bem"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP1Hp8hqM7bKzJnjgw6Wq"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP1RJvDNeV2j9P9pfD1th"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP1Ze1fkY1J4Run954vkm"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP1h8oBHqNjTaz9E3Lr8d"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP1qTtdfitznsWmYTCkzh"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP1zdJ2tCa64HVf6JefLy"/>
+                <link ana="ud-syn:dep" target="#i-QDNsJi723xW6SYYmtR627o #i-QDP2885YRVwXTSa2BGvaiq"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>2018 / 19:FPM14 Meddelande om hormonstörande ämnen COM ( 2018 ) 734 till miljö- och jordbruksutskottet</note>
+        <note>§ 3 Ärenden för bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Sammansatta utrikes- och försvarsutskottets betänkanden</note>
+        <note>2018 / 19:UFöU1 Fortsatt svenskt deltagande i Natos utbildnings- och rådgivningsinsats Resolute Support Mission i Afghanistan</note>
+        <note>2018 / 19:UFöU2 Fortsatt svenskt deltagande i den militära utbildningsinsatsen i Irak</note>
+        <note>Utrikesutskottets utlåtande</note>
+        <note>2018 / 19:UU4 Kommissionens arbetsprogram 2019</note>
+        <note>Skatteutskottets betänkande</note>
+        <note>2018 / 19:SkU5 Ytterligare ändringar vad gäller automatiskt utbyte av upplysningar om finansiella konton och några andra skattefrågor</note>
+        <note>§ 4 Bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Skrivelse</note>
+        <note>2018 / 19:19 Redovisning av användningen av hemliga tvångsmedel under 2017</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2018 ) 734 Meddelande från kommissionen till Europaparlamentet , rådet , Europeiska ekonomiska och sociala kommittén samt Regionkommittén Mot en heltäckande EU-ram för hormonstörande ämnen</note>
+        <note>Motioner</note>
+        <note>med anledning av skr . 2018 / 19:14 Riksrevisionens rapport om bedömningen av arbetsförmåga vid psykisk ohälsa</note>
+        <note>2018 / 19:1883 av Johan Forssell m.fl. ( M )</note>
+        <note>2018 / 19:1948 av Solveig Zander ( C )</note>
+        <note>2018 / 19:2149 av Julia Kronlid m.fl. ( SD )</note>
+        <note>§ 5 Anmälan om uteblivet svar på skriftlig fråga</note>
+        <u ana="#regular" who="#unknown" xml:id="i-5wiGcC1ZXfpLqrhxUKc7Qf">
+          <seg xml:id="i-7xy8Yqqhc9TLXegfZXfKGw">
+            <s xml:id="i-QDP83HZ5a6e1xP8Df2Nw65">
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing" lemma="Andre" xml:id="i-QDP2Fcs3xoJxrbePGFCW6h">Andre</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="vice" xml:id="i-QDP2QnGTBGz481dGp6eQSy">vice</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="talman" xml:id="i-QDP2Z7MuZAWKTJ9u8WWKK3">talmannen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="anmäla" xml:id="i-QDP2gc9R6TskrTEGDUnEgu">anmälde</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-QDP2p6vvdmFCFcJdJT4A4m">att</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-QDP2z6eGgq57T9jn5k63uF">följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="fråga" xml:id="i-QDP38Rjj4ibNnSGQQ9wxmK">fråga</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-QDP3FvXEc1xpBbLmV8Dt9B">för</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="skriftlig" xml:id="i-QDP3QFcgyuV5WssPoY5o1F">skriftligt</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="svar" xml:id="i-QDP3Yai9Mo1LrAQ27wwhsK">svar</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-QDP3guobjgXcBSveSMocjP">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="framställa" xml:id="i-QDP3pQb7Gyu3ac11XL5Y7F">framställts</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-QDP3wuNcpHGUym5NcJMTV7">och</w>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-QDP46EU5CAnkK3bzviDNMB">inte</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-QDP4EZZXa4K1eL8dF85HDF">skulle</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="be" xml:id="i-QDP4N4M37MgT3VCzL6MCb7">be</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="­" xml:id="i-QDP4WPSVVFCiNmjceWD7TB">­</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="svara" xml:id="i-QDP4dtE12Ya9mvoyjUV2q3">svaras</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-QDP4nDKTQS6R7DLc3tLwh7">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:amod" target="#i-QDP2Z7MuZAWKTJ9u8WWKK3 #i-QDP2QnGTBGz481dGp6eQSy"/>
+                <link ana="ud-syn:nsubj" target="#i-QDP2gc9R6TskrTEGDUnEgu #i-QDP2Z7MuZAWKTJ9u8WWKK3"/>
+                <link ana="ud-syn:obj" target="#i-QDP2gc9R6TskrTEGDUnEgu #i-QDP2p6vvdmFCFcJdJT4A4m"/>
+                <link ana="ud-syn:det" target="#i-QDP38Rjj4ibNnSGQQ9wxmK #i-QDP2z6eGgq57T9jn5k63uF"/>
+                <link ana="ud-syn:nsubj" target="#i-QDP3guobjgXcBSveSMocjP #i-QDP38Rjj4ibNnSGQQ9wxmK"/>
+                <link ana="ud-syn:nmod" target="#i-QDP38Rjj4ibNnSGQQ9wxmK #i-QDP3FvXEc1xpBbLmV8Dt9B"/>
+                <link ana="ud-syn:amod" target="#i-QDP3Yai9Mo1LrAQ27wwhsK #i-QDP3QFcgyuV5WssPoY5o1F"/>
+                <link ana="ud-syn:advmod" target="#i-QDP3FvXEc1xpBbLmV8Dt9B #i-QDP3Yai9Mo1LrAQ27wwhsK"/>
+                <link ana="ud-syn:advmod" target="#i-QDP2p6vvdmFCFcJdJT4A4m #i-QDP3guobjgXcBSveSMocjP"/>
+                <link ana="ud-syn:dep" target="#i-QDP3guobjgXcBSveSMocjP #i-QDP3pQb7Gyu3ac11XL5Y7F"/>
+                <link ana="ud-syn:advmod" target="#i-QDP2p6vvdmFCFcJdJT4A4m #i-QDP3wuNcpHGUym5NcJMTV7"/>
+                <link ana="ud-syn:dep" target="#i-QDP4EZZXa4K1eL8dF85HDF #i-QDP46EU5CAnkK3bzviDNMB"/>
+                <link ana="ud-syn:dep" target="#i-QDP3wuNcpHGUym5NcJMTV7 #i-QDP4EZZXa4K1eL8dF85HDF"/>
+                <link ana="ud-syn:dep" target="#i-QDP4EZZXa4K1eL8dF85HDF #i-QDP4N4M37MgT3VCzL6MCb7"/>
+                <link ana="ud-syn:obj" target="#i-QDP4N4M37MgT3VCzL6MCb7 #i-QDP4WPSVVFCiNmjceWD7TB"/>
+                <link ana="ud-syn:xcomp" target="#i-QDP4N4M37MgT3VCzL6MCb7 #i-QDP4dtE12Ya9mvoyjUV2q3"/>
+                <link ana="ud-syn:punct" target="#i-QDP4dtE12Ya9mvoyjUV2q3 #i-QDP4nDKTQS6R7DLc3tLwh7"/>
+                <link ana="ud-syn:root" target="#i-QDP83HZ5a6e1xP8Df2Nw65 #i-QDP2Fcs3xoJxrbePGFCW6h"/>
+                <link ana="ud-syn:dep" target="#i-QDP2Fcs3xoJxrbePGFCW6h #i-QDP2gc9R6TskrTEGDUnEgu"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 28 november</note>
+        <note>2018 / 19:4 Situationen i Iran</note>
+        <note>av Amineh Kakabaveh ( V )</note>
+        <note>till utrikesminister Margot Wallström ( S )</note>
+        <note>§ 6 Kammaren åtskildes kl. 13.01 .</note>
+        <note>Sammanträdet leddes av andre vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANNALENA HANELL</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Anmälan om faktapromemoria</note>
+        <note>§ 3 Ärenden för bordläggning</note>
+        <note>§ 4 Bordläggning</note>
+        <note>§ 5 Anmälan om uteblivet svar på skriftlig fråga</note>
+        <note>§ 6 Kammaren åtskildes kl. 13.01 .</note>
+        <note>Tryck : Ela nders Sverige AB , Vällingby 2019</note>
+      </div>
+    </body>
+  </text>
+</TEI>

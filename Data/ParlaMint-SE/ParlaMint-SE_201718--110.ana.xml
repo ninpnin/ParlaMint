@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201718--110.ana" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2017/18 nr. 110 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2017/18 nr. 110 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201718" ana="#parla.uni #parla.term">2017/18</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="996">996 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="281"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="10"/>
+          <tagUsage gi="seg" occurs="10"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2018-05-14" ana="#parla.sitting">2018-05-14</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Justering av protokoll</note>
+        <note>Protokollen för den 16 – 20 april justerades .</note>
+        <note>§ 2 Avsägelse</note>
+        <note>Förste vice t almannen meddelade att Sara Karlsson ( S ) avsagt sig uppdraget som ledamot av riksdagen .</note>
+        <note>Kammaren biföll denna avsägelse .</note>
+        <note>§ 3 Meddelande om frågestund</note>
+        <note>Förste vice talmannen meddelade att frågestund skulle äga rum torsdagen den 17 maj kl. 14.00 .</note>
+        <note>§ 4 Anmälan om subsidiaritetsprövningar</note>
+        <note>Förste vice talmannen anmälde att utdrag ur följande protokoll i ärenden om subsidiaritetsprövning av EU-förslag hade kommit in :</note>
+        <note>prot . 2017 / 18:39 för torsdagen den 19 april från finansutskottet ,</note>
+        <note>prot . 2017 / 18:40 för tisdagen den 24 april från finansutskottet ,</note>
+        <note>prot . 2017 / 18:41 för torsdagen den 3 maj från finansutskottet ,</note>
+        <note>prot . 2017 / 18:24 för tisdagen den 24 april från skatte ­ utskottet och</note>
+        <note>prot . 2017 / 18:31 för tisdagen den 24 april från socialförsäkringsutskottet .</note>
+        <note>§ 5 Anmälan om fördröjda svar på interpella ­ tioner</note>
+        <u ana="#regular" who="#unknown" xml:id="i-VdM3DWMCwxnFUxxgYj5HEh">
+          <seg xml:id="i-6AH9b7J75VTNMb6W4QSUjW">
+            <s xml:id="i-xujXKgeK1yiY6oVUphyBb">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-xsqudzorUPY3HYwacMa4M">Följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="skrivelse" xml:id="i-xtT6J3EK7EJW6vMMQBsZF">skrivelser</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-xtTYwwV7x6kNDQkmWwb7s">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="komma" xml:id="i-xtTrSSLiKJ6xuvGdnFQLD">kommit</w>
+              <w msd="UPosTag=PART" lemma="in" xml:id="i-xtcbgs8tuyQKAgCmSA1WD">in</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-xtcxWbmqdn4eNzmZTonfP">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:det" target="#i-xtT6J3EK7EJW6vMMQBsZF #i-xsqudzorUPY3HYwacMa4M"/>
+                <link ana="ud-syn:dep" target="#i-xtTYwwV7x6kNDQkmWwb7s #i-xtTrSSLiKJ6xuvGdnFQLD"/>
+                <link ana="ud-syn:dep" target="#i-xtTrSSLiKJ6xuvGdnFQLD #i-xtcbgs8tuyQKAgCmSA1WD"/>
+                <link ana="ud-syn:punct" target="#i-xtTrSSLiKJ6xuvGdnFQLD #i-xtcxWbmqdn4eNzmZTonfP"/>
+                <link ana="ud-syn:root" target="#i-xujXKgeK1yiY6oVUphyBb #i-xtT6J3EK7EJW6vMMQBsZF"/>
+                <link ana="ud-syn:dep" target="#i-xtT6J3EK7EJW6vMMQBsZF #i-xtTYwwV7x6kNDQkmWwb7s"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Interpellation 2017 / 18:511</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2017 / 18:511 Information till försäkringstagare</note>
+        <note>av Lars Beckman ( M )</note>
+        <u ana="#regular" who="#unknown" xml:id="i-3NZTyrGgUVS7ekCr6wjaWh">
+          <seg xml:id="i-GPy4uABaSNY5Ck7n2hn2th">
+            <s xml:id="i-xujjpKpsrG7Y2bRxSVqUh">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-xtdFAngbQpbJx42CHXcPX">Interpellationen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-xtdWzfeWbiJ3Pf1bffSdT">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-xthCDsgyLfrxHaEvbhB8R">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="besvara" xml:id="i-xthU3ketXZZgjBEKyq1NM">besvaras</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="fredag" xml:id="i-xthiD1j8Y9cYushGUnrds">fredagen</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-xthwXxrXxaqUy7tyYAiRB">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="8:e" xml:id="i-xtmRw9c73ZfGC9iHjaZbT">8</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="juni" xml:id="i-xtmhm2a2ETMzdkhh7iPqP">juni</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2018" xml:id="i-xtmvFfkb4jkzZYeAjWG8V">2018</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-xtnAQvpq5KorkF77EU7Q1">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-xtdWzfeWbiJ3Pf1bffSdT #i-xtdFAngbQpbJx42CHXcPX"/>
+                <link ana="ud-syn:dep" target="#i-xtdWzfeWbiJ3Pf1bffSdT #i-xthCDsgyLfrxHaEvbhB8R"/>
+                <link ana="ud-syn:punct" target="#i-xthCDsgyLfrxHaEvbhB8R #i-xthU3ketXZZgjBEKyq1NM"/>
+                <link ana="ud-syn:advmod" target="#i-xthU3ketXZZgjBEKyq1NM #i-xthiD1j8Y9cYushGUnrds"/>
+                <link ana="ud-syn:det" target="#i-xtmhm2a2ETMzdkhh7iPqP #i-xthwXxrXxaqUy7tyYAiRB"/>
+                <link ana="ud-syn:det" target="#i-xtmhm2a2ETMzdkhh7iPqP #i-xtmRw9c73ZfGC9iHjaZbT"/>
+                <link ana="ud-syn:advmod" target="#i-xthU3ketXZZgjBEKyq1NM #i-xtmhm2a2ETMzdkhh7iPqP"/>
+                <link ana="ud-syn:nmod" target="#i-xtmhm2a2ETMzdkhh7iPqP #i-xtmvFfkb4jkzZYeAjWG8V"/>
+                <link ana="ud-syn:root" target="#i-xujjpKpsrG7Y2bRxSVqUh #i-xtdWzfeWbiJ3Pf1bffSdT"/>
+                <link ana="ud-syn:dep" target="#i-xtdWzfeWbiJ3Pf1bffSdT #i-xtnAQvpq5KorkF77EU7Q1"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <u ana="#regular" who="#unknown" xml:id="i-61b5e02b7c3098c9-0">
+          <seg xml:id="i-6E2K5poUcPppLDZrrZD7iG">
+            <s xml:id="i-xujtyjE6KwCoSaKWHwjpy">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="skäl" xml:id="i-xtsXveS9JEttobKnDeoHP">Skälet</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-xtsokXQ4V8bdFCKBbndXK">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="dröjsmål" xml:id="i-xtt35UXTuZpZJSWtfAVJd">dröjsmålet</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-xttGQResL13VMgibiYM5w">är</w>
+              <w msd="UPosTag=ADP" lemma="sedan" xml:id="i-xu3boYDQ4vE6t1RETUbCR">sedan</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-xu3qxoHe5WGy4htAxSSTw">tidigare</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur|Tense=Past|VerbForm=Part" lemma="inbokad" xml:id="i-xu46xNJigF9mNrcLtzHDf">inbokade</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="arrangemang" xml:id="i-xu4KT1VHWXYmJeYpWn9Wm">arrangemang</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-xuDUrQhmBcpBHY6fxgVnm">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-xttGQResL13VMgibiYM5w #i-xtsXveS9JEttobKnDeoHP"/>
+                <link ana="ud-syn:nmod" target="#i-xtsXveS9JEttobKnDeoHP #i-xtsokXQ4V8bdFCKBbndXK"/>
+                <link ana="ud-syn:advmod" target="#i-xtsokXQ4V8bdFCKBbndXK #i-xtt35UXTuZpZJSWtfAVJd"/>
+                <link ana="ud-syn:advmod" target="#i-xttGQResL13VMgibiYM5w #i-xu3boYDQ4vE6t1RETUbCR"/>
+                <link ana="ud-syn:advmod" target="#i-xu46xNJigF9mNrcLtzHDf #i-xu3qxoHe5WGy4htAxSSTw"/>
+                <link ana="ud-syn:amod" target="#i-xu4KT1VHWXYmJeYpWn9Wm #i-xu46xNJigF9mNrcLtzHDf"/>
+                <link ana="ud-syn:advmod" target="#i-xu3boYDQ4vE6t1RETUbCR #i-xu4KT1VHWXYmJeYpWn9Wm"/>
+                <link ana="ud-syn:punct" target="#i-xttGQResL13VMgibiYM5w #i-xuDUrQhmBcpBHY6fxgVnm"/>
+                <link ana="ud-syn:root" target="#i-xujtyjE6KwCoSaKWHwjpy #i-xttGQResL13VMgibiYM5w"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Stockholm den 3 maj 2018</note>
+        <note>Justitiedepartementet</note>
+        <note>Heléne Fritzon</note>
+        <note>Interpellation 2017 / 18:514</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2017 / 18:514 Validering för nyanlända</note>
+        <note>av Lotta Finstorp ( M )</note>
+        <u ana="#regular" who="#unknown" xml:id="i-vv1ZZ5Lzt9riVxBsTQHm4">
+          <seg xml:id="i-FeNk1fdZGKYDHS4EpZnuZJ">
+            <s xml:id="i-xuk498dJocJ4rZD49PeBF">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-xuDkgHfgNWWuj965LpL2h">Interpellationen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-xuDz1Eo5nwjqnPHnQCBp1">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-xuJTsmnTWRb1sfE633RYZ">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="besvara" xml:id="i-xuJjhekNhKHkKGDVRBFnV">besvaras</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="fredag" xml:id="i-xuJxCHvwXbgkF49y2y85b">fredagen</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-xuKBXF4Lx2ugJJMg6Lyru">den</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="25" xml:id="i-xuKQ1tEunKJgE6J9i8rA1">25</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="maj" xml:id="i-xuKcWXRUcbhg9tEdKviT7">maj</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2018" xml:id="i-xuKq1Ac3St6g5gB6wiakD">2018</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-xuL3VoncHAVg1U7aZWT3K">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-xuDz1Eo5nwjqnPHnQCBp1 #i-xuDkgHfgNWWuj965LpL2h"/>
+                <link ana="ud-syn:dep" target="#i-xuDz1Eo5nwjqnPHnQCBp1 #i-xuJTsmnTWRb1sfE633RYZ"/>
+                <link ana="ud-syn:punct" target="#i-xuJTsmnTWRb1sfE633RYZ #i-xuJjhekNhKHkKGDVRBFnV"/>
+                <link ana="ud-syn:advmod" target="#i-xuJjhekNhKHkKGDVRBFnV #i-xuJxCHvwXbgkF49y2y85b"/>
+                <link ana="ud-syn:det" target="#i-xuKcWXRUcbhg9tEdKviT7 #i-xuKBXF4Lx2ugJJMg6Lyru"/>
+                <link ana="ud-syn:det" target="#i-xuKcWXRUcbhg9tEdKviT7 #i-xuKQ1tEunKJgE6J9i8rA1"/>
+                <link ana="ud-syn:advmod" target="#i-xuJjhekNhKHkKGDVRBFnV #i-xuKcWXRUcbhg9tEdKviT7"/>
+                <link ana="ud-syn:nmod" target="#i-xuKcWXRUcbhg9tEdKviT7 #i-xuKq1Ac3St6g5gB6wiakD"/>
+                <link ana="ud-syn:punct" target="#i-xuDz1Eo5nwjqnPHnQCBp1 #i-xuL3VoncHAVg1U7aZWT3K"/>
+                <link ana="ud-syn:root" target="#i-xuk498dJocJ4rZD49PeBF #i-xuDz1Eo5nwjqnPHnQCBp1"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <u ana="#regular" who="#unknown" xml:id="i-61b5e02b7c3098c9-2">
+          <seg xml:id="i-4pvCayJxapn7TuDQqNeSmy">
+            <s xml:id="i-xukCUE5gh8ZQ95qNZFZ3K">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="skäl" xml:id="i-xuLJVNogsuNUKcqkW4Ho3">Skälet</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-xuLWz1zFiBmUFQnE7rA69">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="dröjsmål" xml:id="i-xuLkJy7f8czQJeywBE1sT">dröjsmålet</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-xuLxocJDxuPQESvQo1tAZ">är</w>
+              <w msd="UPosTag=ADV" lemma="redan" xml:id="i-xuMC8ZRdPLcLHh87rPjws">redan</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur|Tense=Past|VerbForm=Part" lemma="inbokad" xml:id="i-xuMSHpVsPvfCUPb4MMbDP">inbokade</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="engagemang" xml:id="i-xuMenTgSED4CQBXXy9TWV">engagemang</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-xuV3jobsUafpaNmt9xty3">och</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="resa" xml:id="i-xuVKZgZnfUNZ1ymHY6jCy">resor</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-xuVY4KkMVkmYwmhm9tbW5">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-xuLxocJDxuPQESvQo1tAZ #i-xuLJVNogsuNUKcqkW4Ho3"/>
+                <link ana="ud-syn:nmod" target="#i-xuLJVNogsuNUKcqkW4Ho3 #i-xuLWz1zFiBmUFQnE7rA69"/>
+                <link ana="ud-syn:advmod" target="#i-xuLWz1zFiBmUFQnE7rA69 #i-xuLkJy7f8czQJeywBE1sT"/>
+                <link ana="ud-syn:advmod" target="#i-xuLxocJDxuPQESvQo1tAZ #i-xuMC8ZRdPLcLHh87rPjws"/>
+                <link ana="ud-syn:amod" target="#i-xuV3jobsUafpaNmt9xty3 #i-xuMSHpVsPvfCUPb4MMbDP"/>
+                <link ana="ud-syn:dep" target="#i-xuV3jobsUafpaNmt9xty3 #i-xuMenTgSED4CQBXXy9TWV"/>
+                <link ana="ud-syn:dep" target="#i-xuLxocJDxuPQESvQo1tAZ #i-xuV3jobsUafpaNmt9xty3"/>
+                <link ana="ud-syn:dep" target="#i-xuV3jobsUafpaNmt9xty3 #i-xuVKZgZnfUNZ1ymHY6jCy"/>
+                <link ana="ud-syn:punct" target="#i-xuLxocJDxuPQESvQo1tAZ #i-xuVY4KkMVkmYwmhm9tbW5"/>
+                <link ana="ud-syn:root" target="#i-xukCUE5gh8ZQ95qNZFZ3K #i-xuLxocJDxuPQESvQo1tAZ"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Stockholm den 3 maj 2018</note>
+        <note>Utbildnings departementet</note>
+        <note>Anna Ekström</note>
+        <note>Interpellation 2017 / 18:515</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2017 / 18:515 Statliga utvecklingsinsatser i Sörmland</note>
+        <note>av Lotta Finstorp ( M )</note>
+        <u ana="#regular" who="#unknown" xml:id="i-DeDtVv1nQivgFUPVrnwcPL">
+          <seg xml:id="i-NBUfLkhLrvhgywyhi8Arw6">
+            <s xml:id="i-xukLoKY4aepjRcTgy7TuP">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-xuVmPGskvBzV11uUDGTHP">Interpellationen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-xuVziE1ALdDR4G7BGeK4h">har</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="överlämna" xml:id="i-xuWE3B8Zm4SM7WJtL2Ar1">överlämnats</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-xuWSXpK8bLqM3JFMwp397">till</w>
+              <w msd="UPosTag=NOUN|Abbr=Yes" lemma="sr" xml:id="i-xuWhXPLDC5i9MSyXtMstq">sr</w>
+              <name>
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="Bucht" xml:id="i-xuWxWxMHnpawfbhhpuieZ">Bucht</w>
+              </name>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-xuXBquUhDFosiquQtHaRs">och</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-xuXRArc6dh2on677wfSDB">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-xuXcqBqpspbsaRnN7sK25">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="besvara" xml:id="i-xuXqKq2Pi6zsWDiqjfBKB">besvaras</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="torsdag" xml:id="i-xuY4en9o8YDoZTvYo336V">torsdagen</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-xuYH9RLMxpcoVFs2QpuPb">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="7:e" xml:id="i-xuYVe4Wvo71oR3oW2cmgh">7</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="juni" xml:id="i-xuYi8hhVdPQoLqjyeQdyo">juni</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2018" xml:id="i-xuYvdLt4TfooGdgTGCWGu">2018</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-xuZ97z4dHxCoCRcvszNa1">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-xuVziE1ALdDR4G7BGeK4h #i-xuVmPGskvBzV11uUDGTHP"/>
+                <link ana="ud-syn:dep" target="#i-xuXBquUhDFosiquQtHaRs #i-xuVziE1ALdDR4G7BGeK4h"/>
+                <link ana="ud-syn:dep" target="#i-xuVziE1ALdDR4G7BGeK4h #i-xuWE3B8Zm4SM7WJtL2Ar1"/>
+                <link ana="ud-syn:advmod" target="#i-xuWE3B8Zm4SM7WJtL2Ar1 #i-xuWSXpK8bLqM3JFMwp397"/>
+                <link ana="ud-syn:det" target="#i-xuWxWxMHnpawfbhhpuieZ #i-xuWhXPLDC5i9MSyXtMstq"/>
+                <link ana="ud-syn:advmod" target="#i-xuWSXpK8bLqM3JFMwp397 #i-xuWxWxMHnpawfbhhpuieZ"/>
+                <link ana="ud-syn:dep" target="#i-xuXBquUhDFosiquQtHaRs #i-xuXRArc6dh2on677wfSDB"/>
+                <link ana="ud-syn:dep" target="#i-xuXRArc6dh2on677wfSDB #i-xuXcqBqpspbsaRnN7sK25"/>
+                <link ana="ud-syn:punct" target="#i-xuXcqBqpspbsaRnN7sK25 #i-xuXqKq2Pi6zsWDiqjfBKB"/>
+                <link ana="ud-syn:det" target="#i-xuYi8hhVdPQoLqjyeQdyo #i-xuY4en9o8YDoZTvYo336V"/>
+                <link ana="ud-syn:det" target="#i-xuYi8hhVdPQoLqjyeQdyo #i-xuYH9RLMxpcoVFs2QpuPb"/>
+                <link ana="ud-syn:det" target="#i-xuYi8hhVdPQoLqjyeQdyo #i-xuYVe4Wvo71oR3oW2cmgh"/>
+                <link ana="ud-syn:advmod" target="#i-xuXqKq2Pi6zsWDiqjfBKB #i-xuYi8hhVdPQoLqjyeQdyo"/>
+                <link ana="ud-syn:nmod" target="#i-xuYi8hhVdPQoLqjyeQdyo #i-xuYvdLt4TfooGdgTGCWGu"/>
+                <link ana="ud-syn:punct" target="#i-xuXBquUhDFosiquQtHaRs #i-xuZ97z4dHxCoCRcvszNa1"/>
+                <link ana="ud-syn:root" target="#i-xukLoKY4aepjRcTgy7TuP #i-xuXBquUhDFosiquQtHaRs"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Skälet till dröjsmålet är tidigare inbokade resor och arrangemang .</note>
+        <note>Stockholm den 8 maj 2018</note>
+        <note>Näringsdepartementet</note>
+        <note>Sven-Erik Bucht ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Fredrik Ahlén</note>
+        <note>Expeditionschef</note>
+        <note>Interpellation 2017 / 18:529</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2017 / 18:529 Långsiktiga förutsättningar för mjölksektorn</note>
+        <note>av Magnus Oscarsson ( KD )</note>
+        <u ana="#regular" who="#unknown" xml:id="i-Y8LTXeAx9mMi6SHBCgJ3EE">
+          <seg xml:id="i-15dfksusJ6EzGFkwGw19uu">
+            <s xml:id="i-xukV8QzSUB64i961NyNmT">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-xuZMcdFC8Ebo8DZQVnEs7">Interpellationen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-xuZa7GRkxWzo41Vt7a7AD">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-xuZoSDZANxDj7FhbAwxwX">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="besvara" xml:id="i-xua16Yntd5nnubNqM9qkR">besvaras</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="torsdag" xml:id="i-xuaDbByTTNBnqPKJxwi3X">torsdagen</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-xuaS5qA2HeanmBFnajaLd">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="7:e" xml:id="i-xuadkAPkXn9rZWw2kwT9X">7</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="juni" xml:id="i-xuasuRTzYNCikDPyFuJR3">juni</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2018" xml:id="i-xub5ZkhinVmnYZ5DS7BDw">2018</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-xubJthq8CvziboGvVV31F">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-xuZa7GRkxWzo41Vt7a7AD #i-xuZMcdFC8Ebo8DZQVnEs7"/>
+                <link ana="ud-syn:dep" target="#i-xuZa7GRkxWzo41Vt7a7AD #i-xuZoSDZANxDj7FhbAwxwX"/>
+                <link ana="ud-syn:punct" target="#i-xuZoSDZANxDj7FhbAwxwX #i-xua16Yntd5nnubNqM9qkR"/>
+                <link ana="ud-syn:det" target="#i-xuasuRTzYNCikDPyFuJR3 #i-xuaDbByTTNBnqPKJxwi3X"/>
+                <link ana="ud-syn:det" target="#i-xuasuRTzYNCikDPyFuJR3 #i-xuaS5qA2HeanmBFnajaLd"/>
+                <link ana="ud-syn:det" target="#i-xuasuRTzYNCikDPyFuJR3 #i-xuadkAPkXn9rZWw2kwT9X"/>
+                <link ana="ud-syn:advmod" target="#i-xua16Yntd5nnubNqM9qkR #i-xuasuRTzYNCikDPyFuJR3"/>
+                <link ana="ud-syn:nmod" target="#i-xuasuRTzYNCikDPyFuJR3 #i-xub5ZkhinVmnYZ5DS7BDw"/>
+                <link ana="ud-syn:punct" target="#i-xuZa7GRkxWzo41Vt7a7AD #i-xubJthq8CvziboGvVV31F"/>
+                <link ana="ud-syn:root" target="#i-xukV8QzSUB64i961NyNmT #i-xuZa7GRkxWzo41Vt7a7AD"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Skälet till dröjsmålet är tidigare inbokade resor och arrangemang .</note>
+        <note>Stockholm den 8 maj 2018</note>
+        <note>Näringsdepartementet</note>
+        <note>Sven-Erik Bucht ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Fredrik Ahlén</note>
+        <note>Expeditionschef</note>
+        <note>§ 6 Anmälan om faktapromemoria</note>
+        <note>Förste vice talmannen anmälde att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott :</note>
+        <note>2017 / 18:FPM79 Rapport om en it-strategi för EU:s tullmyndigheter COM ( 2018 ) 178 till skatteutskottet</note>
+        <note>§ 7 Anmälan om granskningsrapport</note>
+        <u ana="#regular" who="#unknown" xml:id="i-Xk9mKe7GMG7ti2ouyJmzNd">
+          <seg xml:id="i-VoJXWSdwDfoMRfjZ89uRd7">
+            <s xml:id="i-xukeHpPewrBL87yZERH7j">
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Gender=Masc|Number=Sing" lemma="förste" xml:id="i-xubYDexXdNDef3UdYrtnZ">Förste</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="vice" xml:id="i-xubkiJ96TeceaqR7Aem5f">vice</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="talman" xml:id="i-xubz3FGVt5qae5cpE2cry">talmannen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="anmäla" xml:id="i-xucCXtT4iNEaZsZHqpVA5">anmälde</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-xucR2XddYedaVfVmTcMTB">att</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-xucfBnhsZEgSgMxhxaCih">följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="granskningsrapport" xml:id="i-xucsgRtSPX5Sc9uBaN51o">granskningsrapport</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-xud6B551DoUSXwqfC9wJu">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="komma" xml:id="i-xudJfiFa45sSTjn8owoc1">kommit</w>
+              <w msd="UPosTag=PART" lemma="in" xml:id="i-xudXAMS8tNGSPXicRjfu7">in</w>
+              <w msd="UPosTag=ADP" lemma="från" xml:id="i-xudjezchiefSKKf63XYCD">från</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksrevision" xml:id="i-xudxywk795tNNZro6uPyX">Riksrevisionen</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-xueAeGyqPDTSAuY3H7GnR">och</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="överlämna" xml:id="i-xuePyE7EoegNE9jkLV8Zj">överlämnats</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-xuecTsHodw5N9wgDxGzrq">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="arbetsmarknadsutskott" xml:id="i-xueqnpRD4NJJDBsw1ere9">arbetsmarknadsutskottet</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-xuf3T9ewJVsN1XZBBrjT3">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-xukeHpPewrBL87yZERH7j #i-xubYDexXdNDef3UdYrtnZ"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xubkiJ96TeceaqR7Aem5f"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xubz3FGVt5qae5cpE2cry"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xucCXtT4iNEaZsZHqpVA5"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xucR2XddYedaVfVmTcMTB"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xucfBnhsZEgSgMxhxaCih"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xucsgRtSPX5Sc9uBaN51o"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xud6B551DoUSXwqfC9wJu"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xudJfiFa45sSTjn8owoc1"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xudXAMS8tNGSPXicRjfu7"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xudjezchiefSKKf63XYCD"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xudxywk795tNNZro6uPyX"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xueAeGyqPDTSAuY3H7GnR"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xuePyE7EoegNE9jkLV8Zj"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xuecTsHodw5N9wgDxGzrq"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xueqnpRD4NJJDBsw1ere9"/>
+                <link ana="ud-syn:dep" target="#i-xubYDexXdNDef3UdYrtnZ #i-xuf3T9ewJVsN1XZBBrjT3"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>RiR 2018:10 Deltagarantal i nya arbetsmarknadspolitiska insatser – önsketänkande framför träffsäkra volymbedömningar</note>
+        <note>§ 8 Ärenden för bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Socialutskottets betänkande</note>
+        <note>2017 / 18:SoU34 Vissa förslag på assistansområdet</note>
+        <note>Skatteutskottets betänkanden</note>
+        <note>2017 / 18:SkU20 Slopad skattefrihet för förmån av hälso- och sjukvård</note>
+        <note>2017 / 18:SkU22 Multilateral konvention för att genomföra skatteavtalsrelaterade åtgärder</note>
+        <note>§ 9 Bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Skrivelser</note>
+        <note>2017 / 18:246 En politik för engagemang – långsiktighet och oberoende för civilsamhället</note>
+        <note>2017 / 18:256 Riksrevisionens rapport om fastställande av föräldrapenning för egenföretagare</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2018 ) 238 Förslag till Europaparlamentets och rådets förordning om främjande av rättvisa villkor och transparens för företagsanvändare av onlinebaserade förmedlingstjänster</note>
+        <note>COM ( 2018 ) 325 Förslag till rådets beslut om systemet för Europeiska unionens egna medel</note>
+        <note>COM ( 2018 ) 327 Förslag till rådets förordning om genomförandebestämmelser till systemet för Europeiska unionens egna medel</note>
+        <note>Motioner</note>
+        <note>med anledning av prop . 2017 / 18:231 Ny kamerabevakningslag</note>
+        <note>2017 / 18:4170 av Linda Snecker m.fl. ( V )</note>
+        <note>2017 / 18:4172 av Adam Marttinen och Patrick Reslow ( SD , - )</note>
+        <note>2017 / 18:4176 av Tomas Tobé m.fl. ( M , L , C , KD )</note>
+        <note>2017 / 18:4177 av Roger Haddad m.fl. ( L )</note>
+        <note>med anledning av prop . 2017 / 18:234 Lag om flygpassageraruppgifter i brottsbekämpningen</note>
+        <note>2017 / 18:4171 av Linda Snecker m.fl. ( V )</note>
+        <note>med anledning av prop . 2017 / 18:247 Ett tryggt och mer hållbart premiepensionssystem</note>
+        <note>2017 / 18:4185 av Linus Bylund m.fl. ( SD )</note>
+        <note>med anledning av prop . 2017 / 18:249 God och jämlik hälsa – en utvecklad folkhälsopolitik</note>
+        <note>2017 / 18:4175 av Karin Rågsjö m.fl. ( V )</note>
+        <note>2017 / 18:4181 av Emma Henriksson m.fl. ( KD , C , M , L )</note>
+        <note>2017 / 18:4182 av Barbro Westerholm m.fl. ( L )</note>
+        <note>med anledning av prop . 2017 / 18:250 En ny strafftidslag</note>
+        <note>2017 / 18:4184 av Linda Snecker m.fl. ( V )</note>
+        <note>med anledning av prop . 2017 / 18:252 Extra ändringsbudget för 2018 – Ny möjlighet till uppehållstillstånd</note>
+        <note>2017 / 18:4164 av Oscar Sjöstedt m.fl. ( SD )</note>
+        <note>2017 / 18:4165 av Olle Felten m.fl. ( - )</note>
+        <note>2017 / 18:4173 av Christina Örnebjär m.fl. ( L )</note>
+        <note>2017 / 18:4174 av Christina Höj Larsen m.fl. ( V )</note>
+        <note>2017 / 18:4178 av Fredrik Malm m.fl. ( L )</note>
+        <note>2017 / 18:4179 av Elisabeth Svantesson och Johan Forssell ( M )</note>
+        <note>2017 / 18:4180 av Aron Modig m.fl. ( KD )</note>
+        <note>med anledning av skr . 2017 / 18:172 Riksrevisionens rapport om statligt ägda bolag med samhällsuppdrag</note>
+        <note>2017 / 18:4183 av Lars Hjälmered m.fl. ( M , C , L , KD )</note>
+        <note>§ 10 Anmälan om interpellationer</note>
+        <note>Följande interpellationer hade framställts :</note>
+        <note>den 4 maj</note>
+        <note>2017 / 18:529 Långsiktiga förutsättningar för mjölksektorn</note>
+        <note>av Magnus Oscarsson ( KD )</note>
+        <note>till statsrådet Sven-Erik Bucht ( S )</note>
+        <note>den 7 maj</note>
+        <note>2017 / 18:530 Konsekvenser av president Abbas uttalande</note>
+        <note>av Mikael Oscarsson ( KD )</note>
+        <note>till utrikesminister Margot Wallström ( S )</note>
+        <note>2017 / 18:531 FN:s barnkonvention</note>
+        <note>av Tobias Billström ( M )</note>
+        <note>till statsrådet Lena Hallengren ( S )</note>
+        <note>2017 / 18:532 Regelförenklingar i bostadspolitiken</note>
+        <note>av Mats Green ( M )</note>
+        <note>till statsrådet Peter Eriksson ( MP )</note>
+        <note>den 8 maj</note>
+        <note>2017 / 18:533 Expropriering av skog</note>
+        <note>av Helena Lindahl ( C )</note>
+        <note>till miljöminister Karolina Skog ( MP )</note>
+        <note>den 9 maj</note>
+        <note>2017 / 18:534 Förutsättningarna för fårskötsel i Sverige</note>
+        <note>av Staffan Danielsson ( C )</note>
+        <note>till statsrådet Sven-Erik Bucht ( S )</note>
+        <note>2017 / 18:535 Kreditrestriktioner på bostadsmarknaden</note>
+        <note>av Mats Green ( M )</note>
+        <note>till statsrådet Per Bolund ( MP )</note>
+        <note>§ 11 Anmälan om frågor för skriftliga svar</note>
+        <u ana="#regular" who="#unknown" xml:id="i-61b5e02b7c3098c9-11">
+          <seg xml:id="i-CYviT4MgVs5ZQnpBKpepTp">
+            <s xml:id="i-xukncur2qNSfQebseHByo">
+              <w lemma="Följande" msd="UPosTag=X" xml:id="i-xufL7LZh5YQ2aaop1aZBB">Följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-xufaGbdw68StmHGkWYQSh">frågor</w>
+              <w lemma="för" msd="UPosTag=X" xml:id="i-xufobYmLWZfppXUTZvGE1">för</w>
+              <w lemma="skriftliga" msd="UPosTag=X" xml:id="i-xug1Ft14khEtcs9hk892u">skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-xugEaq8UB8Tpg7MQoVzpD">svar</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-xugSFANCRG2tUT2eyhsd7">hade</w>
+              <w lemma="framställts" msd="UPosTag=X" xml:id="i-xugfa7VbqhFpXhEN35jQR">framställts</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-xugsESjL5pptL2ucDHcDK">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-xukncur2qNSfQebseHByo #i-xufL7LZh5YQ2aaop1aZBB"/>
+                <link ana="ud-syn:dep" target="#i-xufL7LZh5YQ2aaop1aZBB #i-xufaGbdw68StmHGkWYQSh"/>
+                <link ana="ud-syn:dep" target="#i-xufL7LZh5YQ2aaop1aZBB #i-xufobYmLWZfppXUTZvGE1"/>
+                <link ana="ud-syn:dep" target="#i-xufL7LZh5YQ2aaop1aZBB #i-xug1Ft14khEtcs9hk892u"/>
+                <link ana="ud-syn:dep" target="#i-xufL7LZh5YQ2aaop1aZBB #i-xugEaq8UB8Tpg7MQoVzpD"/>
+                <link ana="ud-syn:dep" target="#i-xufL7LZh5YQ2aaop1aZBB #i-xugSFANCRG2tUT2eyhsd7"/>
+                <link ana="ud-syn:dep" target="#i-xufL7LZh5YQ2aaop1aZBB #i-xugfa7VbqhFpXhEN35jQR"/>
+                <link ana="ud-syn:dep" target="#i-xufL7LZh5YQ2aaop1aZBB #i-xugsESjL5pptL2ucDHcDK"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 4 maj</note>
+        <note>2017 / 18:1255 Auktionsvillkor för 700-megahertzbandet</note>
+        <note>av Erik Ottoson ( M )</note>
+        <note>till statsrådet Peter Eriksson ( MP )</note>
+        <note>2017 / 18:1256 Problem med inlämning av årets deklaration</note>
+        <note>av Hans Wallmark ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2017 / 18:1257 Kommunernas brottsförebyggande arbete</note>
+        <note>av Roger Haddad ( L )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>2017 / 18:1258 Utredningen av företrädaransvaret</note>
+        <note>av Lotta Finstorp ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2017 / 18:1259 Svenskt direktstöd till Iraks religiösa minoriteter</note>
+        <note>av Robert Hannah ( L )</note>
+        <note>till statsrådet Isabella Lövin ( MP )</note>
+        <note>2017 / 18:1260 Rekvisiten för tvångsäktenskap</note>
+        <note>av Robert Hannah ( L )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>den 7 maj</note>
+        <note>2017 / 18:1261 Väntetider för pass</note>
+        <note>av Anders Hansson ( M )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>2017 / 18:1262 Kunskapen om kooperation som associationsform för företagsamma</note>
+        <note>av Anders Åkesson ( C )</note>
+        <note>till statsrådet Heléne Fritzon ( S )</note>
+        <note>2017 / 18:1263 Direktstöd till Iraks folkmordsutsatta religiösa minoriteter</note>
+        <note>av Robert Hannah ( L )</note>
+        <note>till statsrådet Isabella Lövin ( MP )</note>
+        <note>2017 / 18:1264 Mer hälso- och sjukvård för pengarna</note>
+        <note>av Margareta Cederfelt ( M )</note>
+        <note>till socialminister Annika Strandhäll ( S )</note>
+        <note>2017 / 18:1265 Hot , våld och sabotage mot svenska djurhållare</note>
+        <note>av Lotta Olsson ( M )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>2017 / 18:1266 Nya dieselreglers konsekvenser för Försvarsmakten</note>
+        <note>av Hans Wallmark ( M )</note>
+        <note>till försvarsminister Peter Hultqvist ( S )</note>
+        <note>2017 / 18:1267 Lägre grad av antibiotikaresistens med rena händer</note>
+        <note>av Margareta Cederfelt ( M )</note>
+        <note>till socialminister Annika Strandhäll ( S )</note>
+        <note>2017 / 18:1268 Sänkt moms för naturguidning</note>
+        <note>av Ann-Charlotte Hammar Johnsson ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2017 / 18:1269 Problem på bostadsmarknaden</note>
+        <note>av Mats Green ( M )</note>
+        <note>till statsrådet Peter Eriksson ( MP )</note>
+        <note>den 8 maj</note>
+        <note>2017 / 18:1270 Neddragning på områdespoliser</note>
+        <note>av Roger Haddad ( L )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>2017 / 18:1271 Vargattacker på får</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till miljöminister Karolina Skog ( MP )</note>
+        <note>2017 / 18:1272 Regeringens närvaro under mötet med palestiniernas nationella råd</note>
+        <note>av Sofia Damm ( KD )</note>
+        <note>till utrikesminister Margot Wallström ( S )</note>
+        <note>2017 / 18:1273 Vargangrepp på landsbygden</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till statsrådet Sven-Erik Bucht ( S )</note>
+        <note>den 9 maj</note>
+        <note>2017 / 18:1274 Utvisning på grund av brott</note>
+        <note>av Tomas Tobé ( M )</note>
+        <note>till statsrådet Heléne Fritzon ( S )</note>
+        <note>2017 / 18:1275 Tyst godkännande för självdeklara ­ tion</note>
+        <note>av Peter Persson ( S )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2017 / 18:1276 Gränshandeln med Norge</note>
+        <note>av Christian Holm Barenfeld ( M )</note>
+        <note>till statsrådet Ann Linde ( S )</note>
+        <note>2017 / 18:1277 Svensk biogasproduktion</note>
+        <note>av Per-Arne Håkansson ( S )</note>
+        <note>till statsrådet Ibrahim Baylan ( S )</note>
+        <note>2017 / 18:1278 Ungas företagsamhet</note>
+        <note>av Christian Holm Barenfeld ( M )</note>
+        <note>till närings- och innovationsminister Mikael Damberg ( S )</note>
+        <note>2017 / 18:1279 Osund konkurrens</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till statsrådet Ardalan Shekarabi ( S )</note>
+        <note>2017 / 18:1280 Jämställdhet i ungdomsidrotten</note>
+        <note>av Boriana Åberg ( M )</note>
+        <note>till socialminister Annika Strandhäll ( S )</note>
+        <note>den 11 maj</note>
+        <note>2017 / 18:1281 Fossila bränslen i vägtrafiken</note>
+        <note>av Maria Malmer Stenergard ( M )</note>
+        <note>till statsrådet Isabella Lövin ( MP )</note>
+        <note>§ 12 Anmälan om skriftliga svar på frågor</note>
+        <u ana="#regular" who="#unknown" xml:id="i-61b5e02b7c3098c9-20">
+          <seg xml:id="i-L9NLxtY8BzVCmrKMa8yhHH">
+            <s xml:id="i-xukvx1JQithzhBEC496qs">
+              <w lemma="Skriftliga" msd="UPosTag=X" xml:id="i-xuh4tmy4KxPx8NarPVV2D">Skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-xuhGZ7Cna5y1viG6ZhMq7">svar</w>
+              <w lemma="på" msd="UPosTag=X" xml:id="i-xuhVt4LBzXBwyxTod5DcR">på</w>
+              <w lemma="följande" msd="UPosTag=X" xml:id="i-xuhiNhWkpoawukQHEs5uX">följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-xuhwheeAFEosxzbzJEwgq">frågor</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-xui9MystVNNwmLHEUSpVj">hade</w>
+              <w lemma="kommit" msd="UPosTag=X" xml:id="i-xuiMrd4TKemwh8Di6Egnq">kommit</w>
+              <w lemma="in" msd="UPosTag=X" xml:id="i-xuiZWxJBZnM1VTtxGSZbj">in</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-xuin1bUkQ4k1RFqRtERtq">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-xukvx1JQithzhBEC496qs #i-xuh4tmy4KxPx8NarPVV2D"/>
+                <link ana="ud-syn:dep" target="#i-xuh4tmy4KxPx8NarPVV2D #i-xuhGZ7Cna5y1viG6ZhMq7"/>
+                <link ana="ud-syn:dep" target="#i-xuh4tmy4KxPx8NarPVV2D #i-xuhVt4LBzXBwyxTod5DcR"/>
+                <link ana="ud-syn:dep" target="#i-xuh4tmy4KxPx8NarPVV2D #i-xuhiNhWkpoawukQHEs5uX"/>
+                <link ana="ud-syn:dep" target="#i-xuh4tmy4KxPx8NarPVV2D #i-xuhwheeAFEosxzbzJEwgq"/>
+                <link ana="ud-syn:dep" target="#i-xuh4tmy4KxPx8NarPVV2D #i-xui9MystVNNwmLHEUSpVj"/>
+                <link ana="ud-syn:dep" target="#i-xuh4tmy4KxPx8NarPVV2D #i-xuiMrd4TKemwh8Di6Egnq"/>
+                <link ana="ud-syn:dep" target="#i-xuh4tmy4KxPx8NarPVV2D #i-xuiZWxJBZnM1VTtxGSZbj"/>
+                <link ana="ud-syn:dep" target="#i-xuh4tmy4KxPx8NarPVV2D #i-xuin1bUkQ4k1RFqRtERtq"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 7 maj</note>
+        <note>2017 / 18:1194 Försäljningen av Metria</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till närings- och innovationsminister Mikael Damberg ( S )</note>
+        <note>den 8 maj</note>
+        <note>2017 / 18:1225 Miljardaffärer med olaglig tobak</note>
+        <note>av Thomas Finnborg ( M )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>2017 / 18:1226 Hot och våld mot anställda inom vården</note>
+        <note>av Thomas Finnborg ( M )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>den 9 maj</note>
+        <note>2017 / 18:1228 Bostadsbidrag för studenter</note>
+        <note>av Betty Malmberg ( M )</note>
+        <note>till socialminister Annika Strandhäll ( S )</note>
+        <note>2017 / 18:1229 Flygplatsen i Karlsborg</note>
+        <note>av Hans Wallmark ( M )</note>
+        <note>till försvarsminister Peter Hultqvist ( S )</note>
+        <note>2017 / 18:1230 Körförbud för laddhybrider</note>
+        <note>av Gunilla Nordgren ( M )</note>
+        <note>till miljöminister Karolina Skog ( MP )</note>
+        <note>2017 / 18:1231 Demonstrationerna och våldet i Nicaragua</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till utrikesminister Margot Wallström ( S )</note>
+        <note>2017 / 18:1232 Tillfångatagna IS-terrorister med svenskt medborgarskap</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till utrikesminister Margot Wallström ( S )</note>
+        <note>2017 / 18:1233 Säkerhetsläckor inom myndigheter</note>
+        <note>av Jeff Ahl ( - )</note>
+        <note>till försvarsminister Peter Hultqvist ( S )</note>
+        <note>2017 / 18:1234 Patienter som far illa på grund av brist på sjuksköterskor</note>
+        <note>av Camilla Waltersson Grönvall ( M )</note>
+        <note>till socialminister Annika Strandhäll ( S )</note>
+        <note>2017 / 18:1236 Svårigheter för äldre att få kontakt med personal</note>
+        <note>av Camilla Waltersson Grönvall ( M )</note>
+        <note>till statsrådet Lena Hallengren ( S )</note>
+        <note>2017 / 18:1235 Stress hos personal på äldreboenden</note>
+        <note>av Camilla Waltersson Grönvall ( M )</note>
+        <note>till statsrådet Lena Hallengren ( S )</note>
+        <note>2017 / 18:1237 Regeringen och SJ</note>
+        <note>av Ann-Charlotte Hammar Johnsson ( M )</note>
+        <note>till närings- och innovationsminister Mikael Damberg ( S )</note>
+        <note>2017 / 18:1241 En samisk sanningskommission</note>
+        <note>av Mia Sydow Mölleby ( V )</note>
+        <note>till kultur- och demokratiminister Alice Bah Kuhnke ( MP )</note>
+        <note>2017 / 18:1242 Turkiet och flyktingspionage</note>
+        <note>av Amineh Kakabaveh ( V )</note>
+        <note>till utrikesminister Margot Wallström ( S )</note>
+        <note>§ 13 Kammaren åtskildes kl. 11.02 .</note>
+        <note>Sammanträdet leddes av förste vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANNA ASPEGREN</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Avsägelse</note>
+        <note>§ 3 Meddelande om frågestund</note>
+        <note>§ 4 Anmälan om subsidiaritetsprövningar</note>
+        <note>§ 5 Anmälan om fördröjda svar på interpellationer</note>
+        <note>§ 6 Anmälan om faktapromemoria</note>
+        <note>§ 7 Anmälan om granskningsrapport</note>
+        <note>§ 8 Ärenden för bordläggning</note>
+        <note>§ 9 Bordläggning</note>
+        <note>§ 10 Anmälan om interpellationer</note>
+        <note>§ 11 Anmälan om frågor för skriftliga svar</note>
+        <note>§ 12 Anmälan om skriftliga svar på frågor</note>
+        <note>§ 13 Kammaren åtskildes kl. 11.02 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2018</note>
+      </div>
+    </body>
+  </text>
+</TEI>

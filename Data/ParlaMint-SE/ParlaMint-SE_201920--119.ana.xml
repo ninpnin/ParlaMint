@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201920--119.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 119 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 119 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="551">551 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="208"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="5"/>
+          <tagUsage gi="seg" occurs="5"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2020-05-12" ana="#parla.sitting">2020-05-12</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Justering av protokoll</note>
+        <note>Protokollen för den 17 och 21 april justerades .</note>
+        <note>§ 2 Anmälan om kompletteringsval</note>
+        <note>Tredje vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Lars Jilmstad som suppleant i konstitutionsutskottet .</note>
+        <note>Tredje vice talmannen förklarade vald till</note>
+        <note>suppleant i konstitutionsutskottet</note>
+        <note>Lars Jilmstad ( M )</note>
+        <note>§ 3 Meddelande om statsministerns frågestund</note>
+        <note>Tredje vice talmannen meddelade att vid frågestunden torsdagen den 14 maj kl. 14.00 skulle frågor besvaras av statsminister Stefan Löfven ( S ) .</note>
+        <note>§ 4 Anmälan om subsidiaritetsprövning</note>
+        <note>Tredje vice talmannen anmälde att utdrag ur prot . 2019 / 20:35 för torsdagen den 7 maj i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från civilutskottet .</note>
+        <note>§ 5 Anmälan om faktapromemorior</note>
+        <u ana="#regular" who="#unknown" xml:id="i-CVwECJwkKzeCNPTducH9U5">
+          <seg xml:id="i-49Ky3a1zKSuqp7Twr4JFcX">
+            <s xml:id="i-V2jNcwBiDaQesv2ZTQU28u">
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="tredje" xml:id="i-V2hrXoJ9XgwJKiXfwTcM1o">Tredje</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="vice" xml:id="i-V2iC3jn41ukRcLtZsy4Jvy">vice</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="talman" xml:id="i-V2iCHu38FvLUUXb2pU2ACV">talmannen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="anmäla" xml:id="i-V2iSbVCpePubzWabdqjLaZ">anmäl</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="de" xml:id="i-V2idgW4jNyPcTi9LYQAW2H">de</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-V2ip3sTNE7GJGV4wruJ79f">att</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-V2ipEhUf7mF3Q9xMsduzUM">följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="faktapromemoria" xml:id="i-V2ipPrt4LEv8fZwFRVMtpd">faktapromemorior</w>
+              <w msd="UPosTag=ADP" lemma="om" xml:id="i-V2ipYByWi8SPzrTsjuDogh">om</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="förslag" xml:id="i-V2ipp1rUdKL6jJ4s9HMdvd">förslag</w>
+              <w msd="UPosTag=ADP" lemma="från" xml:id="i-V2ipyBFsqo1Bzi3kh8oYGu">från</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="europeisk" xml:id="i-V2iq8LfH4GgHG82eEzFSdB">Europeiska</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="kommission" xml:id="i-V2iqHW4gGkMNXY1XnqhLyT">kommissionen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-V2iz8af6KU6TQgwJYahtYu">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="komma" xml:id="i-V2izJaNSNXvNcENTKsjnPP">kommit</w>
+              <w msd="UPosTag=PART" lemma="in" xml:id="i-V2izSuTtkRSdwWu5eHbhFT">in</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-V2izaQFQHip5LfySjFscdK">och</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="överlämna" xml:id="i-V2izjZeoWCVAc5xLH7KWyb">överlämnats</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-V2izs4SK3Vrc1F2hN5bSMT">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="utskott" xml:id="i-V2j1349f6ZgXCnTr9NdLBw">utskott</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-V2j1AYwAds3xbwYDELuFZo">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-V2jNcwBiDaQesv2ZTQU28u #i-V2hrXoJ9XgwJKiXfwTcM1o"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2iC3jn41ukRcLtZsy4Jvy"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2iCHu38FvLUUXb2pU2ACV"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2iSbVCpePubzWabdqjLaZ"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2idgW4jNyPcTi9LYQAW2H"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2ip3sTNE7GJGV4wruJ79f"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2ipEhUf7mF3Q9xMsduzUM"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2ipPrt4LEv8fZwFRVMtpd"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2ipYByWi8SPzrTsjuDogh"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2ipp1rUdKL6jJ4s9HMdvd"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2ipyBFsqo1Bzi3kh8oYGu"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2iq8LfH4GgHG82eEzFSdB"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2iqHW4gGkMNXY1XnqhLyT"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2iz8af6KU6TQgwJYahtYu"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2izJaNSNXvNcENTKsjnPP"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2izSuTtkRSdwWu5eHbhFT"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2izaQFQHip5LfySjFscdK"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2izjZeoWCVAc5xLH7KWyb"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2izs4SK3Vrc1F2hN5bSMT"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2j1349f6ZgXCnTr9NdLBw"/>
+                <link ana="ud-syn:dep" target="#i-V2hrXoJ9XgwJKiXfwTcM1o #i-V2j1AYwAds3xbwYDELuFZo"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>2019 / 20:FPM35 Förslag till förordning om ett europeiskt instrument för tillfälligt stöd för att minska risken för arbetslöshet i en krissituation ( SURE ) till följd av covid-19-utbrottet COM ( 2020 ) 139 till finansutskottet</note>
+        <note>2019 / 20:FPM36 Förordning om aktivering av instrumentet för krisstöd inom EU COM ( 2020 ) 175 till försvarsutskottet</note>
+        <note>2019 / 20:FPM37 Europeisk färdplan för att lätta på åtgärderna mot covid ‑ 19 , till socialutskottet</note>
+        <note>2019 / 20:FPM38 Meddelande om EU:s globala svar på covid-19-pandemin JOIN ( 2020 ) 11 till utrikesutskottet</note>
+        <note>§ 6 Ärenden för hänvisning till utskott</note>
+        <u ana="#regular" who="#unknown" xml:id="i-7p6Ry8QrdAVK9HCV7eq7PX">
+          <seg xml:id="i-HJ2vKHyXCBTXQ5DGTXJfJu">
+            <s xml:id="i-V2jNmGHAbTvvDCZBmpKvzy">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-V2j1KiLZrLj3sMX6nCM9v5">Följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="dokument" xml:id="i-V2j1U3S2EEFKCe3j6cD4n9">dokument</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="hänvisa" xml:id="i-V2j1cNXUc7maXvaMR24yeD">hänvisades</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-V2j1khcvz1HqsD6yjRvtWH">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="utskott" xml:id="i-V2j1u2iPMtp7CVdc3qnoNM">utskott</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-V2j22XVtuCBYbehy8p4ikD">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-V2jNmGHAbTvvDCZBmpKvzy #i-V2j1KiLZrLj3sMX6nCM9v5"/>
+                <link ana="ud-syn:dep" target="#i-V2j1KiLZrLj3sMX6nCM9v5 #i-V2j1U3S2EEFKCe3j6cD4n9"/>
+                <link ana="ud-syn:dep" target="#i-V2j1KiLZrLj3sMX6nCM9v5 #i-V2j1cNXUc7maXvaMR24yeD"/>
+                <link ana="ud-syn:dep" target="#i-V2j1KiLZrLj3sMX6nCM9v5 #i-V2j1khcvz1HqsD6yjRvtWH"/>
+                <link ana="ud-syn:dep" target="#i-V2j1KiLZrLj3sMX6nCM9v5 #i-V2j1u2iPMtp7CVdc3qnoNM"/>
+                <link ana="ud-syn:dep" target="#i-V2j1KiLZrLj3sMX6nCM9v5 #i-V2j22XVtuCBYbehy8p4ikD"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Motioner</note>
+        <note>2019 / 20:3610 till skatteutskottet</note>
+        <note>2019 / 20:3611 till försvarsutskottet</note>
+        <note>2019 / 20:3609 och 3612 till miljö- och jordbruksutskottet</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2020 ) 178 till trafikutskottet</note>
+        <u ana="#regular" who="#unknown" xml:id="i-e8e27de32c530989-1">
+          <seg xml:id="i-RDrPt5TJFM8FSMf5HD2eiW">
+            <s xml:id="i-V2jNs6SnTazhk6j2PuRsQR">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="åttaveckorsfrist" xml:id="i-V2j2CXDExG1ToC97v76cah">Åttaveckorsfristen</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-V2j2LrJhL9Xj8UfkEWxXSm">för</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-V2j2UM6CsSuAXdk7KVESpd">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="avge" xml:id="i-V2j2cgBfFLRRrvGjdu6Mgh">avge</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Neut|Number=Sing" lemma="en" xml:id="i-V2j2m1H7dDwhCCoMxJxGYm">ett</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part" lemma="motiverad" xml:id="i-V2j2uLNa17TxXVKzGipBQq">motiverat</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="yttrande" xml:id="i-V2j33fU2NzzDrmrcb8g6Gu">yttrande</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-V2j3BzZUktWVC4PEuYY18y">skulle</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="gå" xml:id="i-V2j3LKew8n2kXLusDxPv13">gå</w>
+              <w msd="UPosTag=PART" lemma="ut" xml:id="i-V2j3UekPWfZ1rdSVYNFps7">ut</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-V2j3cyqqtZ5HBuy7rn7jjB">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="2" xml:id="i-V2j3jeKQbGHtewbDiJofcq">2</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="juli" xml:id="i-V2j3toioojxyvMa7GAFZy7">juli</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-V2j42JWKM3LRKWeUM8XVLy">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-V2jNs6SnTazhk6j2PuRsQR #i-V2j2CXDExG1ToC97v76cah"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j2LrJhL9Xj8UfkEWxXSm"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j2UM6CsSuAXdk7KVESpd"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j2cgBfFLRRrvGjdu6Mgh"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j2m1H7dDwhCCoMxJxGYm"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j2uLNa17TxXVKzGipBQq"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j33fU2NzzDrmrcb8g6Gu"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j3BzZUktWVC4PEuYY18y"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j3LKew8n2kXLusDxPv13"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j3UekPWfZ1rdSVYNFps7"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j3cyqqtZ5HBuy7rn7jjB"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j3jeKQbGHtewbDiJofcq"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j3toioojxyvMa7GAFZy7"/>
+                <link ana="ud-syn:dep" target="#i-V2j2CXDExG1ToC97v76cah #i-V2j42JWKM3LRKWeUM8XVLy"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Följande dokument anmäldes :</note>
+        <note>Motioner</note>
+        <note>med anledning av prop . 2019 / 20:163 Fler tillfälliga åtgärder för att underlätta genomförandet av bolags- och föreningsstämmor</note>
+        <note>2019 / 20:3614 av Mikael Eskilandersson m.fl. ( SD )</note>
+        <note>med anledning av prop . 2019 / 20:165 Förlängd giltighetstid för yrkeskompetensbevis</note>
+        <note>2019 / 20:3613 av Thomas Morell m.fl. ( SD )</note>
+        <note>2019 / 20:3615 av Magnus Jacobsson m.fl. ( KD )</note>
+        <note>Kammaren biföll talmannens förslag att motion 2019 / 20:3614 omedelbart skulle hänvisas till civilutskottet .</note>
+        <note>Kammaren biföll talmannens förslag att motionerna 2019 / 20:3613 och 3615 omedelbart skulle hänvisas till trafikutskottet .</note>
+        <note>§ 7 Ärenden för bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Konstitutionsutskottets betänkanden</note>
+        <note>2019 / 20:KU13 Godkännande av tillfälliga ändringar i presstödet</note>
+        <note>2019 / 20:KU17 Riksrevisionens årsredovisning för 2019</note>
+        <note>2019 / 20:KU22 Verksamhetsredogörelser för riksdagens nämnder</note>
+        <note>2019 / 20:KU24 Sekretess till skydd för enskilda som lämnat stödförklaringar enligt EU:s nya förordning om det europeiska medborgarinitiativet</note>
+        <note>Finansutskottets betänkanden</note>
+        <note>2019 / 20:FiU40 Vissa frågor om försäkring och tjänstepension</note>
+        <note>2019 / 20:FiU42 Bilateralt avtal mellan Europeiska unionen och Amerikas förenta stater om tillsynsregler för försäkring och återförsäkring</note>
+        <note>2019 / 20:FiU43 Riksrevisionens rapport om nationalräkenskaperna – en stabilare grund för finanspolitiken</note>
+        <note>2019 / 20:FiU47 Medgivande för Riksbanken att delta i Internationella valutafondens finansieringslösning</note>
+        <note>Skatteutskottets betänkanden</note>
+        <note>2019 / 20:SkU18 Höjt tak för uppskov med kapitalvinst vid avyttring av privatbostad</note>
+        <note>2019 / 20:SkU26 Ändring i skatteavtalet mellan Sverige och Schweiz</note>
+        <note>Civilutskottets betänkande</note>
+        <note>2019 / 20:CU23 Nya befogenheter på konsumentskyddsområdet</note>
+        <note>Justitieutskottets betänkanden</note>
+        <note>2019 / 20:JuU16 2019 års redogörelse för tillämpningen av lagen om särskild utlänningskontroll</note>
+        <note>2019 / 20:JuU25 Polisfrågor</note>
+        <note>2019 / 20:JuU26 Straffrättsliga frågor</note>
+        <note>2019 / 20:JuU27 Processrättsliga frågor</note>
+        <note>2019 / 20:JuU37 Internationellt samarbete om verkställighet av straff anpassas till nya regler i brottsbalken</note>
+        <note>2019 / 20:JuU39 Ett förbud mot spridning av bilder från rättegångar</note>
+        <note>2019 / 20:JuU42 Den gemensamma parlamentariska kontrollgruppen för Europol ( JPSG )</note>
+        <note>§ 8 Bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Skrivelse</note>
+        <note>2019 / 20:162 Riksrevisionens rapport om undantag från skolplikten – regler , tillämpning och tillsyn</note>
+        <note>Framställning</note>
+        <note>2019 / 20:RB5 Medgivande för Riksbanken att ingå ett avtal om lån till Internationella valutafonden ( IMF )</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2020 ) 176 Förslag till Europaparlamentets och rådets förordning om särskilda och tillfälliga åtgärder med avseende på covid-19-utbrottet och om giltigheten för vissa certifikat , intyg , bevis , körkort och tillstånd och uppskjutande av vissa regelbundna kontroller och fortbildningar inom vissa transportlagstiftningsområden</note>
+        <note>COM ( 2020 ) 177 Förslag till Europaparlamentets och rådets förordning om ändring av förordning ( EU ) 2017 / 352 för att göra det möjligt för hamnledningen eller de behöriga myndigheterna att ge flexibilitet vid uttag av hamninfrastrukturavgifter i samband med utbrottet av covid-19</note>
+        <note>COM ( 2020 ) 179 Förslag till Europaparlamentets och rådets direktiv om ändring av direktiv ( EU ) 2016 / 797 och direktiv ( EU ) 2016 / 798 vad gäller förlängning av deras införlivandeperiod</note>
+        <note>COM ( 2020 ) 186 Förslag till Europaparlamentets och rådets förordning om ändring av förordning ( EU ) nr 1305 / 2013 vad gäller särskilda åtgärder för att ge exceptionellt tillfälligt stöd inom ramen för Ejflu för att hantera covid-19-utbrottet</note>
+        <note>COM ( 2020 ) 198 Förslag till rådets beslut om ändring av direktiven ( EU ) 2017 / 2455 och ( EU ) 2019 / 1995 vad gäller dag för införlivande och dag för tillämpning till följd av covid-19-utbrottet</note>
+        <note>COM ( 2020 ) 201 Förslag till rådets förordning om ändring av förordning ( EU ) 2017 / 2454 vad gäller dag för tillämpning till följd av covid-19-utbrottet</note>
+        <note>§ 9 Anmälan om interpellationer</note>
+        <note>Följande interpellationer hade framställts :</note>
+        <note>den 7 maj</note>
+        <note>2019 / 20:396 Arbetsmiljöarbetet under coronakrisen</note>
+        <note>av Désirée Pethrus ( KD )</note>
+        <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
+        <note>den 11 maj</note>
+        <note>2019 / 20:397 Fiskestopp på Skånekusten</note>
+        <note>av Magnus Oscarsson ( KD )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2019 / 20:398 Stöd till regionala flygplatser</note>
+        <note>av Sven-Olof Sällström ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>§ 10 Anmälan om frågor för skriftliga svar</note>
+        <u ana="#regular" who="#unknown" xml:id="i-e8e27de32c530989-5">
+          <seg xml:id="i-S1GbMSNK13j7vHCFMmnr2U">
+            <s xml:id="i-V2jNx6JTV7ufLsSbnYwpKf">
+              <w lemma="Följande" msd="UPosTag=X" xml:id="i-V2jKnrETBaRr2bppoW1mL9">Följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-V2jKygFk5EQbAGiEpEdeeq">frågor</w>
+              <w lemma="för" msd="UPosTag=X" xml:id="i-V2jL8qf9Hi5gRgh8N65Z17">för</w>
+              <w lemma="skriftliga" msd="UPosTag=X" xml:id="i-V2jLJ14YWBkmh6g1uwXTMP">skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-V2jLTATwifRrxWeuTnyMhf">svar</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-V2jLbVZQ6Yx8HoBXnCqGZj">hade</w>
+              <w lemma="framställts" msd="UPosTag=X" xml:id="i-V2jLozCafPEXHiyUFpd8rq">framställts</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-V2jLxKJ33Gknd1W6aEV3iu">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-V2jNx6JTV7ufLsSbnYwpKf #i-V2jKnrETBaRr2bppoW1mL9"/>
+                <link ana="ud-syn:dep" target="#i-V2jKnrETBaRr2bppoW1mL9 #i-V2jKygFk5EQbAGiEpEdeeq"/>
+                <link ana="ud-syn:dep" target="#i-V2jKnrETBaRr2bppoW1mL9 #i-V2jL8qf9Hi5gRgh8N65Z17"/>
+                <link ana="ud-syn:dep" target="#i-V2jKnrETBaRr2bppoW1mL9 #i-V2jLJ14YWBkmh6g1uwXTMP"/>
+                <link ana="ud-syn:dep" target="#i-V2jKnrETBaRr2bppoW1mL9 #i-V2jLTATwifRrxWeuTnyMhf"/>
+                <link ana="ud-syn:dep" target="#i-V2jKnrETBaRr2bppoW1mL9 #i-V2jLbVZQ6Yx8HoBXnCqGZj"/>
+                <link ana="ud-syn:dep" target="#i-V2jKnrETBaRr2bppoW1mL9 #i-V2jLozCafPEXHiyUFpd8rq"/>
+                <link ana="ud-syn:dep" target="#i-V2jKnrETBaRr2bppoW1mL9 #i-V2jLxKJ33Gknd1W6aEV3iu"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 7 maj</note>
+        <note>2019 / 20:1306 Generösare behandling av livskraftiga företag under pandemin</note>
+        <note>av Lars Mejern Larsson ( S )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1307 Industrifisket i Östersjön</note>
+        <note>av Elin Segerlind ( V )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2019 / 20:1308 Sveriges höga dödstal i covid-19</note>
+        <note>av Per Ramhorn ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1309 Nödvändiga åtgärder för de äldre</note>
+        <note>av Per Ramhorn ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1310 Mun- och andningsskydd</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1311 Stöd till regionala flygplatser</note>
+        <note>av Thomas Morell ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1312 Sjöfartsstödet</note>
+        <note>av Helena Lindahl ( C )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1313 Utvidgat sjöfartsstöd</note>
+        <note>av Mikael Larsson ( C )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1314 Tillträdesförbud</note>
+        <note>av Ingemar Kihlström ( KD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2019 / 20:1315 Grundlagsfrågor</note>
+        <note>av Lotta Olsson ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>den 8 maj</note>
+        <note>2019 / 20:1316 Stöd till företagare efter coronakrisen</note>
+        <note>av Angelica Lundberg ( SD )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1317 Beredskap vid smittspridning på LSS-boenden</note>
+        <note>av Maj Karlsson ( V )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1318 Riskgrupper och sjukskrivning</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till statsrådet Ardalan Shekarabi ( S )</note>
+        <note>2019 / 20:1319 Företagens regelbörda</note>
+        <note>av Tobias Andersson ( SD )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1320 Förordningen om distansundervisning i grundskolan</note>
+        <note>av Roger Haddad ( L )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2019 / 20:1321 Den odemokratiska utvecklingen i Polen</note>
+        <note>av Tina Acketoft ( L )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2019 / 20:1322 Direkt- och omställningsstöd till nöjesparker</note>
+        <note>av Marie-Louise Hänel Sandström ( M )</note>
+        <note>till kultur- och demokratiminister Amanda Lind ( MP )</note>
+        <note>2019 / 20:1323 Europeiskt samarbete under coronapandemin</note>
+        <note>av Jessika Roswall ( M )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2019 / 20:1324 Energimyndighetens hantering av ansökningar</note>
+        <note>av Boriana Åberg ( M )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2019 / 20:1325 Undantag för nöjesparker från förbudet mot allmänna sammankomster och offentliga tillställningar</note>
+        <note>av Marie-Louise Hänel Sandström ( M )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2019 / 20:1326 En plan för återöppning av nöjesparker</note>
+        <note>av Marie-Louise Hänel Sandström ( M )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>den 11 maj</note>
+        <note>2019 / 20:1327 Syrgas inom äldreomsorgen</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1328 Stöd till Ängelholm Helsingborg flygplats</note>
+        <note>av Linda Lindberg ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1329 Flygplatsen i Ängelholm</note>
+        <note>av Mikael Eskilandersson ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1330 Kostens roll för viktminskning</note>
+        <note>av Ulrika Jörgensen ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1331 Coronakrisens påverkan på prospekteringsbolag inom gruvnäringen</note>
+        <note>av Helena Antoni ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1332 Förlängd tidsfrist för bolagsstämmor</note>
+        <note>av Mikael Eskilandersson ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2019 / 20:1333 Driftsstöd till Halmstads och Jönköpings flygplatser</note>
+        <note>av Staffan Eklöf ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1334 Paketresefond för företag inom resebranschen</note>
+        <note>av Helena Antoni ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1335 Ekonomiska medel i Klimatklivet</note>
+        <note>av Jessica Rosencrantz ( M )</note>
+        <note>till miljö- och klimatminister Isabella Lövin ( MP )</note>
+        <note>2019 / 20:1336 Den tillfälliga rabatten för fasta hyreskostnader</note>
+        <note>av David Josefsson ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>§ 11 Anmälan om skriftliga svar på frågor</note>
+        <u ana="#regular" who="#unknown" xml:id="i-e8e27de32c530989-12">
+          <seg xml:id="i-BsqUZfVUZnBA2GhTv1iMda">
+            <s xml:id="i-V2jP3vU5MEySsmcSQe3kj7">
+              <w lemma="Skriftliga" msd="UPosTag=X" xml:id="i-V2jM6ePVRAH3xJ2iteLxay">Skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-V2jMEyUwo3oKHaZMD4CsT3">svar</w>
+              <w lemma="på" msd="UPosTag=X" xml:id="i-V2jMPJaQAwKacs5yXU4nK7">på</w>
+              <w lemma="följande" msd="UPosTag=X" xml:id="i-V2jMXdfrYpqqx9cbqsvhBB">följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-V2jMfxmJviN7HS9EAHnc3F">frågor</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-V2jMpHrmJbtNcifrUheWuK">hade</w>
+              <w lemma="kommit" msd="UPosTag=X" xml:id="i-V2jMxcxDgVQdx1CUo7WRmP">kommit</w>
+              <w lemma="in" msd="UPosTag=X" xml:id="i-V2jN67jjDnn5MAGqt5nM9F">in</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-V2jNESqBbgJLgSoUCVeG1K">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-V2jP3vU5MEySsmcSQe3kj7 #i-V2jM6ePVRAH3xJ2iteLxay"/>
+                <link ana="ud-syn:dep" target="#i-V2jM6ePVRAH3xJ2iteLxay #i-V2jMEyUwo3oKHaZMD4CsT3"/>
+                <link ana="ud-syn:dep" target="#i-V2jM6ePVRAH3xJ2iteLxay #i-V2jMPJaQAwKacs5yXU4nK7"/>
+                <link ana="ud-syn:dep" target="#i-V2jM6ePVRAH3xJ2iteLxay #i-V2jMXdfrYpqqx9cbqsvhBB"/>
+                <link ana="ud-syn:dep" target="#i-V2jM6ePVRAH3xJ2iteLxay #i-V2jMfxmJviN7HS9EAHnc3F"/>
+                <link ana="ud-syn:dep" target="#i-V2jM6ePVRAH3xJ2iteLxay #i-V2jMpHrmJbtNcifrUheWuK"/>
+                <link ana="ud-syn:dep" target="#i-V2jM6ePVRAH3xJ2iteLxay #i-V2jMxcxDgVQdx1CUo7WRmP"/>
+                <link ana="ud-syn:dep" target="#i-V2jM6ePVRAH3xJ2iteLxay #i-V2jN67jjDnn5MAGqt5nM9F"/>
+                <link ana="ud-syn:dep" target="#i-V2jM6ePVRAH3xJ2iteLxay #i-V2jNESqBbgJLgSoUCVeG1K"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 7 maj</note>
+        <note>2019 / 20:1263 Förvarstagna under coronakrisen</note>
+        <note>av Christina Höj Larsen ( V )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>den 8 maj</note>
+        <note>2019 / 20:1274 Bildandet av ett naturreservat på Tjörn</note>
+        <note>av Mikael Larsson ( C )</note>
+        <note>till miljö- och klimatminister Isabella Lövin ( MP )</note>
+        <note>§ 12 Kammaren åtskildes kl. 9.02 .</note>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>JOHAN WELANDER</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Anmälan om kompletteringsval</note>
+        <note>§ 3 Meddelande om statsministerns frågestund</note>
+        <note>§ 4 Anmälan om subsidiaritetsprövning</note>
+        <note>§ 5 Anmälan om faktapromemorior</note>
+        <note>§ 6 Ärenden för hänvisning till utskott</note>
+        <note>§ 7 Ärenden för bordläggning</note>
+        <note>§ 8 Bordläggning</note>
+        <note>§ 9 Anmälan om interpellationer</note>
+        <note>§ 10 Anmälan om frågor för skriftliga svar</note>
+        <note>§ 11 Anmälan om skriftliga svar på frågor</note>
+        <note>§ 12 Kammaren åtskildes kl. 9.02 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2020</note>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201920--103.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 103 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 103 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="351">351 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="74"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="3"/>
+          <tagUsage gi="seg" occurs="3"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2020-04-09" ana="#parla.sitting">2020-04-09</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Meddelande om frågestund</note>
+        <note>Tredje vice talmannen meddelade att frågestund skulle äga rum torsdagen den 16 april kl. 14.00 .</note>
+        <note>§ 2 Anmälan om granskningsrapport</note>
+        <u ana="#regular" who="#unknown" xml:id="i-44AFDRWndrSFBE6jR4xDFX">
+          <seg xml:id="i-6Giun5YjNwqW3rsn3JbiYe">
+            <s xml:id="i-PktYDTDcMUsA5qJQQzh7mP">
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="tredje" xml:id="i-PktKsySSjg9FRTLpM4Gj1f">Tredje</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="vice" xml:id="i-PktSXchCcJbtWwzQeJcdBT">vice</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="talman" xml:id="i-PktSkweL1j37T1EcMMzUxm">talmannen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="anmäla" xml:id="i-PktSvwMg4ns2eYfm8f2NoF">anmälde</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-PktT6w527rgwr66uux4Gdj">att</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-PktTG6URLLN37W5oToWAz1">följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="granskningsrapport" xml:id="i-PktTPbFvsdjUWfAAYmn6Ms">granskningsrapport</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PktTXvMPFXFjqwgnsBe1Dw">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="komma" xml:id="i-PktTgFSqdQn1BEDRBbVv61">kommit</w>
+              <w msd="UPosTag=PART" lemma="in" xml:id="i-PktTokEMAi9SaPHnGZmqTs">in</w>
+              <w msd="UPosTag=ADP" lemma="från" xml:id="i-PktTx5KoYbfhufpQaydkKw">från</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksrevision" xml:id="i-PktU7EjCm5LoB5oJ8q5egD">Riksrevisionen</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PktUEjWiJNiEaEsfDoMa45">och</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="överlämna" xml:id="i-PktUPtv7WrPKqerYmeoUQM">överlämnats</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-PktUXPhd49kmEovurd5PnD">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="näringsutskott" xml:id="i-PktUfio5S3H2a6TYB2wJeH">näringsutskottet</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PktUp3tXovoHuNzAVSoDWM">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:det" target="#i-PktSkweL1j37T1EcMMzUxm #i-PktKsySSjg9FRTLpM4Gj1f"/>
+                <link ana="ud-syn:amod" target="#i-PktSkweL1j37T1EcMMzUxm #i-PktSXchCcJbtWwzQeJcdBT"/>
+                <link ana="ud-syn:dep" target="#i-PktUEjWiJNiEaEsfDoMa45 #i-PktSvwMg4ns2eYfm8f2NoF"/>
+                <link ana="ud-syn:obj" target="#i-PktSvwMg4ns2eYfm8f2NoF #i-PktT6w527rgwr66uux4Gdj"/>
+                <link ana="ud-syn:det" target="#i-PktTPbFvsdjUWfAAYmn6Ms #i-PktTG6URLLN37W5oToWAz1"/>
+                <link ana="ud-syn:nsubj" target="#i-PktTXvMPFXFjqwgnsBe1Dw #i-PktTPbFvsdjUWfAAYmn6Ms"/>
+                <link ana="ud-syn:advmod" target="#i-PktT6w527rgwr66uux4Gdj #i-PktTXvMPFXFjqwgnsBe1Dw"/>
+                <link ana="ud-syn:dep" target="#i-PktTXvMPFXFjqwgnsBe1Dw #i-PktTgFSqdQn1BEDRBbVv61"/>
+                <link ana="ud-syn:dep" target="#i-PktTgFSqdQn1BEDRBbVv61 #i-PktTokEMAi9SaPHnGZmqTs"/>
+                <link ana="ud-syn:advmod" target="#i-PktTgFSqdQn1BEDRBbVv61 #i-PktTx5KoYbfhufpQaydkKw"/>
+                <link ana="ud-syn:advmod" target="#i-PktTx5KoYbfhufpQaydkKw #i-PktU7EjCm5LoB5oJ8q5egD"/>
+                <link ana="ud-syn:dep" target="#i-PktUEjWiJNiEaEsfDoMa45 #i-PktUPtv7WrPKqerYmeoUQM"/>
+                <link ana="ud-syn:advmod" target="#i-PktUPtv7WrPKqerYmeoUQM #i-PktUXPhd49kmEovurd5PnD"/>
+                <link ana="ud-syn:advmod" target="#i-PktUXPhd49kmEovurd5PnD #i-PktUfio5S3H2a6TYB2wJeH"/>
+                <link ana="ud-syn:punct" target="#i-PktUfio5S3H2a6TYB2wJeH #i-PktUp3tXovoHuNzAVSoDWM"/>
+                <link ana="ud-syn:root" target="#i-PktYDTDcMUsA5qJQQzh7mP #i-PktSkweL1j37T1EcMMzUxm"/>
+                <link ana="ud-syn:dep" target="#i-PktSkweL1j37T1EcMMzUxm #i-PktUEjWiJNiEaEsfDoMa45"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>RiR 2020:10 Regionala strukturfondspartnerskap – ger de förutsättningar för en effektiv användning av EU-medel ?</note>
+        <note>§ 3 Ärenden för hänvisning till utskott</note>
+        <note>Följande dokument anmäldes :</note>
+        <note>Motioner</note>
+        <note>med anledning av prop . 2019 / 20:155 Tillfälliga bemyndiganden i smittskyddslagen med anledning av det virus som orsakar covid-19</note>
+        <note>2019 / 20:3568 av Ulf Kristersson m.fl. ( M )</note>
+        <note>2019 / 20:3575 av Lina Nordquist m.fl. ( L )</note>
+        <note>2019 / 20:3579 av Acko Ankarberg Johansson m.fl. ( KD )</note>
+        <note>Kammaren biföll talmannens förslag att ovanstående motioner omedelbart skulle hänvisas till socialutskottet .</note>
+        <note>§ 4 Anmälan om frågor för skriftliga svar</note>
+        <u ana="#regular" who="#unknown" xml:id="i-a5bb2c5dfc4f0c03-1">
+          <seg xml:id="i-X9hgEqEPX6oSxvTKyZvvrD">
+            <s xml:id="i-PktYLx17tnEbUzNmVxy39F">
+              <w lemma="Följande" msd="UPosTag=X" xml:id="i-PktUzsuphan333saWBR6q3">Följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-PktVA3KDv4T8JTrU42s1BK">frågor</w>
+              <w lemma="för" msd="UPosTag=X" xml:id="i-PktVJNQgHwyPdkP6NSiv3P">för</w>
+              <w lemma="skriftliga" msd="UPosTag=X" xml:id="i-PktVRsCBqFLq2uTTTQzqRF">skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-PktVb2bb3j1vJKSM1GSjmX">svar</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-PktVjMh3RcYBdbxyKgJedb">hade</w>
+              <w lemma="framställts" msd="UPosTag=X" xml:id="i-PktVrrUYxuud2m3LQeaa1T">framställts</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-PktW1Ba1LoRtN3Zxj4SUsX">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-PktYLx17tnEbUzNmVxy39F #i-PktUzsuphan333saWBR6q3"/>
+                <link ana="ud-syn:dep" target="#i-PktUzsuphan333saWBR6q3 #i-PktVA3KDv4T8JTrU42s1BK"/>
+                <link ana="ud-syn:dep" target="#i-PktUzsuphan333saWBR6q3 #i-PktVJNQgHwyPdkP6NSiv3P"/>
+                <link ana="ud-syn:dep" target="#i-PktUzsuphan333saWBR6q3 #i-PktVRsCBqFLq2uTTTQzqRF"/>
+                <link ana="ud-syn:dep" target="#i-PktUzsuphan333saWBR6q3 #i-PktVb2bb3j1vJKSM1GSjmX"/>
+                <link ana="ud-syn:dep" target="#i-PktUzsuphan333saWBR6q3 #i-PktVjMh3RcYBdbxyKgJedb"/>
+                <link ana="ud-syn:dep" target="#i-PktUzsuphan333saWBR6q3 #i-PktVrrUYxuud2m3LQeaa1T"/>
+                <link ana="ud-syn:dep" target="#i-PktUzsuphan333saWBR6q3 #i-PktW1Ba1LoRtN3Zxj4SUsX"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 8 april</note>
+        <note>2019 / 20:1163 Reducerad alkoholskatt på öl från småbryggerier</note>
+        <note>av Johan Hultberg ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2019 / 20:1164 Regionala flygplatser och stödet för korttidspermittering</note>
+        <note>av Maria Stockhaus ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2019 / 20:1165 Chiles politiska fångar</note>
+        <note>av Lorena Delgado Varas ( V )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2019 / 20:1166 Sveriges beredskapslager</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2019 / 20:1167 Hjälp till svenska familjer utomlands</note>
+        <note>av Martina Johansson ( C )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>§ 5 Anmälan om skriftliga svar på frågor</note>
+        <u ana="#regular" who="#unknown" xml:id="i-a5bb2c5dfc4f0c03-4">
+          <seg xml:id="i-5XzXyJ4Pp8wSf4PHysFLko">
+            <s xml:id="i-PktYTcUgbVTCx1zsMVey2u">
+              <w lemma="Skriftliga" msd="UPosTag=X" xml:id="i-PktW9WfTigx9hL6b3UJPjb">Skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-PktWH1SyFzKb6VAx8SaK7T">svar</w>
+              <w lemma="på" msd="UPosTag=X" xml:id="i-PktWSArNUTzgMu9qgJ2DTj">på</w>
+              <w lemma="följande" msd="UPosTag=X" xml:id="i-PktWYqKwBBDHpvmwXpi9MP">följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-PktWiq3HEF3D2UD6K7k3Bs">frågor</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-PktWrKpnmYQeRdHTQ61xZj">hade</w>
+              <w lemma="kommit" msd="UPosTag=X" xml:id="i-PktXe8qnqvn6khBu9MFUK7">kommit</w>
+              <w lemma="in" msd="UPosTag=X" xml:id="i-PktXp8Z8tzc1xEd3veHN9b">in</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-PktXwdLeSHyTMPhR1cZHXT">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-PktYTcUgbVTCx1zsMVey2u #i-PktW9WfTigx9hL6b3UJPjb"/>
+                <link ana="ud-syn:dep" target="#i-PktW9WfTigx9hL6b3UJPjb #i-PktWH1SyFzKb6VAx8SaK7T"/>
+                <link ana="ud-syn:dep" target="#i-PktW9WfTigx9hL6b3UJPjb #i-PktWSArNUTzgMu9qgJ2DTj"/>
+                <link ana="ud-syn:dep" target="#i-PktW9WfTigx9hL6b3UJPjb #i-PktWYqKwBBDHpvmwXpi9MP"/>
+                <link ana="ud-syn:dep" target="#i-PktW9WfTigx9hL6b3UJPjb #i-PktWiq3HEF3D2UD6K7k3Bs"/>
+                <link ana="ud-syn:dep" target="#i-PktW9WfTigx9hL6b3UJPjb #i-PktWrKpnmYQeRdHTQ61xZj"/>
+                <link ana="ud-syn:dep" target="#i-PktW9WfTigx9hL6b3UJPjb #i-PktXe8qnqvn6khBu9MFUK7"/>
+                <link ana="ud-syn:dep" target="#i-PktW9WfTigx9hL6b3UJPjb #i-PktXp8Z8tzc1xEd3veHN9b"/>
+                <link ana="ud-syn:dep" target="#i-PktW9WfTigx9hL6b3UJPjb #i-PktXwdLeSHyTMPhR1cZHXT"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 8 april</note>
+        <note>2019 / 20:1122 Mikrobryggeriers situation under coronakrisen</note>
+        <note>av Angelica Lundberg ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1125 Restaurangers möjligheter att köra ut mat</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1126 Statliga bolags agerande gentemot företag</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1128 Lättnader i vistelsekommunernas ansvar för socialtjänstinsatser</note>
+        <note>av Johan Hultberg ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1129 Covid-19 och vapenlicenserna</note>
+        <note>av Kjell-Arne Ottosson ( KD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2019 / 20:1130 Tillfälligt stopp för djurtransporter mellan länder</note>
+        <note>av Elin Segerlind ( V )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2019 / 20:1131 Rea på svenska bolag</note>
+        <note>av Tobias Andersson ( SD )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1133 Stöd till flygtrafik till Norrland under krisen</note>
+        <note>av Edward Riedl ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1135 Skyddsutrustning för medarbetare inom hälso- och sjukvården</note>
+        <note>av Camilla Waltersson Grönvall ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1134 Tre svenska fängslade medborgare i Eritrea , Iran och Kina</note>
+        <note>av Amineh Kakabaveh ( - )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>§ 6 Kammaren åtskildes kl. 9 . 00 .</note>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANNA ASPEGREN</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Meddelande om frågestund</note>
+        <note>§ 2 Anmälan om granskningsrapport</note>
+        <note>§ 3 Ärenden för hänvisning till utskott</note>
+        <note>§ 4 Anmälan om frågor för skriftliga svar</note>
+        <note>§ 5 Anmälan om skriftliga svar på frågor</note>
+        <note>§ 6 Kammaren åtskildes kl. 9.00 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2020</note>
+      </div>
+    </body>
+  </text>
+</TEI>

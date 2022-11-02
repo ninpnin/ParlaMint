@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201617--17.ana" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2016/17 nr. 17 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2016/17 nr. 17 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201617" ana="#parla.uni #parla.term">2016/17</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="159">159 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="70"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="2"/>
+          <tagUsage gi="seg" occurs="2"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2016-10-19" ana="#parla.sitting">2016-10-19</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Justering av protokoll</note>
+        <note>Protokollet för den 28 september justerades .</note>
+        <note>§ 2 Anmälan om fördröjt svar på interpellation</note>
+        <note>Följande skrivelse hade kommit in :</note>
+        <note>Interpellation 2016 / 17:46</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2016 / 17:46 Lag om kvotering</note>
+        <note>av Isabella Hökmark ( M )</note>
+        <u ana="#regular" who="#unknown" xml:id="i-MnrUb3Me3cYJQKc6zj7z4a">
+          <seg xml:id="i-9NkY1GVuzez5xciG2Nu73W">
+            <s xml:id="i-X3LAYRgbuun19wqrvGzo8H">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-X3KzKPPRSfRagTSsvBj6ry">Interpellationen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-X3L8GpoDYsjRheJNJaQCHb">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-X3L8Wz4HntKUZpzqF5N3Z7">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="besvara" xml:id="i-X3L8g9Th1MzZqEyinvowuP">besvaras</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="fredag" xml:id="i-X3L8r9B34RpV2nQsaDqqjs">fredagen</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-X3L91JaSGuVaJCPm85Hk69">den</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="28" xml:id="i-X3L99dfteo1qdUvPSV9exD">28</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="oktober" xml:id="i-X3L9HxmM2gY6xmT1ku1ZpH">oktober</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-X3L9SHroQa4NJ3ye5JsUgM">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-X3L8GpoDYsjRheJNJaQCHb #i-X3KzKPPRSfRagTSsvBj6ry"/>
+                <link ana="ud-syn:dep" target="#i-X3L8GpoDYsjRheJNJaQCHb #i-X3L8Wz4HntKUZpzqF5N3Z7"/>
+                <link ana="ud-syn:punct" target="#i-X3L8Wz4HntKUZpzqF5N3Z7 #i-X3L8g9Th1MzZqEyinvowuP"/>
+                <link ana="ud-syn:advmod" target="#i-X3L8g9Th1MzZqEyinvowuP #i-X3L8r9B34RpV2nQsaDqqjs"/>
+                <link ana="ud-syn:det" target="#i-X3L9HxmM2gY6xmT1ku1ZpH #i-X3L91JaSGuVaJCPm85Hk69"/>
+                <link ana="ud-syn:det" target="#i-X3L9HxmM2gY6xmT1ku1ZpH #i-X3L99dfteo1qdUvPSV9exD"/>
+                <link ana="ud-syn:advmod" target="#i-X3L8g9Th1MzZqEyinvowuP #i-X3L9HxmM2gY6xmT1ku1ZpH"/>
+                <link ana="ud-syn:root" target="#i-X3LAYRgbuun19wqrvGzo8H #i-X3L8GpoDYsjRheJNJaQCHb"/>
+                <link ana="ud-syn:dep" target="#i-X3L8GpoDYsjRheJNJaQCHb #i-X3L9SHroQa4NJ3ye5JsUgM"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Skälet till dröjsmålet är tidigare inbokade resor och arrangemang .</note>
+        <note>Stockholm den 17 oktober 2016</note>
+        <note>Näringsdepartementet</note>
+        <note>Mikael Damberg ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Fredrik Ahlén</note>
+        <note>Expeditionschef</note>
+        <note>§ 3 Ärenden för hänvisning till utskott</note>
+        <u ana="#regular" who="#unknown" xml:id="i-WzBYxTfQTGTAX3s8hMx5u1">
+          <seg xml:id="i-2GgtVxtYgGSrwm4AVH3hep">
+            <s xml:id="i-X3LAgkn4HoJGVENVEgrhzM">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-X3L9bTGCd3jTZTxXdAKP2d">Följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="dokument" xml:id="i-X3L9ix3iAM6txd2ti8bJQV">dokument</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="hänvisa" xml:id="i-X3L9t7T7NpmzE31nFz3Ckm">hänvisades</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-X3LA2SYZkiJFZKYQaPu7cq">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="utskott" xml:id="i-X3LABbwxyByLpjXJ8FM1y7">utskott</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-X3LAK6jUWVLnDtbfDDcwLy">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:det" target="#i-X3L9ix3iAM6txd2ti8bJQV #i-X3L9bTGCd3jTZTxXdAKP2d"/>
+                <link ana="ud-syn:advmod" target="#i-X3L9t7T7NpmzE31nFz3Ckm #i-X3LA2SYZkiJFZKYQaPu7cq"/>
+                <link ana="ud-syn:advmod" target="#i-X3LA2SYZkiJFZKYQaPu7cq #i-X3LABbwxyByLpjXJ8FM1y7"/>
+                <link ana="ud-syn:punct" target="#i-X3LABbwxyByLpjXJ8FM1y7 #i-X3LAK6jUWVLnDtbfDDcwLy"/>
+                <link ana="ud-syn:root" target="#i-X3LAgkn4HoJGVENVEgrhzM #i-X3L9ix3iAM6txd2ti8bJQV"/>
+                <link ana="ud-syn:dep" target="#i-X3L9ix3iAM6txd2ti8bJQV #i-X3L9t7T7NpmzE31nFz3Ckm"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Propositioner</note>
+        <note>2016 / 17:19 , 24 , 25 och 26 till skatteutskottet</note>
+        <note>2016 / 17:27 till justitieutskottet</note>
+        <note>Skrivelse</note>
+        <note>2016 / 17:29 till konstitutionsutskottet</note>
+        <note>Motioner</note>
+        <note>2016 / 17:3499 – 3501 till socialutskottet</note>
+        <note>§ 4 Ändrat regionalt utvecklingsansvar i vissa län</note>
+        <note>Konstitutionsutskottets betänkande 2016 / 17:KU2</note>
+        <note>Ändrat regionalt utvecklingsansvar i vissa län ( prop . 2015 / 16:176 )</note>
+        <note>föredrogs .</note>
+        <note>Talmannen konstaterade att ingen talare var anmäld .</note>
+        <note>Beslut</note>
+        <note>KU2 Ändrat regionalt utvecklingsansvar i vissa län</note>
+        <note>Kammaren biföll utskottets förslag .</note>
+        <note>§ 5 Särskilda bestämmelser om undantag från trängselskatt för Backaområdet i Göteborg</note>
+        <note>Skatteutskottets betänkande 2016 / 17:SkU5</note>
+        <note>Särskilda bestämmelser om undantag från trängselskatt för Backaområdet i Göteborg ( prop . 2015 / 16:191 )</note>
+        <note>föredrogs .</note>
+        <note>Talmannen konstaterade att ingen talare var anmäld .</note>
+        <note>Beslut</note>
+        <note>SkU5 Särskilda bestämmelser om undantag från trängselskatt för Backaområdet i Göteborg</note>
+        <note>Kammaren biföll utskottets förslag .</note>
+        <note>§ 6 Stiftelsen Riksbankens Jubileumsfonds bidrag till svensk forskning</note>
+        <note>Utbildningsutskottets betänkande 2016 / 17:UbU4</note>
+        <note>Stiftelsen Riksbankens Jubileumsfonds bidrag till svensk forskning ( redog . 2015 / 16:RR6 )</note>
+        <note>föredrogs .</note>
+        <note>Talmannen konstaterade att ingen talare var anmäld .</note>
+        <note>Beslut</note>
+        <note>UbU4 Stiftelsen Riksbankens Jubileumsfonds bidrag till svensk forskning</note>
+        <note>Kammaren biföll utskottets förslag .</note>
+        <note>§ 7 Kammaren åtskildes kl. 9.01 .</note>
+        <note>Sammanträdet leddes av talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>CHARLOTTE RYDELL</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Anmälan om fördröjt svar på interpellation</note>
+        <note>§ 3 Ärenden för hänvisning till utskott</note>
+        <note>§ 4 Ändrat regionalt utvecklingsansvar i vissa län</note>
+        <note>Konstitutionsutskottets betänkande 2016 / 17:KU2</note>
+        <note>Beslut</note>
+        <note>KU2 Ändrat regionalt utvecklingsansvar i vissa län</note>
+        <note>§ 5 Särskilda bestämmelser om undantag från trängselskatt för Backaområdet i Göteborg</note>
+        <note>Skatteutskottets betänkande 2016 / 17:SkU5</note>
+        <note>Beslut</note>
+        <note>SkU5 Särskilda bestämmelser om undantag från trängselskatt för Backaområdet i Göteborg</note>
+        <note>§ 6 Stiftelsen Riksbankens Jubileumsfonds bidrag till svensk forskning</note>
+        <note>Utbildningsutskottets betänkande 2016 / 17:UbU4</note>
+        <note>Beslut</note>
+        <note>UbU4 Stiftelsen Riksbankens Jubileumsfonds bidrag till svensk forskning</note>
+        <note>§ 7 Kammaren åtskildes kl. 9.01 .</note>
+        <note>Tryck : Elanders , Vällingby 2016</note>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,882 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_202122--25.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2021/22 nr. 25 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2021/22 nr. 25 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="202122" ana="#parla.uni #parla.term">2021/22</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="1250">1250 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="457"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="12"/>
+          <tagUsage gi="seg" occurs="12"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2021-11-04" ana="#parla.sitting">2021-11-04</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Justering av protokoll</note>
+        <note>Protokollen för den 12 – 14 oktober justerades .</note>
+        <note>§ 2 Anmälan om subsidiaritetsprövning</note>
+        <note>Tredje vice talmannen anmälde att utdrag ur prot . 2021 / 22:12 för torsdagen den 28 oktober i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från socialutskottet .</note>
+        <note>§ 3 Anmälan om fördröjda svar på interpella ­ tioner</note>
+        <u ana="#regular" who="#unknown" xml:id="i-ECkTh2CwEBPTUVWvr58pzV">
+          <seg xml:id="i-QeN8BpFT8PdBFs16D24VQ6">
+            <s xml:id="i-WBxozfEZ5EkubSYLnnYvkV">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-WBwTK61H72xsKQdU4nZTAu">Följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="skrivelse" xml:id="i-WBwVwWdJQnp76vVXUWoqAm">skrivelser</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-WBwWFqS6qkAHdkTJaDhdsK">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="komma" xml:id="i-WBwWVAPEFAbWZohWHH5Ved">kommit</w>
+              <w msd="UPosTag=PART" lemma="in" xml:id="i-WBwWgpiTyQj5dc3BXTHNTX">in</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-WBwhDMWW32GrhnwgPorswB">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:det" target="#i-WBwVwWdJQnp76vVXUWoqAm #i-WBwTK61H72xsKQdU4nZTAu"/>
+                <link ana="ud-syn:dep" target="#i-WBwWFqS6qkAHdkTJaDhdsK #i-WBwWVAPEFAbWZohWHH5Ved"/>
+                <link ana="ud-syn:dep" target="#i-WBwWVAPEFAbWZohWHH5Ved #i-WBwWgpiTyQj5dc3BXTHNTX"/>
+                <link ana="ud-syn:punct" target="#i-WBwWVAPEFAbWZohWHH5Ved #i-WBwhDMWW32GrhnwgPorswB"/>
+                <link ana="ud-syn:root" target="#i-WBxozfEZ5EkubSYLnnYvkV #i-WBwVwWdJQnp76vVXUWoqAm"/>
+                <link ana="ud-syn:dep" target="#i-WBwVwWdJQnp76vVXUWoqAm #i-WBwWFqS6qkAHdkTJaDhdsK"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Interpellation 2021 / 22:81</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2021 / 22:81 Framtidsutsikterna för Sveriges bönder</note>
+        <note>av Magnus Oscarsson ( KD )</note>
+        <u ana="#regular" who="#unknown" xml:id="i-C6yP6GTUtD7ZvGUXLgTPQ2">
+          <seg xml:id="i-pWwP8TNnjqwbEExhzjF5M">
+            <s xml:id="i-WBxpBVFqxtjej7RkoXAp5B">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-WBwhTWmaH2ruZye9LJpjCh">Interpellationen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-WBwyq3VRJJM3UTqXXCvdcZ">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-WBx5wsJCB9B73CjQF8arnh">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="besvara" xml:id="i-WBx6C2ZGR9m9uPRsBdYi4D">besvaras</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="fredag" xml:id="i-WBx6PgtW9PtiyBmYRokas7">fredagen</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-WBx6bMDjse2J2z7DfyxTg1">den</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="19" xml:id="i-WBx7DAXPtxZqAWaWdxA5au">19</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="november" xml:id="i-WBx7RfAaTnrEASNT7Zwwt1">november</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2021" xml:id="i-WBx7cVBsMSpyJ7Fs8JZqCh">2021</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-WBx7p9X75gxYMubYNUmi1b">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-WBwyq3VRJJM3UTqXXCvdcZ #i-WBwhTWmaH2ruZye9LJpjCh"/>
+                <link ana="ud-syn:dep" target="#i-WBwyq3VRJJM3UTqXXCvdcZ #i-WBx5wsJCB9B73CjQF8arnh"/>
+                <link ana="ud-syn:punct" target="#i-WBx5wsJCB9B73CjQF8arnh #i-WBx6C2ZGR9m9uPRsBdYi4D"/>
+                <link ana="ud-syn:advmod" target="#i-WBx6C2ZGR9m9uPRsBdYi4D #i-WBx6PgtW9PtiyBmYRokas7"/>
+                <link ana="ud-syn:det" target="#i-WBx7RfAaTnrEASNT7Zwwt1 #i-WBx6bMDjse2J2z7DfyxTg1"/>
+                <link ana="ud-syn:det" target="#i-WBx7RfAaTnrEASNT7Zwwt1 #i-WBx7DAXPtxZqAWaWdxA5au"/>
+                <link ana="ud-syn:advmod" target="#i-WBx6C2ZGR9m9uPRsBdYi4D #i-WBx7RfAaTnrEASNT7Zwwt1"/>
+                <link ana="ud-syn:nmod" target="#i-WBx7RfAaTnrEASNT7Zwwt1 #i-WBx7cVBsMSpyJ7Fs8JZqCh"/>
+                <link ana="ud-syn:root" target="#i-WBxpBVFqxtjej7RkoXAp5B #i-WBwyq3VRJJM3UTqXXCvdcZ"/>
+                <link ana="ud-syn:dep" target="#i-WBwyq3VRJJM3UTqXXCvdcZ #i-WBx7p9X75gxYMubYNUmi1b"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <u ana="#regular" who="#unknown" xml:id="i-5d8229dabfb92c6d-0">
+          <seg xml:id="i-S8i9QPVJRhp67uTysfqVhG">
+            <s xml:id="i-WBxpJ9jQfbxGC93rf3rjxq">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="skäl" xml:id="i-WBx9T6ntapJkkZDUnmahTB">Skälet</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-WBx9fbS59eb9kV1RGPNZkH">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="dröjsmål" xml:id="i-WBx9tvPCZ52NgYFcySkRXb">dröjsmålet</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-WBxA6aiSHK9wkLbJDcxJLV">är</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-WBxAJF3g1ZHWp8vyToAB9P">tidigare</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur|Tense=Past|VerbForm=Part" lemma="inbokad" xml:id="i-WBxAV54xuDGFwopPUXn4U5">inbokade</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="arrangemang" xml:id="i-WBxAfu6FnsF15UhoVGPwnm">arrangemang</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-WBxArj7YgXDkD9bDW11q7T">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-WBxA6aiSHK9wkLbJDcxJLV #i-WBx9T6ntapJkkZDUnmahTB"/>
+                <link ana="ud-syn:nmod" target="#i-WBx9T6ntapJkkZDUnmahTB #i-WBx9fbS59eb9kV1RGPNZkH"/>
+                <link ana="ud-syn:advmod" target="#i-WBx9fbS59eb9kV1RGPNZkH #i-WBx9tvPCZ52NgYFcySkRXb"/>
+                <link ana="ud-syn:advmod" target="#i-WBxA6aiSHK9wkLbJDcxJLV #i-WBxAJF3g1ZHWp8vyToAB9P"/>
+                <link ana="ud-syn:amod" target="#i-WBxAfu6FnsF15UhoVGPwnm #i-WBxAV54xuDGFwopPUXn4U5"/>
+                <link ana="ud-syn:dep" target="#i-WBxA6aiSHK9wkLbJDcxJLV #i-WBxAfu6FnsF15UhoVGPwnm"/>
+                <link ana="ud-syn:punct" target="#i-WBxA6aiSHK9wkLbJDcxJLV #i-WBxArj7YgXDkD9bDW11q7T"/>
+                <link ana="ud-syn:root" target="#i-WBxpJ9jQfbxGC93rf3rjxq #i-WBxA6aiSHK9wkLbJDcxJLV"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Stockholm den 3 november 2021</note>
+        <note>Näringsdepartementet</note>
+        <note>Ibrahim Baylan ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Annica Sandberg</note>
+        <note>Expeditionschef</note>
+        <note>Interpellation 2021 / 22:87</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2021 / 22:87 Gangsterrap</note>
+        <note>av Tobias Andersson ( SD )</note>
+        <u ana="#regular" who="#unknown" xml:id="i-5d8229dabfb92c6d-1">
+          <seg xml:id="i-E7pwHDksXsRF5zdSmbQ2nc">
+            <s xml:id="i-WBxpQpCyNKAsfAfxWaYfrV">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-WBxBEPA8TqBEUVN3XUFbkq">Interpellationen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-WBxBS3VNC5JoYHhimeTUZj">kommer</w>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-WBxBc3CiF98ijq8sYwVNQD">inte</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="hinna" xml:id="i-WBxBpXqtoyR7jkvp2ZHEhK">hinna</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="besvara" xml:id="i-WBxC1MsBhdPrsRpE3Hu821">besvaras</w>
+              <w msd="UPosTag=ADP" lemma="inom" xml:id="i-WBxCCBtUbHNc16he42X1Lh">inom</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="tidsfrist" xml:id="i-WBxCNBbpeMCXCe8nqKYuBB">tidsfristen</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-WBxCZqw4NbL6GSUU5Vkmz5">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-WBxBS3VNC5JoYHhimeTUZj #i-WBxBEPA8TqBEUVN3XUFbkq"/>
+                <link ana="ud-syn:dep" target="#i-WBxBS3VNC5JoYHhimeTUZj #i-WBxBc3CiF98ijq8sYwVNQD"/>
+                <link ana="ud-syn:dep" target="#i-WBxBS3VNC5JoYHhimeTUZj #i-WBxBpXqtoyR7jkvp2ZHEhK"/>
+                <link ana="ud-syn:obj" target="#i-WBxBpXqtoyR7jkvp2ZHEhK #i-WBxC1MsBhdPrsRpE3Hu821"/>
+                <link ana="ud-syn:advmod" target="#i-WBxC1MsBhdPrsRpE3Hu821 #i-WBxCCBtUbHNc16he42X1Lh"/>
+                <link ana="ud-syn:advmod" target="#i-WBxCCBtUbHNc16he42X1Lh #i-WBxCNBbpeMCXCe8nqKYuBB"/>
+                <link ana="ud-syn:punct" target="#i-WBxBS3VNC5JoYHhimeTUZj #i-WBxCZqw4NbL6GSUU5Vkmz5"/>
+                <link ana="ud-syn:root" target="#i-WBxpQpCyNKAsfAfxWaYfrV #i-WBxBS3VNC5JoYHhimeTUZj"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <u ana="#regular" who="#unknown" xml:id="i-5d8229dabfb92c6d-2">
+          <seg xml:id="i-21z6aJzoqKdMKuRgQfERNo">
+            <s xml:id="i-WBxpXUgY52PV8CJ4N7Ebk9">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="skäl" xml:id="i-WBxCwVye9uHaXnFJ6xzYdT">Skälet</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-WBxD9AJst9R9baayM9CRSM">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="dröjsmål" xml:id="i-WBxDLpe7cPYifNvebKQJFF">dröjsmålet</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-WBxDZKHJBDq7fJib4wCAYM">är</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="tjänsteresa" xml:id="i-WBxDvyKsxXnbveVR6QRwBj">tjänsteresor</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-WBxE8df7gmvAzSq6Ladozd">och</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Ind|Gender=Com,Neut|Number=Plur" lemma="andra" xml:id="i-WBxEKTgQaRtv87iWMKFhKK">andra</w>
+              <w msd="UPosTag=ADP" lemma="sedan" xml:id="i-WBxEWHhhU5sfFnbvN3sae1">sedan</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-WBxEh7izMjrQPTVLNnVTxh">tidigare</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur|Tense=Past|VerbForm=Part" lemma="inbokad" xml:id="i-WBxMsaRjE9wd1hteFMX389">inbokade</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="arrangemang" xml:id="i-WBxN6uNrdaNqwm8qxQttuT">arrangemang</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-WBxNHjQ9XEMb5S2Fy9WnE9">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-WBxDZKHJBDq7fJib4wCAYM #i-WBxCwVye9uHaXnFJ6xzYdT"/>
+                <link ana="ud-syn:nmod" target="#i-WBxCwVye9uHaXnFJ6xzYdT #i-WBxD9AJst9R9baayM9CRSM"/>
+                <link ana="ud-syn:advmod" target="#i-WBxD9AJst9R9baayM9CRSM #i-WBxDLpe7cPYifNvebKQJFF"/>
+                <link ana="ud-syn:dep" target="#i-WBxE8df7gmvAzSq6Ladozd #i-WBxDvyKsxXnbveVR6QRwBj"/>
+                <link ana="ud-syn:dep" target="#i-WBxDZKHJBDq7fJib4wCAYM #i-WBxE8df7gmvAzSq6Ladozd"/>
+                <link ana="ud-syn:dep" target="#i-WBxE8df7gmvAzSq6Ladozd #i-WBxEKTgQaRtv87iWMKFhKK"/>
+                <link ana="ud-syn:advmod" target="#i-WBxDZKHJBDq7fJib4wCAYM #i-WBxEWHhhU5sfFnbvN3sae1"/>
+                <link ana="ud-syn:advmod" target="#i-WBxMsaRjE9wd1hteFMX389 #i-WBxEh7izMjrQPTVLNnVTxh"/>
+                <link ana="ud-syn:amod" target="#i-WBxN6uNrdaNqwm8qxQttuT #i-WBxMsaRjE9wd1hteFMX389"/>
+                <link ana="ud-syn:advmod" target="#i-WBxEWHhhU5sfFnbvN3sae1 #i-WBxN6uNrdaNqwm8qxQttuT"/>
+                <link ana="ud-syn:punct" target="#i-WBxDZKHJBDq7fJib4wCAYM #i-WBxNHjQ9XEMb5S2Fy9WnE9"/>
+                <link ana="ud-syn:root" target="#i-WBxpXUgY52PV8CJ4N7Ebk9 #i-WBxDZKHJBDq7fJib4wCAYM"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <u ana="#regular" who="#unknown" xml:id="i-FYm3J1izh58NCNbLUfsKHR">
+          <seg xml:id="i-9FL8DTJSvrBwRrf7WUpLHD">
+            <s xml:id="i-WBxpe9A6mjc6bDvADdvXdo">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-WBxNUZRSQtLLD6ufyt8fYq">Interpellationen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-WBxNfPSjJYK5Lmo5zckYsX">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-WBxNrDU2CCHpUSgW1MNSCD">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="besvara" xml:id="i-WBxP33VK5rGZc7Zv25zKWu">besvaras</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-WBxPEhpYp6Q8fuubGGCCKo">den</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="23" xml:id="i-WBxPRXqqhkNsoao1Gzp5eV">23</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="november" xml:id="i-WBxPcMs8bQMcwFgRHjRxyB">november</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2021" xml:id="i-WBxTFvTHNy1Xyth89nHiVj">2021</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-WBxTVFQQnPSkuwwKrqfaH3">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-WBxNfPSjJYK5Lmo5zckYsX #i-WBxNUZRSQtLLD6ufyt8fYq"/>
+                <link ana="ud-syn:dep" target="#i-WBxNfPSjJYK5Lmo5zckYsX #i-WBxNrDU2CCHpUSgW1MNSCD"/>
+                <link ana="ud-syn:punct" target="#i-WBxNrDU2CCHpUSgW1MNSCD #i-WBxP33VK5rGZc7Zv25zKWu"/>
+                <link ana="ud-syn:det" target="#i-WBxPcMs8bQMcwFgRHjRxyB #i-WBxPEhpYp6Q8fuubGGCCKo"/>
+                <link ana="ud-syn:det" target="#i-WBxPcMs8bQMcwFgRHjRxyB #i-WBxPRXqqhkNsoao1Gzp5eV"/>
+                <link ana="ud-syn:advmod" target="#i-WBxP33VK5rGZc7Zv25zKWu #i-WBxPcMs8bQMcwFgRHjRxyB"/>
+                <link ana="ud-syn:nmod" target="#i-WBxPcMs8bQMcwFgRHjRxyB #i-WBxTFvTHNy1Xyth89nHiVj"/>
+                <link ana="ud-syn:punct" target="#i-WBxNfPSjJYK5Lmo5zckYsX #i-WBxTVFQQnPSkuwwKrqfaH3"/>
+                <link ana="ud-syn:root" target="#i-WBxpe9A6mjc6bDvADdvXdo #i-WBxNfPSjJYK5Lmo5zckYsX"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Stockholm den 2 november 2021</note>
+        <note>Justitiedepartementet</note>
+        <note>Mikael Damberg ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Jenny Kvarnholt</note>
+        <note>Expeditionschef</note>
+        <note>§ 4 Anmälan om faktapromemorior</note>
+        <u ana="#regular" who="#unknown" xml:id="i-D1xaD1QpopuKtUUswyGHAJ">
+          <seg xml:id="i-R6smZidPz6rHjLzWw3Tr9t">
+            <s xml:id="i-WBxpmdwcK2yXzNzXJcCT1f">
+              <w lemma="Tredje" msd="UPosTag=X" xml:id="i-WBxTjQfV2Q2on8dnoLdRYZ">Tredje</w>
+              <w lemma="vice" msd="UPosTag=X" xml:id="i-WBxTwuJfbEKCn4RjGxRHqf">vice</w>
+              <w lemma="talmannen" msd="UPosTag=X" xml:id="i-WBxU8jKxUtHwujK9Hh3BAM">talmannen</w>
+              <w lemma="anmäl" msd="UPosTag=X" xml:id="i-WBxUKZMFNYGh3QCZJRf4V3">anmäl</w>
+              <w lemma="de" msd="UPosTag=X" xml:id="i-WBxUWPNYGCFSB55yKAGwoj">de</w>
+              <w lemma="att" msd="UPosTag=X" xml:id="i-WBxUhDPq9rEBJjyPKttq8R">att</w>
+              <w lemma="följande" msd="UPosTag=X" xml:id="i-WBxUt3R83WCvSQroLdWiT7">följande</w>
+              <w lemma="faktapromemorior" msd="UPosTag=X" xml:id="i-WBxV5hkMmkLVWDCUaoibG1">faktapromemorior</w>
+              <w lemma="om" msd="UPosTag=X" xml:id="i-WBxVFhThppAQhkddN6kV6V">om</w>
+              <w lemma="förslag" msd="UPosTag=X" xml:id="i-WBxVSXUziU99qRX3NqNNRB">förslag</w>
+              <w lemma="från" msd="UPosTag=X" xml:id="i-WBxVdMWHc87ty6QTPZzFjs">från</w>
+              <w lemma="Europeiska" msd="UPosTag=X" xml:id="i-WBxVpBXaVn6e6mHsQJc94Z">Europeiska</w>
+              <w lemma="kommissionen" msd="UPosTag=X" xml:id="i-WBxW3WUhuCXs2pY57Myzqs">kommissionen</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-WBxWELVznrWcAVRV86btAZ">hade</w>
+              <w lemma="kommit" msd="UPosTag=X" xml:id="i-WBxWRAXHgWVMJAJu8qDmVF">kommit</w>
+              <w lemma="in" msd="UPosTag=X" xml:id="i-WBxWbAEdjaKGVhk3v8FfKj">in</w>
+              <w lemma="och" msd="UPosTag=X" xml:id="i-WBxcBzuNTDfaTpLUJApCzR">och</w>
+              <w lemma="överlämnats" msd="UPosTag=X" xml:id="i-WBxcSzUPXpQTG8VCU7N3k9">överlämnats</w>
+              <w lemma="till" msd="UPosTag=X" xml:id="i-WBxcdpVgRUPCPoNcUqyw4q">till</w>
+              <w lemma="utskott" msd="UPosTag=X" xml:id="i-WBxcopD2UYD7bLomG91puK">utskott</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-WBxd1UYGCnLgf99SWKDhiD">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-WBxpmdwcK2yXzNzXJcCT1f #i-WBxTjQfV2Q2on8dnoLdRYZ"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxTwuJfbEKCn4RjGxRHqf"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxU8jKxUtHwujK9Hh3BAM"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxUKZMFNYGh3QCZJRf4V3"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxUWPNYGCFSB55yKAGwoj"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxUhDPq9rEBJjyPKttq8R"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxUt3R83WCvSQroLdWiT7"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxV5hkMmkLVWDCUaoibG1"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxVFhThppAQhkddN6kV6V"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxVSXUziU99qRX3NqNNRB"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxVdMWHc87ty6QTPZzFjs"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxVpBXaVn6e6mHsQJc94Z"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxW3WUhuCXs2pY57Myzqs"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxWELVznrWcAVRV86btAZ"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxWRAXHgWVMJAJu8qDmVF"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxWbAEdjaKGVhk3v8FfKj"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxcBzuNTDfaTpLUJApCzR"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxcSzUPXpQTG8VCU7N3k9"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxcdpVgRUPCPoNcUqyw4q"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxcopD2UYD7bLomG91puK"/>
+                <link ana="ud-syn:dep" target="#i-WBxTjQfV2Q2on8dnoLdRYZ #i-WBxd1UYGCnLgf99SWKDhiD"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>2021 / 22:FPM11 EU:s åtgärdsplan mot smuggling av migranter 2021 − 2025 COM ( 2021 ) 591 till socialförsäkringsutskottet</note>
+        <note>2021 / 22:FPM12 Beslut om partiell suspendering av EU:s viseringsförenklingsavtal med Belarus COM ( 2021 ) 612 till socialförsäkringsutskottet</note>
+        <note>§ 5 Anmälan om granskningsrapport</note>
+        <u ana="#regular" who="#unknown" xml:id="i-CZNXF6naYpESC2mCWXjFkv">
+          <seg xml:id="i-PvtxujorWMepoxGW4nJzpp">
+            <s xml:id="i-WBxptJRB1kC9TQcdA8tNuK">
+              <w lemma="Tredje" msd="UPosTag=X" xml:id="i-WBxdCJZZ6SKRnp2rX3qb2u">Tredje</w>
+              <w lemma="vice" msd="UPosTag=X" xml:id="i-WBxdP8aqz6JAvUvGXnTUMb">vice</w>
+              <w lemma="talmannen" msd="UPosTag=X" xml:id="i-WBxdjxKUvp6qFhEqKp7FWm">talmannen</w>
+              <w lemma="anmälde" msd="UPosTag=X" xml:id="i-WBxdux2pysvkTEfz7799MF">anmälde</w>
+              <w lemma="att" msd="UPosTag=X" xml:id="i-WBxe5wkB2wkfen78tQB3Bj">att</w>
+              <w lemma="följande" msd="UPosTag=X" xml:id="i-WBxeFwTX61aarKYHfhCw2D">följande</w>
+              <w lemma="granskningsrapport" msd="UPosTag=X" xml:id="i-WBxeRwAs95QW3rySSzEprh">granskningsrapport</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-WBxeb6aGMZ5bKGxKzqgjCy">hade</w>
+              <w lemma="kommit" msd="UPosTag=X" xml:id="i-WBxekFyfa2kgagwDYh8dZF">kommit</w>
+              <w lemma="in" msd="UPosTag=X" xml:id="i-WBxevFh1d6abnENNKzAXPj">in</w>
+              <w lemma="från" msd="UPosTag=X" xml:id="i-WBxf6FQMgAQWymoX7HCRED">från</w>
+              <w lemma="Riksrevisionen" msd="UPosTag=X" xml:id="i-WBxfFQokte5cFBnQf8eKaV">Riksrevisionen</w>
+              <w lemma="och" msd="UPosTag=X" xml:id="i-WBxfRQX6whuXSjDZSRgDQy">och</w>
+              <w lemma="överlämnats" msd="UPosTag=X" xml:id="i-WBxfbQESzmjSeGeiDii7FT">överlämnats</w>
+              <w lemma="till" msd="UPosTag=X" xml:id="i-WBxfmPwo3qZMqp5s11k15w">till</w>
+              <w lemma="utrikesutskottet" msd="UPosTag=X" xml:id="i-WBxfvZMCGKET7E4kYsBuSD">utrikesutskottet</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-WBxg6Z4YKP4NJmVuLADoGh">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-WBxptJRB1kC9TQcdA8tNuK #i-WBxdCJZZ6SKRnp2rX3qb2u"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxdP8aqz6JAvUvGXnTUMb"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxdjxKUvp6qFhEqKp7FWm"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxdux2pysvkTEfz7799MF"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxe5wkB2wkfen78tQB3Bj"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxeFwTX61aarKYHfhCw2D"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxeRwAs95QW3rySSzEprh"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxeb6aGMZ5bKGxKzqgjCy"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxekFyfa2kgagwDYh8dZF"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxevFh1d6abnENNKzAXPj"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxf6FQMgAQWymoX7HCRED"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxfFQokte5cFBnQf8eKaV"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxfRQX6whuXSjDZSRgDQy"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxfbQESzmjSeGeiDii7FT"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxfmPwo3qZMqp5s11k15w"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxfvZMCGKET7E4kYsBuSD"/>
+                <link ana="ud-syn:dep" target="#i-WBxdCJZZ6SKRnp2rX3qb2u #i-WBxg6Z4YKP4NJmVuLADoGh"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>RiR 2021:28 Svenskt bistånd till multilaterala organisationer – regeringens och Sidas arbete</note>
+        <note>§ 6 Ärenden för hänvisning till utskott</note>
+        <u ana="#regular" who="#unknown" xml:id="i-JAhHZKAyXQL3TvQv736mAJ">
+          <seg xml:id="i-LnNDHR2NCekx9wEkLL7wyu">
+            <s xml:id="i-WBxq8TgFFknCKbK66drEAq">
+              <w lemma="Följande" msd="UPosTag=X" xml:id="i-WBxh6riixbiDdmCHZ3FBKB">Följande</w>
+              <w lemma="dokument" msd="UPosTag=X" xml:id="i-WBxhHgk1rFgxmS5hZms4ds">dokument</w>
+              <w lemma="hänvisades" msd="UPosTag=X" xml:id="i-WBxhUWmJjufhu6y7aWUwxZ">hänvisades</w>
+              <w lemma="till" msd="UPosTag=X" xml:id="i-WBxheWUenyVd6eQGMoWqo3">till</w>
+              <w lemma="utskott" msd="UPosTag=X" xml:id="i-WBxhoft41TAiN4P9uexk9K">utskott</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-WBxhyfbQ4WzdZbpJgwzdyo">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-WBxq8TgFFknCKbK66drEAq #i-WBxh6riixbiDdmCHZ3FBKB"/>
+                <link ana="ud-syn:dep" target="#i-WBxh6riixbiDdmCHZ3FBKB #i-WBxhHgk1rFgxmS5hZms4ds"/>
+                <link ana="ud-syn:dep" target="#i-WBxh6riixbiDdmCHZ3FBKB #i-WBxhUWmJjufhu6y7aWUwxZ"/>
+                <link ana="ud-syn:dep" target="#i-WBxh6riixbiDdmCHZ3FBKB #i-WBxheWUenyVd6eQGMoWqo3"/>
+                <link ana="ud-syn:dep" target="#i-WBxh6riixbiDdmCHZ3FBKB #i-WBxhoft41TAiN4P9uexk9K"/>
+                <link ana="ud-syn:dep" target="#i-WBxh6riixbiDdmCHZ3FBKB #i-WBxhyfbQ4WzdZbpJgwzdyo"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Motioner</note>
+        <note>2021 / 22:4242 och 4246 till miljö- och jordbruksutskottet</note>
+        <note>2021 / 22:4239 till utbildningsutskottet</note>
+        <note>§ 7 Bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Propositioner</note>
+        <note>2021 / 22:41 En ny riksbankslag</note>
+        <note>2021 / 22:42 Föreningsfrihet och terroristorganisationer</note>
+        <note>2021 / 22:45 Ökade möjligheter att stänga skolor med allvarliga brister</note>
+        <note>2021 / 22:46 Lättnader i tillståndsplikten för ljuddämpare</note>
+        <note>2021 / 22:48 Kompletterande bestämmelser till EU:s förordningar inom sammanhållningspolitiken</note>
+        <note>2021 / 22:49 Märkning och registrering av katter</note>
+        <note>2021 / 22:50 Krav på rapportering av betalningstider</note>
+        <note>2021 / 22:51 En sammanhållen utbildning för nyanlända som har utbildningsplikt</note>
+        <note>2021 / 22:55 Utlandsspioneri</note>
+        <note>Skrivelser</note>
+        <note>2021 / 22:38 Riksrevisionens rapport om öppna jämförelser i socialtjänsten</note>
+        <note>2021 / 22:47 Riksrevisionens rapport om Skatteverkets arbete med att beskatta delningsekonomin</note>
+        <note>2021 / 22:53 Riksrevisionens rapport om yrkeshögskolan</note>
+        <note>2021 / 22:62 Fortsatt giltighet av covid-19-lagen och lagen om tillfälliga smittskyddsåtgärder på serveringsställen</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2021 ) 645 Meddelande från kommissionen till Europaparlamentet , rådet , Europeiska ekonomiska och sociala kommittén samt Regionkommittén Kommissionens arbetsprogram 2022 Göra Europa starkare tillsammans</note>
+        <note>Motioner</note>
+        <note>med anledning av prop . 2021 / 22:19 En konsultationsordning i frågor som rör det samiska folket</note>
+        <note>2021 / 22:4238 av Mia Sydow Mölleby m.fl. ( V )</note>
+        <note>2021 / 22:4243 av Matheus Enholm m.fl. ( SD )</note>
+        <note>2021 / 22:4244 av Karin Enström m.fl. ( M , KD )</note>
+        <note>2021 / 22:4249 av Linda Modig m.fl. ( C )</note>
+        <note>med anledning av skr . 2021 / 22:12 Riksrevisionens rapport om myndigheters service till enskilda som inte kan eller vill vara digitala</note>
+        <note>2021 / 22:4250 av Tuve Skånberg m.fl. ( KD )</note>
+        <note>2021 / 22:4251 av Matheus Enholm m.fl. ( SD )</note>
+        <note>2021 / 22:4255 av Malin Björk m.fl. ( C )</note>
+        <note>med anledning av skr . 2021 / 22:24 Riksrevisionens rapport om systemet med energideklarationer</note>
+        <note>2021 / 22:4245 av Mikael Eskilandersson m.fl. ( SD )</note>
+        <note>2021 / 22:4247 av Larry Söder m.fl. ( KD )</note>
+        <note>2021 / 22:4248 av Rickard Nordin och Ola Johansson ( båda C )</note>
+        <note>§ 8 Motioner för omedelbar hänvisning</note>
+        <note>Följande dokument anmäldes :</note>
+        <note>Motioner</note>
+        <note>med anledning av prop . 2021 / 22:25 Utvidgade regler om lättnad i beskattningen av personaloptioner i vissa fall</note>
+        <note>2021 / 22:4254 av Elisabeth Svantesson m.fl. ( M )</note>
+        <note>2021 / 22:42 64 av Oscar Sjöstedt m.fl. ( SD )</note>
+        <note>med anledning av prop . 2021 / 22:33 Förstärkta skattereduktioner för förvärvsinkomster , sjukersättning och aktivitetsersättning</note>
+        <note>2021 / 22:4240 av Mats Persson m.fl. ( L )</note>
+        <note>2021 / 22:425 3 av Elisabeth Svantesson m.fl. ( M )</note>
+        <note>med anledning av prop . 2021 / 22:34 Skattelättnad för cykelförmån och skattefri uthyrning av personliga tillgångar</note>
+        <note>2021 / 22:4241 av Mats Persson m.fl. ( L )</note>
+        <note>2021 / 22:42 52 av Elisabeth Svantesson m.fl. ( M )</note>
+        <note>Kammaren biföll talmannens förslag att ovanstående motioner omedelbart skulle hänvisas till finansutskottet .</note>
+        <note>§ 9 Anmälan om interpellationer</note>
+        <note>Följande interpellationer hade framställts :</note>
+        <note>den 29 oktober</note>
+        <note>2021 / 22:85 Hastighetssänkningars inverkan på utvecklingen norr om Dalälven</note>
+        <note>av Thomas Morell ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2021 / 22:86 Estetiska injektionsbehandlingar</note>
+        <note>av Sofia Nilsson ( C )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:87 Gangsterrap</note>
+        <note>av Tobias Andersson ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:88 FN-kritik rörande straffrihet vid sexbrott</note>
+        <note>av Tobias Andersson ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>den 1 november</note>
+        <note>2021 / 22:89 LKAB:s nekade miljötillstånd i Kiruna</note>
+        <note>av Eric Palmqvist ( SD )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <u ana="#regular" who="#unknown" xml:id="i-5d8229dabfb92c6d-10">
+          <seg xml:id="i-Rric9Hs4aqjYKs57wxr19X">
+            <s xml:id="i-WBxqF89oxTzoncwBxAYA4V">
+              <w lemma="2021" msd="UPosTag=X" xml:id="i-WBxi8pzoGzfiq1oCEoSYL5">2021</w>
+              <w lemma="/" msd="UPosTag=X" xml:id="i-WBxiJpi9L4Ve2ZEM26USAZ">/</w>
+              <w lemma="22:90" msd="UPosTag=X" xml:id="i-WBxiTz7YYYAjHyDEZwvLWq">22:90</w>
+              <w lemma="LKAB:s" msd="UPosTag=X" xml:id="i-WBxidyptbbzeVWePMExEMK">LKAB:s</w>
+              <w lemma="roll" msd="UPosTag=X" xml:id="i-WBxio9EHp5fjkvdGu6Q8hb">roll</w>
+              <w lemma="som" msd="UPosTag=X" xml:id="i-WBxiy8wds9VexU4RgPS2Y5">som</w>
+              <w lemma="föredöme" msd="UPosTag=X" xml:id="i-WBxj98eyvDKaA1VaTgTvNZ">föredöme</w>
+              <w lemma="för" msd="UPosTag=X" xml:id="i-WBxjK8NKyH9VMYvjEyVpD3">för</w>
+              <w lemma="svensk" msd="UPosTag=X" xml:id="i-WBxjUHmjBkpacxucnpwiZK">svensk</w>
+              <w lemma="gruvnäring" msd="UPosTag=X" xml:id="i-WBxkFGUnRZ3D1uMoJebEpV">gruvnäring</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-WBxqF89oxTzoncwBxAYA4V #i-WBxi8pzoGzfiq1oCEoSYL5"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxiJpi9L4Ve2ZEM26USAZ"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxiTz7YYYAjHyDEZwvLWq"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxidyptbbzeVWePMExEMK"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxio9EHp5fjkvdGu6Q8hb"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxiy8wds9VexU4RgPS2Y5"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxj98eyvDKaA1VaTgTvNZ"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxjK8NKyH9VMYvjEyVpD3"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxjUHmjBkpacxucnpwiZK"/>
+                <link ana="ud-syn:dep" target="#i-WBxi8pzoGzfiq1oCEoSYL5 #i-WBxkFGUnRZ3D1uMoJebEpV"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>av Eric Palmqvist ( SD )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2021 / 22:91 Sanktionsavgiften vid otillåten cabotagetrafik</note>
+        <note>av Thomas Morell ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2021 / 22:92 Drivmedelspriset och en levande landsbygd</note>
+        <note>av Eric Palmqvist ( SD )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2021 / 22:93 Säkerheten vid landets flygplatser</note>
+        <note>av Thomas Morell ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>den 2 november</note>
+        <note>2021 / 22:94 Sänkta hastighetsbegränsningar och en levande landsbygd</note>
+        <note>av Eric Palmqvist ( SD )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>den 3 november</note>
+        <note>2021 / 22:95 Regeringens mål- och resultatstyrning av biståndet</note>
+        <note>av Magdalena Schröder ( M )</note>
+        <note>till statsrådet Per Olsson Fridh ( MP )</note>
+        <note>2021 / 22:96 Barnfattigdom</note>
+        <note>av Tony Haddou ( V )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:97 Estetiska injektionsbehandlingar</note>
+        <note>av Hans Rothenberg ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:98 HDP:s fängslade politiker samt kurdfrågan i Turkiet , Europa och Sverige</note>
+        <note>av Amineh Kakabaveh ( - )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>§ 10 Anmälan om frågor för skriftliga svar</note>
+        <u ana="#regular" who="#unknown" xml:id="i-5d8229dabfb92c6d-14">
+          <seg xml:id="i-CzyDqgci6Qg1jTZLdBhcB5">
+            <s xml:id="i-WBxqNcwKVmNFBn1Z38p5SM">
+              <w lemma="Följande" msd="UPosTag=X" xml:id="i-WBxkUbRupyURwxc11hy6bo">Följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-WBxkfRTCidTB5dVR2SayvV">frågor</w>
+              <w lemma="för" msd="UPosTag=X" xml:id="i-WBxkparbw78GM3UJaJ2tGm">för</w>
+              <w lemma="skriftliga" msd="UPosTag=X" xml:id="i-WBxm1Qstpm71UiMib2embT">skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-WBxmBQbEspvvgFnsNKgfRw">svar</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-WBxmMQJavtkqsoE29ciZGR">hade</w>
+              <w lemma="framställts" msd="UPosTag=X" xml:id="i-WBxmWZhz9NRw9DCuhUATch">framställts</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-WBxmgZRLCSFrLke4UmCMTB">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-WBxqNcwKVmNFBn1Z38p5SM #i-WBxkUbRupyURwxc11hy6bo"/>
+                <link ana="ud-syn:dep" target="#i-WBxkUbRupyURwxc11hy6bo #i-WBxkfRTCidTB5dVR2SayvV"/>
+                <link ana="ud-syn:dep" target="#i-WBxkUbRupyURwxc11hy6bo #i-WBxkparbw78GM3UJaJ2tGm"/>
+                <link ana="ud-syn:dep" target="#i-WBxkUbRupyURwxc11hy6bo #i-WBxm1Qstpm71UiMib2embT"/>
+                <link ana="ud-syn:dep" target="#i-WBxkUbRupyURwxc11hy6bo #i-WBxmBQbEspvvgFnsNKgfRw"/>
+                <link ana="ud-syn:dep" target="#i-WBxkUbRupyURwxc11hy6bo #i-WBxmMQJavtkqsoE29ciZGR"/>
+                <link ana="ud-syn:dep" target="#i-WBxkUbRupyURwxc11hy6bo #i-WBxmWZhz9NRw9DCuhUATch"/>
+                <link ana="ud-syn:dep" target="#i-WBxkUbRupyURwxc11hy6bo #i-WBxmgZRLCSFrLke4UmCMTB"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 29 oktober</note>
+        <note>2021 / 22:305 Utbildningsplatser för svensk spelindustri</note>
+        <note>av Michael Rubbestad ( SD )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2021 / 22:306 Stängningen av Römosseskolan</note>
+        <note>av Michael Rubbestad ( SD )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2021 / 22:307 Nätmobbning bland unga barn</note>
+        <note>av Michael Rubbestad ( SD )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2021 / 22:308 Den svenska gamingboomen</note>
+        <note>av Michael Rubbestad ( SD )</note>
+        <note>till kultur- och demokratiminister Amanda Lind ( MP )</note>
+        <note>2021 / 22:309 Åldersgränsen för hälsoundersökning med mammografi</note>
+        <note>av Barbro Westerholm ( L )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:310 Behovet av nya äldreboenden</note>
+        <note>av Barbro Westerholm ( L )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:311 Husdjur i äldreomsorgen</note>
+        <note>av Barbro Westerholm ( L )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:312 Starkare polisiär samverkan med Norge</note>
+        <note>av Johan Pehrson ( L )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:313 Bostadsanpassning</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:314 Avfallsförbränningsskatten</note>
+        <note>av Yasmine Eriksson ( SD )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2021 / 22:315 Bredbandsutbyggnad på landsbygden</note>
+        <note>av Birger Lahti ( V )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2021 / 22:316 Situationen för äldre med omfattande behov</note>
+        <note>av Karin Rågsjö ( V )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:317 Kritiken från FN:s kvinnokommitté</note>
+        <note>av Ebba Hermansson ( SD )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2021 / 22:318 Doktorander</note>
+        <note>av Fredrik Christensson ( C )</note>
+        <note>till statsrådet Matilda Ernkrans ( S )</note>
+        <note>2021 / 22:319 Införande av äldreenhet på Socialstyrelsen</note>
+        <note>av Christina Nilsson ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>den 1 november</note>
+        <note>2021 / 22:320 Ensamma äldre som tvingas bo kvar hemma</note>
+        <note>av Christina Nilsson ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:321 Misstag vid begravningar</note>
+        <note>av Anders W Jonsson ( C )</note>
+        <note>till kultur- och demokratiminister Amanda Lind ( MP )</note>
+        <note>2021 / 22:322 Handläggningstiderna för folkbokföring</note>
+        <note>av Kjell Jansson ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2021 / 22:323 Israeliska bosättningar i Palestina</note>
+        <note>av Håkan Svenneling ( V )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:324 Biståndet till Sudan</note>
+        <note>av Aron Emilsson ( SD )</note>
+        <note>till statsrådet Per Olsson Fridh ( MP )</note>
+        <note>2021 / 22:325 Terrorstämpling av MR-organisationer på Västbanken</note>
+        <note>av Thomas Hammarberg ( S )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:326 Den franska ammunitionen</note>
+        <note>av Allan Widman ( L )</note>
+        <note>till försvarsminister Peter Hultqvist ( S )</note>
+        <note>2021 / 22:327 Det misstänkta Pisafusket</note>
+        <note>av Lars Püss ( M )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2021 / 22:328 Det misstänkta Pisafusket</note>
+        <note>av Lars Püss ( M )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2021 / 22:329 Tandhygienisters möjlighet att utföra estetiska injek ­ tioner</note>
+        <note>av Johan Hultberg ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:330 Prioriteringsordningen för den tredje dosen mot covid ‑ 19</note>
+        <note>av Lina Nordquist ( L )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>den 2 november</note>
+        <note>2021 / 22:331 Konsekvenser av ny rekommendation för testning för covid-19</note>
+        <note>av Acko Ankarberg Johansson ( KD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:332 Inskränkningar av rättigheter</note>
+        <note>av Louise Meijer ( M )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <note>2021 / 22:333 Antalet avhopp från kriminella gäng i Malmö</note>
+        <note>av Johan Forssell ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>den 3 november</note>
+        <note>2021 / 22:334 Polisyrkets attraktivitet</note>
+        <note>av Magdalena Schröder ( M )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:335 Riksrevisionens kritik mot regeringens bistånd till multilaterala organisationer</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till statsrådet Per Olsson Fridh ( MP )</note>
+        <note>2021 / 22:336 Robusta betalsystem</note>
+        <note>av Pål Jonson ( M )</note>
+        <note>till statsrådet Åsa Lindhagen ( MP )</note>
+        <note>2021 / 22:337 Poliser som vill lämna sitt yrke</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:338 FN:s säkerhetsrådsresolution om klimatsäkerhet</note>
+        <note>av Håkan Svenneling ( V )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:339 Den humanitära katastrofen i Tigray</note>
+        <note>av Håkan Svenneling ( V )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:340 Laddinfrastrukturen</note>
+        <note>av Thomas Morell ( SD )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2021 / 22:341 Akademisk frihet och etikprövning</note>
+        <note>av Mats Persson ( L )</note>
+        <note>till statsrådet Matilda Ernkrans ( S )</note>
+        <note>§ 11 Anmälan om skriftliga svar på frågor</note>
+        <u ana="#regular" who="#unknown" xml:id="i-5d8229dabfb92c6d-26">
+          <seg xml:id="i-YYi9cUFarVfaaDPcXJ9HnV">
+            <s xml:id="i-WBxqUT6wMtS2igBPfDv1qo">
+              <w lemma="Skriftliga" msd="UPosTag=X" xml:id="i-WBxmrZ8gFW5mYJ5DG4EFHf">Skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-WBxn1iY5Tykroi46oug9dw">svar</w>
+              <w lemma="på" msd="UPosTag=X" xml:id="i-WBxnBiFRX3an1FVFbCi3UR">på</w>
+              <w lemma="följande" msd="UPosTag=X" xml:id="i-WBxnNYGiQhZX8vNfbwKvo7">följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-WBxnYXz4TmPSLTopPEMpdb">frågor</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-WBxnhhPTgF4Xbsnhw5oiys">hade</w>
+              <w lemma="kommit" msd="UPosTag=X" xml:id="i-WBxnrrnrtijcsHmbUwFdL9">kommit</w>
+              <w lemma="in" msd="UPosTag=X" xml:id="i-WBxo2rWCwnZY4qCkGEHXAd">in</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-WBxoCrDYzrPTGNdu3XKR17">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-WBxqUT6wMtS2igBPfDv1qo #i-WBxmrZ8gFW5mYJ5DG4EFHf"/>
+                <link ana="ud-syn:dep" target="#i-WBxmrZ8gFW5mYJ5DG4EFHf #i-WBxn1iY5Tykroi46oug9dw"/>
+                <link ana="ud-syn:dep" target="#i-WBxmrZ8gFW5mYJ5DG4EFHf #i-WBxnBiFRX3an1FVFbCi3UR"/>
+                <link ana="ud-syn:dep" target="#i-WBxmrZ8gFW5mYJ5DG4EFHf #i-WBxnNYGiQhZX8vNfbwKvo7"/>
+                <link ana="ud-syn:dep" target="#i-WBxmrZ8gFW5mYJ5DG4EFHf #i-WBxnYXz4TmPSLTopPEMpdb"/>
+                <link ana="ud-syn:dep" target="#i-WBxmrZ8gFW5mYJ5DG4EFHf #i-WBxnhhPTgF4Xbsnhw5oiys"/>
+                <link ana="ud-syn:dep" target="#i-WBxmrZ8gFW5mYJ5DG4EFHf #i-WBxnrrnrtijcsHmbUwFdL9"/>
+                <link ana="ud-syn:dep" target="#i-WBxmrZ8gFW5mYJ5DG4EFHf #i-WBxo2rWCwnZY4qCkGEHXAd"/>
+                <link ana="ud-syn:dep" target="#i-WBxmrZ8gFW5mYJ5DG4EFHf #i-WBxoCrDYzrPTGNdu3XKR17"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 28 oktober</note>
+        <note>2021 / 22:139 Samplanering vid utbyggnad av infrastruktur</note>
+        <note>av Martina Johansson ( C )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>den 3 november</note>
+        <note>2021 / 22:147 Villkoren för utländska forskare</note>
+        <note>av Betty Malmberg ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:237 Nationellt ansvar för strandstädningen</note>
+        <note>av Ann-Sofie Alm ( M )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <note>2021 / 22:241 Nationell samordning för tryggheten runt Vänern och Göta älv</note>
+        <note>av Ann-Sofie Alm ( M )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <note>2021 / 22:234 Preskriptionstiden för hedersbrott</note>
+        <note>av Ann-Sofie Alm ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:238 Ökat antal internetrelaterade sexuella övergrepp på barn</note>
+        <note>av Ann-Sofie Alm ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:242 Utrikesministerns möte med den palestinska myndighetens ledning</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:240 Enhetliga regler för kontaktförbud i hela landet</note>
+        <note>av Katja Nyberg ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:248 Utsatta områden</note>
+        <note>av Ludvig Aspling ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:243 EU:s miniminivå vad gäller asylpolitiken</note>
+        <note>av Ludvig Aspling ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:244 Konsulära kostnader i samband med att UD förde tre IS-kvinnor till Sverige</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:245 Politisk beredskap vid ökad smittspridning</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:246 En riskskatt för kreditinstitut</note>
+        <note>av Charlotte Quensel ( SD )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2021 / 22:239 Utbyggnaden av publika laddstolpar</note>
+        <note>av Thomas Morell ( SD )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2021 / 22:265 Stöd för att hålla EU:s yttre gränser</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:252 Behandlingsalternativ inom psykiatrin utifrån aktuell kunskap</note>
+        <note>av Karin Rågsjö ( V )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:255 Nationellt avhopparprogram</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:259 Säkerhetsmässiga konsekvenser av utländskt ägande av vindkraft</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2021 / 22:254 Blockering av talibanerna i FN</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:261 Modern miljöbalk</note>
+        <note>av Lotta Olsson ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2021 / 22:247 Husrannsakan i bostäder och andra privata utrymmen</note>
+        <note>av Katja Nyberg ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:262 Information till det kurdiska självstyret om Sveriges frisläppande av IS-terrorister</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:260 Skatter och miljönytta</note>
+        <note>av Lotta Olsson ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2021 / 22:256 Omfattningen av afrofobi i Sverige</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2021 / 22:258 Ålens överlevnad</note>
+        <note>av Elin Segerlind ( V )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <note>2021 / 22:251 Hot , våld och stölder i svenska butiker</note>
+        <note>av Johan Pehrson ( L )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:257 Enskilda matproducenter i underläge i miljöprövningsprocessen</note>
+        <note>av Alexander Christiansson ( SD )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <note>2021 / 22:250 Svarta solceller i detaljplanerat område</note>
+        <note>av Boriana Åberg ( M )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2021 / 22:253 Privatisering av barn- och ungdomspsykiatrin i Järva</note>
+        <note>av Anders Österberg ( S )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:249 Danmarks kontroll av gränsen mot Sverige</note>
+        <note>av Boriana Åberg ( M )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:263 Specialfastigheters förmåga</note>
+        <note>av Johan Hultberg ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2021 / 22:292 Genusteorier , informell kvotering och könlöshet</note>
+        <note>av Ann-Christine From Utterstedt ( SD )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2021 / 22:295 Samhalls uppdrag</note>
+        <note>av Magnus Persson ( SD )</note>
+        <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
+        <note>2021 / 22:278 Naturreservat på Gotland</note>
+        <note>av Josef Fransson ( SD )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <note>2021 / 22:266 Konsekvenser av regeringens energipolitik</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2021 / 22:287 Snabbare och riktad utbyggnad av havsbaserad vindkraft</note>
+        <note>av Niels Paarup-Petersen ( C )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2021 / 22:289 Den svenska evakueringsinsatsen i Afghanistan</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till försvarsminister Peter Hultqvist ( S )</note>
+        <note>2021 / 22:264 Fungerande samhällsfunktioner och nästa generations mobilnät</note>
+        <note>av Alexandra Anstrell ( M )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2021 / 22:290 Våld mot äldre</note>
+        <note>av Ann-Christine From Utterstedt ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:277 Skurubron</note>
+        <note>av Maria Stockhaus ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2021 / 22:275 Kalkyler för brobyggen</note>
+        <note>av Jimmy Ståhl ( SD )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2021 / 22:282 Behov av ökade resurser vid vägkontroller</note>
+        <note>av Thomas Morell ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:280 Begränsning av familjekretsen</note>
+        <note>av Maria Malmer Stenergard ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:267 Biträdande lektorer</note>
+        <note>av Pia Steensland ( KD )</note>
+        <note>till statsrådet Matilda Ernkrans ( S )</note>
+        <note>2021 / 22:298 Migrationsverkets beslutsstopp</note>
+        <note>av Tony Haddou ( V )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:279 En ny fast förbindelse över Öresund</note>
+        <note>av Maria Stockhaus ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2021 / 22:268 Tillfälliga moduler</note>
+        <note>av Larry Söder ( KD )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2021 / 22:294 Kvinnojourers kompetens i fråga om hedersrelaterat våld och förtryck</note>
+        <note>av Ann-Christine From Utterstedt ( SD )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2021 / 22:285 Åtgärder för att stärka energigemenskaper</note>
+        <note>av Rickard Nordin ( C )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2021 / 22:296 Nya utförseltillstånd för krigsmateriel</note>
+        <note>av Håkan Svenneling ( V )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:281 Rabatt vid historiskt hög invandring</note>
+        <note>av Maria Malmer Stenergard ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:271 Riksrevisionens rapport om isöb-brott</note>
+        <note>av Ebba Hermansson ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2021 / 22:274 Sveriges möjlighet att påverka utvecklingen i Nicaragua</note>
+        <note>av Mathias Tegnér ( S )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:269 Nya isbrytare</note>
+        <note>av Jimmy Ståhl ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2021 / 22:293 Samhällspåverkan till följd av våld i nära relationer</note>
+        <note>av Ann-Christine From Utterstedt ( SD )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2021 / 22:272 Relationerna mellan Israel och Palestina</note>
+        <note>av Anders Österberg ( S )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:273 Förverkande av hyreskontrakt</note>
+        <note>av Roger Hedlund ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:291 Utökat stöd till mansjourer</note>
+        <note>av Ann-Christine From Utterstedt ( SD )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2021 / 22:276 Israels terrorstämpling av palestinska organisationer</note>
+        <note>av Håkan Svenneling ( V )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2021 / 22:283 Specialinriktade program i gymnasieskolan</note>
+        <note>av Roger Haddad ( L )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2021 / 22:286 ANDTS-strategin</note>
+        <note>av Helena Lindahl ( C )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:270 Relationskunskap i skolan</note>
+        <note>av Ebba Hermansson ( SD )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2021 / 22:297 Brist på uppkörningstider</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2021 / 22:284 Arbetsmarknadspolitiska insatser för personer med funktionsnedsättning</note>
+        <note>av Roger Haddad ( L )</note>
+        <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
+        <note>§ 12 Kammaren åtskildes kl. 10.02 .</note>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>LENA LINDBÄCK</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Anmälan om subsidiaritetsprövning</note>
+        <note>§ 3 Anmälan om fördröjda svar på interpellationer</note>
+        <note>§ 4 Anmälan om faktapromemorior</note>
+        <note>§ 5 Anmälan om granskningsrapport</note>
+        <note>§ 6 Ärenden för hänvisning till utskott</note>
+        <note>§ 7 Bordläggning</note>
+        <note>§ 8 Motioner för omedelbar hänvisning</note>
+        <note>§ 9 Anmälan om interpellationer</note>
+        <note>§ 10 Anmälan om frågor för skriftliga svar</note>
+        <note>§ 11 Anmälan om skriftliga svar på frågor</note>
+        <note>§ 12 Kammaren åtskildes kl. 10.02 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2021</note>
+      </div>
+    </body>
+  </text>
+</TEI>

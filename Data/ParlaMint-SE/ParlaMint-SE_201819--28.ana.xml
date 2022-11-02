@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201819--28.ana" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 28 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 28 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="201">201 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="35"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="2"/>
+          <tagUsage gi="seg" occurs="2"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2018-12-13" ana="#parla.sitting">2018-12-13</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Förnyad bordläggning av förslag till statsminister</note>
+        <note>Förslaget om att riksdagen till statsminister skulle utse Stefan Löfven föredrogs och bordlades åter .</note>
+        <note>§ 2 Justering av protokoll</note>
+        <note>Protokollet för den 22 november justerades .</note>
+        <note>§ 3 Anmälan om ersättare</note>
+        <note>Först e vice talmannen anmälde att Abir Al-Sahlani ( C ) skulle tjänstgöra som ersättare för Johan Hedin ( C ) under tiden för han s ledighet den 14 januari – 19 juni 2019 .</note>
+        <note>§ 4 Ärenden för hänvisning till utskott</note>
+        <u ana="#regular" who="#unknown" xml:id="i-QkNSUYQme1phnv5fmRdhLG">
+          <seg xml:id="i-N2YJGGWiaWHsFxQuwNraQB">
+            <s xml:id="i-89wDUWSM649XQPJdUJeMru">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-89vusM7C29aKErAfMU9DdF">Följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="dokument" xml:id="i-89wAEGWfkykkVLyH6cCMx9">dokument</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="hänvisa" xml:id="i-89wAWvhaWkoH9v2XjRvBgH">hänvisades</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-89wAgvQvZpdCMTTgWix5Wm">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="utskott" xml:id="i-89wAskSDTUbwV8M6XTZxqT">utskott</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-89wB25XfqN8CpQsiqsRshX">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:det" target="#i-89wAEGWfkykkVLyH6cCMx9 #i-89vusM7C29aKErAfMU9DdF"/>
+                <link ana="ud-syn:advmod" target="#i-89wAWvhaWkoH9v2XjRvBgH #i-89wAgvQvZpdCMTTgWix5Wm"/>
+                <link ana="ud-syn:advmod" target="#i-89wAgvQvZpdCMTTgWix5Wm #i-89wAskSDTUbwV8M6XTZxqT"/>
+                <link ana="ud-syn:punct" target="#i-89wAskSDTUbwV8M6XTZxqT #i-89wB25XfqN8CpQsiqsRshX"/>
+                <link ana="ud-syn:root" target="#i-89wDUWSM649XQPJdUJeMru #i-89wAEGWfkykkVLyH6cCMx9"/>
+                <link ana="ud-syn:dep" target="#i-89wAEGWfkykkVLyH6cCMx9 #i-89wAWvhaWkoH9v2XjRvBgH"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Skrivelse</note>
+        <note>2018 / 19:70 till försvarsutskottet</note>
+        <note>Motion</note>
+        <note>2018 / 19:3000 till konstitutionsutskottet</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2018 ) 819 till skatteutskottet</note>
+        <u ana="#regular" who="#unknown" xml:id="i-19deb32ec2b34cbd-1">
+          <seg xml:id="i-AH297fZjtqSnkV7Y4BwGx9">
+            <s xml:id="i-89wDc1DrdMWxoYNzZGvHEm">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="åttaveckorsfrist" xml:id="i-89wBAQd8DFeU9hQMAHHnZb">Åttaveckorsfristen</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-89wBKa2XRjKZR7PEi8jgus">för</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-89wBTu7yocqpkPus2Ybbmw">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="avge" xml:id="i-89wBcEDSBWN65gSVLxTWe1">avge</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Neut|Number=Sing" lemma="en" xml:id="i-89wBmPcqPz3BM6RNtouQzH">ett</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part" lemma="motiverad" xml:id="i-89wBvZ2EcTiGcWQGSfMKLZ">motiverat</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="yttrande" xml:id="i-89wC5iRdpwPMsvP9zWoDgq">yttrande</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-89wCE3X6CpudDCunJvf8Yu">skulle</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="gå" xml:id="i-89wCNNcYaiRtYVSQdLX3Qy">gå</w>
+              <w msd="UPosTag=PART" lemma="ut" xml:id="i-89wCWhhzxbx9smy2wkNxH3">ut</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-89wCf2oTLVURD4VfGAEs97">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="6:e" xml:id="i-89wCnXaxsnqrcDa2M8WnWy">6</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="februari" xml:id="i-89wCwgzN6GWwsdYutyxgsF">februari</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2019" xml:id="i-89wD5BmsdZtPGndGyxEcF7">2019</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-89wDEMBGr3ZUYCcAXogWbP">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-89wBKa2XRjKZR7PEi8jgus #i-89wBTu7yocqpkPus2Ybbmw"/>
+                <link ana="ud-syn:punct" target="#i-89wBTu7yocqpkPus2Ybbmw #i-89wBcEDSBWN65gSVLxTWe1"/>
+                <link ana="ud-syn:det" target="#i-89wC5iRdpwPMsvP9zWoDgq #i-89wBmPcqPz3BM6RNtouQzH"/>
+                <link ana="ud-syn:amod" target="#i-89wC5iRdpwPMsvP9zWoDgq #i-89wBvZ2EcTiGcWQGSfMKLZ"/>
+                <link ana="ud-syn:obj" target="#i-89wBcEDSBWN65gSVLxTWe1 #i-89wC5iRdpwPMsvP9zWoDgq"/>
+                <link ana="ud-syn:advmod" target="#i-89wBKa2XRjKZR7PEi8jgus #i-89wCE3X6CpudDCunJvf8Yu"/>
+                <link ana="ud-syn:dep" target="#i-89wCE3X6CpudDCunJvf8Yu #i-89wCNNcYaiRtYVSQdLX3Qy"/>
+                <link ana="ud-syn:dep" target="#i-89wCNNcYaiRtYVSQdLX3Qy #i-89wCWhhzxbx9smy2wkNxH3"/>
+                <link ana="ud-syn:det" target="#i-89wCwgzN6GWwsdYutyxgsF #i-89wCf2oTLVURD4VfGAEs97"/>
+                <link ana="ud-syn:det" target="#i-89wCwgzN6GWwsdYutyxgsF #i-89wCnXaxsnqrcDa2M8WnWy"/>
+                <link ana="ud-syn:advmod" target="#i-89wCNNcYaiRtYVSQdLX3Qy #i-89wCwgzN6GWwsdYutyxgsF"/>
+                <link ana="ud-syn:nmod" target="#i-89wCwgzN6GWwsdYutyxgsF #i-89wD5BmsdZtPGndGyxEcF7"/>
+                <link ana="ud-syn:root" target="#i-89wDc1DrdMWxoYNzZGvHEm #i-89wBAQd8DFeU9hQMAHHnZb"/>
+                <link ana="ud-syn:dep" target="#i-89wBAQd8DFeU9hQMAHHnZb #i-89wBKa2XRjKZR7PEi8jgus"/>
+                <link ana="ud-syn:dep" target="#i-89wBAQd8DFeU9hQMAHHnZb #i-89wDEMBGr3ZUYCcAXogWbP"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>§ 5 Bordläggning och beslut om förlängd motionstid</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Framställning</note>
+        <note>2018 / 19:RS6 Ny lag om säkerhetsskydd i riksdagen och dess myndigheter</note>
+        <note>Kammaren biföll talmannens förslag att motionstiden för ovanstående framställning skulle förlängas till och med fredagen den 18 januari 2019 .</note>
+        <note>Justitieutskottets betänkande</note>
+        <note>2018 / 19:JuU1 Utgiftsområde 4 Rättsväsendet</note>
+        <note>Näringsutskottets betänkande</note>
+        <note>2018 / 19:NU2 Utgiftsområde 19 Regional tillväxt</note>
+        <note>§ 6 Kammaren åtskildes kl. 12.01 .</note>
+        <note>Sammanträdet leddes av förste vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANNA ASPEGREN</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Förnyad bordläggning av förslag till statsminister</note>
+        <note>§ 2 Justering av protokoll</note>
+        <note>§ 3 Anmälan om ersättare</note>
+        <note>§ 4 Ärenden för hänvisning till utskott</note>
+        <note>§ 5 Bordläggning och beslut om förlängd motionstid</note>
+        <note>§ 6 Kammaren åtskildes kl. 12.01 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2019</note>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201920--122.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 122 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 122 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="158">158 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="165"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="2"/>
+          <tagUsage gi="seg" occurs="2"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2020-05-19" ana="#parla.sitting">2020-05-19</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Justering av protokoll</note>
+        <note>Protokollen för den 27 – 30 april justerades .</note>
+        <note>§ 2 Anmälan om återtagande av plats i riksdagen</note>
+        <note>Tredje vice talmannen meddelade att Sanne Lennström ( S ) återtagit sin plats i riksdagen från och med den 18 maj , varigenom uppdraget som ersättare upphört för Inga-Lill Sjöblom ( S ) .</note>
+        <note>§ 3 Anmälan om kompletteringsval</note>
+        <note>Tredje vice talmannen meddelade att Socialdemokraternas riksdagsgrupp anmält Sanne Lennström som suppleant i konstitutionsutskottet , i finansutskottet , i skatteutskottet , i utrikesutskottet , i försvarsutskottet , i socialförsäkringsutskottet , i socialutskottet , i kulturutskottet , i trafikutskottet , i miljö- och jordbruksutskottet , i näringsutskottet , i arbetsmarknadsutskottet och i EU-nämnden .</note>
+        <note>Tredje vice talmannen förklarade vald till</note>
+        <note>suppleant i konstitutionsutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i finansutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i skatteutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i utrikesutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i försvarsutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i socialförsäkringsutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i socialutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i kulturutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i trafikutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i miljö- och jordbruksutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i näringsutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i arbetsmarknadsutskottet</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>suppleant i EU-nämnden</note>
+        <note>Sanne Lennström ( S )</note>
+        <note>§ 4 Ärenden för hänvisning till utskott</note>
+        <note>Följande dokument anmäldes :</note>
+        <note>Motioner</note>
+        <note>med anledning av prop . 2019 / 20:166 Extra ändringsbudget för 2020 – Fler kraftfulla åtgärder med anledning av coronaviruset</note>
+        <note>2019 / 20:3616 av Oscar Sjöstedt m.fl. ( SD )</note>
+        <note>2019 / 20:3617 av Jakob Forssmed m.fl. ( KD )</note>
+        <note>2019 / 20:3618 av Elisabeth Svantesson m.fl. ( M )</note>
+        <note>Kammaren biföll talmannens förslag att ovanstående motioner omedelbart skulle hänvisas till finansutskottet .</note>
+        <note>§ 5 Anmälan om interpellationer</note>
+        <note>Följande interpellationer hade framställts :</note>
+        <note>den 14 maj</note>
+        <note>2019 / 20:400 Den nationella infrastrukturplanen</note>
+        <note>av Magnus Jacobsson ( KD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:401 Den striktare bedömningen av grundläggande behov</note>
+        <note>av Pia Steensland ( KD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:402 Klimatkrav på flyget</note>
+        <note>av Jens Holm ( V )</note>
+        <note>till miljö- och klimatminister Isabella Lövin ( MP )</note>
+        <note>den 18 maj</note>
+        <note>2019 / 20:403 En grön återstart</note>
+        <note>av Jens Holm ( V )</note>
+        <note>till miljö- och klimatminister Isabella Lövin ( MP )</note>
+        <note>§ 6 Anmälan om frågor för skriftliga svar</note>
+        <u ana="#regular" who="#unknown" xml:id="i-d7f23a118c573535-5">
+          <seg xml:id="i-U9Pvd1bnHbyTL5JVts5B5y">
+            <s xml:id="i-WodazPnKKsoCdVcdFpmU37">
+              <w lemma="Följande" msd="UPosTag=X" xml:id="i-WodPvDEMRtU26RW9ahvJ5b">Följande</w>
+              <w lemma="frågor" msd="UPosTag=X" xml:id="i-WodYSy1y3ervSkU9Ek32xV">frågor</w>
+              <w lemma="för" msd="UPosTag=X" xml:id="i-WodYh8H3HfSyJwAcBEztE1">för</w>
+              <w lemma="skriftliga" msd="UPosTag=X" xml:id="i-WodYs7zPLjGtWUbkxY2n4V">skriftliga</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-WodZ1T5qico9qm8PGwtgvZ">svar</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-WodZAcVEw6UF7B7GpoLbGq">hade</w>
+              <w lemma="framställts" msd="UPosTag=X" xml:id="i-WodZJwahJyzWSTdu9DCW8u">framställts</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-WodZTGg9gsWmmkAXTd4Qzy">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-WodazPnKKsoCdVcdFpmU37 #i-WodPvDEMRtU26RW9ahvJ5b"/>
+                <link ana="ud-syn:dep" target="#i-WodPvDEMRtU26RW9ahvJ5b #i-WodYSy1y3ervSkU9Ek32xV"/>
+                <link ana="ud-syn:dep" target="#i-WodPvDEMRtU26RW9ahvJ5b #i-WodYh8H3HfSyJwAcBEztE1"/>
+                <link ana="ud-syn:dep" target="#i-WodPvDEMRtU26RW9ahvJ5b #i-WodYs7zPLjGtWUbkxY2n4V"/>
+                <link ana="ud-syn:dep" target="#i-WodPvDEMRtU26RW9ahvJ5b #i-WodZ1T5qico9qm8PGwtgvZ"/>
+                <link ana="ud-syn:dep" target="#i-WodPvDEMRtU26RW9ahvJ5b #i-WodZAcVEw6UF7B7GpoLbGq"/>
+                <link ana="ud-syn:dep" target="#i-WodPvDEMRtU26RW9ahvJ5b #i-WodZJwahJyzWSTdu9DCW8u"/>
+                <link ana="ud-syn:dep" target="#i-WodPvDEMRtU26RW9ahvJ5b #i-WodZTGg9gsWmmkAXTd4Qzy"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 14 maj</note>
+        <note>2019 / 20:1347 Stöd till illegala invandrare via civilsamhället under coronakrisen</note>
+        <note>av Jonas Andersson i Linköping ( SD )</note>
+        <note>till kultur- och demokratiminister Amanda Lind ( MP )</note>
+        <note>2019 / 20:1348 Nödrop från företagare inne på folktomma flygplatser</note>
+        <note>av Camilla Brodin ( KD )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1349 Svenskt deltagande i EU:s stridsgrupper</note>
+        <note>av Pål Jonson ( M )</note>
+        <note>till försvarsminister Peter Hultqvist ( S )</note>
+        <note>2019 / 20:1350 Tillfälliga förändringar i sjöfartsstödet</note>
+        <note>av Hampus Hagman ( KD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1351 Behovet av säsongsarbetare inom trädgårdsnäringen</note>
+        <note>av Magnus Oscarsson ( KD )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2019 / 20:1352 Utflyttad trålgräns</note>
+        <note>av Elin Segerlind ( V )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2019 / 20:1353 Omställningsstöd</note>
+        <note>av Ann-Charlotte Hammar Johnsson ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1354 Åtgärder mot psykisk ohälsa</note>
+        <note>av Ann-Charlotte Hammar Johnsson ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2019 / 20:1355 Arbetsmarknaden i gränslandet mellan Norge och Sverige</note>
+        <note>av Ann-Sofie Alm ( M )</note>
+        <note>till statsrådet Anna Hallberg ( S )</note>
+        <note>den 15 maj</note>
+        <note>2019 / 20:1356 Konsumentvägledning i Sveriges kommuner</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till statsrådet Lena Micko ( S )</note>
+        <note>2019 / 20:1357 Trålning av strömming utmed kusten</note>
+        <note>av Nina Lundström ( L )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2019 / 20:1358 Coronapandemin och elever i gymnasieskolans avgångsklasser</note>
+        <note>av Roger Haddad ( L )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2019 / 20:1359 Djurhållningen i Kina</note>
+        <note>av Jessica Rosencrantz ( M )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2019 / 20:1360 Masstestning och möjligheter till resande i Europa och inom EU</note>
+        <note>av Hans Wallmark ( M )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2019 / 20:1361 Gemensamt europeiskt förhållningssätt i relationen till Peking</note>
+        <note>av Hans Wallmark ( M )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2019 / 20:1362 Säkert kommunikationssystem</note>
+        <note>av Alexandra Anstrell ( M )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2019 / 20:1363 Skräpiga vägrenar</note>
+        <note>av Katarina Brännström ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1364 Myndigheternas verksamhet och miljön</note>
+        <note>av Katarina Brännström ( M )</note>
+        <note>till statsrådet Lena Micko ( S )</note>
+        <note>2019 / 20:1365 Tillfällig förändring av sjöfartsstödet</note>
+        <note>av Anders Hansson ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2019 / 20:1366 Säkrad sjöfart genom förändring av sjöfartsstödet</note>
+        <note>av Anders Hansson ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>den 18 maj</note>
+        <note>2019 / 20:1367 Plastpelletssanering</note>
+        <note>av Rickard Nordin ( C )</note>
+        <note>till miljö- och klimatminister Isabella Lövin ( MP )</note>
+        <note>2019 / 20:1368 Nedmonteringen av kopparnätet i coronatider</note>
+        <note>av Mikael Larsson ( C )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2019 / 20:1369 Åtgärder för hållbara offentliga finanser</note>
+        <note>av Niklas Wykman ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2019 / 20:1370 Våra pensionspengar och skövlingen av Amazonas</note>
+        <note>av Jens Holm ( V )</note>
+        <note>till statsrådet Per Bolund ( MP )</note>
+        <note>2019 / 20:1371 Vattenfalls roll i bredbandsutbyggnaden</note>
+        <note>av Lotta Olsson ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1372 Besöksnäringen och skatt på husbilar</note>
+        <note>av Ann-Charlotte Hammar Johnsson ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2019 / 20:1373 Det tillfälliga sjöfartsstödet</note>
+        <note>av Jessica Thunander ( V )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1374 Stöd till de västsahariska flyktinglägren med anledning av covid 19</note>
+        <note>av Lotta Johnsson Fornarve ( V )</note>
+        <note>till statsrådet Peter Eriksson ( MP )</note>
+        <note>§ 7 Anmälan om skriftligt svar på fråga</note>
+        <u ana="#regular" who="#unknown" xml:id="i-d7f23a118c573535-15">
+          <seg xml:id="i-U5d92Q7vPzRbsPqPHTRgdx">
+            <s xml:id="i-Wodb8ismhmKTxn9FaEdNuB">
+              <w lemma="Skriftligt" msd="UPosTag=X" xml:id="i-WodZbbmc4m3372h9n2vKs3">Skriftligt</w>
+              <w lemma="svar" msd="UPosTag=X" xml:id="i-WodZj6Z7c4QUWBmWs1CFEu">svar</w>
+              <w lemma="på" msd="UPosTag=X" xml:id="i-WodZsReZywvjqUJ9BR4A6y">på</w>
+              <w lemma="följande" msd="UPosTag=X" xml:id="i-Woda1kk2MqT1AkpmVpv4y3">följande</w>
+              <w lemma="fråga" msd="UPosTag=X" xml:id="i-WodaA5qUjiyGW3MPpEmyq7">fråga</w>
+              <w lemma="hade" msd="UPosTag=X" xml:id="i-WodaJQvw7cVXqKt28edthB">hade</w>
+              <w lemma="kommit" msd="UPosTag=X" xml:id="i-WodaSk2PVW1oAcQeT4VoZF">kommit</w>
+              <w lemma="in" msd="UPosTag=X" xml:id="i-WodaaEou2oPEZmV1Y2miw7">in</w>
+              <w lemma=":" msd="UPosTag=X" xml:id="i-WodaiZuMQguVu41drSddoB">:</w>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-Wodb8ismhmKTxn9FaEdNuB #i-WodZbbmc4m3372h9n2vKs3"/>
+                <link ana="ud-syn:dep" target="#i-WodZbbmc4m3372h9n2vKs3 #i-WodZj6Z7c4QUWBmWs1CFEu"/>
+                <link ana="ud-syn:dep" target="#i-WodZbbmc4m3372h9n2vKs3 #i-WodZsReZywvjqUJ9BR4A6y"/>
+                <link ana="ud-syn:dep" target="#i-WodZbbmc4m3372h9n2vKs3 #i-Woda1kk2MqT1AkpmVpv4y3"/>
+                <link ana="ud-syn:dep" target="#i-WodZbbmc4m3372h9n2vKs3 #i-WodaA5qUjiyGW3MPpEmyq7"/>
+                <link ana="ud-syn:dep" target="#i-WodZbbmc4m3372h9n2vKs3 #i-WodaJQvw7cVXqKt28edthB"/>
+                <link ana="ud-syn:dep" target="#i-WodZbbmc4m3372h9n2vKs3 #i-WodaSk2PVW1oAcQeT4VoZF"/>
+                <link ana="ud-syn:dep" target="#i-WodZbbmc4m3372h9n2vKs3 #i-WodaaEou2oPEZmV1Y2miw7"/>
+                <link ana="ud-syn:dep" target="#i-WodZbbmc4m3372h9n2vKs3 #i-WodaiZuMQguVu41drSddoB"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 14 maj</note>
+        <note>2019 / 20:1290 Enkla jobb till ungdomar och långtidsarbetslösa</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
+        <note>§ 8 Kammaren åtskildes kl. 9 . 01 .</note>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>JOHAN WELANDER</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Anmälan om återtagande av plats i riksdagen</note>
+        <note>§ 3 Anmälan om kompletteringsval</note>
+        <note>§ 4 Ärenden för hänvisning till utskott</note>
+        <note>§ 5 Anmälan om interpellationer</note>
+        <note>§ 6 Anmälan om frågor för skriftliga svar</note>
+        <note>§ 7 Anmälan om skriftligt svar på fråga</note>
+        <note>§ 8 Kammaren åtskildes kl. 9.01 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2020</note>
+      </div>
+    </body>
+  </text>
+</TEI>

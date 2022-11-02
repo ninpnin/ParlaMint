@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201819--15.ana" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 15 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 15 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="158">158 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="51"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="2"/>
+          <tagUsage gi="seg" occurs="2"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2018-11-13" ana="#parla.sitting">2018-11-13</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Förnyad bordläggning av förslag till statsminister</note>
+        <note>Förslaget om att riksdagen till statsminister skulle utse Ulf Kristersson föredrogs och bordlades åter .</note>
+        <note>§ 2 Anmälan om ny riksdagsledamot</note>
+        <u ana="#regular" who="#unknown" xml:id="i-1d9f8972e69cd7f2-0">
+          <seg xml:id="i-SmoXamHBccyw3UtrfZp6Ba">
+            <s xml:id="i-UULEft8efs6L6euRocHG4V">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-UUKsWzNxgWvzRNvbSp2Jhj">Följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="berättelse" xml:id="i-UULCTcV3fBf4NsAz7g2dAd">berättelse</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-UULChmk7uCF7F3sT4AzUS9">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="komma" xml:id="i-UULCtbmQnrDrNiks4ucMkq">kommit</w>
+              <w msd="UPosTag=PART" lemma="in" xml:id="i-UULD4bUkqv3maGC1rCeFbK">in</w>
+              <w msd="UPosTag=ADP" lemma="från" xml:id="i-UULDEbC6tysgmodAdVg9Ro">från</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="valprövningsnämnd" xml:id="i-UULDNvHZGsPx769nwuY4Hs">Valprövningsnämnden</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-UULDY5gxVM53NW8gVkyxe9">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:det" target="#i-UULCTcV3fBf4NsAz7g2dAd #i-UUKsWzNxgWvzRNvbSp2Jhj"/>
+                <link ana="ud-syn:dep" target="#i-UULChmk7uCF7F3sT4AzUS9 #i-UULCtbmQnrDrNiks4ucMkq"/>
+                <link ana="ud-syn:dep" target="#i-UULCtbmQnrDrNiks4ucMkq #i-UULD4bUkqv3maGC1rCeFbK"/>
+                <link ana="ud-syn:advmod" target="#i-UULCtbmQnrDrNiks4ucMkq #i-UULDEbC6tysgmodAdVg9Ro"/>
+                <link ana="ud-syn:advmod" target="#i-UULDEbC6tysgmodAdVg9Ro #i-UULDNvHZGsPx769nwuY4Hs"/>
+                <link ana="ud-syn:punct" target="#i-UULDNvHZGsPx769nwuY4Hs #i-UULDY5gxVM53NW8gVkyxe9"/>
+                <link ana="ud-syn:root" target="#i-UULEft8efs6L6euRocHG4V #i-UULCTcV3fBf4NsAz7g2dAd"/>
+                <link ana="ud-syn:dep" target="#i-UULCTcV3fBf4NsAz7g2dAd #i-UULChmk7uCF7F3sT4AzUS9"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Berättelse om granskning av bevis för riksdagsledamot</note>
+        <note>Till Valprövningsnämnden har från Valmyndigheten inkommit bevis om att Magdalena Schröder ( M ) utsetts till ny ledamot av riksdagen fr.o.m. den 12 november 2018 sedan Erik Andersson ( M ) avsagt sig uppdrag et .</note>
+        <note>Valprövningsnämnden har denna dag granskat beviset för den nya ledamoten och därvid funnit att det blivit utfärdat i enlighet med 14 kap. 28 § vallagen ( 2005:837 ) .</note>
+        <note>Stockholm den 12 november 2018</note>
+        <note>Svante O. Johansson</note>
+        <note>ersättare för ordförande n / Mattias Andersson</note>
+        <note>sekreterare</note>
+        <note>§ 3 Ärenden för hänvisning till utskott</note>
+        <u ana="#regular" who="#unknown" xml:id="i-Ajf5LYZL8Ju2nGgbK1toE7">
+          <seg xml:id="i-X8WJRYpX99M7vH516EfpQy">
+            <s xml:id="i-UULEoNvADATmVoyntaZBSM">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-UULDhF6Mhpk8dv7a3cRrzR">Följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="dokument" xml:id="i-UULDqaBp5iGPyCeCN2HmrV">dokument</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="hänvisa" xml:id="i-UULDyuHGTbnfJVApgS9giZ">hänvisades</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-UULE94gfg5TkZu9iEHbb4q">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="utskott" xml:id="i-UULEJE64tZ8qqK8bn93VR7">utskott</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-UULERisaRrWHEUCxs7KQny">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:root" target="#i-UULEoNvADATmVoyntaZBSM #i-UULDhF6Mhpk8dv7a3cRrzR"/>
+                <link ana="ud-syn:dep" target="#i-UULDhF6Mhpk8dv7a3cRrzR #i-UULDqaBp5iGPyCeCN2HmrV"/>
+                <link ana="ud-syn:dep" target="#i-UULDhF6Mhpk8dv7a3cRrzR #i-UULDyuHGTbnfJVApgS9giZ"/>
+                <link ana="ud-syn:dep" target="#i-UULDhF6Mhpk8dv7a3cRrzR #i-UULE94gfg5TkZu9iEHbb4q"/>
+                <link ana="ud-syn:dep" target="#i-UULDhF6Mhpk8dv7a3cRrzR #i-UULEJE64tZ8qqK8bn93VR7"/>
+                <link ana="ud-syn:dep" target="#i-UULDhF6Mhpk8dv7a3cRrzR #i-UULERisaRrWHEUCxs7KQny"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Motioner</note>
+        <note>2018 / 19:240 , 245 och 255 till utrikesutskottet</note>
+        <note>2018 / 19:239 och 246 till utrikesutskottet</note>
+        <note>2018 / 19:270 , 271 och 287 till socialförsäkringsutskottet</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2018 ) 800 till utrikesutskottet</note>
+        <note>§ 4 Ärenden för bordläggning</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Konstitutionsutskottets betänkanden</note>
+        <note>2018 / 19:KU2 Ändrade mediegrundlagar ( vilande grundlagsbeslut , m.m. )</note>
+        <note>2018 / 19:KU3 Följdändringar till ändrade mediegrundlagar</note>
+        <note>2018 / 19:KU4 Översyn av Riksrevisionen – grundlagsfrågor ( vilande grundlagsbeslut , m.m. )</note>
+        <note>2018 / 19:KU7 EU-arbetet i riksdagen</note>
+        <note>Kulturutskottets betänkande</note>
+        <note>2018 / 19:KrU2 Långsiktig finansiering och stärkt oberoende för public service</note>
+        <note>Finansutskottets betänkande</note>
+        <note>2018 / 19:FiU15 Finansiella företags uppgifter till brottsutredande myndigheter</note>
+        <note>Skatteutskottets betänkanden</note>
+        <note>2018 / 19:SkU2 Vissa kontrollfrågor och andra frågor på punktskatteområdet</note>
+        <note>2018 / 19:SkU3 Ändrade mervärdesskatteregler för telekommunikationstjänster , radio- och tv-sändningar och elektroniska tjänster</note>
+        <note>2018 / 19:SkU4 Genomförande av CFC-regler i EU:s direktiv mot skatte ­ undandraganden</note>
+        <note>Justitieutskottets betänkande</note>
+        <note>2018 / 19:JuU4 Riksrevisionens rapport om utbytet av underrättelseinfor ­ mation mellan Polismyndigheten och Säkerhetspolisen</note>
+        <note>Trafikutskottets betänkande</note>
+        <note>2018 / 19:TU2 Genomförande av webbtillgänglighetsdirektivet</note>
+        <note>Civilutskottets betänkanden</note>
+        <note>2018 / 19:CU2 En ny regional planering</note>
+        <note>2018 / 19:CU3 Skadeståndsansvar vid sjötransport av farliga och skadliga ämnen</note>
+        <note>§ 5 Kammaren åtskildes kl. 13.01 .</note>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANN LARSSON</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Förnyad bordläggning av förslag till statsminister</note>
+        <note>§ 2 Anmälan om ny riksdagsledamot</note>
+        <note>§ 3 Ärenden för hänvisning till utskott</note>
+        <note>§ 4 Ärenden för bordläggning</note>
+        <note>§ 5 Kammaren åtskildes kl. 13.01 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2018</note>
+      </div>
+    </body>
+  </text>
+</TEI>

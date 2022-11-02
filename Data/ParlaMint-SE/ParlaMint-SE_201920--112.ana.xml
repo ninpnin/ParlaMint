@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_201920--112.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 112 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 112 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="81">81 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-10-31">2022-10-31</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="44"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="1"/>
+          <tagUsage gi="seg" occurs="1"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2020-04-27" ana="#parla.sitting">2020-04-27</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="debateSection">
+        <note>§ 1 Justering av protokoll</note>
+        <note>Protokollet för den 7 april justerades .</note>
+        <note>§ 2 Meddelande om återrapportering från informellt möte med EU:s stats- och regeringschefer</note>
+        <note>Tredje vice talmannen meddelade att tisdagen den 28 april kl. 1 4 . 30 skulle återrapportering från informellt möte med EU:s stats- och regeringschefer äga rum .</note>
+        <note>§ 3 Bordläggning och beslut om förkortad motionstid</note>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Proposition</note>
+        <note>2019 / 20:160 Tillfällig åtgärd för att underlätta övergången till sommarbensin</note>
+        <note>Kammaren biföll regeringens förslag att motionsti ­ den för ovanstående proposition skulle förkortas till en dag .</note>
+        <note>Motioner</note>
+        <note>med anledning av prop . 2019 / 20:123 Ett effektivare informationsutbyte mellan polis och socialtjänst vid samverkan mot terrorism</note>
+        <note>2019 / 20:3590 av Linda Westerlund Snecker m.fl. ( V )</note>
+        <note>2019 / 20:3592 av Johan Hedin ( C )</note>
+        <note>2019 / 20:3594 av Johan Forssell m.fl. ( M )</note>
+        <note>2019 / 20:3598 av Adam Marttinen m.fl. ( SD )</note>
+        <note>med anledning av prop . 2019 / 20:150 Mer likabehandling och ett stärkt skydd vid utstationering</note>
+        <note>2019 / 20:3591 av Ali Esbati m.fl. ( V )</note>
+        <note>2019 / 20:3597 av Mats Green m.fl. ( M , C , KD , L )</note>
+        <note>§ 4 Motion för omedelbar hänvisning</note>
+        <note>Följande dokument anmäldes :</note>
+        <note>Motion</note>
+        <note>2019 / 20:2021 Gode män av Ann-Charlotte Hammar Johnsson ( M )</note>
+        <note>Kammaren biföll talmannens förslag att ovanstående motion omedelbart skulle hänvisas till civilutskottet .</note>
+        <note>§ 5 Anmälan om frågor för skriftliga svar</note>
+        <u ana="#regular" who="#unknown" xml:id="i-f2787b62d6791851-0">
+          <seg xml:id="i-WEZ2wen8MkJc6oZeRyQvKw">
+            <s xml:id="i-9LcH2ZYEMB6SVWgLD5dZvu">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="följande" xml:id="i-9Lbw4oU1thZhGuHJ5u1swK">Följande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="fråga" xml:id="i-9Lc4fR9B4C4sxspDgG3CCm">frågor</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-9Lc4uaQFJCevq4Wgcm13UH">för</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="skriftlig" xml:id="i-9Lc55a7bMGUr2bwqQ42wJm">skriftliga</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="svar" xml:id="i-9LcGFaqB7Nsp6aE9hFz3fj">svar</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-9LcGRaYXAShjJ7fJUZ1wWD">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="framställa" xml:id="i-9LcGajwvNvNpZXeC2QTqrV">framställts</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-9LcGj53Nkou5tpApLpKkiZ">:</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:det" target="#i-9Lc4fR9B4C4sxspDgG3CCm #i-9Lbw4oU1thZhGuHJ5u1swK"/>
+                <link ana="ud-syn:nmod" target="#i-9Lc4fR9B4C4sxspDgG3CCm #i-9Lc4uaQFJCevq4Wgcm13UH"/>
+                <link ana="ud-syn:amod" target="#i-9LcGFaqB7Nsp6aE9hFz3fj #i-9Lc55a7bMGUr2bwqQ42wJm"/>
+                <link ana="ud-syn:advmod" target="#i-9Lc4uaQFJCevq4Wgcm13UH #i-9LcGFaqB7Nsp6aE9hFz3fj"/>
+                <link ana="ud-syn:dep" target="#i-9LcGRaYXAShjJ7fJUZ1wWD #i-9LcGajwvNvNpZXeC2QTqrV"/>
+                <link ana="ud-syn:punct" target="#i-9LcGajwvNvNpZXeC2QTqrV #i-9LcGj53Nkou5tpApLpKkiZ"/>
+                <link ana="ud-syn:root" target="#i-9LcH2ZYEMB6SVWgLD5dZvu #i-9Lc4fR9B4C4sxspDgG3CCm"/>
+                <link ana="ud-syn:dep" target="#i-9Lc4fR9B4C4sxspDgG3CCm #i-9LcGRaYXAShjJ7fJUZ1wWD"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>den 24 april</note>
+        <note>2019 / 20:1254 Sjöfartssäkerhet</note>
+        <note>av Jimmy Ståhl ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2019 / 20:1255 Åtgärder för att säkerställa tillgång till ny läkemedelsbehandling</note>
+        <note>av Acko Ankarberg Johansson ( KD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>§ 6 Kammaren åtskildes kl. 13 . 01 .</note>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANNA ASPEGREN</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Meddelande om återrapportering från informellt möte med EU:s stats- och regeringschefer</note>
+        <note>§ 3 Bordläggning och beslut om förkortad motionstid</note>
+        <note>§ 4 Motion för omedelbar hänvisning</note>
+        <note>§ 5 Anmälan om frågor för skriftliga svar</note>
+        <note>§ 6 Kammaren åtskildes kl. 13.01 .</note>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2020</note>
+      </div>
+    </body>
+  </text>
+</TEI>
