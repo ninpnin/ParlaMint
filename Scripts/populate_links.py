@@ -36,6 +36,9 @@ def find_links(root, args):
     print("Populate includes from individual protocol files...")
     for xi in progressbar.progressbar(list(root.findall(f".//{xi_ns}include"))):
         ref = xi.attrib["href"]
+        print(ref)
+        if "ParlaMint-SE_" in ref:
+            continue
         with (folder / ref).open() as f:
             linked_root = etree.parse(f, parser).getroot()
 
