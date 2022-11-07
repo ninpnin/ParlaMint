@@ -255,13 +255,19 @@ def listorg(args):
     orgName.attrib["full"] = "abb"
     orgName.attrib[f"{args.xml_ns}lang"] = "sv"
     listEvent = etree.SubElement(org, "listEvent") # Sessions
-    mandate_periods = [("2014-09-29","2018-09-24"), ("2018-09-24", "2018-09-11")]
+    mandate_periods = [("2014-09-29","2018-09-24"), ("2018-09-24", "2022-09-27"), ("2022-09-27", None)]
     for start, end in mandate_periods:
         event = etree.SubElement(listEvent, "event") # Sessions
         event.attrib["from"] = start
-        event.attrib["to"] = end
+        if end is not None:
+            event.attrib["to"] = end
         label = etree.SubElement(event, "label")
-        label.text = "Riksdagen {start} - {end}"
+        start_year = start[:4]
+        if end is None:
+            end_year = f"{int(start_year) + 4}"
+        else:
+            end_year = end[:4]
+        label.text = f"Riksdagen {start_year} - {end_year}"
 
     # Populate with metadata
     root = governments(root, gov_df, minister_df, xml_ns=args.xml_ns)

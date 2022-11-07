@@ -3201,15 +3201,6 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
     <affiliation role="member" ref="#Q110837"/>
   </person>
-  <person xml:id="Q70588456">
-    <persName>
-      <surname>Karlsson</surname>
-      <forename>Mattias</forename>
-    </persName>
-    <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
-    <affiliation role="member" ref="#Q110843"/>
-  </person>
   <person xml:id="Q5901848">
     <persName>
       <surname>Karlsson</surname>
@@ -3219,6 +3210,15 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
     <affiliation role="member" ref="#Q504069"/>
+  </person>
+  <person xml:id="Q70588456">
+    <persName>
+      <surname>Karlsson</surname>
+      <forename>Mattias</forename>
+    </persName>
+    <sex value="M"/>
+    <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q16633140">
     <persName>

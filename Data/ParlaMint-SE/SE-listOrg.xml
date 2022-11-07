@@ -5,10 +5,13 @@
     <orgName full="abb" xml:lang="sv">Riksdagen</orgName>
     <listEvent>
       <event from="2014-09-29" to="2018-09-24">
-        <label>Riksdagen {start} - {end}</label>
+        <label>Riksdagen 2014 - 2018</label>
       </event>
-      <event from="2018-09-24" to="2018-09-11">
-        <label>Riksdagen {start} - {end}</label>
+      <event from="2018-09-24" to="2022-09-27">
+        <label>Riksdagen 2018 - 2022</label>
+      </event>
+      <event from="2022-09-27">
+        <label>Riksdagen 2022 - 2026</label>
       </event>
     </listEvent>
   </org>
