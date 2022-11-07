@@ -4,7 +4,8 @@
   <person xml:id="Q111655286">
     <persName>
       <surname>Abdirahman</surname>
-      <forename>Mubarik Mohamed</forename>
+      <forename>Mubarik</forename>
+      <forename>Mohamed</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2022-04-19" to="2022-05-22"/>
@@ -178,7 +179,8 @@
   <person xml:id="Q5554868">
     <persName>
       <surname>Andersson</surname>
-      <forename>Jan R.</forename>
+      <forename>Jan</forename>
+      <forename>R.</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -196,7 +198,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
     <affiliation role="member" ref="#Q105112"/>
   </person>
-  <person xml:id="Q58837098">
+  <person xml:id="Q59387749">
     <persName>
       <surname>Andersson</surname>
       <forename>Jonas</forename>
@@ -205,7 +207,7 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
     <affiliation role="member" ref="#Q504069"/>
   </person>
-  <person xml:id="Q59387749">
+  <person xml:id="Q58837098">
     <persName>
       <surname>Andersson</surname>
       <forename>Jonas</forename>
@@ -235,7 +237,8 @@
   <person xml:id="Q18237283">
     <persName>
       <surname>Andersson</surname>
-      <forename>Lisbeth Sundén</forename>
+      <forename>Lisbeth</forename>
+      <forename>Sundén</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -413,7 +416,8 @@
   <person xml:id="Q26305110">
     <persName>
       <surname>Baastad</surname>
-      <forename>Lena Rådström</forename>
+      <forename>Lena</forename>
+      <forename>Rådström</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-02"/>
@@ -432,7 +436,8 @@
   <person xml:id="Q4767161">
     <persName>
       <surname>Batra</surname>
-      <forename>Anna Kinberg</forename>
+      <forename>Anna</forename>
+      <forename>Kinberg</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -441,7 +446,8 @@
   <person xml:id="Q103821442">
     <persName>
       <surname>Bayibsa</surname>
-      <forename>Solange Olame</forename>
+      <forename>Solange</forename>
+      <forename>Olame</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-12-01" to="2021-05-31"/>
@@ -578,7 +584,8 @@
   <person xml:id="Q30000515">
     <persName>
       <surname>Berglöw</surname>
-      <forename>Monica Tedestam</forename>
+      <forename>Monica</forename>
+      <forename>Tedestam</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-02-05" to="2015-03-10"/>
@@ -827,7 +834,8 @@
   <person xml:id="Q96324202">
     <persName>
       <surname>Breitholtz</surname>
-      <forename>Sara Heikkinen</forename>
+      <forename>Sara</forename>
+      <forename>Heikkinen</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-01-21" to="2021-06-29"/>
@@ -980,7 +988,8 @@
   <person xml:id="Q99909932">
     <persName>
       <surname>Carlsson</surname>
-      <forename>Diana Laitinen</forename>
+      <forename>Diana</forename>
+      <forename>Laitinen</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-09-01"/>
@@ -1402,7 +1411,8 @@
   <person xml:id="Q56640168">
     <persName>
       <surname>Elmi</surname>
-      <forename>Leila Ali</forename>
+      <forename>Leila</forename>
+      <forename>Ali</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -1526,7 +1536,8 @@
   <person xml:id="Q18238692">
     <persName>
       <surname>Ericson</surname>
-      <forename>Janine Alm</forename>
+      <forename>Janine</forename>
+      <forename>Alm</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -1779,7 +1790,8 @@
   <person xml:id="Q4982413">
     <persName>
       <surname>Finné</surname>
-      <forename>Ewa Thalén</forename>
+      <forename>Ewa</forename>
+      <forename>Thalén</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -1798,7 +1810,8 @@
   <person xml:id="Q18243097">
     <persName>
       <surname>Fornarve</surname>
-      <forename>Lotta Johnsson</forename>
+      <forename>Lotta</forename>
+      <forename>Johnsson</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -1817,7 +1830,8 @@
   <person xml:id="Q3373169">
     <persName>
       <surname>Forslund</surname>
-      <forename>Kenneth G.</forename>
+      <forename>Kenneth</forename>
+      <forename>G.</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -1878,7 +1892,8 @@
   <person xml:id="Q19977122">
     <persName>
       <surname>Fridh</surname>
-      <forename>Per Olsson</forename>
+      <forename>Per</forename>
+      <forename>Olsson</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Q213451"/>
@@ -2033,7 +2048,8 @@
   <person xml:id="Q5826571">
     <persName>
       <surname>Gjörtler</surname>
-      <forename>Jonas Jacobsson</forename>
+      <forename>Jonas</forename>
+      <forename>Jacobsson</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-09-27"/>
@@ -2081,7 +2097,8 @@
   <person xml:id="Q4990177">
     <persName>
       <surname>Grönvall</surname>
-      <forename>Camilla Waltersson</forename>
+      <forename>Camilla</forename>
+      <forename>Waltersson</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -2132,7 +2149,8 @@
   <person xml:id="Q18245444">
     <persName>
       <surname>Gustafsson</surname>
-      <forename>Azadeh Rojhan</forename>
+      <forename>Azadeh</forename>
+      <forename>Rojhan</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-10-03" to="2016-08-09"/>
@@ -2401,7 +2419,8 @@
   <person xml:id="Q4961125">
     <persName>
       <surname>Hayes</surname>
-      <forename>Margareta Gunsdotter</forename>
+      <forename>Margareta</forename>
+      <forename>Gunsdotter</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-02-04"/>
@@ -2432,7 +2451,8 @@
   <person xml:id="Q4951217">
     <persName>
       <surname>Hedin</surname>
-      <forename>Roza Güclü</forename>
+      <forename>Roza</forename>
+      <forename>Güclü</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -2850,7 +2870,8 @@
   <person xml:id="Q4936116">
     <persName>
       <surname>Johansson</surname>
-      <forename>Acko Ankarberg</forename>
+      <forename>Acko</forename>
+      <forename>Ankarberg</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
@@ -2879,7 +2900,8 @@
   <person xml:id="Q5887149">
     <persName>
       <surname>Johansson</surname>
-      <forename>Mattias Bäckström</forename>
+      <forename>Mattias</forename>
+      <forename>Bäckström</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -2956,7 +2978,8 @@
   <person xml:id="Q4766168">
     <persName>
       <surname>Johnsson</surname>
-      <forename>Ann-Charlotte Hammar</forename>
+      <forename>Ann-Charlotte</forename>
+      <forename>Hammar</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -2996,7 +3019,8 @@
   <person xml:id="Q5891398">
     <persName>
       <surname>Jonsson</surname>
-      <forename>Anders W.</forename>
+      <forename>Anders</forename>
+      <forename>W.</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -3185,7 +3209,8 @@
   <person xml:id="Q18923356">
     <persName>
       <surname>Karlsson</surname>
-      <forename>Jesper Skalberg</forename>
+      <forename>Jesper</forename>
+      <forename>Skalberg</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2015-01-19" to="2018-09-24"/>
@@ -3201,6 +3226,15 @@
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
     <affiliation role="member" ref="#Q110837"/>
   </person>
+  <person xml:id="Q70588456">
+    <persName>
+      <surname>Karlsson</surname>
+      <forename>Mattias</forename>
+    </persName>
+    <sex value="M"/>
+    <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+    <affiliation role="member" ref="#Q110843"/>
+  </person>
   <person xml:id="Q5901848">
     <persName>
       <surname>Karlsson</surname>
@@ -3210,15 +3244,6 @@
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
     <affiliation role="member" ref="#Q504069"/>
-  </person>
-  <person xml:id="Q70588456">
-    <persName>
-      <surname>Karlsson</surname>
-      <forename>Mattias</forename>
-    </persName>
-    <sex value="M"/>
-    <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
-    <affiliation role="member" ref="#Q110843"/>
   </person>
   <person xml:id="Q16633140">
     <persName>
@@ -3295,7 +3320,8 @@
   <person xml:id="Q23915324">
     <persName>
       <surname>Kihlblom</surname>
-      <forename>Lina Axelsson</forename>
+      <forename>Lina</forename>
+      <forename>Axelsson</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#GOV" from="2021-11-30">
@@ -3327,7 +3353,8 @@
   <person xml:id="Q4958997">
     <persName>
       <surname>Kjellin</surname>
-      <forename>Margareta B.</forename>
+      <forename>Margareta</forename>
+      <forename>B.</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-02-14"/>
@@ -3362,7 +3389,8 @@
   <person xml:id="Q4953463">
     <persName>
       <surname>Knutsson</surname>
-      <forename>Helene Hellmark</forename>
+      <forename>Helene</forename>
+      <forename>Hellmark</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
@@ -3393,7 +3421,8 @@
   <person xml:id="Q57168695">
     <persName>
       <surname>Kopparklint</surname>
-      <forename>Marléne Lund</forename>
+      <forename>Marléne</forename>
+      <forename>Lund</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -3434,7 +3463,8 @@
   <person xml:id="Q4725739">
     <persName>
       <surname>Kuhnke</surname>
-      <forename>Alice Bah</forename>
+      <forename>Alice</forename>
+      <forename>Bah</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
@@ -3476,7 +3506,8 @@
   <person xml:id="Q104214592">
     <persName>
       <surname>Köster</surname>
-      <forename>Emma Ahlström</forename>
+      <forename>Emma</forename>
+      <forename>Ahlström</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2020-12-29" to="2021-05-23"/>
@@ -3506,7 +3537,8 @@
   <person xml:id="Q4955459">
     <persName>
       <surname>Larsen</surname>
-      <forename>Christina Höj</forename>
+      <forename>Christina</forename>
+      <forename>Höj</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -3544,7 +3576,8 @@
   <person xml:id="Q3358494">
     <persName>
       <surname>Larsson</surname>
-      <forename>Lars Mejern</forename>
+      <forename>Lars</forename>
+      <forename>Mejern</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -3959,7 +3992,8 @@
   <person xml:id="Q4941925">
     <persName>
       <surname>Löfdahl</surname>
-      <forename>Emma Carlsson</forename>
+      <forename>Emma</forename>
+      <forename>Carlsson</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -4121,7 +4155,8 @@
   <person xml:id="Q64684689">
     <persName>
       <surname>Manriquez</surname>
-      <forename>Andreas Lennkvist</forename>
+      <forename>Andreas</forename>
+      <forename>Lennkvist</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2019-08-19" to="2020-02-29"/>
@@ -4236,7 +4271,8 @@
   <person xml:id="Q57168699">
     <persName>
       <surname>Moine</surname>
-      <forename>Rebecka Le</forename>
+      <forename>Rebecka</forename>
+      <forename>Le</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-09-18"/>
@@ -4284,7 +4320,8 @@
   <person xml:id="Q4981668">
     <persName>
       <surname>Mölleby</surname>
-      <forename>Mia Sydow</forename>
+      <forename>Mia</forename>
+      <forename>Sydow</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -4613,7 +4650,8 @@
   <person xml:id="Q897282">
     <persName>
       <surname>Olin</surname>
-      <forename>Kristina Axén</forename>
+      <forename>Kristina</forename>
+      <forename>Axén</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -4650,7 +4688,8 @@
   <person xml:id="Q3374751">
     <persName>
       <surname>Olsson</surname>
-      <forename>Caroline Helmersson</forename>
+      <forename>Caroline</forename>
+      <forename>Helmersson</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -5046,7 +5085,8 @@
   <person xml:id="Q4939382">
     <persName>
       <surname>Rahm</surname>
-      <forename>Elisabeth Björnsdotter</forename>
+      <forename>Elisabeth</forename>
+      <forename>Björnsdotter</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -5234,7 +5274,8 @@
   <person xml:id="Q5966830">
     <persName>
       <surname>Sammeli</surname>
-      <forename>Fredrik Lundh</forename>
+      <forename>Fredrik</forename>
+      <forename>Lundh</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -5273,7 +5314,8 @@
   <person xml:id="Q70586981">
     <persName>
       <surname>Sandström</surname>
-      <forename>Marie-Louise Hänel</forename>
+      <forename>Marie-Louise</forename>
+      <forename>Hänel</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -5497,7 +5539,8 @@
   <person xml:id="Q4981479">
     <persName>
       <surname>Smith</surname>
-      <forename>Karin Svensson</forename>
+      <forename>Karin</forename>
+      <forename>Svensson</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -5506,7 +5549,8 @@
   <person xml:id="Q18245930">
     <persName>
       <surname>Snecker</surname>
-      <forename>Linda Westerlund</forename>
+      <forename>Linda</forename>
+      <forename>Westerlund</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2015-04-06"/>
@@ -5573,7 +5617,8 @@
   <person xml:id="Q18202362">
     <persName>
       <surname>Stenergard</surname>
-      <forename>Maria Malmer</forename>
+      <forename>Maria</forename>
+      <forename>Malmer</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -5819,7 +5864,8 @@
   <person xml:id="Q879773">
     <persName>
       <surname>Sydow</surname>
-      <forename>Björn von</forename>
+      <forename>Björn</forename>
+      <forename>von</forename>
     </persName>
     <sex value="M"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -6047,7 +6093,8 @@
   <person xml:id="Q71133291">
     <persName>
       <surname>Utterstedt</surname>
-      <forename>Ann-Christine From</forename>
+      <forename>Ann-Christine</forename>
+      <forename>From</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -6056,7 +6103,8 @@
   <person xml:id="Q57168752">
     <persName>
       <surname>Varas</surname>
-      <forename>Lorena Delgado</forename>
+      <forename>Lorena</forename>
+      <forename>Delgado</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -6150,7 +6198,8 @@
   <person xml:id="Q4981700">
     <persName>
       <surname>Waldau</surname>
-      <forename>Ilona Szatmári</forename>
+      <forename>Ilona</forename>
+      <forename>Szatmári</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
@@ -6233,7 +6282,8 @@
   <person xml:id="Q4970595">
     <persName>
       <surname>Watz</surname>
-      <forename>Ingela Nylund</forename>
+      <forename>Ingela</forename>
+      <forename>Nylund</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -6421,7 +6471,8 @@
   <person xml:id="Q18202393">
     <persName>
       <surname>Willner</surname>
-      <forename>Maria Andersson</forename>
+      <forename>Maria</forename>
+      <forename>Andersson</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
@@ -6644,7 +6695,8 @@
   <person xml:id="Q18246550">
     <persName>
       <surname>Östberg</surname>
-      <forename>Christina Tapper</forename>
+      <forename>Christina</forename>
+      <forename>Tapper</forename>
     </persName>
     <sex value="F"/>
     <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>

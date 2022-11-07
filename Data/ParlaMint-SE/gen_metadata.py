@@ -97,8 +97,10 @@ def people(root, person_df, mp_df, minister_df, party_aff_df, relevant_people):
         persName = etree.SubElement(person, "persName")
         surname = etree.SubElement(persName, "surname")
         surname.text = row["name"].split()[-1]
-        forename = etree.SubElement(persName, "forename")
-        forename.text = " ".join(row["name"].split()[:-1])
+        for firstname in row["name"].split()[:-1]:
+            forename = etree.SubElement(persName, "forename")
+            forename.text = firstname
+        
         if row.get("gender") is not None:
             sex = etree.SubElement(person, "sex")
             sex.attrib["value"] = "U"
