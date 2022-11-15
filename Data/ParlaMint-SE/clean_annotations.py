@@ -1,3 +1,6 @@
+"""
+Convert SPARV annotations into the ParlaMint format.
+"""
 from lxml import etree
 from pathlib import Path
 import argparse

@@ -1,3 +1,6 @@
+"""
+Generate metadata in the TEI/ParlaMint format. This creates two files, SE-listOrg.xml and SE-listPerson.xml.
+"""
 from lxml import etree
 from pathlib import Path
 import argparse

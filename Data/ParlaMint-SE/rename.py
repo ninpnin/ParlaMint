@@ -1,3 +1,6 @@
+"""
+Rename protocols so that they include the protocol date in their title and xml id.
+"""
 from lxml import etree
 from pathlib import Path
 import argparse

@@ -1,3 +1,6 @@
+"""
+Update word and speech counts in the corpus files (ParlaMint-SE.xml and ParlaMint-SE.ana.xml).
+"""
 from lxml import etree
 from pathlib import Path
 import argparse
