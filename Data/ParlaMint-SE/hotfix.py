@@ -11,11 +11,39 @@ import uuid
 import base58
 import pandas as pd
 import progressbar
+import numpy as np
+import datetime
 
 tei_ns ="{http://www.tei-c.org/ns/1.0}"
 xml_ns = "{http://www.w3.org/XML/1998/namespace}"
 
+def get_speaker_df(folder):
+    p = Path(folder) / "speaker.csv"
+
+    with p.open() as f:
+        df = pd.read_csv(f)
+
+    # Filter out nulls
+    df = df.replace({np.nan: None})
+    df["start"] = pd.to_datetime(df["start"]).dt.date
+
+    # Filter to only have modern talmän
+    df = df[df["start"] >= datetime.date(2013, 1, 1)]
+    df["end"] = df["end"].replace({None: datetime.date(2026, 1, 1)})
+
+    df["start"] = df["start"].astype(str)
+    df["end"] = df["end"].astype(str)
+
+    print(df)
+    return df
+
 def main(args):
+    # Add talmän as 'chair'
+    talman = None
+    if args.metadata_path is not None:
+        print("Load metadata from", args.metadata_path)
+        talman = get_speaker_df(args.metadata_path)
+
     p = Path(".")
     parser = etree.XMLParser(remove_blank_text=True)
 
@@ -50,6 +78,20 @@ def main(args):
             print("ERORORR")
             return
 
+        if talman is not None:
+            for u in root.findall(f".//{tei_ns}u"):
+                who = u.attrib.get("who", "")[1:]
+                #print(who)
+
+                ctm = talman[talman["wiki_id"] == who]
+                ctm = ctm[(ctm["start"] <= protocols_date) & (ctm["end"] >= protocols_date)]
+                if len(ctm) >= 1:
+                    #print(ctm)
+                    print(talman)
+                    print(protocols_date, who)
+                    u.attrib["ana"] = "#chair"
+
+
         b = etree.tostring(
             root, pretty_print=True, encoding="utf-8", xml_declaration=True
         )
@@ -60,7 +102,6 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--tei_ns", type=str, default="{http://www.tei-c.org/ns/1.0}")
-    parser.add_argument("--xml_ns", type=str, default="{http://www.w3.org/XML/1998/namespace}")
+    parser.add_argument("--metadata_path", type=str, default=None)
     args = parser.parse_args()
     main(args)
