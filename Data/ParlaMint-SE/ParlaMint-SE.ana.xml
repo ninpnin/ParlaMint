@@ -93,7 +93,6 @@
       <classDecl>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="taxonomy-parla.legislature.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="SE-taxonomy-meeting.parts.xml"/>
-        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="SE-taxonomy-parla.links.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="taxonomy-speaker_types.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="taxonomy-subcorpus.xml"/>
         <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="taxonomy-UD-SYN.xml"/>
