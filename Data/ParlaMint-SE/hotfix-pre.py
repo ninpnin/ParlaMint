@@ -17,6 +17,27 @@ import datetime
 tei_ns ="{http://www.tei-c.org/ns/1.0}"
 xml_ns = "{http://www.w3.org/XML/1998/namespace}"
 
+def remove_u_frontmatter(root):
+    for body in root.findall(f".//{tei_ns}body"):
+        for div in root.findall(f".//{tei_ns}div"):
+            for elem in div:
+                # Only remove utterances up until the first speaker introduction
+                if elem.tag == f"{tei_ns}note" and elem.attrib.get("type") == "speaker":
+                    return root
+                elif elem.tag == f"{tei_ns}u":
+                    # 
+                    for seg in elem:
+                        seg.tag = f"{tei_ns}note"
+                        parent = elem.getparent()
+                        index = parent.index(elem)
+                        parent.insert(index, seg)
+                        #pass
+
+                    parent = elem.getparent()
+                    parent.remove(elem)
+
+    return root
+
 def merge_utterances(root):
     for body in root.findall(f".//{tei_ns}body"):
         for div in root.findall(f".//{tei_ns}div"):
@@ -72,6 +93,7 @@ def main(args):
 
         root = merge_utterances(root)
         root = convert_applause(root)
+        root = remove_u_frontmatter(root)
 
         # Write on disk
         b = etree.tostring(
