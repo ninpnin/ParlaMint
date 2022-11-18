@@ -11060,7 +11060,7 @@
           </seg>
         </u>
         <note type="speaker">Anf . 9 TREDJE VICE TALMANNEN :</note>
-        <u ana="#regular" who="#unknown" xml:id="i-71b8162822ff7c86-90">
+        <u ana="#regular" xml:id="i-71b8162822ff7c86-90">
           <seg xml:id="i-AwKgXYtx1gQY6nbXUXjYeA">
             <s xml:id="i-NEYneaYS3FbEgoMMdtRrSp">
               <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-NEM36AC2yM8ceMHb5SJBRW">Jag</w>
@@ -23379,7 +23379,7 @@
           </seg>
         </u>
         <note type="speaker">Anf . 26 TREDJE VICE TALMANNEN :</note>
-        <u ana="#regular" who="#unknown" xml:id="i-71b8162822ff7c86-179">
+        <u ana="#regular" xml:id="i-71b8162822ff7c86-179">
           <seg xml:id="i-6gSnV5CZUT6PhvZVLdhdXq">
             <s xml:id="i-NEZAjcQaUseJ2RmG4MnER2">
               <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-NEWbiPiMGaUNh226FfJ8p4">Jag</w>
