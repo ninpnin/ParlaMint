@@ -37,6 +37,12 @@ def get_speaker_df(folder):
     print(df)
     return df
 
+def remove_unknowns(root):
+    for u in root.findall(f".//{tei_ns}u"):
+        if u.attrib.get("who") == "#unknown":
+            del u.attrib["who"]
+    return root
+
 def main(args):
     # Add talmän as 'chair'
     talman = None
@@ -91,7 +97,7 @@ def main(args):
                     print(protocols_date, who)
                     u.attrib["ana"] = "#chair"
 
-
+        root = remove_unknowns(root)
         b = etree.tostring(
             root, pretty_print=True, encoding="utf-8", xml_declaration=True
         )
