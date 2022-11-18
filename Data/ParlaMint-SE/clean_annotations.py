@@ -69,7 +69,7 @@ def main(args):
                                         s.append(token)
                                     token.tag = f"{args.tei_ns}w"
                                 s = etree.SubElement(s, f"{args.tei_ns}linkGrp")
-                    elif elem.tag == f"{args.tei_ns}note":
+                    elif elem.tag in [f"{args.tei_ns}note", f"{args.tei_ns}head"]:
                         elemtext = []
                         for token in elem:
                             token.getparent().remove(token)
