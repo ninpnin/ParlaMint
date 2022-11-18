@@ -20,10 +20,13 @@ xml_ns = "{http://www.w3.org/XML/1998/namespace}"
 def remove_u_frontmatter(root):
     for body in root.findall(f".//{tei_ns}body"):
         for div in root.findall(f".//{tei_ns}div"):
+            introDetected = False
             for elem in div:
                 # Only remove utterances up until the first speaker introduction
-                if elem.tag == f"{tei_ns}note" and elem.attrib.get("type") == "speaker":
-                    return root
+                if introDetected:
+                    pass
+                elif elem.tag == f"{tei_ns}note" and elem.attrib.get("type") == "speaker":
+                    introDetected = True
                 elif elem.tag == f"{tei_ns}u":
                     # 
                     for seg in elem:
@@ -44,7 +47,12 @@ def merge_utterances(root):
             prev_elem = None
             prev_who = None
             for elem in div:
+                print(elem)
                 if elem.tag == f"{tei_ns}u":
+                    if "next" in elem.attrib:
+                        del elem.attrib["next"]
+                    if "prev" in elem.attrib:
+                        del elem.attrib["prev"]
                     if prev_who == elem.attrib["who"]:
                         print(prev_elem, elem)
                         for seg in elem:
@@ -60,12 +68,6 @@ def merge_utterances(root):
 
     return root
 
-
-"""
-<kinesic type="applause">
-    <desc>(Applåder)</desc>
-</kinesic>
-"""
 def convert_applause(root):
     for note in root.findall(f".//{tei_ns}note"):
         content = " ".join(note.text.split())
@@ -80,6 +82,37 @@ def convert_applause(root):
 
     return root
 
+def convert_headers(root):
+    headerStrs = set()
+    for note in root.findall(f".//{tei_ns}note"):
+        content = " ".join(note.text.split())
+        if content[0] == "§" and content not in headerStrs:
+            note.tag = f"{tei_ns}head"
+            headerStrs.add(content)
+
+    bodies = root.findall(f".//{tei_ns}body")
+    assert len(bodies) == 1
+    body = bodies[0]
+    oldDiv = body[0]
+
+    currentDiv = etree.SubElement(body, f"{tei_ns}div")
+    firstDiv = currentDiv
+    for elem in oldDiv:
+        if elem.tag == f"{tei_ns}head":
+            currentDiv = etree.SubElement(body, f"{tei_ns}div")
+        currentDiv.append(elem)
+
+        currentDiv.attrib["type"] = "debateSection"
+
+    parent = oldDiv.getparent()
+    parent.remove(oldDiv)
+
+    if len(firstDiv) == 0:
+        parent = firstDiv.getparent()
+        parent.remove(firstDiv)
+
+    return root
+
 def main(args):
     p = Path(".")
     parser = etree.XMLParser(remove_blank_text=True)
@@ -91,9 +124,10 @@ def main(args):
         with path.open() as f:
             root = etree.parse(f, parser).getroot()
 
-        root = merge_utterances(root)
-        root = convert_applause(root)
+        root = convert_headers(root)
         root = remove_u_frontmatter(root)
+        root = convert_applause(root)
+        root = merge_utterances(root)
 
         # Write on disk
         b = etree.tostring(
