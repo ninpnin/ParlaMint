@@ -23,11 +23,17 @@ def main(args):
     for path in progressbar.progressbar(list(export_folder.glob("*.xml"))):
         newstem = path.stem.replace("_export", "")
         newpath = Path(".") / f"{newstem}.ana.xml"
-        if newpath.exists:
-            continue
+        #if newpath.exists:
+        #    print("Skip", newpath)
+        #    continue
+
         with path.open() as f:
             root = etree.parse(f, parser).getroot()
         unannotated_path =  Path(".") / f"{newstem}.xml"
+        if not unannotated_path.exists():
+            print("Skip", unannotated_path)
+            continue
+
         with unannotated_path.open() as f:
             unnann_root = etree.parse(f, parser).getroot()
 
@@ -77,7 +83,17 @@ def main(args):
                             
                         elem.text = " ".join(elemtext)
                         del elem.attrib[f"id"]
-        
+                    elif elem.tag == f"{args.tei_ns}kinesic":
+                        for subelem in elem:
+                            elemtext = []
+                            for token in subelem:
+                                token.getparent().remove(token)
+                                elemtext.append(token.text)
+                                
+                            subelem.text = " ".join(elemtext)
+                            #del elem.attrib[f"id"]
+
+
         # Add IDs for 'w' elements
         for w in text.findall(f".//{args.tei_ns}w"):
             if "baseform" not in w.attrib:
@@ -191,6 +207,7 @@ def main(args):
         )
 
         with newpath.open("wb") as f:
+            print("Write to", newpath)
             f.write(b)
 
 if __name__ == "__main__":
