@@ -11,11 +11,29 @@ import pandas as pd
 tei_ns ="{http://www.tei-c.org/ns/1.0}"
 xml_ns = "{http://www.w3.org/XML/1998/namespace}"
 
+def setting_dates(root, dates):
+    start = min(dates)
+    end = max(dates)
+
+    # TODO: set
+    print(start, end)
+
+    settingDescs = root.findall(f".//{tei_ns}settingDesc")
+    assert len(settingDescs) == 1
+    settingDesc = settingDescs[0]
+    for date in settingDesc.findall(f".//{tei_ns}date"):
+        date.attrib["from"] = start
+        date.attrib["to"] = end
+        date.text = f"{start} - {end}"
+
+    return root
+
 def main(args):
     p = Path(".")
     parser = etree.XMLParser(remove_blank_text=True)
 
     rows = []
+    all_dates = set()
     for path in p.glob("ParlaMint-SE_*.xml"):
         # Skip .ana files
         if ".ana" in path.suffixes:
@@ -34,6 +52,13 @@ def main(args):
         speeches = len(intros)
 
         rows.append([wds, speeches, path.stem])
+
+        # Get protocol dates
+        settingDescs = root.findall(f".//{tei_ns}settingDesc")
+        assert len(settingDescs) == 1
+        settingDesc = settingDescs[0]
+        for date in settingDesc.findall(f".//{tei_ns}date"):
+            all_dates.add(date.attrib["when"])
 
     df = pd.DataFrame(rows, columns=["wds", "speeches", "protocol"])
     total_words, total_speeches = sum(df["wds"]), sum(df["speeches"])
@@ -92,6 +117,7 @@ def main(args):
         measure.attrib["quantity"] = f"{total_words}"
         measure.text = f"{total_words} ord"
 
+        root = setting_dates(root, all_dates)
         b = etree.tostring(
             root, pretty_print=True, encoding="utf-8", xml_declaration=True
         )
