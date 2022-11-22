@@ -1,5 +1,6 @@
 """
-Update word and speech counts in the corpus files (ParlaMint-SE.xml and ParlaMint-SE.ana.xml).
+1) Update word and speech counts in the corpus files (ParlaMint-SE.xml and ParlaMint-SE.ana.xml).
+2) Generate <setting> 'from' and 'to' attributes from protocol dates on the corpus level
 """
 from lxml import etree
 from pathlib import Path
