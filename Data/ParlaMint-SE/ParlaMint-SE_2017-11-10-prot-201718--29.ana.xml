@@ -218,13 +218,13 @@
               <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-Vv3LWEmN4UJEBg6dqZnyHe">Jag</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vilja" xml:id="i-Vv3Lc4vyvbN1iaGUTetuh6">vill</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="tacka" xml:id="i-Vv3LijQYdJadBbtaKBaqak">tacka</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Ann-Charlotte" xml:id="i-Vv3LqPt7L1oEedWgAiGmUQ">Ann-Charlotte</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Hammar" xml:id="i-Vv3LwE3jC8s2BXgWnoNhsr">Hammar</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Johnsson" xml:id="i-Vv3M34DM4FvoiRrMQtUeHJ">Johnsson</w>
               </name>
               <w msd="UPosTag=ADP" lemma="för" xml:id="i-Vv3MAYzrbZJF7aviVrkZfA">för</w>
@@ -245,13 +245,13 @@
           </seg>
           <seg xml:id="i-Vfj8hEYEVxPE8gU8he4hs">
             <s xml:id="i-VvPMVibZ2VHPmz1rASLyJC">
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Ann-Charlotte" xml:id="i-Vv3MVi7bs6oFaYLkq1EMqv">Ann-Charlotte</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Hammar" xml:id="i-Vv3MbYHDjDs37SWbT6LJFN">Hammar</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Johnsson" xml:id="i-Vv3MhNSqbLvpeLgS5BSEep">Johnsson</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-Vv3Mp2vQJ49S7NJXvi8AYU">har</w>
@@ -962,19 +962,19 @@
               <w msd="UPosTag=ADV" lemma="inte" xml:id="i-Vv3wcjG4LANryrCjT9hKMW">inte</w>
               <w msd="UPosTag=PART" lemma="med" xml:id="i-Vv3wiZRgCHSeWkNa5EoFkx">med</w>
               <w msd="UPosTag=ADP" lemma="om" xml:id="i-Vv3wpPbJ4QWS3eYQhKuCAQ">om</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Ann" xml:id="i-Vv3wvDkuvXaDaYiFKR18Zr">Ann</w>
               </name>
               <name>
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="‑" xml:id="i-Vv3x2tEUdEnq3aLMAwh4TW">‑</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Charlotte" xml:id="i-Vv3x8iQ6VMrcaUWBo2nzrx">Charlotte</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Hammar" xml:id="i-Vv3xEYZiMUvQ7Ng2R7twGQ">Hammar</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Johnsson" xml:id="i-Vv3xLNjLDbzBeGqs3Czsfr">Johnssons</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="bild" xml:id="i-Vv3xSCtx5j3yBB1hfJ6p5J">bild</w>
@@ -1260,7 +1260,7 @@
               <w msd="UPosTag=DET|Definite=Def|Gender=Neut|Number=Sing" lemma="min" xml:id="i-Vv4Aa2LsyHeJmkdcV4KL28">mitt</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="hem" xml:id="i-Vv4AggpSfzrvEnFiLb1Fun">hem</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv4Amgg7hXmsqYyHjEXCq2">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Skåne" xml:id="i-Vv4AtM9gQEzVJabPamD8ig">Skåne</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass" lemma="finnas" xml:id="i-Vv4AzBKJGN4GqUmECrK588">finns</w>
@@ -1398,7 +1398,7 @@
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-Vv4HZf2Kx3knGL9WLtj1rt">som</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="utforma" xml:id="i-Vv4HfVBwpApZoEKLxypxGL">utformades</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv4Hn9fWWt3BGFwSpWWt9z">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-Vv4Hsyq8P16xoA7HSbcpZS">Sverige</w>
               </name>
               <w msd="UPosTag=ADP" lemma="på" xml:id="i-Vv4HyozkF8AkL4H84gikxt">på</w>
@@ -2056,7 +2056,7 @@
               <w msd="UPosTag=ADV" lemma="runt" xml:id="i-Vv4oaTgNphp2ktWNgsaWHJ">runt</w>
               <w msd="UPosTag=ADV" lemma="om" xml:id="i-Vv4ogHqzgpspHngDJxgSgk">om</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv4on81cYwwbpgr3w3nP6C">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-Vv4osxBER51PMb1tZ8tKVe">Sverige</w>
               </name>
               <w msd="UPosTag=ADV" lemma="så" xml:id="i-Vv4ozceo7nDzpcdzQfaFPJ">så</w>
@@ -2172,7 +2172,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="annan" xml:id="i-Vv4scWd4EAaFzzkAoqG1wS">annat</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="exempel" xml:id="i-Vv4siLng6He3Xtv1RvMxLt">exempel</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-Vv4spAxHxQhq4o5r41TtkL">är</w>
-              <name join="right">
+              <name join="right" type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Linus" xml:id="i-Vv4sv17upXmcbhFgg6Zq9n">Linus</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv4t1qHXgeqQ8bRXJBfmZE">.</pc>
@@ -2288,7 +2288,7 @@
               </linkGrp>
             </s>
             <s xml:id="i-VvPRDSjRzzhSVGHsBh8gFn">
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Linus" xml:id="i-Vv4xZsNFFK5NyKxmm2Sxip">Linus</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="få" xml:id="i-Vv4xfhXs7S9AWE8cP7Yu8G">fick</w>
@@ -2330,7 +2330,7 @@
               </linkGrp>
             </s>
             <s xml:id="i-VvPRNc8qDUNXkgGkjYaac4">
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Linus" xml:id="i-Vv4zqUFdcM7xRdWGNj3ZZW">Linus</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-Vv4zwJRFUUBjxXg6zp9Vxx">och</w>
@@ -2444,7 +2444,7 @@
             <s xml:id="i-VvPRbw5xctokgjWxSbxSPN">
               <w msd="UPosTag=ADJ|Case=Nom" lemma="första" xml:id="i-Vv55zVL4MjkeTm4Ya6SP9n">Första</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="dag" xml:id="i-Vv566KVgDrpRzfEPCBYKZE">dagen</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Linus" xml:id="i-Vv56C9fJ5ytDXZQDpGeFxg">Linus</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-Vv56Hypux6x14Ta4SMkCN8">kom</w>
@@ -2522,7 +2522,7 @@
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-Vv5ACXz5pGLnuQjVUM9neQ">att</w>
               <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-Vv5AKCTeWyZQNSMbKsqiY4">vi</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ge" xml:id="i-Vv5AR2dGP6dBuLXRwxwewW">ger</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Linus" xml:id="i-Vv5AWrntFDgySEhGa43bLx">Linus</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="massage" xml:id="i-Vv5AcgxW7Lkky8s7C99XkQ">massage</w>
@@ -2577,7 +2577,7 @@
             </s>
             <s xml:id="i-VvPRvFtm3r9wDZUjYJrF5v">
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5BrKZp9yqqEBoh85YmaC">”</pc>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Linus" xml:id="i-Vv5Bxz3Nrh4ShDRnycEhTr">Linus</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="kunna" xml:id="i-Vv5C4pCzip8EE7bdbhLdsJ">kan</w>
@@ -2737,13 +2737,13 @@
               <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="min" xml:id="i-Vv5JcdJ8jKX5ni5PGrabde">min</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="kollega" xml:id="i-Vv5JiTTkbSasKcFDtwgY36" join="right">kollega</w>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5JpHdNTZeerWR4X2nUSY">,</pc>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Ann-Charlotte" xml:id="i-Vv5Jv7nzKgiSPQau97tQqz">Ann-Charlotte</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Hammar" xml:id="i-Vv5K1wxcBonDvJkjmCzMFS">Hammar</w>
               </name>
-              <name join="right">
+              <name join="right" type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Johnsson" xml:id="i-Vv5K7n8E3vr1TCvaPJ6Het">Johnsson</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5KDcHqv3unz76R1PCE4L">,</pc>
@@ -2799,7 +2799,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="fantastisk" xml:id="i-Vv5MshXktz4gdsrzszcb2c">fantastiska</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="välfärdsföretag" xml:id="i-Vv5MzN1KbhHJ6uV6jXJWvG">välfärdsföretag</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv5N6CAwTpM5doewMcQTKi">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-Vv5NC2LZKwQsAhpmyhWPjA">Sverige</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5NHrWBC4UehbzcbncL8c">.</pc>
@@ -2835,10 +2835,10 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="nästa" xml:id="i-Vv5NVWqQvJcDmQLHqxpCwW">nästa</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="interpellationsdebatt" xml:id="i-Vv5NcBJyd1pqERxPhVW8qA">interpellationsdebatt</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-Vv5Ni1UbV8tcmL8EKac5Ec">kommer</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Mikael" xml:id="i-Vv5NoqeDMFxQJEJ4wfi1e4">Mikael</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Damberg" xml:id="i-Vv5NufoqDP2Bq8TuZkox3W">Damberg</w>
               </name>
               <w msd="UPosTag=PART" lemma="att" xml:id="i-Vv5P1VyT5W5yN2dkBqutSx">att</w>
@@ -2847,10 +2847,10 @@
               <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-Vv5PKpnFWTS9trbXHYoh9W">en</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="interpellation" xml:id="i-Vv5PRewsNaVwRkmMududYx">interpellation</w>
               <w msd="UPosTag=ADP" lemma="från" xml:id="i-Vv5PXV7VEhZixewCXj1ZxQ">från</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Penilla" xml:id="i-Vv5PdKH76pdWVZ739p7WMr">Penilla</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Gunther" xml:id="i-Vv5PjykfoXr7xaj91LoSFW">Gunther</w>
               </name>
               <w msd="UPosTag=ADP" lemma="om" xml:id="i-Vv5PqovHfeuuVUtydRuNex">om</w>
@@ -3317,7 +3317,7 @@
               <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="min" xml:id="i-Vv5kCteyachnqgyNExvpGL">min</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="valkrets" xml:id="i-Vv5kJipbSjmaNb9Cs42kfn" join="right">valkrets</w>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5kQYzDJrqMuVK3V98h5E">,</pc>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Gävleborg" xml:id="i-Vv5kXDTn1a3yNWw9Lfpcxt">Gävleborg</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5kcDKT36xvyHeijKLZt8">,</pc>
@@ -3356,7 +3356,7 @@
               <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-Vv5meBbXMVvSAYFdR5Xvu2">en</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="friskola" xml:id="i-Vv5mkr564D93dZsjGcDrng">friskola</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv5mqqvm5k41ELbJfFjohv">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Bollnäs" xml:id="i-Vv5mxWQKnTGchNDQWnRjba">Bollnäs</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5n4LZweaLQEGPF8sXg12">.</pc>
@@ -3386,7 +3386,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="privat" xml:id="i-Vv5oBJhgzWCs2HhjDHEywA">privata</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="välfärdsföretag" xml:id="i-Vv5oH8sJrdGeZBsZqNLvLc">välfärdsföretag</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv5oNy2vikLS663QTTSrk4">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Bollnäs" xml:id="i-Vv5oUoCYasQDczDF5YYo9W">Bollnäs</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5oadNASzU19tP5hdejYx">.</pc>
@@ -3423,7 +3423,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="privat" xml:id="i-Vv5pqvbNAorjHCEC6TDxMA">privata</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="välfärdsföretag" xml:id="i-Vv5pwkkz2vvWp6Q2iYKtkc">välfärdsföretag</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv5q3avbu3zJLzZsLdRqA4">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Bollnäs" xml:id="i-Vv5qAFQAbmCup2ByCA7m3i">Bollnäs</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv5qG5ZnTtGhLvMopFDhTA">.</pc>
@@ -5052,7 +5052,7 @@
               <w msd="UPosTag=PART" lemma="att" xml:id="i-Vv75MLn5upDQFyS9AmDEon">att</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="prata" xml:id="i-Vv75U1FecXS1j14F2HuAhS">prata</w>
               <w msd="UPosTag=ADP" lemma="om" xml:id="i-Vv75Z17Ke4LyKmmpQwR7cg">om</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Linus" xml:id="i-Vv75eqGwWBQkrfwf32X428">Linus</w>
               </name>
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-Vv75kfSZNJUYPa7Vf7czRa">som</w>
@@ -5114,7 +5114,7 @@
               <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="sin" xml:id="i-Vv77qSJeqgYNiCmaG5bhwa">sin</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="verksamhet" xml:id="i-Vv77wGUGhocAF6wQtAheM2">verksamhet</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv7836dtZvfwn17FWFoakU">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Jämtland" xml:id="i-Vv788voWS3jjJuH68LuX9v">Jämtland</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-Vv78Eky8JAoWqoSvkS1TZN">och</w>
@@ -5601,10 +5601,10 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-Vv7Vxy6do53urDYGNsi4NQ">är</w>
               <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-Vv7W4oGFfC7hP7i6zxozmr">det</w>
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-Vv7W9o7vgj2eytRgPcKwh6">som</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Lars" xml:id="i-Vv7WFdHYYr6SWnbX1hRt6Y">Lars</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Beckman" xml:id="i-Vv7WNHm7FZK3ypDcsE7ozC">Beckman</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="säga" xml:id="i-Vv7WU7vj7gNqWiPTVKDkPe" join="right">säger</w>
@@ -5799,10 +5799,10 @@
               </linkGrp>
             </s>
             <s xml:id="i-VvPYdEPJGqDt3ZwNmKY7CY">
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Lars" xml:id="i-Vv7e9jTZJhnyoTdxUKm1aL">Lars</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Beckman" xml:id="i-Vv7eFZdBAprmLMoo6Qrwyn">Beckman</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="tala" xml:id="i-Vv7eMPno2wvYsFydiVxtPE">talade</w>
@@ -5840,7 +5840,7 @@
               <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-Vv7fm27T8eqYKrMNRjQ23W">en</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="del" xml:id="i-Vv7frrH4zmuKrkXD3pVxSx">del</w>
               <w msd="UPosTag=ADP" lemma="av" xml:id="i-Vv7fxgSgrty7Peh3fubtrQ">av</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-Vv7g4WcJj22tvYrtHzhqFr">Sverige</w>
               </name>
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-Vv7gALmvb96gTT2iv5omfJ">som</w>
@@ -5973,7 +5973,7 @@
               <w msd="UPosTag=ADV|Degree=Pos" lemma="litet" xml:id="i-Vv7myg5qscjPRVR5mkABd6">lite</w>
               <w msd="UPosTag=CCONJ" lemma="som" xml:id="i-Vv7n5WFTjjoAxPavPqG82Y">som</w>
               <w msd="UPosTag=ADP" lemma="med" xml:id="i-Vv7nBLR5brrxVHkm1vN4Rz">med</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Emil" xml:id="i-Vv7nGLGkdPmv64ULQZt1ME">Emil</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-Vv7nNASNVWqhcxeB2eywkg">och</w>
@@ -6182,7 +6182,7 @@
               <w msd="UPosTag=PRON|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="man" xml:id="i-Vv7wktniNcNBxzmvbAG9oz">man</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="säga" xml:id="i-Vv7wsZGH5KaoS2Q2Sgx5he" join="right">sa</w>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv7wxZ7x6rVm2o7bqLU2ct">:</pc>
-              <name join="right">
+              <name join="right" type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Gud" xml:id="i-Vv7x5DbWoZiNVpjhgs9xWY">Gud</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv7xADTBq6dL6bTH5WfuRn">,</pc>
@@ -6587,13 +6587,13 @@
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="haka" xml:id="i-Vv8Ebuim3JsbfiuyRchmGg">haka</w>
               <w msd="UPosTag=PART" lemma="på" xml:id="i-Vv8EhjtNuRwPCd5p3hohg8">på</w>
               <w msd="UPosTag=ADV" lemma="där" xml:id="i-Vv8EpQMwc99zfehuuEVdZn">där</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Ann-Charlotte" xml:id="i-Vv8EvEXZUGDnCYskXKbZyE">Ann-Charlotte</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Hammar" xml:id="i-Vv8F1EPEVo8joKbKuy7WtU">Hammar</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Johnsson" xml:id="i-Vv8F7troCWMMGMDRmVoSn8">Johnsson</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="sluta" xml:id="i-Vv8FDj2R4dR8oFPGPauPBa" join="right">slutade</w>
@@ -6636,7 +6636,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="kvinnlig" xml:id="i-Vv8Gkr8ahdhZezqNBncSDi">kvinnligt</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="företagande" xml:id="i-Vv8GrgJCZkmMBu1CosiNdA">företagande</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv8GxWTpRsq8ioB3RxpK2c">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-Vv8H4LdSHztvFhLt43vFS4">Sverige</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv8HAAo4A7xhnbWig92BqW">?</pc>
@@ -6827,19 +6827,19 @@
               <w msd="UPosTag=CCONJ" lemma="eller" xml:id="i-Vv8S6FF9ENckGXA4pXYgLC">eller</w>
               <w msd="UPosTag=ADP" lemma="om" xml:id="i-Vv8SCuihw5qMjYnAg4EcDr">om</w>
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-Vv8SJjtKoCu9GSx1J9LYdJ">att</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Ann" xml:id="i-Vv8SRQMtVv7kjUa79g2UWx">Ann</w>
               </name>
               <name>
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="‑" xml:id="i-Vv8SXEXWN3BYGNjwmm8QvQ">‑</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Charlotte" xml:id="i-Vv8Sd4h8EAFKoGunPrEMKr">Charlotte</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Hammar" xml:id="i-Vv8Sitrk6HK7LB5d1wLHjJ">Hammar</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Johnsson" xml:id="i-Vv8SotiR7pE4vwoCQarEeY">Johnsson</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-Vv8SvZBypXSgPyRJG7YAYC">har</w>
@@ -7000,7 +7000,7 @@
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-Vv8YsPHQeJSpmAt2CkAVsr">och</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="åka" xml:id="i-Vv8YyDT2WRWcJ53rpqGSHJ">åka</w>
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-Vv8Z53ceNYaPpyDhSvNNgk">till</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Bollnäs" xml:id="i-Vv8ZAsnGEfeBMsPY51UK6C">Bollnäs</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv8ZGhwt6nhxtmZNh6aFVe">.</pc>
@@ -7116,13 +7116,13 @@
               <pc msd="UPosTag=PUNCT" xml:id="i-Vv8ea47mE4rvGBeHCspywz">,</pc>
               <w msd="UPosTag=ADV" lemma="precis" xml:id="i-Vv8eftHP6Bvho5p7pxvvMS">precis</w>
               <w msd="UPosTag=ADV" lemma="som" xml:id="i-Vv8emiSzxJzVKyyxT42rkt">som</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Ann-Charlotte" xml:id="i-Vv8esYccpS4Grt9o598oAL">Ann-Charlotte</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Hammar" xml:id="i-Vv8eyNnEgZ84PnKdhEEjZn">Hammar</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Johnsson" xml:id="i-Vv8f5CwrYgBqvgVUKKLfyE">Johnsson</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="säga" xml:id="i-Vv8fBsRRFPQTPi7aAr2brt" join="right">sa</w>
@@ -8439,7 +8439,7 @@
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-Vv9fDhj6YrN5extoeVGp6x">som</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="människa" xml:id="i-Vv9fLNCfFZah7zWuW1xjzc">människor</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv9fSCNH7geUetgk874gQ4">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-Vv9fY2XtyoiGBnrakCAcoW">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="jobba" xml:id="i-Vv9fdrhWqvn3ih2RNHGZCx">jobbar</w>
@@ -8610,7 +8610,7 @@
               <w msd="UPosTag=DET|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="den" xml:id="i-Vv9o5JyGnwc99FaTQnqy88">de</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Sup|Gender=Com,Neut|Number=Plur" lemma="fler" xml:id="i-Vv9oBySqVepkcHCZGKXu1n">flesta</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-Vv9oHocTMmtY9BNPtQdqRE">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-Vv9oPdn5DtxKg5YEWVjmpg">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="tycka" xml:id="i-Vv9oWJFdvcAw97ALN2RhiL">tycker</w>
@@ -9275,7 +9275,7 @@
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="ha" xml:id="i-VvAKn6Uhsry4Ryfvswq2tU">ha</w>
               <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-VvAKsveKjz2qxsqmW2vyHv">det</w>
               <w msd="UPosTag=CCONJ" lemma="som" xml:id="i-VvAKykowc76dVn1c882uhN">som</w>
-              <name join="right">
+              <name join="right" type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Linus" xml:id="i-VvAL6RHWJpKExodhyeiqb2">Linus</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvALCFT8AwP2VhoYbjpmzU">.</pc>
@@ -9928,10 +9928,10 @@
               </linkGrp>
             </s>
             <s xml:id="i-VvPhK9aK75HsfJtFyD6kRi">
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Penilla" xml:id="i-VvApSc3t1AidCTU7STbMbS">Penilla</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Gunther" xml:id="i-VvApYSDVsHnQjMdx4YhHzt">Gunther</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-VvApeGP7jQrCGFongdoEQL">har</w>
@@ -10130,7 +10130,7 @@
               </linkGrp>
             </s>
             <s xml:id="i-VvPhce5AhSVEG1PmqUQZe4">
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvAyjWEc29BL1bS2NsmdFJ">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-VvAyqLQDtGF7YVbrzxsZek">är</w>
@@ -10203,10 +10203,10 @@
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="aktör" xml:id="i-VvB3oDoB6nFD7xaLxid7sr" join="right">aktörer</w>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvB3u3xnxuJzerkBaoj4HJ">,</pc>
               <w msd="UPosTag=PRON|Definite=Ind|Gender=Neut|Number=Sing" lemma="vilket" xml:id="i-VvB41iSMfcXc7tNHSLQzAx">vilket</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Penilla" xml:id="i-VvB49DDsCuu3X3SeXJguYp">Penilla</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Gunthers" xml:id="i-VvB4F3PV52xq3wcV9PnqxG">Gunthers</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="från" xml:id="i-VvB4Mhs3mkBSWyEazvUmqv">frå</w>
@@ -10466,17 +10466,17 @@
               <w msd="UPosTag=ADV" lemma="just" xml:id="i-VvBGANCEPmGmebSTVYDVbz">just</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="aktör" xml:id="i-VvBGH2fo6UVP7d4ZM4uRVe">aktörer</w>
               <w msd="UPosTag=CCONJ" lemma="som" xml:id="i-VvBGN2XU81QLiPn8jiRNQt">som</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Coompanion" xml:id="i-VvBGUh12picxBRQEbF7JJY">Coompanion</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvBGaXAegqgjiKa5DLDEhz">och</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="nyföretagarcentrum" xml:id="i-VvBGgMLGYxkXFDjuqRKB7S" join="right">Nyföretagarcentrum</w>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvBGnBVtR5pJn7ukTWR7Wt">,</pc>
               <w msd="UPosTag=PRON|Definite=Ind|Gender=Com,Neut|Number=Plur" lemma="vilka" xml:id="i-VvBGt1fWHCt6K25b5bX3vL">vilka</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Penilla" xml:id="i-VvBGyqq89KwsqvFRhgczKn">Penilla</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Gunther" xml:id="i-VvBH5fzk1T1fNpRGKmivjE">Gunther</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="lyfta" xml:id="i-VvBHBWAMsa5Suib6wrps8g">lyfter</w>
@@ -10746,7 +10746,7 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-VvBUhWJdjp8FNmjioeqmAc">är</w>
               <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="avgörande" xml:id="i-VvBUpAnCSXLrqoMpfBXh4G">avgörande</w>
               <w msd="UPosTag=ADP" lemma="för" xml:id="i-VvBUuzwpJeQeNhXfHGddTi">för</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Sverige" xml:id="i-VvBV1q7SAmURubhVuMjZsA">Sveriges</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="konkurrenskraft" xml:id="i-VvBV7fH42tYDSVsLXSqWGc" join="right">konkurrenskraft</w>
@@ -10756,7 +10756,7 @@
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="innovativitet" xml:id="i-VvBVXpFUKxxBWDzxFEqFNc">innovativitet</w>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvBVdeR6C61y38AnsKwBn4">och</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="rusta" xml:id="i-VvBVjUai4D5ka2LdVR38BW">rustar</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvBVqJkKvL9Y6vWU7W94ax">Sverige</w>
               </name>
               <w msd="UPosTag=ADP" lemma="för" xml:id="i-VvBVw8uwnTDKdpgJjbEzzQ">för</w>
@@ -11017,7 +11017,7 @@
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvBgTfhyr4m6i1aobwpWU4">och</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="universitet" xml:id="i-VvBgaLBYYmyiB3CuTUWSMi" join="right">universitet</w>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvBggAMAQu3VhwNk5ZcNmA">,</pc>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Coompanion" xml:id="i-VvBgmzWnH27HEqYaheiKAc">Coompanion</w>
               </name>
               <w msd="UPosTag=ADP" lemma="för" xml:id="i-VvBgspgQ99B4mjiRKjpFa4">för</w>
@@ -11258,7 +11258,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="klar" xml:id="i-VvBsYgZtaeF7BD9YWWFfun">klar</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="styrning" xml:id="i-VvBseWjWSmJti7KP8bMcKE">styrning</w>
               <w msd="UPosTag=ADP" lemma="mot" xml:id="i-VvBskLu8JtNgF1VDkgTYig">mot</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvBsrB4kB1STmuf4NmZV88">Almi</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="som" xml:id="i-VvBsx1EN38WFJoptzrfRXa">som</w>
@@ -11309,7 +11309,7 @@
               </linkGrp>
             </s>
             <s xml:id="i-VvPjP68TjsCt3p65LjVUTW">
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvBudTRz42JwVqod7UEPRn">Almi</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ta" xml:id="i-VvBujHbbv9Nj2jyTjZLKqE">tar</w>
@@ -11446,7 +11446,7 @@
               <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-VvC2BGX84Xho4SHNndUMC8">det</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-VvC2HvzgmEvQXTuUeAAH5n">ska</w>
               <w msd="UPosTag=ADV" lemma="naturligtvis" xml:id="i-VvC2PmAJdMzC4N5KGFGDVE">naturligtvis</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Coompanion" xml:id="i-VvC2VbKvVV3ybGF9tLN9tg">Coompanion</w>
               </name>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="sköta" xml:id="i-VvC2bRVYMc7m8AQzWRU6J8">sköta</w>
@@ -11763,7 +11763,7 @@
               <w msd="UPosTag=ADP" lemma="per" xml:id="i-VvCH1g8oSnuW7B2fBKsCZr">per</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="son" xml:id="i-VvCH7WJRJuyHe5CVoQy8yJ">soner</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvCHEAmz1dBu76pbewf4rx">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvCHKzwbskFgdzzSH2m1GQ">Sverige</w>
               </name>
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-VvCHSfRAaTUJ72cY8ZSwA4">som</w>
@@ -12744,12 +12744,12 @@
               <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-VvD3FuQpWymkT57nBUVuwJ">det</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="bra" xml:id="i-VvD3MjaSP6qXyyHcoZbrLk">bra</w>
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-VvD3TZk4FDuKWsTTRehnkC">att</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvD3ZPug7Ly73mdJ3joj9e">Almi</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="överlåta" xml:id="i-VvD3hj18VEVNP49vN9fe1i">överlåter</w>
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-VvD3oZAkMMZ9uxKkzEmaRA">till</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Coompanion" xml:id="i-VvD3uPLNDUcwSrVbcKsWpc">Coompanion</w>
               </name>
               <w msd="UPosTag=PART" lemma="att" xml:id="i-VvD41DVz5bgiykfSEQyTE4">att</w>
@@ -12798,7 +12798,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="bra" xml:id="i-VvD5vpxgLW5U2yLdHXWGPn" join="right">bra</w>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvD62f8JCd9FZsWTuccCoE">,</pc>
               <w msd="UPosTag=ADP" lemma="för" xml:id="i-VvD68VHv4kD36mgJXhi9Cg">för</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvD6EKTXvsGpdfr99np5c8">Almi</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-VvD6L9d9nzLcAa1ymsv21a">har</w>
@@ -12845,7 +12845,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="glad" xml:id="i-VvD7nGseQTi5RYkWBS788U">glad</w>
               <w msd="UPosTag=ADP" lemma="över" xml:id="i-VvD7twMD7AvgtaNc2xo428">över</w>
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-VvD82S8ieUJ8HjSy7w4yPz">att</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvD88GJLWbMupdcok2AuoS">Almi</w>
               </name>
               <w msd="UPosTag=ADP" lemma="för" xml:id="i-VvD8E6TxNiRhMXneN7GrCt">för</w>
@@ -12854,7 +12854,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="eventuell" xml:id="i-VvD8Xaxoy5d3xEJAENafRE">eventuella</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="företagskonstruktion" xml:id="i-VvD8f5kKWNzVMPNXKLrao6">företagskonstruktionerna</w>
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-VvD8kuuwNW4GtHYMwRxXCY">till</w>
-              <name join="right">
+              <name join="right" type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Coompanion" xml:id="i-VvD8rk5ZEd84RBiCZX4Tbz">Coompanion</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvD8xaFB6kBqx5t3BcAQ1S">,</pc>
@@ -13054,10 +13054,10 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="veta" xml:id="i-VvDHWzegPgtQAfkZJXT7rk">vet</w>
               <w msd="UPosTag=ADV" lemma="inte" xml:id="i-VvDHbzWMRDoMmSU8hAy4mz">inte</w>
               <w msd="UPosTag=SCONJ" lemma="om" xml:id="i-VvDHieyv7w1yEU6EYhezfe">om</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Penilla" xml:id="i-VvDHpV9Xz45kmNG5Ankw56">Penilla</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Gunther" xml:id="i-VvDHvKK9rB9YJGRunsrsUY">Gunther</w>
               </name>
               <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="se" xml:id="i-VvDJ2yniYtN9mJ41eQYoNC">sett</w>
@@ -13271,7 +13271,7 @@
               <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-VvDUc1Wb8GNQdsKJD5tHJU">vi</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-VvDUhqgCzPSCAmV8qAzDhv">har</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvDUofqprWVyhfeyTG6A7N">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvDUuW1SidZmEZpp5MC6Wp">Sverige</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvDV1LB4akdYmTzehSJ2vG">.</pc>
@@ -13587,7 +13587,7 @@
               <w msd="UPosTag=PART" lemma="att" xml:id="i-VvDh7V16o8vEVni34KLZtg">att</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="se" xml:id="i-VvDhDKAifFz22gssgQSWJ8">se</w>
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-VvDhK9LLXP3oZb3iJVYSha">att</w>
-              <name join="right">
+              <name join="right" type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvDhQyVxPW7b6VDYvaeP72">Almi</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvDhWofaFdBNdPPPYfkKWU">,</pc>
@@ -13747,7 +13747,7 @@
               <w msd="UPosTag=ADV" lemma="inte" xml:id="i-VvDqPFDhLJaG3oXJYQuU1r">inte</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="gå" xml:id="i-VvDqV5PKCRe3ahh9AW1QRJ">gå</w>
               <w msd="UPosTag=ADP" lemma="via" xml:id="i-VvDqauYw4Yhq7brynb7Lpk">via</w>
-              <name join="right">
+              <name join="right" type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvDqgjiYvfmceW2pQgDHEC">Almi</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvDqnZtAnnqQBQCf2mKDde">.</pc>
@@ -13806,7 +13806,7 @@
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="lägga" xml:id="i-VvDs2CVUqRvUST9ExhiTTS">läggas</w>
               <w msd="UPosTag=PART" lemma="över" xml:id="i-VvDs8ry3Y995uUmLpEQPM6">över</w>
               <w msd="UPosTag=ADP" lemma="på" xml:id="i-VvDsEh8fQGCsSNwBSKWKkY">på</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvDsLXJHGPGeyH724QcG9z">Almi</w>
               </name>
               <w msd="UPosTag=ADP" lemma="trots" xml:id="i-VvDsRX9xHvBca3pbT48D5E">trots</w>
@@ -13845,7 +13845,7 @@
             <s xml:id="i-VvPpPn7S7NKJkf7jDh2PBi">
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="peng" xml:id="i-VvDtbpXUzCfP6ax8TEBUxC">Pengarna</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-VvDtheh6rKjAdV7y5KHRMe">ska</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvDtoUriiSnxAPHohQPMm6">Almi</w>
               </name>
               <w msd="UPosTag=ADV" lemma="även" xml:id="i-VvDtuK2LaZrjhHTeKVVJAY">även</w>
@@ -14018,7 +14018,7 @@
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-VvE3c4XJFQ5ZF9rnkpdvsv">till</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="organisation" xml:id="i-VvE3htgv7X9Ln42dNujsHN">organisationen</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-VvE3oirXyeD8JxCTzzqogp">Hela</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvE3vPL6gMRjmypZrXXjaU">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-VvE42DViYUVXJszQUcdfyv">ska</w>
@@ -14280,7 +14280,7 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-VvEF4jRnmHX3yhCMgrJry2">har</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="samarbete" xml:id="i-VvEFAZbQdQaqWbNCJwQoNU">samarbete</w>
               <w msd="UPosTag=ADP" lemma="med" xml:id="i-VvEFGPm2VXed3VY2w2Wjmv">med</w>
-              <name join="right">
+              <name join="right" type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="FN" xml:id="i-VvEFNDveMeiQaPhsZ7cgBN">FN</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvEFU46GDmnC7HsiBCicap">.</pc>
@@ -14310,7 +14310,7 @@
               <w msd="UPosTag=CCONJ" lemma="men" xml:id="i-VvEFZtFt5tqyeC3YoHpYzG">Men</w>
               <w msd="UPosTag=ADV" lemma="här" xml:id="i-VvEFfiRVx1umB6DPRNvVPi">här</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvEFkiHAyYpimrvxp2SSJx">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvEFrYSnqftWJm6oS7YNiQ">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-VvEFxNcQhnxHqfGe4CeK7r">är</w>
@@ -14466,7 +14466,7 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="titta" xml:id="i-VvENmBGZnu62CZu7uJS7dv">Tittar</w>
               <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-VvENs1SBf29ojU4xXPY43N">vi</w>
               <w msd="UPosTag=ADP" lemma="på" xml:id="i-VvENxqboX9DbGNEo9UdzSp">på</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Almis" xml:id="i-VvEP4fmRPGHNoGQdmZjvrG">Almis</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="verksamhet" xml:id="i-VvEPAVw3FPMALAaUPeqsFi">verksamhet</w>
@@ -14690,7 +14690,7 @@
               <w msd="UPosTag=ADJ|Case=Nom" lemma="första" xml:id="i-VvEYmivZhKA3g8WARmuwc8">första</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-VvEYtPQ8Q2Nf9A8GHJbsVn">är</w>
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-VvEYyPFoRZHcjvqqfx7pR2">att</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvEZ63jN8GWECxTwXUokJg">Almi</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-VvEZBstyzPa1jrdn9Zugi8">har</w>
@@ -14744,7 +14744,7 @@
               </linkGrp>
             </s>
             <s xml:id="i-VvPqrjfsZRqbwmJWrgoUnp">
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvEbMeckVJYofG1S9BQM9N">Almi</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-VvEbTUnNMRcbCABGmGWHYp">är</w>
@@ -15009,7 +15009,7 @@
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="angrepp" xml:id="i-VvEotnj9qMQHPSJhTJ2chz">angrepp</w>
               <w msd="UPosTag=ADP" lemma="på" xml:id="i-VvEozctmhUU4vLUY5P8Z7S">på</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-VvEp6T4PZbXrTEeNhUEVWt">Hela</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvEpD7XxGJkTvGGUYzvRQY">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-VvEpJwha8RpFTASKB62Moz">ska</w>
@@ -15110,7 +15110,7 @@
               <w msd="UPosTag=ADP" lemma="från" xml:id="i-VvEt5AmHchgmxq57tfa3EC">från</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Plur" lemma="valresultat" xml:id="i-VvEtBqErKQuPRrhDkCFy7r">valresultaten</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvEtHfQUBXyAxks4NHMuXJ">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Frankrike" xml:id="i-VvEtPVa63f2xVf2tzNTqvk">Frankrike</w>
               </name>
               <w msd="UPosTag=ADP" lemma="med" xml:id="i-VvEtVKjhun6k2ZCjcTZnLC">med</w>
@@ -15126,7 +15126,7 @@
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="brexit" xml:id="i-VvEu6JjR6WVTDxDmLzBQkt">brexit</w>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvEuC8u2xdZEkrPby5HMAL">och</w>
               <w msd="UPosTag=ADP" lemma="med" xml:id="i-VvEuHy4epkd2HkZSbAPHZn">med</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Trumps" xml:id="i-VvEuPoEGgsgopejHDFVDyE">Trumps</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="valseger" xml:id="i-VvEuVdPtYzkbMYu7qLbANg">valseger</w>
@@ -15202,7 +15202,7 @@
               <w msd="UPosTag=ADV" lemma="bara" xml:id="i-VvExcNY4LmmvsSA784mEua">bara</w>
               <w msd="UPosTag=ADP" lemma="för" xml:id="i-VvExiChgCtqiQLKwk9sBK2">för</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-VvExp2sJ51uVwEVnNEy7iU">Hela</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvExus2uw8yHU8fczL547v">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-VvEy1hCXoG3512qTcRAzXN">ska</w>
@@ -15386,7 +15386,7 @@
               <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="närvarande" xml:id="i-VvF7JHj5B1qvVB6zKxKt8k">närvarande</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvF7Q7th38ui25Gpx3RpYC">i</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-VvF7Vx4JuFyVYySfa8Xkwe">hela</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvF7ccXsbyC7214mRfDgqJ">Sverige</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvF7iShVU6FtYuEc3kKdEk">och</w>
@@ -15422,7 +15422,7 @@
             <s xml:id="i-VvPrwCsnPbFawQGDEmkpGL">
               <w msd="UPosTag=ADV" lemma="då" xml:id="i-VvF8S6AmMXsDDKsjdodBZ6">Då</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="kunna" xml:id="i-VvF8XvLPDevzkE3aFtj7xY">kan</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvF8dkW15mznH8DQsyq4Mz">Almi</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="som" xml:id="i-VvF8jafcwu4Zp2PFW4vzmS">som</w>
@@ -15635,7 +15635,7 @@
               <w msd="UPosTag=ADV" lemma="inte" xml:id="i-VvFHzpETHhDckuSdybwHSt">inte</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="göra" xml:id="i-VvFJ6eQ59pHQHocUbh3DrL">göras</w>
               <w msd="UPosTag=ADP" lemma="utifrån" xml:id="i-VvFJCUZh1wMBphnKDn9AFn">utifrån</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Stockholm" xml:id="i-VvFJJJjJt4QyMbx9qsF6fE">Stockholms</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="perspektiv" xml:id="i-VvFJQ8tvkBUktW7zTxM34g" join="right">perspektiv</w>
@@ -15667,7 +15667,7 @@
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="utveckling" xml:id="i-VvFKs6TNCF145cJn6x88fn">utveckling</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvFKxvcz4N4qcWUcj3E55E">i</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-VvFL4knbvV8d9QeTM8L1Ug">hela</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvFLAaxDncCQgJpHyDRwt8">Sverige</w>
               </name>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvFLGR7qejGCDCz8bJXtHa">i</w>
@@ -16582,7 +16582,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="statlig" xml:id="i-VvG3ztFQ7sVpEcqJ3Fc9Yp">statlig</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="aktör" xml:id="i-VvG47YixpaiRheTPtnJ5SU">aktör</w>
               <w msd="UPosTag=CCONJ" lemma="som" xml:id="i-VvG4DNtaghnDEYdEWsQ1qv">som</w>
-              <name>
+              <name type="ORG">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Almi" xml:id="i-VvG4KD4CYpqzmSo58xVxFN">Almi</w>
               </name>
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-VvG4R3DpQwunJLxum3btep">som</w>
@@ -16687,7 +16687,7 @@
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="organisation" xml:id="i-VvG8xEzb91zwCx3tzSo6LC">organisation</w>
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-VvG95jn6gKNNc78G5R51i4">som</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-VvG9BZwiYSSA91J6hWAx7W">Hela</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvG9HQ7LQZVwfuTwKbGtWx">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-VvG9Q4au7GiZ8w63B7xpQc">ska</w>
@@ -17591,13 +17591,13 @@
               </linkGrp>
             </s>
             <s xml:id="i-VvPvtFxnmX6rajnRy5vP1E">
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Jan" xml:id="i-VvGwgZoB95CA15UT5upGqS">Jan</w>
               </name>
               <name>
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="R" xml:id="i-VvGwnPxo1CFwXyeHhzvDEt">R</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Andersson" xml:id="i-VvGwtE8QsKKj4sp8L629eL">Andersson</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-VvGwz4J2jSPWbmyxxB863n">har</w>
@@ -17644,7 +17644,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="viss" xml:id="i-VvH1ocbXa4sLqxRpbX1jQp">vissa</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="markuppköp" xml:id="i-VvH1vH56Gn5xJz3vT3hfJU">markuppköp</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvH227Ei8u9jqtDm58obhv">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvH2776PAS4hSewLTnKYdA">Kalmar</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="län" xml:id="i-VvH2DmZws9HJugZSKK1UWp" join="right">län</w>
@@ -17977,15 +17977,15 @@
               <w msd="UPosTag=ADV" lemma="endast" xml:id="i-VvHEpEv8ZYk6NNfkZByi2G">endast</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvHEv55kRfosuGqbBH5eRi">i</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="söder" xml:id="i-VvHF1uFNHnsfSB1RoNBaqA">södra</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Norrland" xml:id="i-VvHF7jQz9uwSy5BGRTHXEc">Norrland</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvHFDZac231EVyM73YPTe4">,</pc>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Västerbotten" xml:id="i-VvHFKPkDtA522sWwfdVQ3W">Västerbotten</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvHFRDuqkH8oZmgnHibLSx">och</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Norrbotten" xml:id="i-VvHFX45TcQCb6frcuohGrQ">Norrbotten</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvHFctF5UXGNda2TXtoDFr">.</pc>
@@ -18152,7 +18152,7 @@
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-VvHNV291uz1QizTzJkvyik">att</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="landsbygdsföretag" xml:id="i-VvHNarJdn75CFtdpvr2v8C">landsbygdsföretag</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvHNggUFeE8ynnofYw8rXe">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvHNnWdsWMCmKgyWB2Enw6">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-VvHNtLoVNUGYrb9Lo7LjLY">har</w>
@@ -18240,7 +18240,7 @@
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvHSjZistH42y2ViuLQMfz">och</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="arbeta" xml:id="i-VvHSqPtVkQ7pVvfZXRWJ5S">arbeta</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvHSwE47cXBc2pqQ9WcEUt">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Sverige" xml:id="i-VvHT34DjUeFPZj1EmbiAtL">Sveriges</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="landsbygd" xml:id="i-VvHT8tPMLmKB6dB5Pgp7Hn">landsbygder</w>
@@ -18300,13 +18300,13 @@
               <w msd="UPosTag=ADP" lemma="med" xml:id="i-VvHUoWH2X4y3MXhYGro5hn">Med</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="grund" xml:id="i-VvHUuLSePC2ptRsNtwu27E">grund</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvHUzLJKQiwnVCaxHbQy2U">i</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Jan" xml:id="i-VvHV6ATwGr1a26knugWuRv">Jan</w>
               </name>
               <name>
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="R" xml:id="i-VvHVCpwVyZEBV8NtmDCqKa">R</w>
               </name>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Andersson" xml:id="i-VvHVJf77qgHy22YjPJJmj2">Anderssons</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="frågeställning" xml:id="i-VvHVQVGjhoMkYvia1PQi8U">frågeställning</w>
@@ -19454,7 +19454,7 @@
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="vara" xml:id="i-VvJPFLDuwUjBaoLcbu4jmN">­</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="sch" xml:id="i-VvJPMAPXobny7hWTDzAgAp">scher</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvJPSzZ9firkebgHr5GcaG">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvJPYpimXqvYBVr8UANYyi">Sverige</w>
               </name>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-VvJPeetPPxzKiQ1y6FUVPA">hela</w>
@@ -19614,7 +19614,7 @@
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="vän" xml:id="i-VvJWYTQDWc31g5N2KznEpU">vänner</w>
               <w msd="UPosTag=ADV" lemma="hemma" xml:id="i-VvJWeHZqNj6oCyXrx5tBDv">hemma</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvJWmnMLv2UEc8cE34A6bn">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvJWscWxn9Y292n4f9G31E">Kalmar</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="län" xml:id="i-VvJWySgaeGbofvwuHEMyQg">län</w>
@@ -19923,7 +19923,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="viktig" xml:id="i-VvJk7ZnhB3qzbWGCKsbsPz">viktig</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="naturresurs" xml:id="i-VvJkDPxK3Aun8QS2wxhooS">naturresurs</w>
               <w msd="UPosTag=PRON" lemma="som" xml:id="i-VvJkKE7vuHyZfJbsa3okCt">som</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvJkR4HYmR3MCCmiC8ugcL">Sverige</w>
               </name>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-VvJkXim7U8FxfEPp3fbcVz" join="right">har</w>
@@ -19974,7 +19974,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="stor" xml:id="i-VvJnAg2tyFcB3t1kTxQbwa">stora</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="exportintäkt" xml:id="i-VvJnGWCWqNfxanBb63WYM2">exportintäkter</w>
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-VvJnNLN8hVjk7gMRi8cUkU">till</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvJnUAXkZcoXeaXGLDiR9v">Sverige</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvJnZzhNRjsKBUh6xJpMZN">,</pc>
@@ -20057,7 +20057,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="viktig" xml:id="i-VvJqmjhDF3ocJ8ffdgWP1W">viktig</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="aktör" xml:id="i-VvJqsZrq7AsPq2qWFmcKQx">aktör</w>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvJqyQ2SyHwBMw1LsriFpQ">och</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Sverige" xml:id="i-VvJr5EC4qQzxtqBBVwpCDr">Sveriges</w>
               </name>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Sup|Gender=Com,Neut|Number=Plur,Sing" lemma="stor" xml:id="i-VvJrB4MghY4kRjM282v8dJ">största</w>
@@ -20592,7 +20592,7 @@
               <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="fungerande" xml:id="i-VvKJU8srbghxD1RsSkyv68">fungerande</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="skogsindustri" xml:id="i-VvKJZy3UTomjjubi4r5rVa">skogsindustri</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvKJfoD6KvqXGomYgwBnu2">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvKJmdNiC3uJohwPK2HjJU">Sverige</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvKJrdEPDapGQUexhfogDi">.</pc>
@@ -20655,7 +20655,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="viktig" xml:id="i-VvKKUSY3EuMoY18Ffe1J8c">viktig</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="roll" xml:id="i-VvKKaGhf72Rb4uJ6Hj7EY4">roll</w>
               <w msd="UPosTag=ADP" lemma="för" xml:id="i-VvKKg6sGy9VNboTvupDAwW">för</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvKKmw2tqGZA8hdmXuK7Lx">Sverige</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvKKuRpQNZvbXri8csb2ip">och</w>
@@ -21056,7 +21056,7 @@
               <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="allt" xml:id="i-VvKe2aHbbfyZJ29Z5bBrTv">allt</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvKe8QTDTo3LpvKPhgHnsN">i</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="norr" xml:id="i-VvKeEEcqKv78MpVEKmPjGp">norra</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvKeLu6Q2dKjpr7LBJ5fAU">Sverige</w>
               </name>
               <w msd="UPosTag=ADV" lemma="där" xml:id="i-VvKeSjG1tkPXMkHAoPBbZv">där</w>
@@ -21190,7 +21190,7 @@
               <w msd="UPosTag=PRON|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="man" xml:id="i-VvKjf5aDzVdX8PeVvWvP72">man</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-VvKjkujqrchJfHpLYc2KWU">skulle</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="hindra" xml:id="i-VvKjrjuTijm6CBzBAh8Fuv">hindra</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Svea" xml:id="i-VvKjxa55arpsj6A1nnECKN">Svea</w>
               </name>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="­" xml:id="i-VvKk4QEhSytfFzKrQsL8ip">­</w>
@@ -21237,7 +21237,7 @@
               <w msd="UPosTag=ADV" lemma="runt" xml:id="i-VvKmhMWUx7EsedwnqA98AQ">runt</w>
               <w msd="UPosTag=ADV" lemma="om" xml:id="i-VvKmoBg6pEJfBY7dTFF4Zr">om</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvKmu1qigMNSiSHU5LLzyJ">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvKmzr1LYUSEFLTJhRSwNk">Sverige</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvKn6gAxQbW1nEd9KWYsnC">.</pc>
@@ -21265,7 +21265,7 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-VvKnjKnZGWCNqtYhWvLVBJ">är</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="viktig" xml:id="i-VvKnq9xB8dGANniY91SRak">viktigt</w>
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-VvKnwpRjqLUmqpLdzY8MUQ">att</w>
-              <name>
+              <name type="PER">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Svea" xml:id="i-VvKo3ebMhTYZNiWUcdEHsr">Svea</w>
               </name>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="­" xml:id="i-VvKo9UkyZacLucgKEiLEHJ">­</w>
@@ -21672,7 +21672,7 @@
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvL7eHGkZzcnw7tZiuApfn">i</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="del" xml:id="i-VvL7k7SNS7gaU24QLzGm5E">delar</w>
               <w msd="UPosTag=ADP" lemma="av" xml:id="i-VvL7qwbzJEkMzvEEy5NhUg">av</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvL7xc5YzwxyTwrLpc4dNL">Sverige</w>
               </name>
               <w msd="UPosTag=ADV" lemma="kanske" xml:id="i-VvL84SFAs52kzr2BShAZmn">kanske</w>
@@ -22013,7 +22013,7 @@
               <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="se" xml:id="i-VvLNt1YuQk5e7TKCbwyRfJ">sett</w>
               <w msd="UPosTag=PART" lemma="ut" xml:id="i-VvLNyqiXGs9ReMV3E35N4k">ut</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvLP5ft98zDDBFesr8BJUC">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Småland" xml:id="i-VvLPBW3m17Gzi9piUDHEse">Småland</w>
               </name>
               <w msd="UPosTag=ADV" lemma="där" xml:id="i-VvLPJAXKhpVcBBSpKjyAmJ">där</w>
@@ -22830,7 +22830,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="statlig" xml:id="i-VvM2qRJoZ2Huh55J6sv228">statliga</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="myndighet" xml:id="i-VvM2wFURR9MhDyF8iy1xRa">myndigheter</w>
               <w msd="UPosTag=ADP" lemma="från" xml:id="i-VvM335e3HGRUksQyM47tq2">från</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Stockholm" xml:id="i-VvM38uof9PVGHmaoy9DqEU">Stockholm</w>
               </name>
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-VvM3EjyH1WZ3pfkebEKmdv">till</w>
@@ -22867,7 +22867,7 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="hamna" xml:id="i-VvM4rrw7g3kSHBvKn5YmbJ">hamnar</w>
               <w msd="UPosTag=ADV" lemma="nu" xml:id="i-VvM4xh6jYApDp66AQAehzk">nu</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvM55MaJEt2qH7iGFhLdtQ">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvM5BBjv716cp1t6snSaHr">Kalmar</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="län" xml:id="i-VvM5JgXReJU4DAxTxkiVfi" join="right">län</w>
@@ -22941,7 +22941,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Sup|Gender=Com,Neut|Number=Plur,Sing" lemma="mycken" xml:id="i-VvM8Pm3hkuBjroJvnbibEC">mesta</w>
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="centralisera" xml:id="i-VvM8VbDKd2FXPhUmQgpXde">centraliserades</w>
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-VvM8bRNwV9KJvbec2mvU36">till</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Stockholm" xml:id="i-VvM8hFYZMGP6TVpSes2QSY">Stockholm</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvM8o5iBDPSszPzHGx8Lqz">.</pc>
@@ -23352,7 +23352,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="framgångsrik" xml:id="i-VvMUFgxJMFehYWY8HhELpL">framgångsrika</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="skogspolitik" xml:id="i-VvMUMX7vDNiV5QhxunLHDn">skogspolitik</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvMUTMHY5VnGcJsoXsSDdE">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvMUZBT9wcr49D3e9xYA2g">Sverige</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvMUf1cmojuqg7DUn3e6S8">.</pc>
@@ -23612,7 +23612,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="stor" xml:id="i-VvMeSEKeJjYeDcaKbTk4d2">stora</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="del" xml:id="i-VvMeXEBKLGTbpPHtz7G1YG">delar</w>
               <w msd="UPosTag=ADP" lemma="av" xml:id="i-VvMedtet2ygDHQuzqdwwRv">av</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvMejipVu6jzpK5qTj3sqN">Sverige</w>
               </name>
               <w msd="UPosTag=ADV" lemma="där" xml:id="i-VvMeqYz7mDonMDFg5p9pEp">där</w>
@@ -23845,7 +23845,7 @@
               <w msd="UPosTag=ADV" lemma="runt" xml:id="i-VvMqujY5fD8xtHN9kvzzCL">runt</w>
               <w msd="UPosTag=ADV" lemma="om" xml:id="i-VvMr1ZhhXLCkRBXzP26vbn">om</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvMr7PsKPTGXx5hq17Cs1E">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvMrDE2wFaLKUysfdCJoQg">Sverige</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvMrK4CZ7hQ71t3WFHQjp8">,</pc>
@@ -24345,7 +24345,7 @@
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="mången" xml:id="i-VvNDN7ndEvVfAFrVyzZkmS">många</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="skogsägare" xml:id="i-VvNDUnGBwdiGdHUbqXFgf6">skogsägare</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvNDacRookn4ABeSTcMd4Y">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvNDgSbRfsqqh5pH5hTZTz">Kalmar</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="län" xml:id="i-VvNDnGm3XzudDyz7hnZVsS">län</w>
@@ -24361,7 +24361,7 @@
               <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-VvNEquf1XaAnHVVYrRvqrk">en</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="e-hälsomyndighet" xml:id="i-VvNEwjpdPhEZpPfPUX2nGC">e-hälsomyndighet</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvNF3ZzFFpJMMHqE6c8ife">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvNF9Q9s7wN8tC14ihEf56">Kalmar</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvNFFEKUz4RvR6AuLnLbUY">.</pc>
@@ -24405,7 +24405,7 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="påverka" xml:id="i-VvNFtiF2gZH7QsYimdiCMr">påverkar</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="landsbygd" xml:id="i-VvNFzYQeYgLtwmiZPip8mJ">landsbygden</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvNG6NaGQoQgUftQ1ov5Ak">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvNGCCjtGvUU1a4Edu21aC">Kalmar</w>
               </name>
               <w msd="UPosTag=ADV|Degree=Pos" lemma="speciellt" xml:id="i-VvNGJ2uW93YFYUE5Fz7wye">speciellt</w>
@@ -24471,7 +24471,7 @@
               <w msd="UPosTag=ADV|Degree=Pos" lemma="långt" xml:id="i-VvNK7HYpLTNETeyYgSzDJC">långt</w>
               <w msd="UPosTag=ADV" lemma="även" xml:id="i-VvNKDx2P3AaqvgbeXyg9Br">även</w>
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-VvNKKnBzuHedTamVA4n5bJ">till</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvNKRcMcmQiQzUwKn9t1zk">Kalmar</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvNKXSXEdXnCXP7AQEyxQC">.</pc>
@@ -24913,7 +24913,7 @@
               <w msd="UPosTag=ADP" lemma="om" xml:id="i-VvNej4CLgoF9HBWHF3Y7cp">om</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="skog" xml:id="i-VvNeqifuPWTkkD8P6aE3WU">skogen</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvNewYqXFdXYH7JDifKyuv">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="Sverige" xml:id="i-VvNf3P197kbKp1U4LkRvKN">Sveriges</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-VvNfA3UhpTowH36ACH7rD2" join="right">riksdag</w>
@@ -25150,7 +25150,7 @@
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="flytta" xml:id="i-VvNsFMzoCFwo5EMHKiaPhE">flytta</w>
               <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-VvNsMCAR4P1ac8X7wogL6g">den</w>
               <w msd="UPosTag=ADP" lemma="till" xml:id="i-VvNsTrdym6EC5A9DoLNFzL">till</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvNsZgobdDHyc4K4RRUCPn">Kalmar</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvNsegfGekCwCq2dp4z9K2">?</pc>
@@ -25249,7 +25249,7 @@
               <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="behöva" xml:id="i-VvNvEcMTSjbhBxXuXUUYrG">behöver</w>
               <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="ske" xml:id="i-VvNvLSX5JrfUirhk9ZaVFi">ske</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvNvSGghAyjGFksamegRfA">i</w>
-              <name join="right">
+              <name join="right" type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Stockholm" xml:id="i-VvNvYwAFsgwsinVgdBNMYp">Stockholm</w>
               </name>
               <pc msd="UPosTag=PUNCT" xml:id="i-VvNvdw1vuDrqKZDG1ptJU4">.</pc>
@@ -25383,7 +25383,7 @@
             </s>
             <s xml:id="i-VvQ9o47mtsupaFrXJfnRDE">
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-VvP22H3V42vkHk1jvFeyqe">Att</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvP287D6v9zXpeBaYLkvF6">Kalmar</w>
               </name>
               <w msd="UPosTag=ADV" lemma="nu" xml:id="i-VvP2DwNinH4KMYMRARrreY">nu</w>
@@ -25469,7 +25469,7 @@
               <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-VvP5k1BN2YLo12HkwWSgoE">det</w>
               <w msd="UPosTag=PRON|Case=Acc|Definite=Def|Gender=Com,Neut|Number=Plur,Sing" lemma="sig" xml:id="i-VvP5qqLytfQaXvTbZbYdCg">sig</w>
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-VvP5xVpYbNdBzx5hR8EZ6L">att</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvP64KzATVgyXrFY3DLVVn">Kalmar</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="län" xml:id="i-VvP6AA9nKckm4kRNfJSRuE">län</w>
@@ -25533,7 +25533,7 @@
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvP9FEg4SDUSiNmqV9SXTi">och</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="framtidsförutsättning" xml:id="i-VvP9Mu9d8vh4BQPwLg8TMN">framtidsförutsättningar</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvP9TjKF13kqiJZmxmEPkp">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Sverige" xml:id="i-VvP9ZZUrsApdFCjcarLLAG">Sverige</w>
               </name>
               <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-VvP9fPeUjHtQn6uTCwSGZi">och</w>
@@ -25541,7 +25541,7 @@
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="­" xml:id="i-VvP9s3yiTY1yquF8T7e9Nc">­</w>
               <w msd="UPosTag=ADV" lemma="så" xml:id="i-VvP9xt9LKf5mNoQy5Ck5n4">så</w>
               <w msd="UPosTag=ADP" lemma="i" xml:id="i-VvPA4iJxBn9YuhaohHr2BW">i</w>
-              <name>
+              <name type="LOC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Kalmar" xml:id="i-VvPAAYUa3uDLSbkeKNwxax">Kalmar</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="län" xml:id="i-VvPAGNeBv2H7yVvUwU3tzQ" join="right">län</w>
