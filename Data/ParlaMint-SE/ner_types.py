@@ -27,10 +27,13 @@ def main(args):
         for name in  progressbar.progressbar(list(body.findall(f".//{tei_ns}name"))):
             nametext = " ".join(name.itertext())
             results = ner_pipeline(nametext)
+            ner_type = "MISC"
             if len(results) >= 1:
                 d = results[0]
-                ner_type = d["entity"]
-                name.attrib["type"] = ner_type
+                if d["entity"] in ["PER", "LOC", "ORG"]:
+                    ner_type = d["entity"]
+
+            name.attrib["type"] = ner_type
 
         b = etree.tostring( 
             root, pretty_print=True, encoding="utf-8", xml_declaration=True
