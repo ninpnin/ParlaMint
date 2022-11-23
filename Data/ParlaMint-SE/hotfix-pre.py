@@ -113,6 +113,22 @@ def convert_headers(root):
 
     return root
 
+def remove_toc(root):
+    bodies = root.findall(f".//{tei_ns}body")
+    assert len(bodies) == 1
+    body = bodies[0]
+    last_div = body[-1]
+
+    zero_speeches = len(last_div.findall(f".//{tei_ns}u")) == 0
+    last_notes = last_div.findall(f".//{tei_ns}note")
+    last_notes = [note for note in last_notes if note.attrib.get("type") == "speaker"]
+    some_notes = len(last_notes) > 0
+
+    if zero_speeches and some_notes:
+        body.remove(last_div)
+
+    return root
+
 def main(args):
     p = Path(".")
     parser = etree.XMLParser(remove_blank_text=True)
@@ -124,10 +140,18 @@ def main(args):
         with path.open() as f:
             root = etree.parse(f, parser).getroot()
 
-        root = convert_headers(root)
-        root = remove_u_frontmatter(root)
-        root = convert_applause(root)
-        root = merge_utterances(root)
+        if args.phase == 0:
+            print("Phase 1")
+            root = convert_headers(root)
+            root = remove_u_frontmatter(root)
+            root = convert_applause(root)
+            root = merge_utterances(root)
+        elif args.phase == 1:
+            print("Phase 1")
+            root = remove_toc(root)
+        else:
+            print("Phase not recognized")
+
 
         # Write on disk
         b = etree.tostring(
@@ -139,5 +163,6 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--metadata_path", type=str, default=None)
+    parser.add_argument("--phase", type=int, default=0)
     args = parser.parse_args()
     main(args)
