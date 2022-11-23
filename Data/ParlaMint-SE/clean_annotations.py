@@ -38,13 +38,13 @@ def main(args):
             unnann_root = etree.parse(f, parser).getroot()
 
         texts = unnann_root.findall(f".//{args.tei_ns}text")
-        assert len(texts) == 1
+        assert len(texts) == 1, unannotated_path
         text = texts[0]
         
         text.getparent().remove(text)
         
         texts = root.findall(f".//{args.tei_ns}text")
-        assert len(texts) == 1
+        assert len(texts) == 1, path
         text = texts[0]
 
         for body in text:
@@ -170,6 +170,12 @@ def main(args):
             if "UPosTag=PUNCT" in w.attrib.get("msd", ""):
                 w.tag = f"{args.tei_ns}pc"
                 del w.attrib["lemma"]
+
+                parent = w.getparent()
+                index = parent.index(w)
+                if index > 0:
+                    w_prev = parent[index-1]
+                    w_prev.attrib["join"] = "right"
 
         # Convert plain ids and TEI ids into XML ids
         for elem in list(text.findall(f".//{args.tei_ns}seg")) + list(text.findall(f".//{args.tei_ns}u")):
