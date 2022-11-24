@@ -6,7 +6,6 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 29 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 29 [ParlaMint SAMPLE]</title>
         <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
-        <meeting ana="#parla.sitting #parla.uni" n="201819--29">2018/19--29</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -25,7 +24,7 @@
           <licence>http://creativecommons.org/licenses/by/4.0/</licence>
           <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
         </availability>
-        <date when="2022-10-31">2022-10-31</date>
+        <date when="2022-11-24">2022-11-24</date>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -79,7 +78,7 @@
         <head xml:id="i-5JH5WvPaYaXqirekDu2AW9">§ 1 Prövning av förslag till statsminister</head>
         <note type="speaker" xml:id="i-YAj3BZ84JP97341ExeUqLN">Anf. 1 TALMANNEN:</note>
         <note xml:id="i-7sF7rmHFQ7XzTqxFRRjs6h">Riksdagen ska enligt 6 kap. 4 § andra stycket regeringsformen pröva ett förslag till ny statsminister inom fyra dagar. Förslaget ska enligt 11 kap. 3 § andra stycket riksdagsordningen bordläggas två gånger.</note>
-        <u xml:id="i-d681f63a74a2146f-0" who="#Q4755577" ana="#chair">
+        <u xml:id="i-d681f63a74a2146f-0" who="#Q4755577" ana="#regular">
           <seg xml:id="i-TGrQaA4zvX8veoTKM1W8uU">Jag lämnade onsdagen den 12 december förslaget att Stefan Löfven, Socialdemokraterna, ska utses till statsminister. Stefan Löfven har uppgett att han avser att bilda en regering som består av företrädare för Socialdemokraterna och Miljöpartiet. Förslaget har nu bordlagts två gånger och ska prövas vid dagens sammanträde.</seg>
         </u>
         <note type="speaker" xml:id="i-Y47MnuwJNF3WXK3gx45mBm">Anf. 2 ANDERS YGEMAN (S):</note>
@@ -138,7 +137,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note xml:id="i-7GV3oY4pRb3XpdKmqJdAN8" type="speaker">Anf. 6 MATTIAS KARLSSON i Norrhult (SD):</note>
-        <u xml:id="i-d681f63a74a2146f-32" ana="#regular">
+        <u xml:id="i-d681f63a74a2146f-32" who="#unknown" ana="#regular">
           <seg xml:id="i-VCQbN6VmyGxbHwwUzPEk5N">Herr talman! Den förra mandatperioden kommer att gå till historien på grund av den oskicklighet och brist på ansvar som präglade regeringen. En del propositioner fick dras tillbaka för att de var så illa förberedda. Andra propositioner var så illa utformade att domstolarna inte kunde implemen ­ tera dem. Ingen regering har någonsin fått så omfattande och skarp kritik från Lagrådet. Aldrig tidigare har en statsminister blivit anmäld till konsti ­ tutionsutskottet på grund av brister i tjänsteutövningen i lika stor utsträck ­ ning. Flera ministrar tvingades avgå på grund av att de brustit i sin tjänste ­ utövning och på grund av att de försatt rikets säkerhet i allvarlig fara. Andra ministrar fick avgå på grund av samröre med islamister och vålds ­ bejakande utländska terrororganisationer.</seg>
           <seg xml:id="i-FhvyEt8Paas3X87m7gdFAr">Regeringen misslyckades med att samla stöd för sin politik och röstades ned i en rad tunga frågor. Det kanske inte är så konstigt att en opini ­ onsmätning från Aftonbladet/Inizio som kom häromdagen visade att det bara är 3 procent av den svenska befolkn ingen som vill se en fortsatt S ‑ MP-regering. Tilläggas kan att det populäraste regeringsalternativet i samma mätning var en regering bestående av ett konservativt block med Sverigedemokraterna, Moderaterna och Kristdemokraterna.</seg>
           <seg xml:id="i-GD8i2CaRiJc1uf2Ydqr6UT">På grund av en hisnande ansvarslös och naiv migrationspolitik försattes landet under den förra mandatperioden i ett tillstånd där man balanserade på gränsen till systemkollaps. Otryggheten nådde historiska rekordnivåer. Antalet sexualbrott exploderade. Skjutningarna ökade. Antalet handgranatsexplosioner i Sverige per capita hamnade i paritet med knarkkartellernas Mexiko. Stockholm drabbades av ett fruktansvärt terrorattentat, som hade kunnat undvikas med ett mer ansvarsfullt styre.</seg>
@@ -741,7 +740,7 @@
           <seg xml:id="i-Dscm6iibHCifaQAcj8NhQq">Centerpartiet är berett att ta ansvar för att Sverige ska få en handlingskraftig regering. Därför har vi också, trots att det har varit svårt för oss, inlett samtal med Socialdemokraterna om just en mittenregering.</seg>
         </u>
         <note type="speaker" xml:id="i-YQEmwobJ7p9qZgavfyYL9w">Anf. 65 ANDRE VICE TALMANNEN:</note>
-        <u xml:id="i-d681f63a74a2146f-340" ana="#regular">
+        <u xml:id="i-d681f63a74a2146f-340" who="#unknown" ana="#regular">
           <seg xml:id="i-XqY9wcGpTAwe5yKAJoCM4u">Jag vill påminna kammaren om att vi nu debatterar rättsväsendet.</seg>
         </u>
         <note type="speaker" xml:id="i-LipnP1eygdKeFzUCAfVwao">Anf. 66 LINDA WESTERLUND SNECKER (V) replik:</note>
@@ -1002,6 +1001,15 @@
         <note xml:id="i-U8BpKNfYJeVA1UKrhk5RLS">2018/19:CU1 Utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik</note>
         <note xml:id="i-LNkvm8EH3H24yBDdV1FJrg">Socialförsäkringsutskottets betänkande</note>
         <note xml:id="i-KT1mUGhauEduWCpDhzvvNE">2018/19:SfU4 Utgiftsområde 8 Migration</note>
+      </div>
+      <div type="debateSection">
+        <head xml:id="i-6f3NbKXuy6KxjWNEh4U3RP">§ 12 Kammaren åtskildes kl. 12.51.</head>
+        <note xml:id="i-6juovSGd24fTpXC9tPmCWy">Sammanträdet leddes</note>
+        <note xml:id="i-4qW5sAarvXgK5BQh6xTmQw">av talmannen från dess början till och med § 1,</note>
+        <note xml:id="i-6k3R9g43YzmbZVzFc9sxBH">av förste vice talmannen därefter till och med § 9 anf. 45 (delvis) och</note>
+        <note xml:id="i-AZa5AmW78S5EpNbWSLFHus">av andre vice talmannen därefter till dess slut.</note>
+        <note xml:id="i-AnW3zEpCJejAv15gRyGyDs">Vid protokollet</note>
+        <note xml:id="i-3HRTJnaRqcTw7HY4CDKMU3">INGVAR MATTSON</note>
       </div>
     </body>
   </text>

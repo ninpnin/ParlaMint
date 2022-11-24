@@ -113,19 +113,42 @@ def convert_headers(root):
 
     return root
 
+def _contains_toc_elem(root, toc_str="Innehållsförteckning"):
+    notes = root.findall(f".//{tei_ns}note")
+    notes = [note.text.strip() for note in notes]
+    if toc_str in notes:
+        return notes.index(toc_str)
+    else:
+        return None
+
 def remove_toc(root):
     bodies = root.findall(f".//{tei_ns}body")
     assert len(bodies) == 1
     body = bodies[0]
+
     last_div = body[-1]
-
-    zero_speeches = len(last_div.findall(f".//{tei_ns}u")) == 0
-    last_notes = last_div.findall(f".//{tei_ns}note")
-    last_notes = [note for note in last_notes if note.attrib.get("type") == "speaker"]
-    some_notes = len(last_notes) > 0
-
-    if zero_speeches and some_notes:
-        body.remove(last_div)
+    
+    if _contains_toc_elem(last_div) is not None:
+        index = _contains_toc_elem(last_div)
+        if index == 0:
+            body.remove(last_div)
+            return root
+        else:
+            for ix, subelem in enumerate(list(last_div)):
+                if ix >= index:
+                    last_div.remove(subelem)
+    elif len(body) >= 2:
+        penultimate_div = body[-2]
+        index = _contains_toc_elem(penultimate_div)
+        if index == 0:
+            body.remove(penultimate_div)
+            body.remove(last_div)
+            return root
+        elif index is not None and index >= 1:
+            body.remove(last_div)
+            for ix, subelem in enumerate(list(penultimate_div)):
+                if ix >= index:
+                    penultimate_div.remove(subelem)
 
     return root
 
