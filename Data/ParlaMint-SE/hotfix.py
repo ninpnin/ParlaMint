@@ -43,14 +43,6 @@ def remove_unknowns(root):
             del u.attrib["who"]
     return root
 
-def remove_unknowns(root):
-    for body in root.findall(f".//{tei_ns}body"):
-        for name in body.findall(f".//{tei_ns}name"):
-            if name.attrib.get("join") == "right":
-                del name.attrib["join"]
-                name[0].attrib["join"] = "right"
-    return root
-
 def main(args):
     # Add talmän as 'chair'
     talman = None
