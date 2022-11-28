@@ -10,6 +10,23 @@ import progressbar
 tei_ns ="{http://www.tei-c.org/ns/1.0}"
 xml_ns = "{http://www.w3.org/XML/1998/namespace}"
 
+def merge_adjacent(root):
+    for body in root.findall(f".//{tei_ns}body"):
+        for div in body:
+            for s in div.findall(f".//{tei_ns}s"):
+                prev_name = None
+                for w in s:
+                    if w.tag != f"{tei_ns}name":
+                        prev_name = None
+                    elif prev_name is not None and prev_name.attrib.get("type") == w.attrib.get("type", ""):
+                        for subelem in w:
+                            prev_name.append(subelem)
+                        parent = w.getparent()
+                        parent.remove(w)
+                    else:
+                        prev_name = w
+
+    return root
 
 def main(args):
     p = Path(".")
@@ -35,6 +52,7 @@ def main(args):
 
             name.attrib["type"] = ner_type
 
+        root = merge_adjacent(root)
         b = etree.tostring( 
             root, pretty_print=True, encoding="utf-8", xml_declaration=True
         )
