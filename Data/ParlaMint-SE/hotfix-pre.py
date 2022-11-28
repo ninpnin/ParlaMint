@@ -70,7 +70,7 @@ def merge_utterances(root):
 
 def convert_applause(root):
     for note in root.findall(f".//{tei_ns}note"):
-        content = " ".join(note.text.split())
+        content = "".join(note.text.split())
         if content == "(Applåder)":
             print("apploder")
             note.tag = f"{tei_ns}kinesic"
