@@ -75,22 +75,22 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 1 Justering av protokoll</head>
         <note>Protokollen för den 24 och 26 september justerades .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 2 Anmälan om kompletteringsval</head>
         <note>Tredje vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Lars-Arne Staxäng som suppleant i EU-nämnden under Johan Hultbergs ledighet .</note>
         <note>Tredje vice talmannen förklarade vald under tiden den 15 oktober 2019 – 1 mars 2020 till</note>
         <note>suppleant i EU-nämnden</note>
         <note>Lars-Arne Staxäng ( M )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 3 Meddelande om frågestund</head>
         <note>Tredje vice talmannen meddelade att frågestund skulle äga rum torsdagen den 17 oktober kl. 14.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 4 Meddelande om aktuell debatt</head>
         <note>Tredje vice talmannen meddelade att på begäran av Vänsterpartiets riksdagsgrupp skulle en aktuell debatt om det höga antalet dödsolyckor i arbetslivet anordnas fredagen den 25 oktober kl. 9.00 .</note>
         <note>Från regeringen skulle arbetsmarknadsminister Eva Nordmark ( S ) delta .</note>
@@ -107,7 +107,7 @@
         <note>Mia Sydow Mölleby</note>
         <note>Gruppledare för Vänsterpartiet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 5 Ärenden för bordläggning</head>
         <note>Följande dokument anmäldes och bordlades :</note>
         <note>Finansutskottets betänkanden</note>
@@ -25507,13 +25507,13 @@
         <note>Överläggningen var härmed avslutad .</note>
         <note>( Beslut skulle fattas den 16 oktober . )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 7 Bordläggning</head>
         <note>Följande dokument anmäldes och bordlades :</note>
         <note>Proposition</note>
         <note>2019 / 20:26 Ändringar i lagstiftningen om sociala trygghetsförmåner efter det att Förenade kungariket har lämnat Europeiska unionen</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 8 Anmälan om interpellationer</head>
         <note>Följande interpellationer hade framställts :</note>
         <note>den 11 oktober</note>
@@ -25549,7 +25549,7 @@
         <note>av Lars Beckman ( M )</note>
         <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 9 Anmälan om frågor för skriftliga svar</head>
         <note>Följande frågor för skriftliga svar hade framställts :</note>
         <note>den 11 oktober</note>
@@ -25646,7 +25646,7 @@
         <note>av Magnus Persson ( SD )</note>
         <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 10 Anmälan om skriftliga svar på frågor</head>
         <note>Skriftliga svar på följande frågor hade kommit in :</note>
         <note>den 11 oktober</note>
@@ -25657,7 +25657,7 @@
         <note>av Henrik Vinge ( SD )</note>
         <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 11 Kammaren åtskildes kl. 14 . 28 .</head>
         <note>Sammanträdet leddes av tredje vice talmannen .</note>
         <note>Vid protokollet</note>

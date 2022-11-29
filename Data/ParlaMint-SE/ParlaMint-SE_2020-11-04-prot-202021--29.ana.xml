@@ -75,11 +75,11 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 1 Justering av protokoll</head>
         <note>Protokollet för den 14 oktober justerades .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 2 Anmälan om kompletteringsval</head>
         <note>Tredje vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Mats Sander som suppleant i socialutskottet under Ulrika Heindorffs ledighet och Richard Herrey som suppleant i konstitutionsutskottet under Erik Ottosons ledighet .</note>
         <note>Tredje vice talmannen förklarade vald under tiden den 2 november 2020 – 2 maj 2021 till</note>
@@ -89,7 +89,7 @@
         <note>suppleant i konstitutionsutskottet</note>
         <note>Richard Herrey ( M )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 3 Anmälan om fördröjda svar på interpellationer</head>
         <note>Följande skrivelser hade kommit in :</note>
         <note>Interpellation 2020 / 21 : 57</note>
@@ -141,13 +141,13 @@
         <note>Marianne Jenryd</note>
         <note>Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 4 Anmälan om faktapromemorior</head>
         <note>Tredje vice talmannen anmälde att följande faktapromemorior om förslag från Europeiska kommissio ­ nen hade kommit in och överlämnats till utskott :</note>
         <note>2020 / 21:FPM22 Förordning om införande av screen ­ ing för tredjelandsmedborgare vid yttre gräns COM ( 2020 ) 612 till socialförsäkringsutskottet</note>
         <note>2020 / 21:FPM24 Handlingsplan för att ta tullunionen till nästa nivå COM ( 2020 ) 581 till skatteutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 5 Ärenden för hänvisning till utskott</head>
         <note>Följande dokument hänvisades till utskott :</note>
         <note>Propositioner</note>
@@ -11908,7 +11908,7 @@
         <note>Överläggningen var härmed avslutad .</note>
         <note>( Beslut fattades under § 11 . )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 7 Digital kommunikation i domstolsprocesser</head>
         <note>Justitieutskottets betänkande 2020 / 21:JuU4</note>
         <note>Digital kommunikation i domstolsprocesser ( p rop . 2019 / 20:189 )</note>
@@ -26537,7 +26537,7 @@
         <note>Överläggningen var härmed avslutad .</note>
         <note>( Beslut fattades under § 11 . )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 9 Ändrade regler för taxering av lantbruksenheter och för automatiserat beslutsfattande vid fastighetstaxeringen</head>
         <note>Skatteutskottets betänkande 2020 / 21:SkU3</note>
         <note>Ändrade regler för taxering av lantbruksenheter och för automatiserat beslutsfattande vid fastighetstaxeringen ( prop . 2019 / 20:196 )</note>
@@ -33574,7 +33574,7 @@
         <note>Återupptaget sammanträde</note>
         <note>Sammanträdet återupptogs kl. 16.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note>JuU31 Omständigheter som särskilt ska beaktas som skäl för livstids fängelse för mord</note>
         <note>1 . utskottet</note>
@@ -33662,7 +33662,7 @@
         <note>Återupptaget sammanträde</note>
         <note>Sammanträdet återupptogs kl. 16.35 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 12 Bordläggning</head>
         <note>Följande dokument anmäldes och bordlades :</note>
         <note>Skrivelse</note>
@@ -33673,7 +33673,7 @@
         <note>COM ( 2020 ) 612 Förslag till Europaparlamentets och rådets förordning om införande av screening av tredjelandsmedborgare vid de yttre gräns ­ erna och om ändring av förordningarna ( EG ) nr 767 / 2008 , ( EU ) 2017 / 2226 , ( EU ) 2018 / 1240 och ( EU ) 2019 / 817</note>
         <note>COM ( 2020 ) 688 Förslag till rådets direktiv om ändring av rådets direktiv 2006 / 112 / EG vad gäller tillfälliga åtgärder avseende mervärdesskatt på covid-19-vacciner och medicintekniska produkter för in vitro-diagnos ­ tik av covid-19 föranledda av covid-19-pandemin</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 13 Motion för omedelbar hänvisning</head>
         <note>Följande dokument anmäldes :</note>
         <note>Motion</note>
@@ -33681,7 +33681,7 @@
         <note>2020 / 21:3750 av Oscar Sjöstedt m.fl. ( SD )</note>
         <note>Kammaren biföll talmannens förslag att ovanstående motion omedelbart skulle hänvisas till finans utskottet .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 14 Anmälan om interpellation</head>
         <note>Följande interpellation hade framställts :</note>
         <note>den 3 november</note>
@@ -33689,7 +33689,7 @@
         <note>av Ludvig Aspling ( SD )</note>
         <note>till socialminister Lena Hallengren ( S )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 15 Anmälan om frågor för skriftliga svar</head>
         <note>Följande frågor för skriftliga svar hade framställts :</note>
         <note>den 3 november</note>
@@ -33700,7 +33700,7 @@
         <note>av Alexandra Anstrell ( M )</note>
         <note>till näringsminister Ibrahim Baylan ( S )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 16 Anmälan om skriftliga svar på frågor</head>
         <note>Skriftliga svar på följande frågor hade kommit in :</note>
         <note>den 4 november</note>
@@ -33711,7 +33711,7 @@
         <note>av Andreas Carlson ( KD )</note>
         <note>till statsrådet Ardalan Shekarabi ( S )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head>§ 17 Kammaren åtskildes kl. 16.35 .</head>
         <note>Sammanträdet leddes</note>
         <note>av tredje vice talmannen från dess början till ajourneringen kl. 10.54 och</note>

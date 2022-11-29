@@ -51,6 +51,15 @@ def remove_joins(root):
                 name[0].attrib["join"] = "right"
     return root
 
+def section_types(root):
+    for div in root.findall(f".//{tei_ns}div"):
+        speeches = div.findall(f".//{tei_ns}u")
+        if len(speeches) == 0:
+            div.attrib["type"] = "commentSection"
+        else:
+            div.attrib["type"] = "debateSection"
+    return root
+
 def main(args):
     # Add talmän as 'chair'
     talman = None
@@ -107,6 +116,7 @@ def main(args):
 
         root = remove_unknowns(root)
         root = remove_joins(root)
+        root = section_types(root)
         b = etree.tostring(
             root, pretty_print=True, encoding="utf-8", xml_declaration=True
         )
