@@ -76,10 +76,6 @@
   <text ana="#covid">
     <body>
       <div type="commentSection">
-        <head xml:id="i-NQktfPTLs9QEYNZAhBt8ZS">§ 1 Justering av protokoll</head>
-        <note xml:id="i-YCFahFeqCebNhKGYdTDgFN">Protokollet för den 14 oktober justerades.</note>
-      </div>
-      <div type="commentSection">
         <head xml:id="i-BUYy5sW7enfvjUeZYPjN7H">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-DK2fYiaibyTGZTFaSL4LyN">Tredje vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Mats Sander som suppleant i socialutskottet under Ulrika Heindorffs ledighet och Richard Herrey som suppleant i konstitutionsutskottet under Erik Ottosons ledighet.</note>
         <note xml:id="i-22kAitytbT2omLvfDFknsP">Tredje vice talmannen förklarade vald under tiden den 2 november 2020 – 2 maj 2021 till</note>
@@ -647,6 +643,10 @@
         <note xml:id="i-145ZfoQKGwC9LmkgJGbpEZ">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-RQ9atmTE4A85QUS8hgCDhG">Vid protokollet</note>
         <note xml:id="i-RrWNyXBhmQ9tRVCtN25NJF">JOHAN WELANDER</note>
+      </div>
+      <div type="debateSection">
+        <head xml:id="i-NQktfPTLs9QEYNZAhBt8ZS">§ 1 Justering av protokoll</head>
+        <note xml:id="i-YCFahFeqCebNhKGYdTDgFN">Protokollet för den 14 oktober justerades.</note>
       </div>
     </body>
   </text>

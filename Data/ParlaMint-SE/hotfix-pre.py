@@ -116,6 +116,11 @@ def convert_headers(root):
             if elem.tag == f"{tei_ns}head":
                 elem.tag = f"{tei_ns}note"
 
+        if len(div) == 1:
+            if div[0].tag == f"{tei_ns}head":
+                div[0].tag = f"{tei_ns}note"
+
+
     return root
 
 def _contains_toc_elem(root, toc_str="Innehållsförteckning"):

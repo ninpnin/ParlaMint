@@ -76,10 +76,6 @@
   <text ana="#covid">
     <body>
       <div type="commentSection">
-        <head xml:id="i-QBz1PFjMfsWqRTfbFFbyo5">§ 1 Justering av protokoll</head>
-        <note xml:id="i-YAE6cUT1iw2j6tm5DfF87C">Protokollet för den 11 september justerades.</note>
-      </div>
-      <div type="commentSection">
         <head xml:id="i-XAjk6Zxp242zSxE2X9WYBn">§ 2 Ansökan om ledighet</head>
         <note xml:id="i-URxC6KjpRRPA2traP4XNSP">Förste vice talmannen meddelade att Fredrik Olovsson (S) ansökt om ledighet under tiden den 2 oktober 2020–26 september 2022.</note>
         <note xml:id="i-MYd5hSMoAhSmFb59UNT6EF">Kammaren biföll denna ansökan.</note>
@@ -227,6 +223,10 @@
         <note xml:id="i-5G3AnXuCPcV8R3nyHuzHoa">Sammanträdet leddes av förste vice talmannen.</note>
         <note xml:id="i-FUNRwM9AYdME3rkJRAYfNR">Vid protokollet</note>
         <note xml:id="i-MaE5A22PoZciU8jw93FTzV">TUULA ZETTERMAN</note>
+      </div>
+      <div type="debateSection">
+        <head xml:id="i-QBz1PFjMfsWqRTfbFFbyo5">§ 1 Justering av protokoll</head>
+        <note xml:id="i-YAE6cUT1iw2j6tm5DfF87C">Protokollet för den 11 september justerades.</note>
       </div>
     </body>
   </text>

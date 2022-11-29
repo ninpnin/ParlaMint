@@ -76,10 +76,6 @@
   <text ana="#covid">
     <body>
       <div type="commentSection">
-        <head xml:id="i-RuYdNRDD75cQKqoKQrCUqr">§ 1 Justering av protokoll</head>
-        <note xml:id="i-3YcWJ6JEmwZTqyst7zNivX">Protokollet för den 27 oktober justerades.</note>
-      </div>
-      <div type="commentSection">
         <head xml:id="i-E1h66Zn99fqvEoetH3TKdA">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-MvCYtRGji3gGeubu9h368d">Talmannen meddelade att Kristdemokraternas partigrupp anmält Ulf Lönnberg som suppleant i kulturutskottet och i utbildningsutskottet under Christian Carlssons ledighet.</note>
         <note xml:id="i-YDsDNRDrTDSGcnq4v686i6">Talmannen förklarade vald under tiden den 17 november 2021 – 28 januari 2022 till</note>
@@ -1741,6 +1737,10 @@
         <note xml:id="i-4fFKb3pw4b8P4hFUrcKF9G">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-BMhvwcvF1dNJrCUNR9Qbbe">Vid protokollet</note>
         <note xml:id="i-PuQ97kDBFqG4NetFxSF7zN">LENA LINDBÄCK</note>
+      </div>
+      <div type="debateSection">
+        <head xml:id="i-RuYdNRDD75cQKqoKQrCUqr">§ 1 Justering av protokoll</head>
+        <note xml:id="i-3YcWJ6JEmwZTqyst7zNivX">Protokollet för den 27 oktober justerades.</note>
       </div>
     </body>
   </text>

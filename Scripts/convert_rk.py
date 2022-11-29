@@ -258,7 +258,7 @@ def main(args):
 
 
     # Write to file
-    root_bytes = etree.tostring(root, pretty_print=True, encoding="utf-8", xml_declaration=True)
+    root_bytes = etree.tostring(root, pretty_print=True, encoding="utf-8", xml_declaration=True, with_tail=False)
     print(len(root_bytes))
     if len(root_bytes) == 0:
         return
