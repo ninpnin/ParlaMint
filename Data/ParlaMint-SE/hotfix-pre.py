@@ -53,7 +53,7 @@ def merge_utterances(root):
                         del elem.attrib["next"]
                     if "prev" in elem.attrib:
                         del elem.attrib["prev"]
-                    if prev_who == elem.attrib["who"]:
+                    if prev_who == elem.attrib.get("who", "unknown"):
                         print(prev_elem, elem)
                         for seg in elem:
                             prev_elem.append(seg)
@@ -61,7 +61,7 @@ def merge_utterances(root):
                         parent.remove(elem)
                     else:
                         prev_elem = elem
-                        prev_who = elem.attrib["who"]
+                        prev_who = elem.attrib.get("who")
                 else:
                     prev_elem = None
                     prev_who = None
@@ -110,6 +110,11 @@ def convert_headers(root):
     if len(firstDiv) == 0:
         parent = firstDiv.getparent()
         parent.remove(firstDiv)
+
+    for div in root.findall(f".//{tei_ns}div"):
+        for elem in div[1:]:
+            if elem.tag == f"{tei_ns}head":
+                elem.tag = f"{tei_ns}note"
 
     return root
 
