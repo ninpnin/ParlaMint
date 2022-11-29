@@ -259,7 +259,7 @@ def main(args):
 
     # Write to file
     root_bytes = etree.tostring(root, pretty_print=True, encoding="utf-8", xml_declaration=True)
-    folder = Path("data/ParlaMint-SE")
+    folder = Path("Data/ParlaMint-SE")
     p = folder / filename
     with p.open("wb") as f:
         f.write(root_bytes)
