@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 59 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 59 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--59">2019/20--59</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-NMXG2ZaJjjanSqwPSSqC6v">§ 1 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-QXMHTKyG727g8DNuFXRU8M">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-JxvVNkx7aDfq4iszAnPSp6">Interpellation 2019/20: 241</note>
@@ -490,7 +491,7 @@
       <div type="debateSection">
         <head xml:id="i-LxTkwPXyf4fZanKqLdLoGM">§ 7 Frågestund</head>
         <note type="speaker" xml:id="i-J1qYjE6k17mm9CqcrDk2sx">Anf. 36 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-313aa4e9fff1a227-242" who="#unknown" ana="#regular">
+        <u xml:id="i-313aa4e9fff1a227-242" ana="#regular">
           <seg xml:id="i-HhUhn2pUBe8BtzQg1s7oPE">Då vill jag hälsa statsråden välkomna. Frågor besvaras av miljö- och klimatminister Isabella Lövin, statsrådet Anders Ygeman, infrastrukturminister Tomas Eneroth och kultur- och demokratiminister Amanda Lind. Miljö- och klimatminister Isabella Lövin besvarar såväl allmänpolitiska frågor som frågor inom sitt eget ansvarsområde.</seg>
         </u>
         <note xml:id="i-PtFonsef52WvqLLE5gpES8">Arlandas framtid</note>
@@ -960,7 +961,7 @@
           <seg xml:id="i-6FAXrf21xBib6NeDmqJpfb">Den här frågan är allvarlig och viktig. Det har vidtagits åtgärder från företagets sida, och det är ett kontinuerligt säkerhetsarbete som måste bli bättre. Så här ska det inte gå till i Regeringskansliet!</seg>
         </u>
         <note type="speaker" xml:id="i-HVstezVevF7jB4jpGRBjW1">Anf. 110 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-313aa4e9fff1a227-470" who="#unknown" ana="#regular">
+        <u xml:id="i-313aa4e9fff1a227-470" ana="#regular">
           <seg xml:id="i-J4pFgfvSmGdzKKqm8MsWjo">Jag vill påminna om att interpellationen handlar om vapenstölderna i Regeringskansliet.</seg>
         </u>
         <note type="speaker" xml:id="i-728daRqgHbve1G7QpMBCRV">Anf. 111 MAGNUS OSCARSSON (KD):</note>
@@ -1274,7 +1275,7 @@
         </u>
         <note xml:id="i-LYtM2x3ZhNrNiH46xqyzNA">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BQbXCdaXk53eeCPY5SiR8h">§ 13 Anmälan om interpellationer</head>
         <note xml:id="i-6H16GkbnawVD6gjNA3ZUGH">Följande interpellationer hade framställts:</note>
         <note xml:id="i-HnQhtbxNF1N4AWdUmhcHer">den 15 januari</note>
@@ -1294,7 +1295,7 @@
         <note xml:id="i-CqXE7D6zCEGvhKtZpu1jQH">av Niklas Wykman (M)</note>
         <note xml:id="i-TFCht56DjFpRDKmtNQBG7p">till finansminister Magdalena Andersson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-B9Nhm7p16guzsZYVGFS37A">§ 14 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-QNM5iWh89234MvwgDzUSUR">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-9gXYLHvhsrbcv7ExUzezTF">den 15 januari</note>
@@ -1341,7 +1342,7 @@
         <note xml:id="i-4WnvLaJhMMGnJQkWzJC65Q">av Linda Westerlund Snecker (V)</note>
         <note xml:id="i-4FAkzkpmu4YaXmXwKM2tNP">till statsrådet Mikael Damberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FjND7Lw8JdXcDAW5J6D5pN">§ 15 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-V8tSeC76oxVtLoY32Nwxe6">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-Ns1yX8Q2FHRxqHUKVmsk5b">den 15 januari</note>
@@ -1430,7 +1431,7 @@
         <note xml:id="i-91bZ8Z1xHci7jtBMHbVD2B">av Lotta Finstorp (M)</note>
         <note xml:id="i-XAU8JtjKtqHBB5WxTLNmq1">till utbildningsminister Anna Ekström (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8kn7FebtJA65YpgazZ4rnF">§ 16 Kammaren åtskildes kl. 16 . 48 .</head>
         <note xml:id="i-3CmhMtP19vX6kqddmFcDw2">Sammanträdet leddes</note>
         <note xml:id="i-A4Hwes5juBBaPz2wbZ9wJV">av andre vice talmannen från dess början till ajourneringen kl. 13.50 ,</note>
@@ -1575,7 +1576,7 @@
         <note xml:id="i-BAr87hJti6i6V5KhympezH" type="speaker">Anf. 103 LARS JILMSTAD (M)</note>
         <note xml:id="i-WitttYXHrRAneifdEQnZQC" type="speaker">Anf. 104 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3SYVtoXdozUPEnVZSVnFBk">§ 8 Svar på interpellation 2019/20:240 om vapenstölder från Regeringskansliet</head>
         <note xml:id="i-LJdnxxpAxzbcAGur7nxMGa" type="speaker">Anf. 105 Statsrådet MIKAEL DAMBERG (S)</note>
         <note xml:id="i-7LLuduXAPTwSmVRgrHy3fW" type="speaker">Anf. 106 MIKAEL OSCARSSON (KD)</note>
@@ -1621,7 +1622,7 @@
         <note xml:id="i-U261u3zLUg9BryBWEtfQs5">§ 14 Anmälan om frågor för skriftliga svar</note>
         <note xml:id="i-151mAJZHX5wbTpHi9KesQB">§ 15 Anmälan om skriftliga svar på frågor</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PBDvE2GmQRj6uvLfvJWCLj">§ 16 Kammaren åtskildes kl. 16.48.</head>
         <note xml:id="i-VK8PCebm8dtv8e96ik3W1P">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>

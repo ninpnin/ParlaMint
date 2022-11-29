@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 115 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 115 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--115">2019/20--115</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,22 +75,22 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GKYUEJmTrJVfrSeLQDPZzZ">§ 1 Anmälan om återtagande av plats i riksdagen</head>
         <note xml:id="i-C6fFLAq7cynPS8E7wJpe81">Andre vice talmannen meddelade att Jessica Rosencrantz (M) skulle återta sin plats i riksdagen från och med den 4 maj, varigenom uppdraget som ersättare skulle upphöra för Amir Adan (M).</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7wv2gDTgGDNyZ3u5p1Ef47">§ 2 Anmälan om ersättare</head>
         <note xml:id="i-NoVtN1wg6NiHQ3XPCHFFTy">Andre vice talmannen anmälde att Johanna Öfverbeck (MP) skulle tjänstgöra som ersättare för Rasmus Ling (MP) under tiden för h an s ledighet den 4 maj –31 december.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HSM3NFNWQuaP6iz1fdG5F9">§ 3 Avsägelser</head>
         <note xml:id="i-QgLVM8DKbpQcSjRnXYJhW1">Andre vice talmannen meddelade</note>
         <note xml:id="i-2DFH4EQHKQZ7YFtdgQR3ZA">att Magdalena Schröder (M) avsagt sig u ppdraget som ledamot i justitieutskottet och</note>
         <note xml:id="i-LrGnhqhheXhLGiWNEc3jeG">att Louise Meijer (M) avsagt sig uppdrage t som suppleant i justitieutskottet.</note>
         <note xml:id="i-DUiCoqyFwL1t44DkALc9hw">Kammaren biföll dessa avsägelser.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DxUt2UkDEm5xkPp9MJ6eFo">§ 4 Anmälan om kompletteringsval</head>
         <note xml:id="i-HYWJM3Rq134hkWe1VzRXbi">Andre vice talmannen meddelade</note>
         <note xml:id="i-7D9YDx95Hg6o4Q8WNZUmR5">att Moderaternas riksdagsgrupp anmält Louise Meijer som ledamot i justitieutskottet och som suppleant i miljö- och jordbruksutskottet, Jessica Rosencrantz som suppleant i konstitutionsutskottet, i finansutskottet, i skatteutskottet, i justitieutskottet, i civilutskottet, i utrikesutskottet, i försvarsutskottet, i socialförsäkringsutskottet, i socialutskottet, i kulturutskottet, i utbildningsutskottet, i trafikutskottet, i näringsutskottet och i arbetsmarknadsutskottet och Magdalena Schröder som suppleant i justitieutskottet samt</note>
@@ -134,19 +135,19 @@
         <note xml:id="i-Rq31XKp3uRB1g4UsfvuGGr">suppleant i justitieutskottet</note>
         <note xml:id="i-MebRqTP9TLjf7AtFg1PHev">Johanna Öfverbeck (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EkPxaS9DFZprH2HtvExKMA">§ 5 Anmälan om faktapromemoria</head>
         <note xml:id="i-FcPuTb9Fomh4sz9WXZEE5C">Andre vice talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-3Vsq9df2Zp8c5mGpkuD6Ua">2019/20:FPM33 EU:s handlingsplan för mänskliga rättigheter och demokrati 2020–2024 och förslag om fastställande av strategiska mål JOIN(2020) 5, JOIN(2020) 6 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7VY712SKPjcXYa3uopZzFJ">§ 6 Ärende för hänvisning till utskott</head>
         <note xml:id="i-TA5VLLNnvWTUFBBL6WkvHX">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-D7WkJcSbgZpBzDPRiLHQH4">EU-dokument</note>
         <note xml:id="i-8e8QWj2LgdgWApGGxhBtGP">COM(2020) 163 till utrikesutskottet</note>
         <note xml:id="i-Dbwp49UEQydFVRzwq39RxR">Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 23 juni.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-NKiH4u1h8Gjbvf9NaqphvR">§ 7 Anmälan och beslut om omedelbar hänvisning av ärende till utskott samt beslut om förkortad motionstid</head>
         <note xml:id="i-BUjBdFUQSXKL3hW17DdNcf">Följande dokument anmäldes:</note>
         <note xml:id="i-2iWvvVAmY94hHGVDabounB">Proposition</note>
@@ -154,14 +155,14 @@
         <note xml:id="i-Xv2vMJLV9bXs57aVh64RQZ">Kammaren biföll talmannens förslag att ovanstående proposition omedelbart skulle hänvisas till socialutskottet .</note>
         <note xml:id="i-2TpgpoyacmMEdRWnWmvHRb">Kammaren biföll regeringens förslag att motionstiden för ovanstående proposition skulle förkortas till fyra dagar.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TPXy3PQErB6EX5CB7eUyRf">§ 8 Bordläggning</head>
         <note xml:id="i-Q3wcZ7SsnhYZ7utYHyhxMA">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-REzXCkgZC4XGsrkx4LhCY8">Motion</note>
         <note xml:id="i-2jvCrZJb7Y1NB7RbBTJBL3">med anledning av skr. 2019/20:114 Strategisk exportkontroll 2019 – krigsmateriel och produkter med dubbla användningsområden</note>
         <note xml:id="i-WQZ7TpA7KnWJm9RsWwHQYR">2019/20:3600 av Håkan Svenneling m.fl. (V)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UQ79DsxpAy9hudmgkkd4XX">§ 9 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-6seSAFrW2d5yhtF1JSwsHx">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-XusR4K8dUV63bmxHYdzf4T">den 29 april</note>
@@ -208,7 +209,7 @@
         <note xml:id="i-ANCQt5pv5gVEhcLeFvWTWD">av Hans Wallmark (M)</note>
         <note xml:id="i-ChZzkmbinHGfixRLbzbUJQ">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AybVG7n64VCbz59YhBsBF6">§ 10 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-CMe6mQ1AZjSiyQePKMvGSx">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-UxuwxhuYuzCLU94Sk2iBd1">den 29 april</note>
@@ -345,25 +346,11 @@
         <note xml:id="i-7zkS7gTh7163dPVoSA5r5i">av Jens Holm (V)</note>
         <note xml:id="i-ACEAcUMsQn7PgK5726sQta">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MZdvVeSS7sSCGzHGND1FES">§ 11 Kammaren åtskildes kl. 13.03.</head>
         <note xml:id="i-JwFBg47Lk2whsHCZsayfmX">Sammanträdet leddes av andre vice talmannen.</note>
         <note xml:id="i-QrTchc9XwrqvRKCoiMfVSN">Vid protokollet</note>
         <note xml:id="i-RqTRZBSyXLqTxxDogTGxed">ANNA ASPEGREN</note>
-        <note xml:id="i-8qcaxLqJgHVzBrvkRSzLXf">/Olof Pilo</note>
-        <note xml:id="i-6MnMFjwxPZFHbdUv4zQGyu">Innehållsförteckning</note>
-        <note xml:id="i-MnJDidEdHC88mvY52S5XA9">§ 1 Anmälan om återtagande av plats i riksdagen</note>
-        <note xml:id="i-CXeubQkuW3Fk5HekkmTyHi">§ 2 Anmälan om ersättare</note>
-        <note xml:id="i-MW3X4jmSj8RRZBFCiM34a2">§ 3 Avsägelser</note>
-        <note xml:id="i-WXbVdc9ZnM6urGVKUpRfx1">§ 4 Anmälan om kompletteringsval</note>
-        <note xml:id="i-D1PoHiiuQCHKZMnoYu8cuK">§ 5 Anmälan om faktapromemoria</note>
-        <note xml:id="i-SdzmLHpjcrS6zeN5ZxSJkJ">§ 6 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-WpHBpHTqLDe2n6MBMWwBwh">§ 7 Anmälan och beslut om omedelbar hänvisning av ärende till utskott samt beslut om förkortad motionstid</note>
-        <note xml:id="i-Y7Ar21ehUASpnbZtARFGeH">§ 8 Bordläggning</note>
-        <note xml:id="i-MXfbNDzU2aPaxjyDEPMHNU">§ 9 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-LNp6bxEmgHWSgt5xCyqie3">§ 10 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-HZKZmhEvfZPMA7nvgF9Uz6">§ 11 Kammaren åtskildes kl. 13.03.</note>
-        <note xml:id="i-AXzt2eMYyPBqpjGESt15R1">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

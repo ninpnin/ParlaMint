@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 91 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 91 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--91">2019/20--91</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,16 +75,16 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Bb4mGCCExKVdWmU6V63ow8">§ 1 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-9Lqa5mRPFFnwHoPQdGDcWu">Tredje vice talmannen anmälde att utdrag ur prot. 2019/20:25 för torsdagen den 19 mars i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från miljö- och jordbruksutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3W1ycLCMRTShQMnWxdCLnE">§ 2 Anmälan om granskningsrapport</head>
         <note xml:id="i-HYrDa7bThRYjow9Y6aaxwK">Tredje vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till socialförsäkringsutskottet :</note>
         <note xml:id="i-9hfc1NDPfRKpnLo2irkn4b">RiR 2020:7 Återvändandeverksamheten – resultat, kostnader och effektivitet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Y4dqMEroiKakjipShdhnsW">§ 3 Utökning av antalet suppleanter</head>
         <note xml:id="i-KzBH4e4xZTjHsdrbJX4mF7">Valberedningen hade, enligt ett till kammaren inkommet protokollsutdrag, tillstyrkt att antalet suppleanter skulle utökas enligt följande:</note>
         <note xml:id="i-AyrNjzqdjPKwSjNKY4J6sM">från 266 till 319 i finansutskottet</note>
@@ -92,7 +93,7 @@
         <note xml:id="i-5B4zHq1SdBdG3hiQobxGy1">från 267 till 320 i arbetsmarknadsutskottet</note>
         <note xml:id="i-JfSk83j9rd3Eo9CvYX1RpY">Kammaren medgav dess a utökning ar.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3H5PS5Ko9TMGbiCiW1jHYv">§ 4 Val av extra suppleanter</head>
         <note xml:id="i-VUG4FNvGLdHvzx3rRiZtsg">Val av extra suppleanter i utskott företogs.</note>
         <note xml:id="i-B87RzaQHEMxcHWy78NCUJE">Sedan kammaren godkänt den gemensamma listan var följande personer valda i enlighet med v alberedningens förslag till extra suppleanter i utskott :</note>
@@ -313,7 +314,7 @@
         <note xml:id="i-KyWqs5c1D7s6BrH4CBwBvS">Tobias Andersson (SD)</note>
         <note xml:id="i-L83QvXE5W1LGJVNtHNgukn">Yasmine Eriksson (SD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PAKieeJSufbc7AnC31rmAC">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-QpwiDLGGiRhUrHHRCZHdGs">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-LPqKndWYVKyxMpEw7aXMox">Proposition</note>
@@ -394,7 +395,7 @@
         </u>
         <note xml:id="i-4pYNFwsiFVNtjtK9BHFg7w">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9bbGxMerBxVoXeQFY8gSYe">§ 7 Anmälan om fråga för skriftligt svar</head>
         <note xml:id="i-XV8yxo4wtZ8Ma5JM7AvhfH">Följande fråga för skriftligt svar hade framställts:</note>
         <note xml:id="i-VkAmXRgVqX4ZVB1iiSfUV4">den 19 mars</note>
@@ -402,29 +403,11 @@
         <note xml:id="i-QVokNFxS6HsYnLX2Etat2G">av Thomas Morell (SD)</note>
         <note xml:id="i-Ey6wqciiaMxjqmFrLbZvpD">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Kxd68JyK5QbCoxCFkBnab">§ 8 Kammaren åtskildes kl. 9.19.</head>
         <note xml:id="i-62V7BWWLRAj51JRpGFeX8Q">Sammanträdet leddes av tredje vice talmannen .</note>
         <note xml:id="i-EF12i84rpY79srEeRseAbz">Vid protokollet</note>
         <note xml:id="i-Gi9HoFCHn2u8i7CCgbU4vA">ANNA ASPEGREN</note>
-        <note xml:id="i-Ny3LArNkx8BLSMUY89GUc5">/ Olof Pilo</note>
-        <note xml:id="i-KDvRLguKyJgNvUfB8JEPwS">Innehållsförteckning</note>
-        <note xml:id="i-RovrwBWCKmHWiepHdoV7Nr">§ 1 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-JsfoyxrhF6yT3gyiHadcwc">§ 2 Anmälan om granskningsrapport</note>
-        <note xml:id="i-NW5GBF4GREDSpiDV6Q2aME">§ 3 Utökning av antalet suppleanter</note>
-        <note xml:id="i-6fYACGJY8SGDPEuso9KXFu">§ 4 Val av extra suppleanter</note>
-        <note xml:id="i-8a9N4ws6oaoosjiaGykP6T">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-2e4HB5epQraWQQ5ERGTGh1">§ 6 Svar på interpellation 2019/20:317 om utvisning på grund av brott</note>
-        <note xml:id="i-WisKdE6x2oYkNKzqBicW9V" type="speaker">Anf. 1 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-GL2HMS2EjYXjaErQ81ESKP" type="speaker">Anf. 2 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-2aV9rZrPfJ6yhUyatbAx5Y" type="speaker">Anf. 3 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-FPXUj16ZkE8qfTsFhLV8Kx" type="speaker">Anf. 4 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-BR9pt1RP6b4xckxKCRLro3" type="speaker">Anf. 5 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-MZcK2KikMur8W5npPoCKQ6" type="speaker">Anf. 6 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-UEfdyjiAXydTmfrySxSjEL" type="speaker">Anf. 7 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-KE8p6EJDV4KVftQnf11sP4">§ 7 Anmälan om fråga för skriftligt svar</note>
-        <note xml:id="i-KeMnqodBLpQS4sNscYLm21">§ 8 Kammaren åtskildes kl. 9.19.</note>
-        <note xml:id="i-Wr4EX1Xy8BYpCxgVZDSwes">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

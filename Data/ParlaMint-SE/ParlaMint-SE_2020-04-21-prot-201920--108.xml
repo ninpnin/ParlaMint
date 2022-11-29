@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 108 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 108 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--108">2019/20--108</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,21 +75,21 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-F96uxTa1e19WyqtSJ8Js7w">§ 1 Justering av protokoll</head>
         <note xml:id="i-5jR9xT9EiGGVP6jg7JiT5h">Protokollen för den 30 och 31 mars justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WRamKZsv42d8txGG8HQDfR">§ 2 Meddelande om frågestund</head>
         <note xml:id="i-8nHAJLuzxWZ42PH5wuMPto">Tredje vice talmannen meddelade att frågestund skulle äga rum torsdagen den 23 april kl. 14.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VLn86hHtK57BjdkCAwzt5L">§ 3 Ärende för hänvisning till utskott</head>
         <note xml:id="i-LTCNcMpzoKdsnjPUuYFAVK">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-VjLwFrkYjgpiptfrWAYmT6">Skrivelse</note>
         <note xml:id="i-XV9bszYs2FCZ7rn8NgmVN2">2019/20:153 till finansutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WRL2a8x3Aa8x2stjswe1pe">§ 4 Ärenden för bordläggning</head>
         <note xml:id="i-TAWqXrpooGyDV88sksVVcb">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-Rj98yuMq559N2yYiGniff7">Civilutskottets betänkande</note>
@@ -106,7 +107,7 @@
         <note xml:id="i-UYV62bZNUfY1S7HzQmE7PM">Miljö- och jordbruksutskottets betänkande</note>
         <note xml:id="i-Kj7P8Up7WBqZPRnagTZVdV">2019/20:MJU12 Övergripande miljöfrågor</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5DjDDWXSbqhUbjz2RUFngf">§ 5 Bordläggning</head>
         <note xml:id="i-5hqLUzAktggo9SaWwehpM7">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-TD2GvPwpunEWEWBtmpfkGF">Propositioner</note>
@@ -118,7 +119,7 @@
         <note xml:id="i-WKMVPYyCys8dYmnGhmiD5s">Redogörelse</note>
         <note xml:id="i-DX4iZaoUKRXtGW9iBq2nDj">2019/20:RR4 Riksrevisionens redogörelse för granskning av Årsredovisning för staten 2019</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MBxgZLKxEYn7UpA6jqrTbV">§ 6 Anmälan om interpellation</head>
         <note xml:id="i-62tSNEn7uZvmUUzvurqB86">Följande interpellation hade framställts:</note>
         <note xml:id="i-CRbYnWHS9WdwuigYhwinA3">den 20 april</note>
@@ -126,7 +127,7 @@
         <note xml:id="i-Kuk2r42FQ32NKRVcUr8wma">av Ann-Christine From Utterstedt (SD)</note>
         <note xml:id="i-B3hPVnHXJVGEJb5fh5p7Xt">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SgJcCMGr7GRk8EucRzs9QZ">§ 7 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-NiFQ6cAS8YU2zqj1y8zZoL">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-6RxPBCdR6uQ2LNKrRmzjHc">den 17 april</note>
@@ -162,7 +163,7 @@
         <note xml:id="i-VzBZ4v48qsEy1YBkCmpYpU">av Markus Wiechel (SD)</note>
         <note xml:id="i-DQRCJLmhgHxx4zbEF7VeUq">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PQN9B6XmnH89ddiuNu2QW5">§ 8 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-WmrDLZ72qXuwcQpmYJkKAt">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-CxNBvkmrUKQbzRfAe2jac7">den 17 april</note>
@@ -180,25 +181,11 @@
         <note xml:id="i-WA8St1MMVEZoSV5z6sFrwk">av John Widegren (M)</note>
         <note xml:id="i-9z7akrsWZwNLhV2utZTesZ">till arbetsmarknadsminister Eva Nordmark (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Top8wPPapz8C1CmpPDsNjm">§ 9 Kammaren åtskildes kl. 13 . 01 .</head>
         <note xml:id="i-VtSpcixR18Jy92G6yTRPzm">Sammanträdet leddes av tredje vice talmannen .</note>
         <note xml:id="i-LNFuF8hyn1eqWWJJtfvzSA">Vid protokollet</note>
         <note xml:id="i-JbDvibjQTXibQoQTCR7wcj">ANNA ASPEGREN</note>
-        <note xml:id="i-Jk1nMWhbgiYTD7xdLCETAF">/ Olof Pilo</note>
-        <note xml:id="i-EcoY1WToYX6s3FydSSjU4v">Innehållsförteckning</note>
-        <note xml:id="i-XaLyGisegeSJx6UmifR2eB">§ 1 Justering av protokoll</note>
-        <note xml:id="i-2WNXLiw1Ut3VHQYbLhnN5F">§ 2 Meddelande om frågestund</note>
-        <note xml:id="i-MqMp6qeF4pdT9ANTmzQiAk">§ 3 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-HnZSMCm3Xo2RUEud9aSab5">§ 4 Ärenden för bordläggning</note>
-        <note xml:id="i-LWGHjLXU3fu3eRgxdNRhbG">§ 5 Bordläggning</note>
-        <note xml:id="i-Ti85vV58zXizRkJ7fGoRbv">§ 6 Anmälan om interpellation</note>
-        <note xml:id="i-Ybo2cGUuZkVW4nQjUvJNPi">§ 7 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-9dvFZ5mZq7atei6ufvhtb">§ 8 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-HNpPaswKjmp4MmjPMTwPT5">§ 9 Kammaren åtskildes kl. 13.01.</head>
-        <note xml:id="i-EZFiVAd74BxKWkZNVhLE4a">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

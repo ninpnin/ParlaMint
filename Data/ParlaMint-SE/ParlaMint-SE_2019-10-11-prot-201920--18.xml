@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 18 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 18 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--18">2019/20--18</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,15 +75,15 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YMsGUVhWXkWa9kK1UZiG5Q">§ 1 Meddelande om återrapportering från Europeiska rådets möte</head>
         <note xml:id="i-9YoUKji7Lzikw3KKGNNoQL">Tredje vice talmannen meddelade att tisdagen den 22 oktober kl. 13.00 skulle återrapportering från Europeiska rådets möte den 17–18 oktober äga rum.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-G5LeyEKTXVUjCRBfuTyAKs">§ 2 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-K9ETCbFTFNTBHDGz4BZhU3">Tredje vice talmannen anmälde att utdrag ur prot. 2019/20:4 för torsdagen den 10 oktober i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från försvarsutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-A44v95HgEa1YiAMstK6WjQ">§ 3 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-YAwSUCAeStnuvs1nBZzgVF">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-LxL45qDuv6n1aD7yafGKzQ">Interpellation 2019/20:24</note>
@@ -98,12 +99,12 @@
         <note xml:id="i-SdN3g4GR4kfHZtDXQfYCNa">Håkan Åkesson</note>
         <note xml:id="i-V9ERq7aa6NVAuDLasN4SXU">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CS8gZrjb9VkN5qkEigGPhZ">§ 4 Anmälan om granskningsrapport</head>
         <note xml:id="i-WygwjSsrhuFS6Wouxw1hd8">Tredje vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till arbetsmarknadsutskottet :</note>
         <note xml:id="i-PEYYoVBSA4ik8AYSYKFG2P">RiR 2019:27 Stöd till start av näringsverksamhet – långsiktiga effekter och Arbetsförmedlingens arbetssätt</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UtthD1ttH84NTe9sSveM4Q">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-BpzHqaeAq6Kke6zjg7VHNh">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-HycEhqCcGSb9a1u67FYMe6">Motioner</note>
@@ -112,13 +113,13 @@
         <note xml:id="i-JUiPWrarxYCMrZnbgUcoob">2019/20:3383 – 3385 till finansutskottet</note>
         <note xml:id="i-PWHQn29qvbyCk2mrxRcFLb">2019/20:3381 och 3387 till trafikutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-57ymZGD9pp1L2hMgXjDPun">§ 6 Motioner för omedelbar hänvisning</head>
         <note xml:id="i-CwxxwD3mYEiS2xMLauYNM3">3 313 motioner avlämnade under den allmänna motionstiden anmäldes.</note>
         <note xml:id="i-2cwVDGmMLTrKpS7GgN7cfp">Kammaren biföll talmannens förslag att motionerna omedelbart skulle hänvisas till utskott enligt motionsförteckningens förslag.</note>
         <note xml:id="i-RmQHyby6U9veuXW2reQRmy">Motionsförteckningen hade i bilaga fogats till detta protokoll.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QoQbPqvVxwEH6t6cqsmUcR">§ 7 Ärende för bordläggning</head>
         <note xml:id="i-KoGjuBrtKkDF4mJaJm6Wh8">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-SoMhwpbfjJU1ek1ifv93En">Socialutskottets betänkande</note>
@@ -395,7 +396,7 @@
         </u>
         <note xml:id="i-MWRSbkBx3p1LDC89sSuJ7M">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3nTeVZC4TcEoBic3kdWB2a">§ 12 Anmälan om interpellationer</head>
         <note xml:id="i-V71us9V9fm9XmsfxURd7Ht">Följande interpellationer hade framställts:</note>
         <note xml:id="i-RdD7RnQMWQ5ZZNdxE7ULhg">den 10 oktober</note>
@@ -418,7 +419,7 @@
         <note xml:id="i-AsodLa2qcY2tanvSWWhsi9">av Edward Riedl (M)</note>
         <note xml:id="i-L13RniozUZxeVRBd3FzcJx">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-51CYKK8xUukiyHibGrADPb">§ 13 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-Uoy2Z8ZfoTFGdKgB2p38fL">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-5fiRxMY3FQz3sgeKVgtYCS">den 10 oktober</note>
@@ -492,58 +493,13 @@
         <note xml:id="i-WcpipRaxDKEZKgAdWcv27e">av Sara Gille (SD)</note>
         <note xml:id="i-AMMcR2mUjxa1E8hMcbb5yj">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Hrk1BKHnM4gxe5RygJNXnK">§ 14 Kammaren åtskildes kl. 10.12.</head>
         <note xml:id="i-XGhMydRGoVEvhy3yf4TCTp">Sammanträdet leddes</note>
         <note xml:id="i-Jk8EbRY8pvcrfKvVpPR6cY">av tredje vice talmannen från dess början till och med § 10 anf. 18 (delvis) och</note>
         <note xml:id="i-U4XsJ1p5BT5MWb88P7uDdC">av ålderspresidenten därefter till dess slut.</note>
         <note xml:id="i-4LEBEoJn8KPAKw9kQ76Q3o">Vid protokollet</note>
         <note xml:id="i-Y6K98KbzGBY8CJrZ221G1i">TUULA ZETTERMAN</note>
-        <note xml:id="i-DgQCqccjEQ1ujPNifZWZdW">/Olof Pilo</note>
-        <note xml:id="i-Ew1ZcVPGd1YpVbdYSDybtw">Innehållsförteckning</note>
-        <note xml:id="i-GBCSmBjNFYwZSaGfAyJtVH">§ 1 Meddelande om återrapportering från Europeiska rådets möte</note>
-        <note xml:id="i-3GTyh5p4x9yupM8JHHUiLq">§ 2 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-3xn6rgR48vYSd3Jj43QaeF">§ 3 Anmälan om fördröjt svar på interpellation</note>
-        <note xml:id="i-TP3caEVRzzjLTNU7c74M9x">§ 4 Anmälan om granskningsrapport</note>
-        <note xml:id="i-P5okJhM5mrHTqzjw2bKoXE">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-PPTdctBTo1GQDcK8XLBxae">§ 6 Motioner för omedelbar hänvisning</note>
-        <note xml:id="i-FaHNWDTib899FgaJ6nmX2Y">§ 7 Ärende för bordläggning</note>
-        <note xml:id="i-8nJVPZjTSx9LLgpRa2gwyE">§ 8 Svar på interpellation 2019/20:7 om Försäkringskassans arbete med assistansersättningen</note>
-        <note xml:id="i-EghBqASe3HwNwuXDkqvd1h" type="speaker">Anf. 1 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-8rLygE1ReYMKWYD38ZndPw" type="speaker">Anf. 2 BENGT ELIASSON (L)</note>
-        <note xml:id="i-ViLyjQ3SjvsjbUhUcQefFf" type="speaker">Anf. 3 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-DoecRP3bXf1MTg2yCPtmPi" type="speaker">Anf. 4 BENGT ELIASSON (L)</note>
-        <note xml:id="i-3QHd2KP3EfyQMU4RX3JjGB" type="speaker">Anf. 5 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-A6rm7LKe77MNBH7djnRw6V" type="speaker">Anf. 6 BENGT ELIASSON (L)</note>
-        <note xml:id="i-Js4r7dr5jsFSDyZJqPTGsB" type="speaker">Anf. 7 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-VcAYg4iN1p1Yr7JbSpLU8c">§ 9 Svar på interpellation 2019/20:15 om ambulanser över gränsen</note>
-        <note xml:id="i-Ffwibtd7p6P2BeC7RDqVYF" type="speaker">Anf. 8 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-CNr1DGF8e4DiY4ncDaGmVy" type="speaker">Anf. 9 LINDA YLIVAINIO (C)</note>
-        <note xml:id="i-MAUMnNgQNtYtT51Eug2sEQ" type="speaker">Anf. 10 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-VQGU5vGPnf5K9oeohQNeTR" type="speaker">Anf. 11 LINDA YLIVAINIO (C)</note>
-        <note xml:id="i-MQXxwy5Co94vsj6adfrxWM" type="speaker">Anf. 12 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-xHSDccWD9TXa91CeT1x49" type="speaker">Anf. 13 LINDA YLIVAINIO (C)</note>
-        <note xml:id="i-5p3Cc5j7DoGu7gSqgesGts" type="speaker">Anf. 14 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-5tMcesNdHeHH9TiS512ZNx">§ 10 Svar på interpellation 2019/20:27 om demonstration och demokrati</note>
-        <note xml:id="i-Eody468Zsiyitrgp3vVETM" type="speaker">Anf. 15 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-GhvpjEAsCma66QMgCAqvKg" type="speaker">Anf. 16 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-PdXBSBe4bmuKLkTmwR4MZW" type="speaker">Anf. 17 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-ABt1EJsHD6FnpsoRS6DGb4" type="speaker">Anf. 18 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-NX7yQYiMxvMJAJFeXSELgB" type="speaker">Anf. 19 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-6rY8hU678KqnRErNXy13Mn" type="speaker">Anf. 20 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-HLnbMSWzNSSSkcmr34HT4m" type="speaker">Anf. 21 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-HYKE82pW2tbJjTLRqkSXtv">§ 11 Svar på interpellation 2019/20:25 om regeringen och arbetslösheten</note>
-        <note xml:id="i-JEmTXB8c9k2uFd7eUBoodv" type="speaker">Anf. 22 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-JMD8WNDaySD9LHj5mi4Zzm" type="speaker">Anf. 23 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-75mAwuPwYKETiotmv5tePg" type="speaker">Anf. 24 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-NNrXcZ2dhnHHBUpGLxPtGi" type="speaker">Anf. 25 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-JUWVU8VRkk9Bjvvxg1eQZu" type="speaker">Anf. 26 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-DLeqz1EZGASqdSt6DNk7eD" type="speaker">Anf. 27 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-8hwaxzbjENw72igfGoL4g3" type="speaker">Anf. 28 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-UdfV8L1hcVH854hYFegnSL">§ 12 Anmälan om interpellationer</note>
-        <note xml:id="i-KCj7pfP53K2Lmsx147yKqY">§ 13 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-6Z5YaFLPMM4JCwsSqUSXhT">§ 14 Kammaren åtskildes kl. 10.12.</note>
-        <note xml:id="i-CZnBCePcvPbcUYpHCXPUHF">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

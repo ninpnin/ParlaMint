@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 57 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 57 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--57">2019/20--57</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,19 +75,19 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5ECu5sH6tQLAS76T8uNsBa">§ 1 Justering av protokoll</head>
         <note xml:id="i-4Q11MachFE7GLR4ZHRLsLA">Protokollen för den 2–6, 9–13 och 16–20 december justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JvbJdFbH89iC3UUQ5kk3Xn">§ 2 Meddelande om namnändring</head>
         <note xml:id="i-5FKDQZ6RZGGdwLcb79zJxi">Andre vice talmannen meddelade att Linda Ylivainio (C) ändrat namn till Linda Modig .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-H9LezsMQKribRdb98vagEh">§ 3 Meddelande om frågestund</head>
         <note xml:id="i-HRLiE6ReQv9wNXe9uPobVC">Andre vice talmannen meddelade att frågestund skulle äga rum torsdagen den 16 januari kl. 14.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YJY6gmaGnHt1wQbbriJAia">§ 4 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-BUaaHjYqPnRpxHZy39962e">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-TdeSRG7NZPqESJp3QVmhMR">Interpellation 2019/20:191</note>
@@ -252,12 +253,12 @@
         <note xml:id="i-BZU6Uid5nCnSnM1nktXdz3">Johan Ndure</note>
         <note xml:id="i-AisouCCt8eECzjVQYEeZDm">Departementsråd</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7SknTwzPDDAPGd2qYLVNBd">§ 5 Anmälan om faktapromemoria</head>
         <note xml:id="i-KojzfP4p6HgFu8kG41YwVz">Andre vice talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-CuWNm37rYDge7Z6NSHermM">2019/20:FPM10 Beslut om förhandlingar om ekonomiska partnerskapsavtal med stater i Afrika, Västindien och Stillahavsområdet COM(2019) 608 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-63SVmz2YFtUmQGszZYtHtz">§ 6 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-TFUr9pmT9rgFK42Kfu1CEX">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-CM6gEGN4BApN7PibWbTeWq">Proposition</note>
@@ -265,7 +266,7 @@
         <note xml:id="i-9WJK3SDPAwD6WFYDGLAZyD">Skrivelse</note>
         <note xml:id="i-7ae11jSChucMVRCj9xKcJb">2019/20:61 till socialutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Uxt6VGUivntxVttnMat5Ad">§ 7 Ärenden för bordläggning</head>
         <note xml:id="i-BCt7HqUQodF5U2gp3dXt5y">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-8yBRvLZBtPvbaKKubD7j5t">Civilutskottets betänkanden</note>
@@ -638,7 +639,7 @@
         </u>
         <note xml:id="i-B9HQ5fUPy23W2dJYgt9qFB">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BSKXEDbBWGnEq776Sx9bBG">§ 13 Svar på interpellation 2019/20:196</head>
         <note xml:id="i-Ude1pRPGNaJQXufuCrcKr6">Andre vice t almannen meddelade att interpellation 2019/20:196 av Fredrik Schulte (M) om åtgärder för att bryta bidragsberoendet hade återtagits och därför inte skulle besvaras .</note>
         <note xml:id="i-Nb3gxoSHLL8dv3Z89JVhQ7">Ajournering</note>
@@ -1191,7 +1192,7 @@
           <seg xml:id="i-WD3Ydo7qtPjpq9uSwCXm7Y">För att stärka kontrollverksamheten har regeringen gett en särskild utredare i uppdrag att se över kontrollen av bland annat taxitrafik. Utredaren ska föreslå förbättrande åtgärder som kan gälla nya arbetssätt, effektivare användning av tekniska möjligheter, ökad myndighetssamordning och mer informationsutbyte. Utredaren ska också ta fram ett förslag om en samlad organisationsform för kontrollverksamheten.</seg>
         </u>
         <note xml:id="i-PahHeWEDm11bDNeGKdPfaZ" type="speaker">Anf. 94 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-fc4b3977e99ad15d-583" who="#unknown" ana="#regular">
+        <u xml:id="i-fc4b3977e99ad15d-583" ana="#regular">
           <seg xml:id="i-21QE2WqYsHvArqdmr4j4YU">Fru talman! Jag vill börja med att tacka infrastrukturministern för svaret.</seg>
           <seg xml:id="i-J27T9qy8QBrE4aejCUrV7V">Den svenska taxibranschen har under lång tid hotats av osund konkurrens till följd av fusk med skatter och bidrag. Detta har i hög grad präglat konkurrensvillkoren på marknaden och även den allmänna bilden av taxibranschen som sådan.</seg>
           <seg xml:id="i-PiKcQSto5htWu2tjvreonj">Ett offensivt arbete mot gamla former av svarttaxi och den snabba utvecklingen av sociala medier har gjort att den illegala taxin har hittat nya vägar att möta sina kunder. Kontakten mellan förare och kund har flyttat till grupper i sociala medier, och uppgörelser om betalning sker via mobiltelefoner.</seg>
@@ -1225,7 +1226,7 @@
           <seg xml:id="i-WNpvpzX74oJQ4y8f1PYPBE">Vi har tillsatt en utredning om effektivare kontroll av yrkestrafiken, där vi ska titta på sanktionsväxling och effektivare kontrollmöjligheter när det gäller lastbilstrafik, busstrafik och inte minst taxinäringen, för det behövs. Jag är också upprörd över att det är illojal konkurrens och en hård press på de seriösa aktörer som vill bygga och vara stolta över en taxiverksamhet som de har bedrivit under lång tid. Då ska man inte undergräva detta med att främja den här typen av verksamhet, som det kan framstå i den moderata motionen, som jag tror att ni också röstade för i riksdagen.</seg>
         </u>
         <note xml:id="i-9LvGoKyZiJhad7g9Di7otw" type="speaker">Anf. 97 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-fc4b3977e99ad15d-607" who="#unknown" ana="#regular">
+        <u xml:id="i-fc4b3977e99ad15d-607" ana="#regular">
           <seg xml:id="i-YFKZBbFPmyU658Y6JMnhCz">Fru talman! Det kanske ändå inte är hur en ny riksdagsledamot har formulerat frågan som gör att du har fått den, utan det kanske är någon hackordning bland statsråden. Som nytt statsråd kanske du får stå här på tisdagskvällar och svara på frågor från riksdagsledamöterna.</seg>
           <seg xml:id="i-VFTrNuVWAkL1F9hXDy43j5">Men det är lovvärt att man, som ministern säger i svaret, har tillsatt en utredning som ska se över kontrollverksamheten inom yrkestrafiken. Ser man till utredningens direktiv kan man konstatera följande:</seg>
           <seg xml:id="i-9sSYFW4fePaQcu7p5hAnbE"> Begreppen ”svarttaxi” eller ”olaga taxitrafik” – vilket av dem som nu är den korrekta benämningen på brottet – förekommer över huvud taget inte i direktivet.</seg>
@@ -1254,7 +1255,7 @@
           <seg xml:id="i-JFWstHSh3FjbQaJtKM5HH">Jag ser fram emot Mattias Karlssons svar.</seg>
         </u>
         <note xml:id="i-W3FYtCwSssvQCak9XeU5NC" type="speaker">Anf. 100 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-fc4b3977e99ad15d-627" who="#unknown" ana="#regular">
+        <u xml:id="i-fc4b3977e99ad15d-627" ana="#regular">
           <seg xml:id="i-865TvHnQZfZZq9QsjYBcZJ">Fru talman! Detta är inte en debatt om ett betänkande från utskottet, utan det är en debatt om en interpellation som har ställts till justitieministern för att man ska få reda på hur regeringen har tänkt i form av förslag för att stoppa den brottsliga verksamheten. I det läget väljer infrastrukturministern att bland annat i sitt svar plocka fram den utredning som man har tillsatt, där egentligen olaga taxitrafik inte över huvud taget nämns. Men det är det stora svaret från regeringen: att den brottsliga verksamhet som vi nu debatterar ska åtgärdas genom den utredningen.</seg>
           <seg xml:id="i-5VjQ2brB6Q4Y2uW6Xbdx9m">Den osunda konkurrensen från svarttaxi skadar inte bara den enskilda taxichaufförens möjlighet att försörja sig, utan den drabbar även tillgången till skolskjuts, färdtjänst och anropsstyrd kollektivtrafik, eftersom seriösa taxiföretag inte överlever. Taxiföretagens existens bygger ju på intäkter från såväl upphandlade samhällsresor som vanliga taxiresor. En sund och hållbar taxibransch är viktig för att hela Sverige ska ha god tillgång till mobilitet. Det vet inte minst jag, som är från ett län som har väldigt stor geografi.</seg>
           <seg xml:id="i-WMrr3EhHgKr4xFyywzqEqJ">För många äldre som av olika skäl väljer att inte köra bil är taxi och samhällsbetalda taxiresor en förutsättning för ett fungerande liv, men även där det finns kollektivtrafik är taxi viktig för att göra det möjligt för människor att ta sig till och från den storskaliga kollektivtrafikens noder. Utan taxi blir kollektivtrafiken aldrig lika flexibel och tillgänglig som bilen.</seg>
@@ -1724,13 +1725,13 @@
         </u>
         <note xml:id="i-4SwJhGZCD4FrjE6EQqVtpY">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7bier4eEQnJdZ4SFJMpVsX">§ 28 Bordläggning</head>
         <note xml:id="i-3r5vSmrJcHHu24562jHWG9">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-DY9xjToU8wZ1G8oew5Kw6">Proposition</note>
         <note xml:id="i-WME9C8Yo1UtkZqsCcWSg7F">2019/20:67 Användningsförbud och avskyltning av fordon med obetalda felparkeringsavgifter</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LpGYpRDFh7BpXkDGzK8qUi">§ 29 Anmälan om interpellationer</head>
         <note xml:id="i-8eV1a3ozT4UaeGsLrjp91L">Följande interpellationer hade framställts:</note>
         <note xml:id="i-4UCTvkCZdc1LdK1QyGFEkS">den 20 december</note>
@@ -1779,7 +1780,7 @@
         <note xml:id="i-24qq2Mii3GEDbuhfNHhLvD">av Mikael Eskilandersson (SD)</note>
         <note xml:id="i-HMCwtstaonRhVJX7jTXK2z">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-T5r1dxzJpnkDvosbvJBi7c">§ 30 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-9uHPXgLpu2je1hYbXUZMTJ">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-Gt2CNryVVbk5hJYKDuiSwS">den 20 december</note>
@@ -1942,7 +1943,7 @@
         <note xml:id="i-RKkpXZdEyHhEnfynNBz5iy">av Hans Wallmark (M)</note>
         <note xml:id="i-XDFvfNj7x1jXNTPvCD4Cuh">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SQHepEPeCzmbeP5URSKTUG">§ 31 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-5NfXtkoJ6D82vwC8UXFKrG">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-6zkmcRSzSq638RCe9DxWXn">den 20 december</note>
@@ -2125,7 +2126,7 @@
         <note xml:id="i-XJ4z6nTijfseXhN25CPKiU">av Hans Wallmark (M)</note>
         <note xml:id="i-vpq83wTcxJyMUXeReni5K">till statsrådet Peter Eriksson (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VrdBjLubJGSaycYeequTao">§ 32 Kammaren åtskildes kl. 22.00.</head>
         <note xml:id="i-S66J1QWu75QJ6yfYbHcwRn">Sammanträdet leddes</note>
         <note xml:id="i-3LswUEwsZttKBUAFh31Ti2">av andre vice talmannen från dess början till och med § 14 anf. 48 (delvis) ,</note>
@@ -2135,196 +2136,6 @@
         <note xml:id="i-6w6heMEL9dsaZeJE5bYzY6">av andre vice talmannen därefter till dess slut.</note>
         <note xml:id="i-L7Sn1Hoob6N6gzQsEQMi5b">Vid protokollet</note>
         <note xml:id="i-97Z3aN7oWPFkrWKfUKoCue">THOMAS LARUE</note>
-        <note xml:id="i-BpVWxMseKJPhgkmeyiHLag">/Olof Pilo</note>
-        <note xml:id="i-FV9SN5sPfGWU5vafKByBLL">Innehållsförteckning</note>
-        <note xml:id="i-8uRSCPUhk8s79sokpjucvC">§ 1 Justering av protokoll</note>
-        <note xml:id="i-9mcbBB4Su2rAtUm347JKsM">§ 2 Meddelande om namnändring</note>
-        <note xml:id="i-WezVXs7LDGyViGcyCheenu">§ 3 Meddelande om frågestund</note>
-        <note xml:id="i-Fh9ZxSunkfqMKCeAcu6XDK">§ 4 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-KUbLPnggikpA3qhKZ8sYDQ">§ 5 Anmälan om faktapromemoria</note>
-        <note xml:id="i-A4vqd2UZjSJcehVf5usi4x">§ 6 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-7TKwYosdZjZYaMg8AXjGJk">§ 7 Ärenden för bordläggning</note>
-        <note xml:id="i-E39qUz9Z8VF5M6imCdHviZ">§ 8 Svar på interpellation 2019/20:184 om ökat samarbete i den nordiska sjukvården</note>
-        <note xml:id="i-4d65CGEAfYx16VmKd2AvRY" type="speaker">Anf. 1 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-MUkhtZuNpoGkr3M8G3buLi" type="speaker">Anf. 2 CASSANDRA SUNDIN (SD)</note>
-        <note xml:id="i-U21uZTUQMFWfCyV5aJ6NXU" type="speaker">Anf. 3 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-RnAj9kJt2FT9hB5k4rQhgF" type="speaker">Anf. 4 CASSANDRA SUNDIN (SD)</note>
-        <note xml:id="i-SSVj5e8sZEhLm6feaNKYD9" type="speaker">Anf. 5 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-QHsyBSVGGYEKmm779QqyfK" type="speaker">Anf. 6 CASSANDRA SUNDIN (SD)</note>
-        <note xml:id="i-E6Dtkdj6hvsnhLx9DZ6kY9" type="speaker">Anf. 7 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-9dZ9PQSLv38VazksnmVzCr">§ 9 Svar på interpellation 2019/20:185 om åtgärder mot uppfostringsresor</note>
-        <note xml:id="i-BMLYLQamryqX1NsWT5avsM" type="speaker">Anf. 8 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-MXgwFkZDZzKESQFZxYYwmb" type="speaker">Anf. 9 SARA GILLE (SD)</note>
-        <note xml:id="i-FJPfoSppcgrq4MLcyrJFWU" type="speaker">Anf. 10 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-NrdyHrYuyYPMK3rrkitt4w" type="speaker">Anf. 11 SARA GILLE (SD)</note>
-        <note xml:id="i-MVeRmbvJ19uugEnhpX6Wrr" type="speaker">Anf. 12 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-3xxL6raQsgUH8m2KcfRZxH" type="speaker">Anf. 13 SARA GILLE (SD)</note>
-        <note xml:id="i-FnhxK5La2rcgU8B16BaZiW" type="speaker">Anf. 14 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-KwFihWrcDPTWyApa3dbr6S">§ 10 Svar på interpellation 2019/20:215 om felaktiga utbetalningar av ekonomiskt bistånd</note>
-        <note xml:id="i-DWnUt1KyZetCviEfEoPV9u" type="speaker">Anf. 15 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-3tugx2wMnvwr9QFY71BZho" type="speaker">Anf. 16 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-8hxYZDZiiusMT8pdmP5b4g" type="speaker">Anf. 17 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-V6QLKx39zX11eNYeJkDBPF" type="speaker">Anf. 18 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-pjTpXcexH3rZet3dmMkr2" type="speaker">Anf. 19 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-GEKd49fgHXPMaTUku4tLec" type="speaker">Anf. 20 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-P9Mc45sdU6NwgHrUZAYAFc" type="speaker">Anf. 21 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-Stk5USz1daWm8rvhqb1PzK">Ajournering</note>
-        <note xml:id="i-Lra9dc5jg1FuGVw5HQEVs6">Återupptaget sammanträde</note>
-        <note xml:id="i-LmaTeFHxfQfmkLztGEC5eC">§ 11 Svar på interpellationerna 2019/20:164, 167 och 168 om regeringens skattehöjningar</note>
-        <note xml:id="i-AJTrcb3f5L2Y5N7NrZgJn9" type="speaker">Anf. 22 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-A95HgTSFJ1rfPhLZSsLSU8" type="speaker">Anf. 23 SOFIA WESTERGREN (M)</note>
-        <note xml:id="i-AnJja4PbQ3WtJZesisYxxT" type="speaker">Anf. 24 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-C7xCZJ6mfDaSrqiYQQ9WuN" type="speaker">Anf. 25 HELENA BOUVENG (M)</note>
-        <note xml:id="i-RY7EufURmsqfr6kL9DN3Kv" type="speaker">Anf. 26 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-5uXtpYU6cK6iWcRXrnWiq1" type="speaker">Anf. 27 SOFIA WESTERGREN (M)</note>
-        <note xml:id="i-6oJPQCGMHKqCzdT57MTBWD" type="speaker">Anf. 28 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-RdoHHQd8RyEqayHGA424RR" type="speaker">Anf. 29 HELENA BOUVENG (M)</note>
-        <note xml:id="i-B2mzj62HHJ1YxMCd8Ez8e8" type="speaker">Anf. 30 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-MNH8vsu16F9fiecV9HJszp" type="speaker">Anf. 31 SOFIA WESTERGREN (M)</note>
-        <note xml:id="i-XXBzd7Pyk2zHEgvhJioL5b" type="speaker">Anf. 32 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-P7yeURF9kftXMoCuVYjUZF" type="speaker">Anf. 33 HELENA BOUVENG (M)</note>
-        <note xml:id="i-BiQja7tjy2SECXHnBx1cpN" type="speaker">Anf. 34 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-U1aL2aY6K7vZaCwwpCaD8K">§ 12 Svar på interpellationerna 2019/20:179 och 183 om bristande konkurrensneutralitet</note>
-        <note xml:id="i-YEHYtyftbb1Xib2wWLQmhA" type="speaker">Anf. 35 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-J9NYrSVMbpDZQqkYt5XZpT" type="speaker">Anf. 36 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-6oy4AvY2ADthvNydtaKCJr" type="speaker">Anf. 37 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-X2KBMumvDnGFKwVhtQtdnu" type="speaker">Anf. 38 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-Y3vfPMAtUkrGDPjKQeEKpo" type="speaker">Anf. 39 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-QNGoznodfZpz5ymkXuvT9F" type="speaker">Anf. 40 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-Us33biUhFZGW9snj4yRRUb" type="speaker">Anf. 41 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-MMVUfttaXEfkK5G13qLUeH">§ 13 Svar på interpellation 2019/20:196</note>
-        <note xml:id="i-C8A41Zm6Yno9oafroQTBDB">Ajournering</note>
-        <note xml:id="i-L1JDDz4ujhXLi6Ft6XJyAH">Återupptaget sammanträde</note>
-        <note xml:id="i-FysDHjZdc7URooszdZ6T52">§ 14 Svar på interpellation 2019/20:202 om bredbandsutbyggnaden</note>
-        <note xml:id="i-LkVTsYEVBP9UfeueWjT472" type="speaker">Anf. 42 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-UysG9QeXkjtHzdNxeHdeV3" type="speaker">Anf. 43 LOTTA OLSSON (M)</note>
-        <note xml:id="i-HJfrDnT3c3hUofrZmoFyED" type="speaker">Anf. 44 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-2SLPSe2RhM9NCNREBGBjEW" type="speaker">Anf. 45 LOTTA OLSSON (M)</note>
-        <note xml:id="i-LL8iwK67dg4pZjXezyGY37" type="speaker">Anf. 46 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-9X4VyaU8RYURC2NSH941pH" type="speaker">Anf. 47 LOTTA OLSSON (M)</note>
-        <note xml:id="i-4Rz1JpCWoXR6nH7FJTBngp" type="speaker">Anf. 48 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-HVipi7dE8ExBAZ8bKysqvT">§ 15 Svar på interpellation 2019/20:186 om korruption inom biståndet</note>
-        <note xml:id="i-4F2H2wpREnqLQHmAK9ATRG" type="speaker">Anf. 49 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-7kK83LPUa5ZyDGtUDeTWHW" type="speaker">Anf. 50 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-PCmyKPaunH2KTdpxCks1Ya" type="speaker">Anf. 51 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-SyUfGZhURy5T1pauXDX8fu" type="speaker">Anf. 52 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-AQ17gprD4NNbq3VDH9QkFN" type="speaker">Anf. 53 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-AMEC1J6u2mVKoSuEM774iC" type="speaker">Anf. 54 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-VKPiKMSRWudNnoiH2DccYr" type="speaker">Anf. 55 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-8wEKTMBJ1MFefRDV3nAjsP">§ 16 Svar på interpellation 2019/20:162 om Rysslands angrepp på civilsamhället</note>
-        <note xml:id="i-DDepNxLG4X4QtRFND1VEBv" type="speaker">Anf. 56 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-PEvJUP9bvdcRX4yhp85Xim" type="speaker">Anf. 57 YASMINE POSIO (V)</note>
-        <note xml:id="i-5eMP2iF6fseEt8daS2Krej" type="speaker">Anf. 58 MARCUS JONSSON (KD)</note>
-        <note xml:id="i-V5EZCDY2t5WYkLf8pJ2Yd7" type="speaker">Anf. 59 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-2VitYtLMHXcqzKdjhxmk7v" type="speaker">Anf. 60 YASMINE POSIO (V)</note>
-        <note xml:id="i-xT12jJK6eGMmEAPAFmRo1" type="speaker">Anf. 61 MARCUS JONSSON (KD)</note>
-        <note xml:id="i-Vjb57myF1hw2N6uc8ZQmug" type="speaker">Anf. 62 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-Ha2RgLte8w6ZMtUvy2EYFZ" type="speaker">Anf. 63 YASMINE POSIO (V)</note>
-        <note xml:id="i-VFDsK4ExmNkrw2GNChwX3p" type="speaker">Anf. 64 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-2nqx6U8k7B4jmfVTFburJm">§ 17 Svar på interpellation 2019/20:174 om hoten mot kristna befolkningsgrupper i Irak</note>
-        <note xml:id="i-KcNEGpnvETUsNPJGUiT9t9" type="speaker">Anf. 65 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-31ZpWNCutMVxARopVw7uZh" type="speaker">Anf. 66 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-Mpwiwv2PM2ZZSoYbEJNg94">(forts.)</note>
-        <note xml:id="i-WjWarHfadeWU6YfjfjBmyb">Ajournering</note>
-        <note xml:id="i-PmWG8y5w9uzEmenSne2pX4">Återupptaget sammanträde</note>
-        <note xml:id="i-Fs1AsCXd4cgEikCtsh2pWC">§ 17 (forts.) Svar på interpellation 2019/20:174 om hoten mot kristna befolkningsgrupper i Irak</note>
-        <note xml:id="i-LJ8SKg4ePGp81CTNxzbPkb" type="speaker">Anf. 67 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-C2noA3EDeXrouKYxy8F5ge" type="speaker">Anf. 68 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-GaQTiUFBQw8Bt8Ljk58vK2" type="speaker">Anf. 69 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-FNmQMXzWj3ChEAafF7Zdui" type="speaker">Anf. 70 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-XrMRkaswPheFL1T8p1B2vL" type="speaker">Anf. 71 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-W4XR8NWrRmCKMnRnd6wGP4">§ 18 Svar på interpellationerna 2019/20:204 och 205 om Turkiets angreppskrig i Rojava och politiska fångar i Turkiet</note>
-        <note xml:id="i-LiUHn6Y9yTS3F5jyGs4TeM" type="speaker">Anf. 72 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-12zcD3xpXNZQoHHqCd2Kzr" type="speaker">Anf. 73 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-Beeip9nhXgXRYhnfYKhXYr" type="speaker">Anf. 74 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-4zbnHoutMi6rPCYSUdWEG1" type="speaker">Anf. 75 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-5Cx5PpdZgzhbVV7CCp8RBQ" type="speaker">Anf. 76 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-S5Wn9iUrPCJjyJYx8rymrQ" type="speaker">Anf. 77 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-GiZE7F85sWswqzjRQ2sJ29" type="speaker">Anf. 78 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-BEY1ZHP3B1XU9dAeRueW4H">§ 19 Svar på interpellation 2019/20:177 om arbetsmiljön inom äldreomsorgen</note>
-        <note xml:id="i-Wxd8SGNEPaWovYRnqucaT3" type="speaker">Anf. 79 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-Fkobg2kToTh1uHwmavDH5E" type="speaker">Anf. 80 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-9FBckzG696fgidtoTeKNQC" type="speaker">Anf. 81 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-7oTVDjbZ385ewW7wihnzUx" type="speaker">Anf. 82 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-SuGa3WMLAJnjbQXRHYyUTg" type="speaker">Anf. 83 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-PT4Pwg6UE9aoYG3DYUQq8r" type="speaker">Anf. 84 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-2YaWc7APumaH5XFB7xwy6d" type="speaker">Anf. 85 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-MMQ2hc7fdRb5vzFvq1SKHo">§ 20 Svar på interpellation 2019/20:203 om möjligheten att upphandla flyglinjer</head>
-        <note xml:id="i-AQzPJSzpQJmQ9BFJHoEcf9" type="speaker">Anf. 86 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-9NMGbLPZhugDG5FA5Yhwr3" type="speaker">Anf. 87 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-WLVSwGrXwZWxM29xFYCKVi" type="speaker">Anf. 88 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-RsmW2c1BqMnLESLHPkUepN" type="speaker">Anf. 89 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-B9NVwVitFr54pNqfsi6fSD" type="speaker">Anf. 90 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-9GrDaPuSK6eHpwMUM39YJm" type="speaker">Anf. 91 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-6WrWpDieEfwnvkpNpkCTn3" type="speaker">Anf. 92 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-R9ybmZz2SRgBvsPrzokYX6">§ 21 Svar på interpellation 2019/20:206 om svarttaxi</note>
-        <note xml:id="i-H47m4A5Y1UMsQ7R9DaeVNH" type="speaker">Anf. 93 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-T94jNmX5QqG6wjGenn6gs" type="speaker">Anf. 94 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-8aM83dJt3Mzn7eLLw7dsbr" type="speaker">Anf. 95 LARS BECKMAN (M)</note>
-        <note xml:id="i-G77Ep1F3Y1h133ux2LF52j" type="speaker">Anf. 96 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-7HSzVjujHC6jKPjthibS3W" type="speaker">Anf. 97 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-7fwSgxKbPgEUY2MiF1GGK9" type="speaker">Anf. 98 LARS BECKMAN (M)</note>
-        <note xml:id="i-8WaBc1ELr62bf7TWFVGzuL" type="speaker">Anf. 99 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-Nn39eaeNRjo58QjV32MP79" type="speaker">Anf. 100 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-5W9kBSFjZMy4QwUwbi18YD" type="speaker">Anf. 101 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-D4VmMtJmBLPdGzADmbVjTf">§ 22 Svar på interpellation 2019/20:223 om skyltning vid vägar på landsbygden</note>
-        <note xml:id="i-Bp6Hjy74otJ9pthxi6qL71" type="speaker">Anf. 102 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-X8qHGHTAixe6RMK4FzqF3z" type="speaker">Anf. 103 KATARINA BRÄNNSTRÖM (M)</note>
-        <note xml:id="i-Hq3R5X7WfAhrbTqnPDR3cH" type="speaker">Anf. 104 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-7oGXUJurFswhDWbzxKqDTW" type="speaker">Anf. 105 KATARINA BRÄNNSTRÖM (M)</note>
-        <note xml:id="i-JxQ334843mgdtYVpPjVAb1" type="speaker">Anf. 106 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-UNc2yphv6ta27d42tRTPZH" type="speaker">Anf. 107 KATARINA BRÄNNSTRÖM (M)</note>
-        <note xml:id="i-QgJ95N736e63ivLNBfqxwW" type="speaker">Anf. 108 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-Be4iXYFzzzwvf3ahCCEjZS">§ 23 Svar på interpellation 2019/20:226 om otryggheten för landets yrkesförare</note>
-        <note xml:id="i-SH1k5SSY5zosGZAA5wjNh9" type="speaker">Anf. 109 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-MJHEuFhuSNirTfRPJGpJSh" type="speaker">Anf. 110 THOMAS MORELL (SD)</note>
-        <note xml:id="i-Lok1QSd9dHbafwZBfVhQxw" type="speaker">Anf. 111 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-TzPqp6pToozeKvAgoHS1Pr" type="speaker">Anf. 112 THOMAS MORELL (SD)</note>
-        <note xml:id="i-7prvaKPerdNmTpFkNgdMW9" type="speaker">Anf. 113 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-GhJ85tXkNrpBUKchjGVxB5" type="speaker">Anf. 114 THOMAS MORELL (SD)</note>
-        <note xml:id="i-LR5hPqpQN6dQTiUJKzdRj4" type="speaker">Anf. 115 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-AKWPkLeYt4KqicVHuSgQcd">§ 24 Svar på interpellation 2019/20:233 om stärkt säkerhet för tågpersonal</note>
-        <note xml:id="i-8kAKaJjHoXBuB4GhvN58jX" type="speaker">Anf. 116 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-MAKAT1RTdZHNU3c4D3zCpo" type="speaker">Anf. 117 PATRIK JÖNSSON (SD)</note>
-        <note xml:id="i-RiemQqTZfPKGzjUR4zBXRq" type="speaker">Anf. 118 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-9uqptwLtNAra2Fk7uctENU" type="speaker">Anf. 119 PATRIK JÖNSSON (SD)</note>
-        <note xml:id="i-NXdPm9kUEosxD5zg4bJbzF" type="speaker">Anf. 120 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-4WkeZpMpXJRmotx63ZsQW2" type="speaker">Anf. 121 PATRIK JÖNSSON (SD)</note>
-        <note xml:id="i-EprokYJ4r3J7v4X6Q8W1Zr" type="speaker">Anf. 122 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-8DzX9nYXyauVUuMiofVYBQ">§ 25 Svar på interpellation 2019/20:201 om vargpopulationens spridning</note>
-        <note xml:id="i-3G2quwPDUsXR7MY7cjD5DA" type="speaker">Anf. 123 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-2Lo937AKERakmVv8TKFkTP" type="speaker">Anf. 124 LOTTA OLSSON (M)</note>
-        <note xml:id="i-RCRu17Bd8RhBLyMW7mEohj" type="speaker">Anf. 125 LARS BECKMAN (M)</note>
-        <note xml:id="i-PxzT7yKzyA4dUaYTNJkNNE" type="speaker">Anf. 126 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-YGRsB6BYCbPRJQhoMVKRHg" type="speaker">Anf. 127 LOTTA OLSSON (M)</note>
-        <note xml:id="i-KURA775nKm38fyUGTcyc2x" type="speaker">Anf. 128 LARS BECKMAN (M)</note>
-        <note xml:id="i-DG4T9jnmcH6gySuCreGzpJ" type="speaker">Anf. 129 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-Eaj4YS93BGG6nUbABT1nXf" type="speaker">Anf. 130 LOTTA OLSSON (M)</note>
-        <note xml:id="i-RNZ2Hq7Ps6g6y2fEQCSRSm" type="speaker">Anf. 131 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-Jngnz3RppnYzjRuj1ekBzs">§ 26 Svar på interpellation 2019/20:208 om förbud mot pälsdjursuppfödning</note>
-        <note xml:id="i-RDbyEXhzuSqhc1GkCf6vBC" type="speaker">Anf. 132 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-G7JWGP8u4YBm3NgFZ8otYU" type="speaker">Anf. 133 ELIN SEGERLIND (V)</note>
-        <note xml:id="i-DiwovPadgJsX34vtPQKSdm" type="speaker">Anf. 134 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-MMHQYkZY6XtyBH37VbtwXG" type="speaker">Anf. 135 ELIN SEGERLIND (V)</note>
-        <note xml:id="i-MfwUYX8ZB6m6hzrqGubEsq" type="speaker">Anf. 136 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-D6zkinPwuFDfTiveFjjkri" type="speaker">Anf. 137 ELIN SEGERLIND (V)</note>
-        <note xml:id="i-Wq6kAybh1skK7NPZ94zXJx" type="speaker">Anf. 138 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-LgZJYZ5oABdgqotVutLwQK">§ 27 Svar på interpellation 2019/20:232 om renägares förluster på grund av rovdjursangrepp</note>
-        <note xml:id="i-VYaqhRCygJr83m99wUom12" type="speaker">Anf. 139 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-99rHFuYCRGSN3HCWeEBCme" type="speaker">Anf. 140 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-ANdR85yDX4yZr7pbdkNg2q" type="speaker">Anf. 141 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-X9aRryqqJbuejktLh3zvQu" type="speaker">Anf. 142 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-NHvWxbJvSCSJUyAaAWrFbL" type="speaker">Anf. 143 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-972AqZ3uMsN22KcMqKup6v" type="speaker">Anf. 144 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-JtNdMuUSjk2VKzbbwY8s3g" type="speaker">Anf. 145 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-BZbjP2jnLh9Lc8gWz7BzeZ">§ 28 Bordläggning</note>
-        <note xml:id="i-13RCMM4NDfXQ3GzsLFaiEP">§ 29 Anmälan om interpellationer</note>
-        <note xml:id="i-JhsXVBcviApvW9eXCTy7Bc">§ 30 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-Jzz43ys4RkJEkCoTxNSHuL">§ 31 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-AtWXYeQuR2CSodHmWSZSuX">§ 32 Kammaren åtskildes kl. 22.00.</note>
-        <note xml:id="i-Mh3rzJnKsEU15FMXZiDxBR">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

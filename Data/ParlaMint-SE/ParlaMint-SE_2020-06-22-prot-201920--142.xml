@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 142 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 142 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--142">2019/20--142</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,15 +75,15 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JyBv5nCANCdUGyyeuReth6">§ 1 Justering av protokoll</head>
         <note xml:id="i-LmKJSL1TtnkeBd7ko2wUEA">Protokollen för den 28 och 29 maj samt för den 1 och 2 juni justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MKAU5va7Q2azax33NByt46">§ 2 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-X7oTKZPR864o8zzLrqsExd">Tredje vice talmannen anmälde att utdrag ur prot. 2019/20:46 för tisdagen den 16 juni i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från miljö- och jordbruksutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-L8hgdhqvyxh2DM3QANeVy1">§ 3 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-6EkgJKnve3wA2rzajX3DYn">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-UYcC2r75RZeUfdPGwUAfUA">Interpellation 2019/20: 431</note>
@@ -97,7 +98,7 @@
         <note xml:id="i-CAmWDurhBoqwhQUZLauNMr">Egon Abresparr</note>
         <note xml:id="i-FSKDQ9z6gfeDbMfG2tPBHu">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-R2QRUZVf13cTGT4qGk9zQH">§ 4 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-Vs3GAwm4mTBebGEwjuZ2hq">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-8E3K265kqh77tKsZemridS">Propositioner</note>
@@ -108,7 +109,7 @@
         <note xml:id="i-2tJnBiHoG9oQcZgxzPMZ8B">Framställning</note>
         <note xml:id="i-K9VL6HLcNvH3ZV7Z4e16tt">2019/20:RS2 till konstitutionsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3hqvYxuqFmhxHiurkU1i3A">§ 5 Ärende för bordläggning</head>
         <note xml:id="i-8wwpaEhyVB5u8DxWHRtKuj">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-WUoVGDcv6izhmonCotmZUr">Näringsutskottets betänkande</note>
@@ -810,7 +811,7 @@
         </u>
         <note xml:id="i-5gVoRG2q4eUQyijeYtgY4T">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JDA8Ei9Jg3PpHFCeR6kpPZ">§ 14 Bordläggning och beslut om förlängd motionstid</head>
         <note xml:id="i-8nzarRdYEoYegEVmzqDWhq">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-S5VULpR8JW9B5T2Yy9v5bU">Skrivelse</note>
@@ -828,7 +829,7 @@
         <note xml:id="i-86dZcYAE61qcMgGUgg4pgM">Finansutskottets utlåtande</note>
         <note xml:id="i-DG1Q2aTC8etqWfNgUBWsEq">2019/20:FiU63 Subsidiaritetsprövning av kommissionens ändrade förslag till beslut om Europeiska unionens egna medel</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TTGwpqeQbKXMxhhjYPvfas">§ 15 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-DKHxjWDdQi35ZTzDThSsKj">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-RpeBFwbSF3twdACAJhDDPi">den 17 juni</note>
@@ -924,7 +925,7 @@
         <note xml:id="i-TfNJe4LnrJEAZUTqKiysa7">av Robert Hannah (L)</note>
         <note xml:id="i-QpjQg5neMKewM7JNGStydt">till utbildningsminister Anna Ekström (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9vCXCK6Bya6ZjXnQrf35a7">§ 16 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-ESSoE9qcTUhoqaG8igBCHw">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-NmaFSLo284Da3p8N6VxxyS">den 17 juni</note>
@@ -1076,100 +1077,13 @@
         <note xml:id="i-36zPpghfqD5biAdCeYGvdX">av Niels Paarup-Petersen (C)</note>
         <note xml:id="i-EcmNSWHFyKzDn9QkrpZ4Et">till statsrådet Per Bolund (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2mohSRJDrab96f8m5Q6Gtm">§ 17 Kammaren åtskildes kl. 14 . 24.</head>
         <note xml:id="i-K3ARbo5t5bP7NMJeYKpZax">Sammanträdet leddes</note>
         <note xml:id="i-AtVgRd3jung4feRGqck9ep">av tredje vice talmannen från dess början till och med § 10 anf. 37 (delvis) och</note>
         <note xml:id="i-Xq5VpXMuEgrrbbqabpWYWe">av andre vice talmannen därefter till dess slut.</note>
         <note xml:id="i-2m1Fp6YTvnT8hrGnuFmJDp">Vid protokollet</note>
         <note xml:id="i-QHiSQrfitS612ukSQi1G75">ANN LARSSON</note>
-        <note xml:id="i-284cxe2WBvzkf6YjeDmbbd">/ Olof Pilo</note>
-        <note xml:id="i-7Ad44tzJLMLztzxgMA8qpk">Innehållsförteckning</note>
-        <note xml:id="i-H1YLEx6MgcM9hwHW55r8tB">§ 1 Justering av protokoll</note>
-        <note xml:id="i-PucWTA1shrUtQLKcYBFqQP">§ 2 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-q25gj1iZaWpahApT61f2A">§ 3 Anmälan om fördröjt svar på interpellation</note>
-        <note xml:id="i-RdhaXF8mEvYFFy17wjQerf">§ 4 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-JepmuVP4BLMXFQQB41g9Nf">§ 5 Ärende för bordläggning</note>
-        <note xml:id="i-GzRs9SLEVfDf1FtF6eoXFh">§ 6 Svar på interpellation 2019/20:414 om polisens agerande kring demonstrationer</note>
-        <note xml:id="i-MtGuJz8BA8mjSRofoNzyHJ" type="speaker">Anf. 1 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-WAq7Ar7nqya1iq39M7YnFK" type="speaker">Anf. 2 THOMAS MORELL (SD)</note>
-        <note xml:id="i-FqQzebcxdPGXQiPjTdqcw3" type="speaker">Anf. 3 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-VgP1MnEyVR54AGBfvJRsKp" type="speaker">Anf. 4 THOMAS MORELL (SD)</note>
-        <note xml:id="i-LJ4DsDSBUaUVVodkVgXerE" type="speaker">Anf. 5 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-BHn9iKkx48sEKPms9prKwe" type="speaker">Anf. 6 THOMAS MORELL (SD)</note>
-        <note xml:id="i-2oBMN6iEGJiVsx7HhitCJb" type="speaker">Anf. 7 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-Eytak27RK965R4PE7tV3Et">§ 7 Svar på interpellation 2019/20:417 om behovet av deltidsbrandmän</note>
-        <note xml:id="i-HMQ1jFxv9f5vYyVGdTec6F" type="speaker">Anf. 8 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-4B51xFLnYAyoKNSb8wLVJs" type="speaker">Anf. 9 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-54sxtkE3q125yPemwuSQBw" type="speaker">Anf. 10 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-Xc6JXQRbZqhm4zUBCRxoXm" type="speaker">Anf. 11 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-8UeJYUo3mrHzXZMU5eFuDa" type="speaker">Anf. 12 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-NLtTYE2vDoHYf3GM48gQCi" type="speaker">Anf. 13 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-R9qUycS8Ey9v9orhQ4x3D7" type="speaker">Anf. 14 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-FyvZpNkmbetNv6LJ8yAn7k">§ 8 Svar på interpellation 2019/20:412 om rasismen i USA</note>
-        <note xml:id="i-6zkcGbRDSuE5bPLduygLTA" type="speaker">Anf. 15 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-7NuxGv1JQL5NuE7f2MKqX7" type="speaker">Anf. 16 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-5gNQLJ5ryexw2npkkG9rJR" type="speaker">Anf. 17 DANIEL RIAZAT (V)</note>
-        <note xml:id="i-8GTC2g16HExyXy9DaToe3M" type="speaker">Anf. 18 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-X9F4QNvRMfkZzjxpytbKNx" type="speaker">Anf. 19 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-2oaDisD9fDfkgmEq5pjyXK" type="speaker">Anf. 20 DANIEL RIAZAT (V)</note>
-        <note xml:id="i-NJKKk6WZykDMW36yPKd4dP" type="speaker">Anf. 21 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-uBfahb5R26KMo2115PMzy" type="speaker">Anf. 22 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-QNcdAMrcbAUtXZxbw6jHAi" type="speaker">Anf. 23 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-2xkToe5CGPcoJ5q36yRxey">§ 9 Svar på interpellation 2019/20:422 om utvecklingen i Hongkong</note>
-        <note xml:id="i-5mXYdWjakvj8CNNE52Y66P" type="speaker">Anf. 24 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-8Kkn8ByDFYhiSAm1tTwCzS" type="speaker">Anf. 25 HANS WALLMARK (M)</note>
-        <note xml:id="i-5cChbz1GLGxj52GydnvrHq" type="speaker">Anf. 26 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-GRWcQ4rPhjgFMAzeTNGb29" type="speaker">Anf. 27 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-Px8eJ29Vk2o6u1j4s9L84h" type="speaker">Anf. 28 HANS WALLMARK (M)</note>
-        <note xml:id="i-EN2JvckWq9JZqanuKFGKYe" type="speaker">Anf. 29 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-TMg7t1Ls3ptmsNieBjdRDa" type="speaker">Anf. 30 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-8FfdnGirvaKbmtkUGMNpus" type="speaker">Anf. 31 HANS WALLMARK (M)</note>
-        <note xml:id="i-UERwtuxk4EMyweQry55zRj" type="speaker">Anf. 32 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-JbQQ8BrRorsiRKf1dTa21M">§ 10 Svar på interpellationerna 2019/20:413 och 424 om Sveriges resultat i PISA-undersökningen 2018</note>
-        <note xml:id="i-D1juD8catw7U5BfNq63muZ" type="speaker">Anf. 33 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-McwdfTKfsLM9eJutri6gug" type="speaker">Anf. 34 RICHARD JOMSHOF (SD)</note>
-        <note xml:id="i-Hwuf21yPyZbrPMSq45MApY" type="speaker">Anf. 35 ROBERT STENKVIST (SD)</note>
-        <note xml:id="i-PmsxWMqenXEjs2oQuCCwps" type="speaker">Anf. 36 ROGER HADDAD (L)</note>
-        <note xml:id="i-XRgQ6S9GJq7uB3BYDiE2FN" type="speaker">Anf. 37 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-45kzaowdM78DkxoYzw7JLu" type="speaker">Anf. 38 RICHARD JOMSHOF (SD)</note>
-        <note xml:id="i-EiwrKbT9W46i1AqAwh3MTU" type="speaker">Anf. 39 ROBERT STENKVIST (SD)</note>
-        <note xml:id="i-V46MK1TLWm2KW6Dq66xhXk" type="speaker">Anf. 40 ROGER HADDAD (L)</note>
-        <note xml:id="i-5sxV8rpo2Um8rNnH6vduPg" type="speaker">Anf. 41 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-NxPWC4d1LqRGpD52CXYAf" type="speaker">Anf. 42 RICHARD JOMSHOF (SD)</note>
-        <note xml:id="i-CUs6LmESAefFGmPHUCChxm" type="speaker">Anf. 43 ROBERT STENKVIST (SD)</note>
-        <note xml:id="i-UtNvfZz5CW2UmZL8SL9b4g" type="speaker">Anf. 44 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-KieBbouNhkBnyh9JRi4k9c">§ 11 Svar på interpellation 2019/20:420 om skolor och förskolor med kopplingar till extremister</note>
-        <note xml:id="i-NqTcoA4a9em7B6E2N2zrW" type="speaker">Anf. 45 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-UzhhX2VeKHTXtcM1kLV7Ez" type="speaker">Anf. 46 RICHARD JOMSHOF (SD)</note>
-        <note xml:id="i-Mz3hADTPZAGSYtG2HvmhjH" type="speaker">Anf. 47 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-2nJFfX4ybFRQMHuYqPeHa3" type="speaker">Anf. 48 RICHARD JOMSHOF (SD)</note>
-        <note xml:id="i-Fg1BY3kStXdMaYjPzJRGzr" type="speaker">Anf. 49 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-RCtarRjRAG72rUQoED4W6h" type="speaker">Anf. 50 RICHARD JOMSHOF (SD)</note>
-        <note xml:id="i-BQcEqA7AAvKjtkTNuN4BqZ" type="speaker">Anf. 51 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-7Ca4p674Yoyrbqtao5qwuy">§ 12 Svar på interpellation 2019/20:419 om tillgängligheten hos Transportstyrelsen</note>
-        <note xml:id="i-4nCX3BCGRDjMGMwMd3NteC" type="speaker">Anf. 52 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-82CdiEWNhPzr7VCmuDA5EA" type="speaker">Anf. 53 THOMAS MORELL (SD)</note>
-        <note xml:id="i-EuE2kPgXBrZoqqn8CDia8R" type="speaker">Anf. 54 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-JgCAMCVc63WjjdDFakrr2f" type="speaker">Anf. 55 THOMAS MORELL (SD)</note>
-        <note xml:id="i-Pm4bUXDTYtSKaAjRo4DXVm" type="speaker">Anf. 56 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-QQ1AqtSEzvAjKogJqELmcg" type="speaker">Anf. 57 THOMAS MORELL (SD)</note>
-        <note xml:id="i-RsUZDbVBqcLdCScma92XcW" type="speaker">Anf. 58 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-RQJk1LDXw7WZdhwsTyEHZw">§ 13 Svar på interpellation 2019/20:426 om regionala flygplatser</note>
-        <note xml:id="i-Xga5whxpi3kzLf8cscbsUh" type="speaker">Anf. 59 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-DXvKZwHS3hyBnpMTEPWoFB" type="speaker">Anf. 60 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-QzwGV1FM2Q8px56q2n3aCN" type="speaker">Anf. 61 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-Bp2mUCf3tQ5JxZkLXWSVoZ" type="speaker">Anf. 62 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-WWoFDmejkJHbRo8eLzfYaG" type="speaker">Anf. 63 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-KCkvMg3Xajrrpc9BXCVm1v" type="speaker">Anf. 64 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-QGQN8Q8vekthdj6hX5yVCi" type="speaker">Anf. 65 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-WHd74biPYNyXShJN2sxVEp">§ 14 Bordläggning och beslut om förlängd motionstid</note>
-        <note xml:id="i-B9xg1FnVeEEqkAqSs9fv2V">§ 15 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-RFBFjEihKUd1QQGuNBSzJX">§ 16 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-Mdj3SshpXMvFiWRwkRq3P1">§ 17 Kammaren åtskildes kl. 14.24.</head>
-        <note xml:id="i-7xoTPeJY81ppqao4wK6Aud">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

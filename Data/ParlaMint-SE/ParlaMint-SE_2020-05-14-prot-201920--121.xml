@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 121 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 121 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--121">2019/20--121</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,18 +75,18 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ViYLbhp2AaUSm15SgKPJxv">§ 1 Justering av protokoll</head>
         <note xml:id="i-VuubWvt2cphpve1Zu3yJvj">Protokollen för den 23 och 24 april justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SbX7wKf8SBQj8mVn7ZjLfV">§ 2 Ärende för hänvisning till utskott</head>
         <note xml:id="i-LwgTStuQTTyW4WZBeW7zcg">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-P7fTth2i8Poa2mmU4QcuKV">EU-dokument</note>
         <note xml:id="i-LsT5LNgmv3CwG9ttqzeiSE">COM(2020) 197 till skatteutskottet</note>
         <note xml:id="i-163xbVcAcVsHpqy22BzGBE">Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 8 juli.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DDqesmGX3KN66Uir6WfBPB">§ 3 Senarelagt införande av nationell läkemedelslista och bastjänstgöring för läkare</head>
         <note xml:id="i-BFxZ63JPzrudkhiQmwwHaH">Socialutskottets betänkande 2019/20:SoU22</note>
         <note xml:id="i-2WrdLXVxxqQQu8G4PJsaJC">Senarelagt införande av nationell läkemedelslista och bastjänstgöring för läkare (prop. 2019/20:158)</note>
@@ -93,7 +94,7 @@
         <note xml:id="i-LitBwQ33Kd7FSSfCm2pf5b">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-QP1tzZLa6ut8ZMeW2Y61nh">(Beslut fattades under § 11.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-NeMwjTJAAUeF8UvYZF2c2f">§ 4 Ändrade övergångsbestämmelser när det gäller medicintekniska produkter</head>
         <note xml:id="i-GgRm44VtU9QJ4HTHudfN4g">Socialutskottets betänkande 2019/20:SoU23</note>
         <note xml:id="i-RtvcLMPxFAocYhqq27SBDQ">Ändrade övergångsbestämmelser när det gäller medicintekniska produkter (prop. 2019/20:161)</note>
@@ -943,7 +944,7 @@
         <note xml:id="i-DXXbYBmBZCHsspUfQ7sxku">Återupptaget sammanträde</note>
         <note xml:id="i-BgHA9xoSymkCkLR28dwcV4">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Qdcr5m69UU4TQMKzFMo6CZ">§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-KjawEspDs1VcnqHjbRTz6P">SoU22 Senarelagt införande av nationell läkemedelslista och bastjänstgöring för läkare</note>
         <note xml:id="i-7BYF7wnamDWaY6DVVZaXov">Kammaren biföll utskottets förslag.</note>
@@ -1184,7 +1185,7 @@
         <note xml:id="i-GB9gTH8JKFsbLYf7DdMyaG">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-4zJNj4Nk72pbzSMik2k6sW">(Beslut skulle fattas den 27 maj.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3aF5PteLBYrCkLZizhVWMx">§ 14 Anmälan och beslut om omedelbar hänvisning av ärende till utskott samt beslut om förkortad motionstid</head>
         <note xml:id="i-GESftUafpR5Tt1BWNzNjPr">Följande dokument anmäldes:</note>
         <note xml:id="i-3v2wnCwFKskH9b2j7B51Yu">Proposition</note>
@@ -1192,7 +1193,7 @@
         <note xml:id="i-3DoR7RMGz6ak7hucMPLCzA">Kammaren biföll talmannens förslag att ovanstående proposition omedelbart skulle hänvisas till finansutskottet.</note>
         <note xml:id="i-14tperzQz47A9ZwLd7oqMz">Kammaren biföll regeringens förslag att motionstiden för ovanstående proposition skulle förkortas till fyra dagar.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ELpZaLF9NGJsVVuKFZaXzi">§ 15 Anmälan om interpellation</head>
         <note xml:id="i-CjFeWghPa2ea13X7xUbPjU">Följande interpellation hade framställts:</note>
         <note xml:id="i-DkSbHoaSyGYFsLY686WPMp">den 13 maj</note>
@@ -1200,7 +1201,7 @@
         <note xml:id="i-PjFBaKD4uPBWxVWun7oojv">av Lars Thomsson (C)</note>
         <note xml:id="i-DUx9vhScNFq97ng9PHLKFd">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MBp9QYaR3UmHduW5kasH4u">§ 16 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-DmNHsVxRac1WMFMx9cT8tz">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-SNXVjEA8ZQifaUTqtHZ9M6">den 13 maj</note>
@@ -1235,7 +1236,7 @@
         <note xml:id="i-Ron6ZWCq5ThkY6WhQofMZ9">av Markus Wiechel (SD)</note>
         <note xml:id="i-JoxM2h2XauaSrB67LH961y">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Q7bo3pzVs3PMJ2cmK947E">§ 17 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-9oEVaK9HuhyyroHpCqnqPX">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-M6eDMHijLLvoMKz6snPEND">den 13 maj</note>
@@ -1303,7 +1304,7 @@
         <note xml:id="i-2N2TfQLbiFbRJWpGeXmCDL">av Larry Söder (KD)</note>
         <note xml:id="i-Uh4aGKPZJE2SBcwG4FFo8a">till statsrådet Per Bolund (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-U5mpwAaoby29dFSsgKV6VV">§ 18 Kammaren åtskildes kl. 17.16.</head>
         <note xml:id="i-PXhMCrTpzqp4wonhfVREs">Sammanträdet leddes</note>
         <note xml:id="i-B2hvEwRW83khJBRdBTnJcS">av talmannen från dess början till och med § 7 anf. 13 (delvis),</note>
@@ -1313,171 +1314,6 @@
         <note xml:id="i-Ez5HeqeqQJz7Zrr8Bo6icc">av andre vice talmannen därefter till dess slut.</note>
         <note xml:id="i-LvsohCoz9pSqBTJvjjCeGj">Vid protokollet</note>
         <note xml:id="i-MyhinJ28CbeHNc9hcbcist">EMMA PAAKKINEN</note>
-        <note xml:id="i-W566dXULC87d24dyjyP66T">/Olof Pilo</note>
-        <note xml:id="i-14MxAtwA2kEnySa4pJEXYg">Innehållsförteckning</note>
-        <note xml:id="i-JfM1GY6o44xaEUbYh2He4z">§ 1 Justering av protokoll</note>
-        <note xml:id="i-Qw7oEK8hwZqRsTSp9XPJ4X">§ 2 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-6AdhsBAPEfpVj36d3Fn6fC">§ 3 Senarelagt införande av nationell läkemedelslista och bastjänstgöring för läkare</note>
-        <note xml:id="i-R2ptQdtDMAuQ82d4KRbntz">Socialutskottets betänkande 2019/20:SoU22</note>
-        <note xml:id="i-JddZW1RLuR1bNLc6dZDs58">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-8C77DDbfxjAAzAmsrnEwYo">§ 4 Ändrade övergångsbestämmelser när det gäller medicintekniska produkter</note>
-        <note xml:id="i-Fd1r1bzmFhMVcGSFeP1HRB">Socialutskottets betänkande 2019/20:SoU23</note>
-        <note xml:id="i-XLuDBXSsgUErajBFLLyk5o">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-BtRhRY8bwEt2FTjxPXaaK">§ 5 Personligt betalningsansvar i aktiebolag</note>
-        <note xml:id="i-E3o592k4UFUEm8zbbBkwEu">Civilutskottets betänkande 2019/20:CU28</note>
-        <note xml:id="i-AhqgijSUYha3aSYci2dkDm" type="speaker">Anf. 1 LEIF NYSMED (S)</note>
-        <note xml:id="i-G8QtEM6c2T7HjWphspnWiJ" type="speaker">Anf. 2 CARL-OSKAR BOHLIN (M)</note>
-        <note xml:id="i-25b9YzvHrAhEeQ5ZxsTJms" type="speaker">Anf. 3 LEIF NYSMED (S) replik</note>
-        <note xml:id="i-LkRcDUaQdCMwVu9P5viRru" type="speaker">Anf. 4 CARL-OSKAR BOHLIN (M) replik</note>
-        <note xml:id="i-9WCgtJZoViHUrvfASJzsjF" type="speaker">Anf. 5 LEIF NYSMED (S) replik</note>
-        <note xml:id="i-B1e7K9mxtajtGDRaApTFmT" type="speaker">Anf. 6 CARL-OSKAR BOHLIN (M) replik</note>
-        <note xml:id="i-QSEU2ovdQVCsNA1yr1gx8w" type="speaker">Anf. 7 LARRY SÖDER (KD)</note>
-        <note xml:id="i-QAwkekNkEnvxoA3PDJ1ox9">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-KpLBo4FuGfvh876RVMPRZ7">§ 6 Fler tillfälliga åtgärder för att underlätta genomförandet av bolags- och föreningsstämmor</note>
-        <note xml:id="i-Fe24tMFrRsU5rzLnh3AtFz">Civilutskottets betänkande 2019/20:CU29</note>
-        <note xml:id="i-EyyomNLuk5QjdA441WENjH" type="speaker">Anf. 8 MATTIAS BÄCKSTRÖM JOHANSSON (SD)</note>
-        <note xml:id="i-EqxCDceC2NXg4vDNL5c8RZ" type="speaker">Anf. 9 LEIF NYSMED (S)</note>
-        <note xml:id="i-7y2wJ6hBeSa7DH98CYfvpJ">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-B5xtbzVHgvEcRXhn39ofj1">§ 7 Organisationen för säkerhet och samarbete i Europa (OSSE)</note>
-        <note xml:id="i-JkZciRLxXQ4n4R5yN4okpE">Utrikesutskottets betänkande 2019/20:UU7</note>
-        <note xml:id="i-9G5Xog6A7xRxjgQWgciL4A" type="speaker">Anf. 10 MARKUS WIECHEL (SD)</note>
-        <note xml:id="i-BBYwjZpBc5hhpeUbECCtP" type="speaker">Anf. 11 ROBERT HALEF (KD)</note>
-        <note xml:id="i-nv4LTN53uZaZ2nG7ZyX14" type="speaker">Anf. 12 JOHAN BÜSER (S)</note>
-        <note xml:id="i-9ZfkcbbK9CgAB3twWnmUkJ" type="speaker">Anf. 13 MARGARETA CEDERFELT (M)</note>
-        <note xml:id="i-SWizgdZpkoRuRKz6LaZn9L" type="speaker">Anf. 14 KERSTIN LUNDGREN (C)</note>
-        <note xml:id="i-TQoMiwvdGx97MxGigcoCTY" type="speaker">Anf. 15 YASMINE POSIO (V)</note>
-        <note xml:id="i-SMgHhfxQmfzhLoSDXtnNka" type="speaker">Anf. 16 FREDRIK MALM (L)</note>
-        <note xml:id="i-SB31K3oteqY64Fi2Tt6thj" type="speaker">Anf. 17 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-XZji6Nkow1C9DHPwg3yv6m" type="speaker">Anf. 18 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-5wNA6kwkqbtyzm8LLSX3t2" type="speaker">Anf. 19 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-RHxLoqFnhejZe5PZ3x1HCb" type="speaker">Anf. 20 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-BxuzniVKoDQ4GvwpQmZLp8" type="speaker">Anf. 21 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-3g24cw9xBCsHo5KgoDSFqe">(forts. § 9)</note>
-        <note xml:id="i-YLoRcTcPioVm2rnhcyAjUy">Ajournering</note>
-        <note xml:id="i-3Bn12VBq95CduAwnmQETpZ">Återupptaget sammanträde</note>
-        <note xml:id="i-JZ33DHyVEkSuXhVx78K9m6">§ 8 Statsministerns frågestund</note>
-        <note xml:id="i-GMLi9g1pVA1PdFE5hpV7ni">Ansvaret för provtagning</note>
-        <note xml:id="i-AcsNAwPFVqNv633WApmPwM" type="speaker">Anf. 22 ULF KRISTERSSON (M)</note>
-        <note xml:id="i-BVoetFAMjN6dcJJFysyzZm" type="speaker">Anf. 23 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-Y8byPdEBa6FQA9Va1qDUjr" type="speaker">Anf. 24 ULF KRISTERSSON (M)</note>
-        <note xml:id="i-UNCLLFM1ZfbpVFGMaSeBoT" type="speaker">Anf. 25 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-4yevEaBWPihTBghwyrMZaC">Föräldrars möjlighet att välja bort skolor i utanförskapsområden</note>
-        <note xml:id="i-5YfAncjpN33jLCb5kQtQiU" type="speaker">Anf. 26 HENRIK VINGE (SD)</note>
-        <note xml:id="i-HUAiREhUG3VmWJeQMfWL76" type="speaker">Anf. 27 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-DnnLuuCkEMQDrR7pnJo93u" type="speaker">Anf. 28 HENRIK VINGE (SD)</note>
-        <note xml:id="i-TJeyn2uiHMefk9PNG6mjSm" type="speaker">Anf. 29 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-2nFqUNRdFGFbFHaUWoNeET">Planering för vaccination mot covid-19</note>
-        <note xml:id="i-6AQiidH2u1B7nq4xcQ3mLp" type="speaker">Anf. 30 ANDERS W JONSSON (C)</note>
-        <note xml:id="i-D2poTiyPiZgY7oDYjYiAom" type="speaker">Anf. 31 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-7ekdcZXNpCKptg4Eq69S4m" type="speaker">Anf. 32 ANDERS W JONSSON (C)</note>
-        <note xml:id="i-CxS1hfS2o188wb6MRH66PW" type="speaker">Anf. 33 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-QPCMK6vwbFvGxyJhe3PbCN">Resurser till vård och omsorg</note>
-        <note xml:id="i-JRZTiFt6hi5rerNDEgzwEu" type="speaker">Anf. 34 JONAS SJÖSTEDT (V)</note>
-        <note xml:id="i-LkTWfwHU5n9aJiP1Cfev9k" type="speaker">Anf. 35 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-8ppYuqmczhzbHr9WhXpU9H" type="speaker">Anf. 36 JONAS SJÖSTEDT (V)</note>
-        <note xml:id="i-41ExQQnm5T2QoBgdJCYp2N" type="speaker">Anf. 37 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-NKR1xhEM41Ndkv9GaeGbCU">Ökad transparens vid framtida beslut om pandemiåtgärder</note>
-        <note xml:id="i-LYQjgqEDoU5oNBTEm448WD" type="speaker">Anf. 38 EBBA BUSCH (KD)</note>
-        <note xml:id="i-9GVnUy9yeedkf9DyBML8bh" type="speaker">Anf. 39 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-PBYgdNkNvh3XsMVbYLFM3s" type="speaker">Anf. 40 EBBA BUSCH (KD)</note>
-        <note xml:id="i-3PREWGgDBfjaRczUayZr6N" type="speaker">Anf. 41 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-8tb9FPrzQeqXKeZs6Tm4Q4">Investeringar för att motverka pandemins ekonomiska följder</note>
-        <note xml:id="i-K261WgYBMhNjMLetbeBApk" type="speaker">Anf. 42 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-9AmedwHK5oCphxB1VFaXCT" type="speaker">Anf. 43 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-7dqjWzP7LdoVpq1RbM4aht" type="speaker">Anf. 44 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-Svocpr8dZVTW5ksjmPXyMh" type="speaker">Anf. 45 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-9moWXBoxkmgWxbWKPENSfY">Borttaget karensavdrag</note>
-        <note xml:id="i-UtGhy3TZXWAW9hzp8JfvRh" type="speaker">Anf. 46 CAROLINE HELMERSSON OLSSON (S)</note>
-        <note xml:id="i-McWDuXPyiwihuj5FL7TUuS" type="speaker">Anf. 47 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-EEJMQsaCpNKNgoCeM39h7H">Ökad risk för våld i nära relationer</note>
-        <note xml:id="i-TiiMDF83ysmiwoesc1p3VX" type="speaker">Anf. 48 ANNIKA HIRVONEN FALK (MP)</note>
-        <note xml:id="i-3KATAEz2ZQu4sjBSN1RgRh" type="speaker">Anf. 49 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-EKmARJg4T7Vqg5NgFFNW4b">Direktstöd till företag</note>
-        <note xml:id="i-BmUzyEhSuVe9uZdrhhHpT" type="speaker">Anf. 50 LOTTA OLSSON (M)</note>
-        <note xml:id="i-8t6rRF5f6KiiaqDASW64bf" type="speaker">Anf. 51 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-SujMiHm3G2ssWjMn8RaD3K">Smittspridningen på äldreboenden</note>
-        <note xml:id="i-Mm6Cbx77eL7SRC5N8kYGMD" type="speaker">Anf. 52 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-3chBj4TVKrcBX2QFVFUv8U" type="speaker">Anf. 53 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-QKVorXoUURy8gHoFtYcpM3">Stöd till arrangörer av paketresor</note>
-        <note xml:id="i-6PhVx5kLKGRQVAf9yUEZ8v" type="speaker">Anf. 54 OLA JOHANSSON (C)</note>
-        <note xml:id="i-JZmYBXR28ycQFCrtxeGqsw" type="speaker">Anf. 55 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-5pNYmXJ18ZUmoPCs5AMZMv">Expertgrupp för vårdöversyn</note>
-        <note xml:id="i-6VsRF6gHkoxiH53b5FNVim" type="speaker">Anf. 56 ACKO ANKARBERG JOHANSSON (KD)</note>
-        <note xml:id="i-K5aqvv1ZgJFkfkQypwgY9Y" type="speaker">Anf. 57 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-KsLHHDJkyo158LAUvHjxQM">Statligt stöd till personer med enskild firma</note>
-        <note xml:id="i-FHkYga8NGMuDjn8pGnj3ud" type="speaker">Anf. 58 ALEXANDRA VÖLKER (S)</note>
-        <note xml:id="i-XCK4t5NREFtssjaN86BbDm" type="speaker">Anf. 59 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-XJxcjr6d1SWfiJMp1tvJw8">Situationen för människor i riskgrupper</note>
-        <note xml:id="i-6dk1ysiHvVwZ5RgsowEs3B" type="speaker">Anf. 60 CAMILLA WALTERSSON GRÖNVALL (M)</note>
-        <note xml:id="i-P3TmVmSyhn773131Gowt3N" type="speaker">Anf. 61 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-G9ZZDxc75wjoFDBFx7fW9Q">Sölvesborgs hantering av coronakrisen</note>
-        <note xml:id="i-YPusDnxDPUbaYUJ2rP9dqL" type="speaker">Anf. 62 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-JSkaHe8oeKYy9ffkxtJ8Nr" type="speaker">Anf. 63 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-AyuEX45uB69Pvtq1LveUPV">Arbetslösheten och bristen på arbetskraft i jordbruket</note>
-        <note xml:id="i-WHAR6G6vAicWtCRyUKFwJ2" type="speaker">Anf. 64 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-We4yt9K7sfS5zCRSzW1me1" type="speaker">Anf. 65 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-FW2gjfAgcevaejSEuRKvDE">Dialog med Danmark om öppnande av gränsen</note>
-        <note xml:id="i-5hUebCVhQZ5UvgjRF9yK81" type="speaker">Anf. 66 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-2LpdjKodcqyYQCFLrhxdL8" type="speaker">Anf. 67 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-MwNFEsqCnTVitsdUGFvRZr">Svensk hjälp till andra EU-länder</note>
-        <note xml:id="i-Qqx3yWn75G3zuKYNtHjnkh" type="speaker">Anf. 68 JOHAN HULTBERG (M)</note>
-        <note xml:id="i-6hzuKYAqCiwfvxzG8dRK5n" type="speaker">Anf. 69 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-8mcpaHNbvgUBi7f3ZRn5Tj">Forskning om coronaviruset</note>
-        <note xml:id="i-Cz9SayEvsS8iapzHRP6Tk4" type="speaker">Anf. 70 MARGARETA CEDERFELT (M)</note>
-        <note xml:id="i-RDTfbXrbDDaETgKu3mXqhu" type="speaker">Anf. 71 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-EfKb9Hgv3tgnDHg15V4dFX">Resurser till Polisregion nord</note>
-        <note xml:id="i-EYqK9ogAh13AXQoFoKWiS6" type="speaker">Anf. 72 EDWARD RIEDL (M)</note>
-        <note xml:id="i-4HctJGVXrVmkSVyooY5Lxs" type="speaker">Anf. 73 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-LCXKAZ31sG6ugMw5guGZoP">§ 9 (forts. från § 7) Organisationen för säkerhet och samarbete i Europa (OSSE) (forts. UU7)</note>
-        <note xml:id="i-Q3G6se5wiaAEvrj3fpvKui" type="speaker">Anf. 74 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-KzyuxRzNU2GWBnVJK4KgnH" type="speaker">Anf. 75 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-8DqRb48uWx5ougZ2hG4821" type="speaker">Anf. 76 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-WDuPmsDp5DyNqu86KPtHfq" type="speaker">Anf. 77 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-26MkkZfzQ9CdbFoPSKDm2Z" type="speaker">Anf. 78 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-8KcZD3kLQ4WPfp1QefhG3c" type="speaker">Anf. 79 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-KgHgu3PaQREHmtpV4VaaWR" type="speaker">Anf. 80 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-3UPuDjRhcBUwoDb8N8HGbp" type="speaker">Anf. 81 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-6ioHy2fbdQFqFCXznr2qW9">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-8pQjxkvUmgLHSbtXUwjzUS">§ 10 Europarådet</note>
-        <note xml:id="i-EoKRz5HZoKXjh3uaRSQGsR">Utrikesutskottets betänkande 2019/20:UU8</note>
-        <note xml:id="i-MjTwvNEdr7ijWKPUmi6cjr" type="speaker">Anf. 82 KERSTIN LUNDGREN (C)</note>
-        <note xml:id="i-8qbESfGCbfxmmBYzF5LBmD" type="speaker">Anf. 83 CARINA OHLSSON (S)</note>
-        <note xml:id="i-M2iXBjE5cZn8PWtdw1rCXz" type="speaker">Anf. 84 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-6WxmnP4wXWpmtvmQymKDcZ" type="speaker">Anf. 85 CARINA OHLSSON (S) replik</note>
-        <note xml:id="i-Qk3DvbbyiyvCfjJ1yCGygw" type="speaker">Anf. 86 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-z6u83fjeZiCZZ8WgVU2BH" type="speaker">Anf. 87 CARINA OHLSSON (S) replik</note>
-        <note xml:id="i-LnyB1fgY75HJ2RakoHY6X1">(forts. § 12)</note>
-        <note xml:id="i-XmgaUwc33SUnR5GYAAaqdg">Ajournering</note>
-        <note xml:id="i-Rm9bxumqxvJcssHspkdTeo">Återupptaget sammanträde</note>
-        <note xml:id="i-J5NkFTZExsbmwPtWHzYtsS">§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-QiXysPB9bDzPx7QSceCWG2">SoU22 Senarelagt införande av nationell läkemedelslista och bastjänstgöring för läkare</note>
-        <note xml:id="i-3rDaUaLR8RAxkDu1H1EbkK">SoU23 Ändrade övergångsbestämmelser när det gäller medicintekniska produkter</note>
-        <note xml:id="i-84VBaXHxYZ2bPF1d2sSkX1">CU28 Personligt betalningsansvar i aktiebolag</note>
-        <note xml:id="i-VLF9oAHJB9GMdrrpw6y4Dv">CU29 Fler tillfälliga åtgärder för att underlätta genomförandet av bolags- och föreningsstämmor</note>
-        <note xml:id="i-3DBLgD4dBxSi5CANxzN1na">UU7 Organisationen för säkerhet och samarbete i Europa (OSSE)</note>
-        <note xml:id="i-4uTjkw179GJuayTWoJKhoc">§ 12 (forts. från § 10) Europarådet (forts. UU8)</note>
-        <note xml:id="i-7WcfxiMDM18PZK7VRJyNQR" type="speaker">Anf. 88 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-LcUQTjgMbu1oDbhh7aT33e" type="speaker">Anf. 89 MARKUS WIECHEL (SD)</note>
-        <note xml:id="i-pADLRPe87XE3T7t2xk9ot" type="speaker">Anf. 90 LOTTA JOHNSSON FORNARVE (V)</note>
-        <note xml:id="i-V9XW39tkwEngYrjusUcmma" type="speaker">Anf. 91 ROBERT HALEF (KD)</note>
-        <note xml:id="i-V1dmAcbYfvwMTVhUkuXJm1" type="speaker">Anf. 92 JOAR FORSSELL (L)</note>
-        <note xml:id="i-SaEtvzrwz9LvQxZ6pydevP">(Beslut skulle fattas den 27 maj.)</note>
-        <note xml:id="i-DF1feMFscnTjrr2MqLFttG">§ 13 Förbättringar för barn inom den psykiatriska tvångsvården</note>
-        <note xml:id="i-NvrUARXZfN7v1bjcbsfYyQ">Socialutskottets betänkande 2019/20:SoU15</note>
-        <note xml:id="i-6uKBKE9MKRWsJKmCr5XG15" type="speaker">Anf. 93 ACKO ANKARBERG JOHANSSON (KD)</note>
-        <note xml:id="i-9yqNQYm7D1NubqkDXLGCrb" type="speaker">Anf. 94 MARKUS WIECHEL (SD)</note>
-        <note xml:id="i-CbdH8trLWCCFmTNHtWUpQD" type="speaker">Anf. 95 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-MX8tSbiCJNcWnCbBym8Crp" type="speaker">Anf. 96 DAG LARSSON (S)</note>
-        <note xml:id="i-8eBthiRZxjHrYu3bPREtSx" type="speaker">Anf. 97 JOHAN HULTBERG (M)</note>
-        <note xml:id="i-2AtXtCuRTiPiHW93LKYvYQ" type="speaker">Anf. 98 SOFIA NILSSON (C)</note>
-        <note xml:id="i-U4qzgyseLxtLycJNwSo2Dd" type="speaker">Anf. 99 LINA NORDQUIST (L)</note>
-        <note xml:id="i-8hyow8SKv1McFBK7iRgnwd">(Beslut skulle fattas den 27 maj.)</note>
-        <note xml:id="i-TC7YfuewtcnKmNMuyRRtS4">§ 14 Anmälan och beslut om omedelbar hänvisning av ärende till utskott samt beslut om förkortad motionstid</note>
-        <note xml:id="i-SbmT9ouRzgXuMHu3VPJ1TW">§ 15 Anmälan om interpellation</note>
-        <note xml:id="i-CaNqF2CuTrE96jMqijXuo2">§ 16 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-8SHdaYWrDnr7XK3dmySoZH">§ 17 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-3cwt2ZN2BodxVszKQUEevg">§ 18 Kammaren åtskildes kl. 17.16.</note>
-        <note xml:id="i-3B4yQDaQ3WAsUoS6q4BMfj">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

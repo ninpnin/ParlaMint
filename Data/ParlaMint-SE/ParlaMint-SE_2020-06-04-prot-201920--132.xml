@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 132 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 132 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--132">2019/20--132</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LpDNCQhpzNo8CjVP1jPVyb">§ 1 Justering av protokoll</head>
         <note xml:id="i-PozrRU3r943mmM2JDXoyjY">Protokollet för den 14 maj justerades.</note>
       </div>
@@ -409,7 +410,7 @@
       <div type="debateSection">
         <head xml:id="i-MVuk5dDsffXERcAdiFRbZE">§ 5 Frågestund</head>
         <note type="speaker" xml:id="i-QyQbCZwtE2KbYLgHQ71AeV">Anf. 25 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-R5FiM8KXfkCV6t9YX7TPKT" who="#unknown" ana="#regular">
+        <u xml:id="i-R5FiM8KXfkCV6t9YX7TPKT" ana="#regular">
           <seg xml:id="i-TKoaByKYqATmNAkyyNRC9j">Jag vill hälsa statsråden välkomna. Frågor besvaras i dag av statsrådet Per Bolund, försvarsminister Peter Hultqvist, statsrådet Ardalan Shekarabi och statsrådet Matilda Ernkrans.</seg>
           <seg xml:id="i-VoQR7NeCqnhQptF9w8ERKh">En fråga ska vara av övergripande och allmänpolitiskt slag eller avse ett ämne som faller inom statsrådets ansvarsområde och rör dennes tjänste ­ utövning. Statsrådet Per Bolund besvarar såväl allmänpolitiska frågor som frågor inom sitt eget ansvarsområde.</seg>
           <seg xml:id="i-S7Ry7Gb5CBdZEZuvHTFUAA">Militärt samarbete med Finland och en svensk Natooption</seg>
@@ -967,7 +968,7 @@
         <note xml:id="i-AJ48Gg1wjG45Xia4FRHQQE">Återupptaget sammanträde</note>
         <note xml:id="i-AETfz4VqnVPJuNNDLTt2bM">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CwmtPZJgNoSJ8epRGJpZxp">§ 8 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-2gqrqVbNvrVoDU7uTGgSaF">TU13 Användningsförbud och avskyltning av fordon med obetalda felparkeringsavgifter</note>
         <note xml:id="i-KJHkVhhhZX1P2cA3wurZK3">Punkt 1</note>
@@ -1270,7 +1271,7 @@
           <seg xml:id="i-B7pDnC6JhcXYyd6u9uDmRe">Vi står bakom alla våra reservationer, men jag yrkar bifall endast till reservation 28.</seg>
         </u>
         <note type="speaker" xml:id="i-Pr4Mfr8p5SSGqGT7rHLiR4">Anf. 117 TALMANNEN:</note>
-        <u xml:id="i-e9b061d95d78b1fb-657" who="#unknown" ana="#regular">
+        <u xml:id="i-e9b061d95d78b1fb-657" ana="#regular">
           <seg xml:id="i-U132Txi8s5tAzaUbyTe6A">Jag tänker på detta med vårdat språk. Det kan förstås finnas olika bedömningar av det, men det är bra att undvika svordomar i talarstolen i kammaren.</seg>
         </u>
         <note type="speaker" xml:id="i-7JGGno4Q8rJDNgXSUBqqRi">Anf. 118 CECILIA ENGSTRÖM (KD):</note>
@@ -1584,7 +1585,7 @@
         <note xml:id="i-76XKXVCvFpaGj2FxFbkaNP">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-KzhL1XKG7bqVFfTN7Mo94z">(Beslut skulle fattas den 10 juni.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HaYqxwTSr86Jc98GuqGr2T">§ 13 Bordläggning och beslut om förkortad motionstid</head>
         <note xml:id="i-9gvSEwXsbRQfgmTJgx2EHB">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-7SHwLn9Sv5LRdFunaSLjpw">Proposition</note>
@@ -1605,7 +1606,7 @@
         <note xml:id="i-54bScKdqcQWzQz53FY7Btk">COM(2020) 460 Ändrat förslag till Europaparlamentets och rådets förordning om inrättande av Fonden för en rättvis omställning</note>
         <note xml:id="i-HooG42Mz1B4Y8VhmuccZTe">COM(2020) 461 Förslag till Europaparlamentets och rådets förordning om ändring av förordning (EG) nr 1257/96 av den 20 juni 1996 om humanitärt bistånd</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KRDdanPa46Hh8tU4BsKvBG">§ 14 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-A1mTFomW48UmTeSDXozn4U">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-3oqjai1LFKqcn5kETuDkJj">den 3 juni</note>
@@ -1697,7 +1698,7 @@
         <note xml:id="i-6KN9oCBFaHxvut6YvyxJex">av Emma Hult (MP)</note>
         <note xml:id="i-Cuapao97rrH2oacaGFEtre">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FgiFVd3Qx8b4njqD1ed8ih">§ 15 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-MfL5H3ykZBM9bzjCig8Wq4">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-21cnuvay9uDPteuca5Luri">den 3 juni</note>
@@ -1859,7 +1860,7 @@
         <note xml:id="i-TBXLBoWKGH4N2GXJLwoe2o">Återupptaget sammanträde</note>
         <note xml:id="i-FTc2fXPFGYhsL3zwr3mR7a">§ 5 Frågestund</note>
         <note xml:id="i-G5vrMAAzFprF5j58N9vm5J" type="speaker">Anf. 25 FÖRSTE VICE TALMANNEN</note>
-        <u xml:id="i-e9b061d95d78b1fb-903" who="#unknown" ana="#regular">
+        <u xml:id="i-e9b061d95d78b1fb-903" ana="#regular">
           <seg xml:id="i-Fbif9nVqPUNfc25PNCGH8u">Militärt samarbete med Finland och en svensk Natooption</seg>
         </u>
         <note xml:id="i-HRUTUBi7pg94TQnDtMaVsC" type="speaker">Anf. 26 PÅL JONSON (M)</note>
@@ -1997,7 +1998,7 @@
         <note xml:id="i-NTqu68AG5sumtbqdUgzaLR" type="speaker">Anf. 120 JON THORBJÖRNSON (V)</note>
         <note xml:id="i-UMTRLJFus8cYg2Yc7Lah5x">(Beslut skulle fattas den 10 juni.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QjdfKN8KSx933aBEErLMi5">§ 12 Kompetensförsörjning och prioriteringar inom hälso ‑ och sjukvården m.m.</head>
         <note xml:id="i-AvAoTCfNTM9n6e538RbQxK">Socialutskottets betänkande 2019/20:SoU12</note>
         <note xml:id="i-6BnjL3HBSHWsyxaBxyVGY1" type="speaker">Anf. 121 ACKO ANKARBERG JOHANSSON (KD)</note>
@@ -2028,7 +2029,7 @@
         <note xml:id="i-855KNqNbiDmGyJ1eDv6Vor">§ 14 Anmälan om frågor för skriftliga svar</note>
         <note xml:id="i-5RDNCy1zHW39XSCnSjVWxN">§ 15 Anmälan om skriftliga svar på frågor</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FxMAyvcCyVzsJXCNtRYKxL">§ 16 Kammaren åtskildes kl. 18.42.</head>
         <note xml:id="i-XotpniJhxk6JwW9CkRZfhh">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>

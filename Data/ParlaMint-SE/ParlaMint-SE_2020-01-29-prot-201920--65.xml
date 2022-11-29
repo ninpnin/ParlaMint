@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 65 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 65 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--65">2019/20--65</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,12 +75,12 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VgakR9FzHLaTtomuTJYRo4">§ 1 Avsägelse</head>
         <note xml:id="i-FtcQpSiTjrYhi4SkbYrVDV">Andre vice talmannen meddelade att Ann-Sofie Lifvenhage (M) avsagt sig uppdragen som suppleant i trafikutskottet och i näringsutskottet.</note>
         <note xml:id="i-MeJPUhc7Ga3UUcDw8rv6s3">Kammaren biföll dessa avsägelser.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3QzpoUQVMfR7LwKGiazTCq">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-AVT41aE23dj9E9ZMvPgb5s">Andre vice talmannen meddelade</note>
         <note xml:id="i-QuMA9ec7ZazBTKqa9L2KjY">att Moderaternas riksdagsgrupp anmält Ann-Sofie Lifvenhage som suppleant i skatteutskottet, i arbetsmarknadsutskottet och i EU-nämnden, Ida Drougge som suppleant i civilutskottet och i EU-nämnden, Marléne Lund Kopparklint som suppleant i trafikutskottet och Helena Antoni som suppleant i näringsutskottet samt</note>
@@ -102,23 +103,23 @@
         <note xml:id="i-CpzyNWc1WmCaEAHjhW7gUv">Ida Drougge (M)</note>
         <note xml:id="i-Hnjmg5cjkt7ETbFd76khYo">Ann-Sofie Lifvenhage (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4sYcZjAqD9cSmH2kjmXVJk">§ 3 Utökning av antalet suppleanter</head>
         <note xml:id="i-e1awM5xfxEAc3rrKwV9D8">Valberedningen hade, enligt ett till kammaren inkommet protokollsutdrag, tillstyrkt att antalet suppleanter i miljö- och jordbruksutskottet skulle utökas från 28 till 29.</note>
         <note xml:id="i-5gFymgA1corjuwyDNgfVAT">Kammaren medgav denna utökning.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QswZ4BTqw9Hfk6sVufE7ZJ">§ 4 Val av extra suppleant</head>
         <note xml:id="i-JurZuPuTT8WVfTz8pT78Qq">Val av extra suppleant i miljö- och jordbruksutskottet företogs.</note>
         <note xml:id="i-36t6oJgDQbnVAqjDEoVjrw">Kammaren valde i enlighet med valberedningens förslag till</note>
         <note xml:id="i-YPqaaGmrDBasGCH7rGgEpC">suppleant i miljö- och jordbruksutskottet</note>
         <note xml:id="i-3yUFAZCmw9jWLz1ujp1uTQ">Helena Antoni (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KE5YEy4xv7tM6gHpU811ey">§ 5 Meddelande om utrikespolitisk debatt</head>
         <note xml:id="i-XGjfgmLCi2fWJvNjo2jYfn">Andre vice talmannen meddelade att utrikespolitisk debatt skulle äga rum onsdagen den 1 2 februari kl. 9.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HT6HAEADKwjbmBMEwC2qdk">§ 6 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-4wPrehnFbM82TPTmDtMgLa">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-5tjoExjimmcbAzf4c2kjTV">Interpellation 2019/20:261</note>
@@ -170,14 +171,14 @@
         <note xml:id="i-GwKkuUkaX7gTzdiT8vW63i">Catharina Nordlander</note>
         <note xml:id="i-SUrAhmpREcvWFEzqjVKk4x">Rättschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6ksvArTdDQFAc5qFBdc3MQ">§ 7 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-2MpGVsEQZ4FSQCrfuVh8Kr">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Hvohqgq1vix3CUhE8isQ62">Propositioner</note>
         <note xml:id="i-P2C7ydpAzReusqgu76ShtX">2019/20:69 till justitieutskottet</note>
         <note xml:id="i-EMdSQrDKEZB4kwNYxAhooF">2019/20:78 till finansutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HBgtombwTu4CzkkRSZfNyF">§ 8 Några frågor om straff för marknadsmissbruk</head>
         <note xml:id="i-SfrsYRwESrEupWcMWhyijb">Finansutskottets betänkande 2019/20:FiU31</note>
         <note xml:id="i-6C7kk2kdsoUDZafRbBaQKF">Några frågor om straff för marknadsmissbruk (prop. 2019/20:45)</note>
@@ -651,7 +652,7 @@
         <note xml:id="i-NKqJGx5Kgm1mFMD5FbUCWi">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-BeV7eaYPUPbbpmv8UbthTN">(Beslut fattades under § 14.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Eb1KhYj3MmX9ZLHLyDZCvB">§ 11 Ändring i skatteavtalet mellan Sverige och Brasilien</head>
         <note xml:id="i-7PHgw3HJj18iYaCwcwdc13">Skatteutskottets betänkande 2019/20:SkU17</note>
         <note xml:id="i-2Kg2bYRXceVVB3vNrrQNyP">Ändring i skatteavtalet mellan Sverige och Brasilien (prop. 2019/20:43)</note>
@@ -1015,7 +1016,7 @@
         <note xml:id="i-MLYkEWCFYtQVjiDwjX2uHr">Återupptaget sammanträde</note>
         <note xml:id="i-TGnvu43hKTG3wR8JV1JpjD">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-iUtXqDA4akzLeZovGx4Sa">§ 14 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-7hsafunLx57We6Ra42u8Gm">FiU31 Några frågor om straff för marknadsmissbruk</note>
         <note xml:id="i-Cj5qUkdoV5XS6itLHeJ9pP">Kammaren biföll utskottets förslag.</note>
@@ -1170,14 +1171,14 @@
         <note xml:id="i-6UAf79rMQhT3Wvydwm4p2T">Övriga punkter</note>
         <note xml:id="i-EaUSfmbN5zp1n7FjGjz5H9">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FXFmCZ98xYmdyWx7XrbmbW">§ 15 Bordläggning</head>
         <note xml:id="i-5CeQx5gvbVt9UjZL5nfdwr">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-2sYPrEi1YUPuqQZ16WmpuS">Skrivelser</note>
         <note xml:id="i-DL3oQYBqk3JePAJ1jFZRBm">2019/20:66 Redovisning av verksamheten i Internationella utvecklingsfonden 2019</note>
         <note xml:id="i-NoBo8MVMka5WaPcTCh93TY">2019/20:71 Riksrevisionens rapport om stöd till renovering och energieffektivisering</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UZETRjBxpK7TLupKpraxNS">§ 16 Anmälan om interpellation</head>
         <note xml:id="i-2bkNvFr1RkUKh7Xmec92XJ">Följande interpellation hade framställts:</note>
         <note xml:id="i-DogkyZHzCMTv2fTZdkSJMk">den 28 januari</note>
@@ -1185,7 +1186,7 @@
         <note xml:id="i-FK1Pph8CkRuQmTp3zARyzR">av Ann-Sofie Alm (M)</note>
         <note xml:id="i-LEfywx46AxhTABzhdXanog">till utbildningsminister Anna Ekström (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SUiWwajWwU7You9kGPWjBt">§ 17 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-AqM6TdG9bCy655cuyUWqHz">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-KzrkNzCTcFuUCLd5SW3fXZ">den 28 januari</note>
@@ -1211,7 +1212,7 @@
         <note xml:id="i-V21xnL24YomVDck82cfR6">av Åsa Coenraads (M)</note>
         <note xml:id="i-3vAJ28huHEJ8cSqZJCU8nx">till finansminister Magdalena Andersson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MDxZ2o18YHxmvbeDwnPWF1">§ 18 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-UfqWNk95ADBZAgYDkNPu3T">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-92QDcjrEyLEVw1JYrERsJS">den 29 januari</note>
@@ -1222,120 +1223,13 @@
         <note xml:id="i-UmrUFKWfiDLP6oPE9qeTSj">av Tobias Andersson (SD)</note>
         <note xml:id="i-3zMdN4APiQSX891e6DGKs6">till statsrådet Anna Hallberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GkFFEmMS2f8kjrX3mw1mxf">§ 19 K a mmaren åtskildes kl. 16.11.</head>
         <note xml:id="i-SNkAZoY1EyuyJc6CpzhVKA">Sammanträdet leddes</note>
         <note xml:id="i-WQDH1VFjzfdv6UwNjhnFJx">av andre vice talmannen från dess början till och med § 10 anf. 38 (delvis) och</note>
         <note xml:id="i-8baG4nFE3H8kJLyGmSzndj">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-CQueSwbcczMmWgqGGHfgyn">Vid protokollet</note>
         <note xml:id="i-AGzSisw7JYssvRHr7op3Tt">ANNA ASPEGREN</note>
-        <note xml:id="i-h2RaWxdiCU5Wu41svH4hZ">/Olof Pilo</note>
-        <note xml:id="i-3w9HrjNZYb5PLdFthHaJAX">Innehållsförteckning</note>
-        <note xml:id="i-8tbJh2i4rv7BmNGYFtjBd7">§ 1 Avsägelse</note>
-        <note xml:id="i-4oa3jfdGFdNinTL3bnZVwq">§ 2 Anmälan om kompletteringsval</note>
-        <note xml:id="i-GFjDYujEHQQJvSjE6YS9pd">§ 3 Utökning av antalet suppleanter</note>
-        <note xml:id="i-FzGKxGb4ZRCFDFH5MrE7Yh">§ 4 Val av extra suppleant</note>
-        <note xml:id="i-8JHpzvNDtvsPoX54ZeQVgV">§ 5 Meddelande om utrikespolitisk debatt</note>
-        <note xml:id="i-2tEgwH5kWCFJAs79bzKdE4">§ 6 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-8sZn7GKwv7jSj27jcn7g2U">§ 7 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-V7MR33cP2fdGqEYJUbn8PV">§ 8 Några frågor om straff för marknadsmissbruk</note>
-        <note xml:id="i-X9g2zdFbNW9jLw2sUexkb8">Finansutskottets betänkande 2019/20:FiU31</note>
-        <note xml:id="i-VnYvnoCD13bLk2CVVAZxj4">(Beslut fattades under § 14.)</note>
-        <note xml:id="i-P82EZuCEK8pXxxBn19S2HU">§ 9 Tullverket</note>
-        <note xml:id="i-AXW9LyTn66oKb8C1Kt2Mzf">Skatteutskottets betänkande 2019/20:SkU7</note>
-        <note xml:id="i-WkDn7Fv3XXQuPEaiw1xN2N" type="speaker">Anf. 1 HELENA BOUVENG (M)</note>
-        <note xml:id="i-3V5aNkV25z9WyNo65WEgC6" type="speaker">Anf. 2 DAVID LÅNG (SD)</note>
-        <note xml:id="i-APTBYtyvoDXHjWmeoVxa7o" type="speaker">Anf. 3 MARCUS JONSSON (KD)</note>
-        <note xml:id="i-5yurJmyCKoqSNiA5vQLUfq" type="speaker">Anf. 4 PATRIK LUNDQVIST (S)</note>
-        <note xml:id="i-H5k2yPzwjVJc6WgSqqCnjY" type="speaker">Anf. 5 HELENA BOUVENG (M) replik</note>
-        <note xml:id="i-PmDdjTuwVdQCjY11Kahm8i" type="speaker">Anf. 6 PATRIK LUNDQVIST (S) replik</note>
-        <note xml:id="i-4fKT4iLYA4GGz7fS7i1QVv" type="speaker">Anf. 7 HELENA BOUVENG (M) replik</note>
-        <note xml:id="i-MyREqUhfU3GsGXSPgmsiBY" type="speaker">Anf. 8 PATRIK LUNDQVIST (S) replik</note>
-        <note xml:id="i-HUvC1iECEDzwN3pcLjwfXc" type="speaker">Anf. 9 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-YbvZMvTjLt4WaNah9F9NaC" type="speaker">Anf. 10 HELENA BOUVENG (M) replik</note>
-        <note xml:id="i-Cqi5yE36Wx8gQMi6vRjjiZ" type="speaker">Anf. 11 HELENA VILHELMSSON (C) replik</note>
-        <note xml:id="i-8tCDX9J8uExybLTAbzNxYe" type="speaker">Anf. 12 HELENA BOUVENG (M) replik</note>
-        <note xml:id="i-89Kco6NXfKBXqUCyWsiVQN" type="speaker">Anf. 13 HELENA VILHELMSSON (C) replik</note>
-        <note xml:id="i-36WtMH3Pswh7vQ3BQE5GWF" type="speaker">Anf. 14 TONY HADDOU (V)</note>
-        <note xml:id="i-G6xPWYuYd63KaN2xUgMEJJ" type="speaker">Anf. 15 REBECKA LE MOINE (MP)</note>
-        <note xml:id="i-D8ZiF9y5oARrhhMQcDZ3iT" type="speaker">Anf. 16 JOAR FORSSELL (L)</note>
-        <note xml:id="i-ADus5hWEDf5ZZJrRK5DEsF" type="speaker">Anf. 17 TONY HADDOU (V) replik</note>
-        <note xml:id="i-V5f2FkwEV3GNdQWVLQ3uMa" type="speaker">Anf. 18 JOAR FORSSELL (L) replik</note>
-        <note xml:id="i-T1nfcSCJ7awt3QszHirNXb" type="speaker">Anf. 19 TONY HADDOU (V) replik</note>
-        <note xml:id="i-4ydGdagdAWp1PuV7x8uTNT" type="speaker">Anf. 20 JOAR FORSSELL (L) replik</note>
-        <note xml:id="i-Bc9UMjV3EfyyCnBHhcp6Y5">(Beslut fattades under § 14.)</note>
-        <note xml:id="i-B2iiTezMHV8DiviS3nr71E">§ 10 Skatt på plastbärkassar</note>
-        <note xml:id="i-GFTX8rMkdTqKt6vST7XzjQ">Skatteutskottets betänkande 2019/20:SkU13</note>
-        <note xml:id="i-RB8vQn1tWS3z4ns3tAn39g" type="speaker">Anf. 21 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-DnzZgHLSG6TtxWVKRWSQNr" type="speaker">Anf. 22 ANNE OSKARSSON (SD)</note>
-        <note xml:id="i-6SXUF6v823ka3vpaqjGChm" type="speaker">Anf. 23 HILLEVI LARSSON (S)</note>
-        <note xml:id="i-W5uKQmzfqeercL7fMhke4B" type="speaker">Anf. 24 NIKLAS WYKMAN (M) replik</note>
-        <note xml:id="i-6hMEJeh6dKd8LYq87F7qiS" type="speaker">Anf. 25 HILLEVI LARSSON (S) replik</note>
-        <note xml:id="i-72ZyWtVvWZ8GPpnMvA3R7T" type="speaker">Anf. 26 NIKLAS WYKMAN (M) replik</note>
-        <note xml:id="i-2Fw6EWgdyHaKajeZg94ooV" type="speaker">Anf. 27 HILLEVI LARSSON (S) replik</note>
-        <note xml:id="i-79uKUuJR6xzzGW69t4nVJz" type="speaker">Anf. 28 ANNE OSKARSSON (SD) replik</note>
-        <note xml:id="i-KA24daPoiQXn726dGtGaUz" type="speaker">Anf. 29 HILLEVI LARSSON (S) replik</note>
-        <note xml:id="i-AXsUFrSjjXhX5vAeu75V5Y" type="speaker">Anf. 30 ANNE OSKARSSON (SD) replik</note>
-        <note xml:id="i-YPvtYFNnJJgqGKk4BH2noF" type="speaker">Anf. 31 HILLEVI LARSSON (S) replik</note>
-        <note xml:id="i-F1JcXWjHtWRPmmY9yDUgr2" type="speaker">Anf. 32 PER ÅSLING (C)</note>
-        <note xml:id="i-QoHSRLSNQAj9g57d1RxfJs" type="speaker">Anf. 33 NIKLAS WYKMAN (M) replik</note>
-        <note xml:id="i-3jS7pWdzwHx95Aho1Nrs7A" type="speaker">Anf. 34 PER ÅSLING (C) replik</note>
-        <note xml:id="i-NtVKfCcPhfNvXc7hrAhVCG" type="speaker">Anf. 35 NIKLAS WYKMAN (M) replik</note>
-        <note xml:id="i-Pa3xBMuXmmvHMnFs3UEwah" type="speaker">Anf. 36 PER ÅSLING (C) replik</note>
-        <note xml:id="i-uYU3EDqgiEzyvavpchQpY" type="speaker">Anf. 37 ANDREAS LENNKVIST MANRIQUEZ (V)</note>
-        <note xml:id="i-FZnCx64ZDgM18GqAHvSbah" type="speaker">Anf. 38 MARCUS JONSSON (KD)</note>
-        <note xml:id="i-MXdBUSFSvoYNqADAvyxFns" type="speaker">Anf. 39 JOAR FORSSELL (L)</note>
-        <note xml:id="i-C3a96EvHVTpwgBEKEr5omT" type="speaker">Anf. 40 REBECKA LE MOINE (MP)</note>
-        <note xml:id="i-FwvR3jEbBCT5cCy2Xdz9uF">(Beslut fattades under § 14.)</note>
-        <note xml:id="i-NmfMGeCqXoTpnneaEuuJDd">§ 11 Ändring i skatteavtalet mellan Sverige och Brasilien</note>
-        <note xml:id="i-4nwMC2tXKbNcj81TxPHiDd">Skatteutskottets betänkande 2019/20:SkU17</note>
-        <note xml:id="i-KMx7bww8m6MSc1kpAv9h29">(Beslut fattades under § 14.)</note>
-        <note xml:id="i-ErAonrYbSBS8vg4r1NAAhM">§ 12 Studiestöd</note>
-        <note xml:id="i-CCbzG9rmSq3NK2tCPK9qDe">Utbildningsutskottets betänkande 2019/20:UbU9</note>
-        <note xml:id="i-Qf9dKFNLeTiFt9cawgEd9B" type="speaker">Anf. 41 MARIE-LOUISE HÄNEL SANDSTRÖM (M)</note>
-        <note xml:id="i-UX84yEE4oikFPNZLfkV1FV" type="speaker">Anf. 42 PIA NILSSON (S)</note>
-        <note xml:id="i-5a9p8qjLLiaecjsUmdtmKe" type="speaker">Anf. 43 MATS BERGLUND (MP)</note>
-        <note xml:id="i-Gi6Ey2jc5EaVr2ncVhaStN">(Beslut fattades under § 14.)</note>
-        <note xml:id="i-3K7sQQe5bmsyb8j5gi4SXq">§ 13 It- och postfrågor</note>
-        <note xml:id="i-G6GGUa1vob3gsBNkcunctU">Trafikutskottets betänkande 2019/20:TU5</note>
-        <note xml:id="i-DCykSeb5QXCkymvCRrZ6vN" type="speaker">Anf. 44 ANDERS HANSSON (M)</note>
-        <note xml:id="i-DSvUYk4o5Ai15bvcErbQjm" type="speaker">Anf. 45 JIMMY STÅHL (SD)</note>
-        <note xml:id="i-4jvYRFrFoFDaz5q7Rnc1Y1" type="speaker">Anf. 46 MIKAEL LARSSON (C)</note>
-        <note xml:id="i-XjLRiEMwFWPDf9XZNAEPcE" type="speaker">Anf. 47 JESSICA THUNANDER (V)</note>
-        <note xml:id="i-CFPz7cAWNgNgAyGCHV9Psg" type="speaker">Anf. 48 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-BSk6fTFsrdGywLmMzwrD8Y" type="speaker">Anf. 49 HELENA GELLERMAN (L)</note>
-        <note xml:id="i-7BZCWmqoqnT2BJEKmHTx8R" type="speaker">Anf. 50 DENIS BEGIC (S)</note>
-        <note xml:id="i-J27uLcdHZoNcig1ioqKZMS" type="speaker">Anf. 51 JIMMY STÅHL (SD) replik</note>
-        <note xml:id="i-5x4WUDe822g43B6rUPHhKA" type="speaker">Anf. 52 DENIS BEGIC (S) replik</note>
-        <note xml:id="i-6D23SwKvDe5WfNeod8RJy6" type="speaker">Anf. 53 JIMMY STÅHL (SD) replik</note>
-        <note xml:id="i-83gFtxzR6UBQ563PJbXtGH" type="speaker">Anf. 54 DENIS BEGIC (S) replik</note>
-        <note xml:id="i-Sqqi6nMVrpFdrrc6AuUz7Z" type="speaker">Anf. 55 ANDERS HANSSON (M) replik</note>
-        <note xml:id="i-9FrUWRqFgdxgHXgNCXExU9" type="speaker">Anf. 56 DENIS BEGIC (S) replik</note>
-        <note xml:id="i-9XB5oRUkArAeYsYWkqwU5x" type="speaker">Anf. 57 ANDERS HANSSON (M) replik</note>
-        <note xml:id="i-SH72v1yhzUPSmKfBac7Pkm" type="speaker">Anf. 58 DENIS BEGIC (S) replik</note>
-        <note xml:id="i-VSgvnTGebVxeBmZSLRuRWy" type="speaker">Anf. 59 MAGNUS JACOBSSON (KD) replik</note>
-        <note xml:id="i-GLob7UeFKRbG8tkgvvFda9" type="speaker">Anf. 60 DENIS BEGIC (S) replik</note>
-        <note xml:id="i-Mwoz4EeLtpRcX3RM9ieRYG" type="speaker">Anf. 61 MAGNUS JACOBSSON (KD) replik</note>
-        <note xml:id="i-C3m4SEjLuP2dAauRLyftLh" type="speaker">Anf. 62 DENIS BEGIC (S) replik</note>
-        <note xml:id="i-NrhmHne7jSspZcqXpCFqyF" type="speaker">Anf. 63 EMMA BERGINGER (MP)</note>
-        <note xml:id="i-8nxKoQBCao2CitfXNm51Aa">(Beslut fattades under § 14.)</note>
-        <note xml:id="i-9vwiGz3CCZoWG8xjojVHJW">Ajournering</note>
-        <note xml:id="i-KDnr9hPQEgAMjQ1PS2PAnz">Återupptaget sammanträde</note>
-        <note xml:id="i-X6LQJTN6zfy7xQmLJZsSJ3">§ 14 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-LL1cnxB8vBpAxZYQbxQXdE">FiU31 Några frågor om straff för marknadsmissbruk</note>
-        <note xml:id="i-4SA9wzU9URDaAvsCWDUsR2">SkU7 Tullverket</note>
-        <note xml:id="i-76hZmJc2eHzuRsGfW6F7MS">SkU13 Skatt på plastbärkassar</note>
-        <note xml:id="i-PXkHrgTTXxxk3xEjt3Enox">SkU17 Ändring i skatteavtalet mellan Sverige och Brasilien</note>
-        <note xml:id="i-N6YHpVgX5ThVzr9BJWm37P">UbU9 Studiestöd</note>
-        <note xml:id="i-WEDFbawVNUKnV8wzzSEDue">TU5 It- och postfrågor</note>
-        <note xml:id="i-8uoySdsc7wMpdaTyjMuVyG">§ 15 Bordläggning</note>
-        <note xml:id="i-NP7d3v7CMYeSonHSm3bon2">§ 16 Anmälan om interpellation</note>
-        <note xml:id="i-FvUvy5JKGSYYpE9vZBxnoe">§ 17 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-VFeDuC1KWnophizP9wUXTR">§ 18 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-TpjT27RLccyZWqWy7bPmAM">§ 19 Kammaren åtskildes kl. 16.11.</head>
-        <note xml:id="i-PUfER2zvGBrnmG9xjrd4D3">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

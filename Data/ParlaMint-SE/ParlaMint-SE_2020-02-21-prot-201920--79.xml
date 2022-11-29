@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 79 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 79 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--79">2019/20--79</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UwAnGkGojkHTUTMe4r8XQX">§ 1 Anmälan om ny riksdagsledamot</head>
         <note xml:id="i-KxZDdKFmKEgwYSoBj4gCbE">Följande berättelse hade kommit in från Valprövningsnämnden:</note>
         <note xml:id="i-JaxeV2UJ5QTVBf4aqRgxDg">Berättelse om granskning av bevis för ny ledamot av riksdag en</note>
@@ -85,32 +86,32 @@
         <note xml:id="i-Krdcin4Jibcb2i6txW92LR">ersättare för ordförande n / Agota Földes</note>
         <note xml:id="i-GWpEXvq4VGseiWJcRBVSTt">sekreterare</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-26aZQBEAW5FK9nh8YGcPtB">§ 2 Ansökan om ledighet</head>
         <note xml:id="i-4LiaJ5dpukBdRkB1J7xdgw">Tredje vice talmannen meddelade att David Perez (SD) ansökt om ledighet under tiden den 29 februari 2020–28 februari 2021.</note>
         <note xml:id="i-FCJSoQm8L8pfics9hq7bH9">Kammaren biföll denna ansökan.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YMEqfiaGapjs3um2Ez3VMp">§ 3 Anmälan om ersättare</head>
         <note xml:id="i-HxnbLvcrF1JxcTdeum2duq">Tredje vice talmannen anmälde att Monika Lövgren (SD) skulle tjänstgöra som ersättare för David Perez (SD) under tiden för hans ledighet den 29 februari 2020–28 februari 2021 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3VmxruraGozri58np3ACpq">§ 4 Avsägelse</head>
         <note xml:id="i-T6TZV9mmLni7ZuMkZ9UXHP">Tredje vice talmannen meddelade att Alexandra Anstrell (M) avsagt sig uppdraget som suppleant i utrikesutskottet.</note>
         <note xml:id="i-At1BgYPtxcrjrGMCmvPFPG">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-pHAz8W7nj4T6LbWe95Qqv">§ 5 Anmälan om kompletteringsval</head>
         <note xml:id="i-7G1g5HHZ4m8zUTKFnYNS6U">Tredje vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Jessika Roswall som suppleant i utrikesutskottet .</note>
         <note xml:id="i-LBQsrs9mtQrZTwg5JJf4RD">Tredje vice talmannen förklarade vald till</note>
         <note xml:id="i-T2YE5fyFfDiiW2fXYMgoCD">suppleant i utrikesutskottet</note>
         <note xml:id="i-CNbkRedon54MCDt9Dcs25x">Jessika Roswall (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EMGm4qrKJUhqVcmmSAghJe">§ 6 Meddelande om återrapportering från Europeiska rådets möte</head>
         <note xml:id="i-H75XmxNZ41H11EGM7vr9tz">T redje vice t almannen meddelade att tisdagen den 3 mars kl. 1 3 .00 skulle återrapportering från Europeiska rådets möte den 20 – 21 februari äga rum.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MYDwpUj2QGFs2tAwWm4ABr">§ 7 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-RW4EVetKhBKA656qEYaiWe">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-oYGi5ESpQhLp5JYWRwYJ3">Interpellation 2019/20:328</note>
@@ -150,17 +151,17 @@
         <note xml:id="i-8FsANvcdRWgq6Xftt2U843">Håkan Åkesson</note>
         <note xml:id="i-DzwJsq1EixHiF2a1qGKTuX">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-14PbQHRoTa1e8EcMxYUR1i">§ 8 Anmälan om faktapromemoria</head>
         <note xml:id="i-VB77qPbJcWdEoxTAZqRSRH">Tredje vice talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-B9nJJiB86HupNNH8GsNTAA">2019/20:FPM18 Förhandlingarna om ett nytt partnerskap med Storbritannien COM(2020) 35 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SUuCmNkWKrZYVytgK2w8YC">§ 9 Anmälan om granskningsrapport</head>
         <note xml:id="i-T9GP7cbg9Bux9ExHHF3sGh">Tredje vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till civilutskottet:</note>
         <note xml:id="i-YGuSUALpxhGwhoEWop5Zfs">RiR 2020:3 Konsumentskydd vid köp av nyproducerade bostadsrätter</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XqfBxPaMD4iLJSVHRnQw8Y">§ 10 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-9pNeD95Xmz7NjCFdrjAZG5">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-8EQnerdr348kG1xGnESeWz">Redogörelser</note>
@@ -296,7 +297,7 @@
         </u>
         <note xml:id="i-GKHocwnunMmudFARLfJWbo">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-E9v3kcMo9oGCSduoxHdyv2">§ 13 Anmälan om interpellationer</head>
         <note xml:id="i-Dw8G31PAX97PY4zHoG3PVo">Följande interpellationer hade framställts:</note>
         <note xml:id="i-XPx7Q2oy55PJDhNbmeHAns">den 20 februari</note>
@@ -322,7 +323,7 @@
         <note xml:id="i-WG6t2P3i8fcKvATSHvdxos">av Ellen Juntti (M)</note>
         <note xml:id="i-CvEzuBdGPPB2wMx5DsFUoY">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GfgHQXCi7wpbrTcuHcjEaM">§ 14 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-2A7u3s1XLqQTuQo3gvRiAC">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-XC5V7pDmoEJYYLWVStfoQk">den 20 februari</note>
@@ -351,7 +352,7 @@
         <note xml:id="i-4u87XxUEEQ3arkbkPMLXyP">av Johan Forssell (M)</note>
         <note xml:id="i-LPZfMKCBKUpKGpaJ8p5hwa">till statsrådet Mikael Damberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ri1egu4HzfizVTNuH2tRAS">§ 15 Anmälan om skriftligt svar på fråga</head>
         <note xml:id="i-5oi3tDp5j7539qxm1E9St9">Skriftligt svar på följande fråga hade kommit in:</note>
         <note xml:id="i-3XTmL7nK456AhtPudzNKEA">den 20 februari</note>
@@ -359,46 +360,11 @@
         <note xml:id="i-DpfrDBWycg7FrW1SB5nKUg">av Caroline Nordengrip (SD)</note>
         <note xml:id="i-FaQEeFqX1kiDo326RxHGYe">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QJVthRfsc8aQ8gkRYaTyAY">§ 16 Kammaren åtskildes kl. 9.37.</head>
         <note xml:id="i-EzteXGDHC3LdWDUmUGvLGJ">Sammanträdet leddes av tredje vice talmannen.</note>
         <note xml:id="i-Ng6T43vJDVuFvvjpHFXURM">Vid protokollet</note>
         <note xml:id="i-D2tzdyo85pqyYBZ5dQ68LD">ANNA ASPEGREN</note>
-        <note xml:id="i-EsDFD9duyjQKxzf31HcSBC">/ Olof Pilo</note>
-        <note xml:id="i-STb6w9X9hu4dLRsRdi7FXm">Innehållsförteckning</note>
-        <note xml:id="i-C7tx9Ru7eMPF8bQT7YWSAx">§ 1 Anmälan om ny riksdagsledamot</note>
-        <note xml:id="i-GCma7MaJhUZ5m7zPfArhsa">§ 2 Ansökan om ledighet</note>
-        <note xml:id="i-RgrgwTDqkMegHNEQJKYP68">§ 3 Anmälan om ersättare</note>
-        <note xml:id="i-QV4VqqqUhvujboqa3kaLJR">§ 4 Avsägelse</note>
-        <note xml:id="i-XT8VZWHsyb7u9E4nQ4hcLq">§ 5 Anmälan om kompletteringsval</note>
-        <note xml:id="i-3sVSs19Z2soXuyM8yKBT8W">§ 6 Meddelande om återrapportering från Europeiska rådets möte</note>
-        <note xml:id="i-aWM66HSQQdEhnkTqY2Q16">§ 7 Anmälan om fördröjda svar på interpellationer</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-5gxiTSfm1pqCXN5Fc4gxVF">§ 8 Anmälan om faktapromemooria</head>
-        <note xml:id="i-JPf2rCMHbGgvRBFx2GYj59">§ 9 Anmälan om granskningsrapport</note>
-        <note xml:id="i-KfBv3yjmjPDSGYZAQTsh7c">§ 10 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-C9NGNgCX5MM6thSUv63U6i">§ 11 Svar på interpellation 2019/20:332 om kunskapskravet vad gäller allemansrätten</note>
-        <note xml:id="i-DZqPqXuUrpqLSDjhsbt6bM" type="speaker">Anf. 1 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-7FgafVVVzh9CCt392R1fYZ" type="speaker">Anf. 2 CASSANDRA SUNDIN (SD)</note>
-        <note xml:id="i-LWCRJnNGfw4isF7NDzVhe" type="speaker">Anf. 3 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-LF5PwgUhiKr6ikFhByDuXa" type="speaker">Anf. 4 CASSANDRA SUNDIN (SD)</note>
-        <note xml:id="i-UGD9JGuJQr7ggXKXdd2QgR" type="speaker">Anf. 5 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-QbDs76EM9vLihPBLmcmRi3" type="speaker">Anf. 6 CASSANDRA SUNDIN (SD)</note>
-        <note xml:id="i-CYGRzqjsBpF9eyrSo6Jbp7" type="speaker">Anf. 7 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-Y8ZcmQ8JHgtercy6v8DQp3">§ 12 Svar på interpellation 2019/20:333 om forskningsstöd kring skärmtid och digitala verktyg för förskolebarn</note>
-        <note xml:id="i-J5zFjyC4e7nMqsUKBnyfEc" type="speaker">Anf. 8 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-PiWgGfE3oGRXRW7mgYRLFv" type="speaker">Anf. 9 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-Ao9ZZp7Hyec2HaCZmk7cmb" type="speaker">Anf. 10 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-EhZd27w9adVpymMaNzyJ8E" type="speaker">Anf. 11 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-A9XMnsHQqGQrcBbMavrbe1" type="speaker">Anf. 12 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-8fZLQmxUQGg5fnzfKPvRJs" type="speaker">Anf. 13 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-KEqUoc5UbyACPdBMfEA1tX" type="speaker">Anf. 14 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-Safu7P3uKji4FW7aNXxNNx">§ 13 Anmälan om interpellationer</note>
-        <note xml:id="i-K38Pw6nY4DUPkJwGC57ygW">§ 14 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-2gSBXc5nqb9qskWuU6rF8m">§ 15 Anmälan om skriftligt svar på fråga</note>
-        <note xml:id="i-GWvyGhduQEv76sKpQPt5tR">§ 16 Kammaren åtskildes kl. 9.37.</note>
-        <note xml:id="i-AF6HZCuBMPgrSL8nsPzPfg">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 23 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 23 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--23">2019/20--23</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -276,7 +277,7 @@
           <seg xml:id="i-JdvP5vkpSn2xE41uvUueh9">Samtidigt är vi tydliga med att vi vill vara nettobetalare för vi har nytta av EU. Det är alltså inte fråga om det. Vi kan dock inte ta en sådan ökning.</seg>
         </u>
         <note type="speaker" xml:id="i-8ecKbhgjuvGHGnTZzRxefj">Anf. 30 TALMANNEN:</note>
-        <u xml:id="i-4391c52c89b01e8d-104" who="#unknown" ana="#regular">
+        <u xml:id="i-4391c52c89b01e8d-104" ana="#regular">
           <seg xml:id="i-GoG5EVzpbSs7TENbgUZNE9">Innan nästa talare vill jag fästa kammarens uppmärksamhet på att vi i dag har besök från Skottlands parlament.</seg>
         </u>
         <note xml:id="i-TSQAJEZUJ55Q8Nm2kD3vbu">I would like to greet the Speaker from the Scottish Parliament, Mr Ken Macintosh, and his Delegation, a warm welcome to the Swedish Parliament.</note>
@@ -306,15 +307,15 @@
         </u>
         <note xml:id="i-QFbbWS4eke1TrAc3e2QZUa">Återrapporteringen var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RijrwbQLHHPrNoJ9uxv57d">§ 2 Justering av protokoll</head>
         <note xml:id="i-XGuRsaWwzGFZ3zZ7pE2PZL">Protokollen för den 1 och 2 oktober justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WCjHjaGaKzdKKbCvp3SVmQ">§ 3 Meddelande om statsministerns frågestund</head>
         <note xml:id="i-SSdQbxggB1xZm7DfrKxfW8">Förste vice talmannen meddelade att vid frågestunden torsdagen den 2 4 okto ber kl. 14.00 skulle frågor besvaras av statsminister Stefan Löfven (S).</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CyBiyiaEUv9RZrQJ3vPBZW">§ 4 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-GrRdyZ61roqRFrvDcbaQda">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-M8GdKQwGtDxcKBCpzfSN9L">Interpellation 2019/20:41</note>
@@ -342,14 +343,14 @@
         <note xml:id="i-AJ1wnLysSck32Xnk5GXj4D">Susanne Södersten</note>
         <note xml:id="i-XyeFnbskHikBREnqSzFozY">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5tZUrqXotEtEapFr87Hxpu">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-TqNiPKkEenvSdPPv9JGT6J">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-7yoKLAS2CDPofkAJtqqQWE">Motioner</note>
         <note xml:id="i-MRk8ARtEaikoRg7iMhw8Nc">2019/20:3395–3397, 3400 och 3402 till utrikesutskottet</note>
         <note xml:id="i-4hsyfdvauRegaH75kvum4P">2019/20:3393, 3394, 3398, 3399, 3401 och 3403 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YWzZfwTWt3ZXhPWfKG8dX6">§ 6 Ärenden för bordläggning</head>
         <note xml:id="i-8iw2AkrzQZ9Gm7sbgBevtR">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-H4q9H83MrWQtNsSQJaUMuD">Justitieutskottets betänkande</note>
@@ -467,7 +468,7 @@
           <seg xml:id="i-SUbEkE9mzikTpAuRLc1qTj">Det här är helt enkelt en sorglig situation där vi behöver ta ansvar för framtiden. Det gäller de utsläpp vi orsakar i dag, inte bara de historiska skulder vi har från 50-talet.</seg>
         </u>
         <note type="speaker" xml:id="i-LW5gfPjEG3ejqTZcKgq9iB">Anf. 42 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-4391c52c89b01e8d-191" who="#unknown" ana="#regular">
+        <u xml:id="i-4391c52c89b01e8d-191" ana="#regular">
           <seg xml:id="i-VufXCLuQaA1NE8SnM1aFk1">Jag skulle vilja påminna om att vi talar genom talmannen och inte duar och niar någon annan. Vi talar genom talmannen.</seg>
         </u>
         <note type="speaker" xml:id="i-2zKvBLi5VKxA7me2MgDGMz">Anf. 43 LARS BECKMAN (M):</note>
@@ -1040,7 +1041,7 @@
         </u>
         <note xml:id="i-Ra51DKDdbqRvBYCL3VoQaw">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2mzrBPmNemZzKfgdNtDybu">§ 15 Bordläggning</head>
         <note xml:id="i-Mfe9PoYSD3nXKiXLyu1Mcu">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-JepNuNkisT9kDPV1Wp6Uet">Propositioner</note>
@@ -1054,7 +1055,7 @@
         <note xml:id="i-4Kanxfif23NKpWiST8bWR3">2019/20:3404 av Adam Marttinen m.fl. (SD)</note>
         <note xml:id="i-NuUsMBok86vaoW45fD9PLi">2019/20:3405 av Andreas Carlson m.fl. (KD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6qn356KkQSdQKLSy3gkfvE">§ 16 Anmälan om interpellationer</head>
         <note xml:id="i-Sz9Cayy5Xec4QyCfgCu2fq">Följande interpellationer hade framställts:</note>
         <note xml:id="i-K4H9cEGq5Rx5VNqEE9iaP4">den 18 oktober</note>
@@ -1081,7 +1082,7 @@
         <note xml:id="i-HZLpsTcNbQiuZgtVJyHoJk">av Anders W Jonsson (C)</note>
         <note xml:id="i-K3etxsEADk5pE1tYh8R7ci">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-B6xyxXMdZCuq6TmUj1LZen">§ 17 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-GzudxZobZTAz4KrceNWkWT">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-7e9gUqaBJXrLuGiSFis7oD">den 18 oktober</note>
@@ -1117,7 +1118,7 @@
         <note xml:id="i-KcL8hpzwjrxWsBqSaPvr7r">av Ingela Nylund Watz (S)</note>
         <note xml:id="i-6GPp4CZpiC9PnBzPpGeP2k">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UjHgtaPAVrPjXfq56RuJKe">§ 18 Kammaren åtskildes kl. 19.23.</head>
         <note xml:id="i-7cvZRF5FKJcTUNHjgxLawK">Sammanträdet leddes</note>
         <note xml:id="i-9kft5nSM1SJRCnuqBvK45h">av talmannen från dess början till och med § 7 anf. 35 (delvis),</note>
@@ -1125,128 +1126,6 @@
         <note xml:id="i-9WzkppSDbLibGrLFS8Ky44">av tjänstgörande ålderspresidenten Tuve Skånberg därefter till dess slut.</note>
         <note xml:id="i-5Wea42nohcnZxfSUuXrWWt">Vid protokollet</note>
         <note xml:id="i-y3jqcvEWeUerttpYBGX7a">ANNA ASPEGREN</note>
-        <note xml:id="i-6YXiNCxfgp5E2aonyGSPFM">/Olof Pilo</note>
-        <note xml:id="i-XRZuTNLwAu7cPWLPtEV25P">Innehållsförteckning</note>
-        <note xml:id="i-AuzGXFWXd8sGQoBZgEu5PQ">§ 1 Återrapportering från Europeiska rådets möte</note>
-        <note xml:id="i-3zkqokxTnNHFF2hjKeN9cB" type="speaker">Anf. 1 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-Ac2YWUaVzQ3A366Vr7kSvJ" type="speaker">Anf. 2 PÅL JONSON (M)</note>
-        <note xml:id="i-QhUG9USkctjTDpM4ueYrQn" type="speaker">Anf. 3 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-4FYV2Rz5xn5cCK8uGH35DH" type="speaker">Anf. 4 PÅL JONSON (M)</note>
-        <note xml:id="i-GjpZwM1epRMXSnfKzvZW2d" type="speaker">Anf. 5 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-2L5Ju4Pu5LwDXBNRbGaE16" type="speaker">Anf. 6 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-FmsztkzL2cFrQ3evTrnDFQ" type="speaker">Anf. 7 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-QGi9cKAsWWEQG7fjKkhxZg" type="speaker">Anf. 8 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-TBBe95dMgzDY4Ay6ruVB8F" type="speaker">Anf. 9 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-7GNLozwEnYUnmm1B8wqqJ6" type="speaker">Anf. 10 ANNIKA QARLSSON (C)</note>
-        <note xml:id="i-RsQTJRB7JxBunLEwnGEgJM" type="speaker">Anf. 11 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-PvXmcYLCfHxKsoYGCV9AVn" type="speaker">Anf. 12 ANNIKA QARLSSON (C)</note>
-        <note xml:id="i-FmKSxkFDFMYEN1UZDVqTrB" type="speaker">Anf. 13 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-NDwD5RVV5GewCqNXDrJdry" type="speaker">Anf. 14 ILONA SZATMARI WALDAU (V)</note>
-        <note xml:id="i-J8zh3C5NHuU9abTmgCGXTp" type="speaker">Anf. 15 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-UU5DtgWXjR8kXp2RogXK9g" type="speaker">Anf. 16 ILONA SZATMARI WALDAU (V)</note>
-        <note xml:id="i-9nexod7NCnkFjWp1YvT2tP" type="speaker">Anf. 17 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-HPu1bKN6V1bYGQiNT44Lkk" type="speaker">Anf. 18 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-LCBzj9aKTDmXwFoB6gndbS" type="speaker">Anf. 19 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-AfcbJhSW2VcFkXKAvdUMnd" type="speaker">Anf. 20 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-5QeAzxzBSWDUnS5FQ9GfNb" type="speaker">Anf. 21 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-FNrHrwKRqvhaJGXhakxuHH" type="speaker">Anf. 22 ALLAN WIDMAN (L)</note>
-        <note xml:id="i-34XuuQEBPsUyRt5xmeUo2o" type="speaker">Anf. 23 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-CgXq4fu3mL1mGTvpPLuGvT" type="speaker">Anf. 24 ALLAN WIDMAN (L)</note>
-        <note xml:id="i-DDPvagyPu8XViyufzyK3gM" type="speaker">Anf. 25 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-EgdbT8JSkx6z9LriD1p6Nj" type="speaker">Anf. 26 ÅSA WESTLUND (S)</note>
-        <note xml:id="i-FL5cUyPJA7W3ehGCDAQ9Jt" type="speaker">Anf. 27 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-Pm5pEx6D52CRDgoZrjGgJv" type="speaker">Anf. 28 ÅSA WESTLUND (S)</note>
-        <note xml:id="i-WNkTuVnjCX6HWrLpg5qJjy" type="speaker">Anf. 29 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-KTseeWsTkHtDZWFq2usgdT" type="speaker">Anf. 30 TALMANNEN</note>
-        <note xml:id="i-PmjFwuaCBfrNuWvT7YwYP" type="speaker">Anf. 31 JESSIKA ROSWALL (M)</note>
-        <note xml:id="i-Bibo5ejpcR2gqqfkQsK7QE" type="speaker">Anf. 32 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-QUxKU9eVk4bjbHA9XwP4Hn" type="speaker">Anf. 33 JESSIKA ROSWALL (M)</note>
-        <note xml:id="i-WEUxa7NsuWG1S2tdTnE4jz" type="speaker">Anf. 34 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-61SjokodGfLjLRcaD1nBmV">§ 2 Justering av protokoll</note>
-        <note xml:id="i-HEdKYCgTdzDfY4zKn9Vau">§ 3 Meddelande om statsministerns frågestund</note>
-        <note xml:id="i-XkGrEqcfy6ics7sPbLooef">§ 4 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-KG4MPV9UKUDnYeLE8mTkBH">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-TwUSUb481kQZyRXNUp7JJT">§ 6 Ärenden för bordläggning</note>
-        <note xml:id="i-FyuJacZ8qtvyUdMF8QJwbt">§ 7 Svar på interpellationerna 2019/20:32 och 40 om dumpade gifttunnor</note>
-        <note xml:id="i-3YrpBPngMiimoWd9Vq38yS" type="speaker">Anf. 35 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-GmubzScSU4X9L8kwzdnSLL" type="speaker">Anf. 36 LARS BECKMAN (M)</note>
-        <note xml:id="i-S1pUuBP9RqL1bxrsjM9DZN" type="speaker">Anf. 37 JÖRGEN BERGLUND (M)</note>
-        <note xml:id="i-F47UEUT5sT6pN2voG4g2ms" type="speaker">Anf. 38 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-SqkGHXnyhz7xj3xMRzHRmo" type="speaker">Anf. 39 LARS BECKMAN (M)</note>
-        <note xml:id="i-RMkjQ3cdN97zTrtuueuEPP" type="speaker">Anf. 40 JÖRGEN BERGLUND (M)</note>
-        <note xml:id="i-DQsmqmDmi4mVXTDzthnvXz" type="speaker">Anf. 41 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-GmACLJ9fh78FHwfV46w3Cy" type="speaker">Anf. 42 FÖRSTE VICE TALMANNEN</note>
-        <note xml:id="i-G1tutNJeMEyGsBDnncWDDF" type="speaker">Anf. 43 LARS BECKMAN (M)</note>
-        <note xml:id="i-Q8CmvURQuRUkVJbL2R6rA5" type="speaker">Anf. 44 JÖRGEN BERGLUND (M)</note>
-        <note xml:id="i-WMVQk9YXkA52pzS6RRp5hQ" type="speaker">Anf. 45 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-RHMWjL9r5mV2VmJAzMp3hk">§ 8 Svar på interpellation 2019/20:35 om operativt cyberförsvar</note>
-        <note xml:id="i-RG1jnTHwvLqpoFtj77FC4D" type="speaker">Anf. 46 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-NRwS2vvo16V5sLNZBnC8vk" type="speaker">Anf. 47 ALLAN WIDMAN (L)</note>
-        <note xml:id="i-Kn6DKuLrRn4jE9utF7t6vQ" type="speaker">Anf. 48 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-9itFjbsTvPh3Z6fZkV1WpH" type="speaker">Anf. 49 ALLAN WIDMAN (L)</note>
-        <note xml:id="i-6saQ1DrMrKpUy4gognacgA" type="speaker">Anf. 50 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-SLu3MY7nZbKV3bzejjsPUF" type="speaker">Anf. 51 ALLAN WIDMAN (L)</note>
-        <note xml:id="i-5sQrez9QSx46NFbacanhda" type="speaker">Anf. 52 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-Q9ompDAVa65sJtdiK4dSEA">§ 9 Svar på interpellation 2019/20:34 om handläggningstider för bygglov och fastighetsbildning</note>
-        <note xml:id="i-3eBC7fi8M2KJHWCqt2kNWQ" type="speaker">Anf. 53 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-DmHStFhEwHsyg8c7FBVhoG" type="speaker">Anf. 54 LARS BECKMAN (M)</note>
-        <note xml:id="i-5Cvi7hwpvvueUmUYEFmZtp" type="speaker">Anf. 55 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-34WPSCPTBJhL9AF9p1dFKQ" type="speaker">Anf. 56 LARS BECKMAN (M)</note>
-        <note xml:id="i-JCgQgtiacuo8SNCXorpTJc" type="speaker">Anf. 57 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-ShdnGoDBm2wbxtfeKvwj6d" type="speaker">Anf. 58 LARS BECKMAN (M)</note>
-        <note xml:id="i-NceSkT5jmxxT9gt6zJrWAS" type="speaker">Anf. 59 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-KP4PKLJ6s6bfq6jCUJtLVJ">§ 10 Svar på interpellation 2019/20:38 om unga på bostadsmarknaden</note>
-        <note xml:id="i-D38MCHFGLUH5Y7boAjPhjS" type="speaker">Anf. 60 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-Pa7jgeLBkVgw4froaEuG4r" type="speaker">Anf. 61 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-NiwSdvsWMAXtDT2gVb5a4c" type="speaker">Anf. 62 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-NSHvZzmwvMcP2Kcro7HzhD" type="speaker">Anf. 63 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-3Y4wJUZXgnG1DJ4dc5iGZg" type="speaker">Anf. 64 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-G38ZdQrqfuQMZLriKWg4os" type="speaker">Anf. 65 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-9Ypos9QkefPRNTCNBFwKD3" type="speaker">Anf. 66 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-66kAhY5BydeGt9e1TZvhMm">§ 11 Svar på interpellation 2019/20:42 om det offentliga åtagandet inom geodata</note>
-        <note xml:id="i-Y9qHk7cCwHm1gQgDQs8gvA" type="speaker">Anf. 67 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-7nk6orv5ZHKMKpvN7Nq7gZ" type="speaker">Anf. 68 LARRY SÖDER (KD)</note>
-        <note xml:id="i-89stESfUx91fMvziCvKAyt" type="speaker">Anf. 69 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-Qx641n1WU1j9QNg9CPPqg9" type="speaker">Anf. 70 LARRY SÖDER (KD)</note>
-        <note xml:id="i-KxxxCdVj1gwkLUS4WmYjhQ" type="speaker">Anf. 71 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-Ua3z9coPBmkxdeRe47puTy" type="speaker">Anf. 72 LARRY SÖDER (KD)</note>
-        <note xml:id="i-FssdGKyigMZaEgJswGAa52" type="speaker">Anf. 73 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-5ugEtpav7mSiWzXj3faCfg">Ajournering</note>
-        <note xml:id="i-KMkAFiLHwRoFwmurLg7bXc">Återupptaget sammanträde</note>
-        <note xml:id="i-QTzX8oWfQzDnkb7NJPpsgD">§ 12 Svar på interpellation 2019/20:43 om kreditrestriktionerna</note>
-        <note xml:id="i-HN5yUxcDQ5UEzgN7J8Q6ew" type="speaker">Anf. 74 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-PaKayFjsiaxh64YEadEDZc" type="speaker">Anf. 75 LARRY SÖDER (KD)</note>
-        <note xml:id="i-DbPwfYZgnHxe1KqezTstbV" type="speaker">Anf. 76 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-Pdht7eCuueu8EAXmNmmKH7" type="speaker">Anf. 77 LARRY SÖDER (KD)</note>
-        <note xml:id="i-PDGwkxamohsASkTeiCvTtg" type="speaker">Anf. 78 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-5MDUk7LjhPEBcKotms1bJV" type="speaker">Anf. 79 LARRY SÖDER (KD)</note>
-        <note xml:id="i-8NEQhW9dkpTchVQ5kLEP2D" type="speaker">Anf. 80 Statsrådet PER BOLUND (MP)</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-7Wo8YhVgKNqJdxigHkvJf2">§ 13 Svar på interpellation 2019/20:24 om BDS-rörelsen och regeringens arbete mot antisemitism</head>
-        <note xml:id="i-63HuoVm3QGU9Erq1vq2XVq" type="speaker">Anf. 81 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-SgEdojCxknR96RD5oXRGQv" type="speaker">Anf. 82 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-LxPtMaJBvVxgZ9LhnQsqk8" type="speaker">Anf. 83 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-ALbU3mUZRYfN2qUT4hyzBC" type="speaker">Anf. 84 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-7F7AiZcNqbi3rLzNEBXorN" type="speaker">Anf. 85 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-QsA1ipNC3ihqSLQVbHyh7G" type="speaker">Anf. 86 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-CqKwzPhpRnLj3xnGJ4Pj3J" type="speaker">Anf. 87 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-GSG3Q8c3RiS2Rtt55zo2NQ">§ 14 Svar på interpellationerna 2019/20:30 och 51 om Turkiets invasion i norra Syrien</note>
-        <note xml:id="i-SVBebUTu4jw2fBmNfVSxKc" type="speaker">Anf. 88 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-Ed3X9JVonHd59fum4h5gav" type="speaker">Anf. 89 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-AdW9MShxhQh6xoKjymqsX5" type="speaker">Anf. 90 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-WZZT6gPP5CDhr12SFZnFSF" type="speaker">Anf. 91 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-XAVEDAZP661MbzDsWg2PKm" type="speaker">Anf. 92 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-F3qHuVVXxxNg6qNTJDRWRx" type="speaker">Anf. 93 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-3g8jtVtdaNfx2WKF25K58G" type="speaker">Anf. 94 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-TuGHuXs19tz2tiSiKveiFa" type="speaker">Anf. 95 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-Fok8W5D95q4t5HjUjCFUq2" type="speaker">Anf. 96 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-B7vrRy7xvx42wkhNxuEky1" type="speaker">Anf. 97 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-PGk42MfVTjvLRLqzJ3RBnS">§ 15 Bordläggning</note>
-        <note xml:id="i-EFEsvrmqHEckwvakwm4Dts">§ 16 Anmälan om interpellationer</note>
-        <note xml:id="i-NMbcXkopV5xt6DuV1sRgK5">§ 17 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-x86bErWUmKNcLmMvCskDt">§ 18 Kammaren åtskildes kl. 19.23.</note>
-        <note xml:id="i-8q26274KFCBLgiynxz4YtF">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

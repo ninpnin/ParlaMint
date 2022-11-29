@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 97 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 97 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--97">2019/20--97</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,11 +75,11 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JM3aLMUc4AJbkNSkg9We8n">§ 1 Justering av protokoll</head>
         <note xml:id="i-4aU4WWoomBy9dQG5ZURjGn">Protokollet för den 10 mars justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QXQgKTrFi1rh3dm7qtSkjU">§ 2 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-XA3L8TB5rQMmQzsXNwUS8T">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-KUk7BDuQZvcRo1QkJBoGsW">Propositioner</note>
@@ -88,7 +89,7 @@
         <note xml:id="i-RKQcFBsmBAXHwgd1R4t3dF">2019/20:3510 och 3521 till justitieutskottet</note>
         <note xml:id="i-SvjPfQktgyuvZVpAgDnq6u">2019/20:3522, 3525 och 3526 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2tGde67M946MgE8B35bfjN">§ 3 Ärenden för bordläggning</head>
         <note xml:id="i-9xgWjoui3SjtX4LFNbpg8f">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-KMDSgUuCs6ZxAnGDATgrT6">Finansutskottets betänkanden</note>
@@ -171,7 +172,7 @@
         </u>
         <note xml:id="i-N6YKsvSCAX8XUefyqEakAR">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PFqqJwnx1B4oC2N5WepND5">§ 5 Bordläggning</head>
         <note xml:id="i-YFtV2o2vE2DhfoPtMJa75G">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-XgizGu4wHtNuCTYH2VYbP2">Propositioner</note>
@@ -182,7 +183,7 @@
         <note xml:id="i-SdJaR4Z2h4MbNog62CnXnX">2019/20:128 Riksrevisionens rapport om konsumentskyddet på det finansiella området</note>
         <note xml:id="i-VMSUwfpk2Lw5GtqbWEvGAV">2019/20:141 Riksrevisionens rapport om valförfarandet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MN25i8rkzN5JQ1CbLCbfXC">§ 6 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-Vr5pm61BJaDvsc95RPcDvu">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-AXaWmtLUGW8Y9EyP2sexxW">den 30 mars</note>
@@ -193,28 +194,11 @@
         <note xml:id="i-QVKBhLTReu2vNyogDLXfyT">av Lars Beckman (M)</note>
         <note xml:id="i-XwG7ZM1aVuFHJgPtbQSHdo">till näringsminister Ibrahim Baylan (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CCNQa6gxsH3iG9ZjnBtGFN">§ 7 Kammaren åtskildes kl. 13.20.</head>
         <note xml:id="i-QsLu6mC6CZvaj1f4EytSxW">Sammanträdet leddes av andre vice talmannen.</note>
         <note xml:id="i-WXxNAD3ftfYDZqRGMJ649J">Vid protokollet</note>
         <note xml:id="i-F57hdxx1T6vLcDPVx5dNX4">ANN LARSSON</note>
-        <note xml:id="i-CzA3f3LkZyVouqFuJNJMmv">/ Olof Pilo</note>
-        <note xml:id="i-XcVJ9S4459Q8EzNZRVCAt6">Innehållsförteckning</note>
-        <note xml:id="i-QSdQ8ouzSkeM9k95ndegSY">§ 1 Justering av protokoll</note>
-        <note xml:id="i-RvRerWNy6cLiddbo4YfrRC">§ 2 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-FxSeZc9SZgLd8ModdnEfWn">§ 3 Ärenden för bordläggning</note>
-        <note xml:id="i-LhG2Qu8tHSyGYAVj7VnuVs">§ 4 Svar på interpellation 2019/20:380 om otrygga anställningar</note>
-        <note xml:id="i-2jeHR88WHEp3za3B2uteK8" type="speaker">Anf. 1 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-EfxYLJEtpKbPvekbHu19ZG" type="speaker">Anf. 2 CICZIE WEIDBY (V)</note>
-        <note xml:id="i-mQpo2DgGoiCRaHtTbdCXE" type="speaker">Anf. 3 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-KJLsm2zNs5ug2i9MFCq7d9" type="speaker">Anf. 4 CICZIE WEIDBY (V)</note>
-        <note xml:id="i-2JtUsHt3yJC2dbxTc2BTu1" type="speaker">Anf. 5 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-KWsKFxjRZr55vFHcHS8eHr" type="speaker">Anf. 6 CICZIE WEIDBY (V)</note>
-        <note xml:id="i-8XWPxzTQGEs8yoAVGSQQjo" type="speaker">Anf. 7 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-4z3viho55DiyKyQ3PDvmWi">§ 5 Bordläggning</note>
-        <note xml:id="i-X48Xqm6YbQ4Ffb1aaUJh97">§ 6 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-CaNSURHjznczeyfWzXyjc8">§ 7 Kammaren åtskildes kl. 13.20.</note>
-        <note xml:id="i-NFa77UmYfPvaPp1Q1HeE2E">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

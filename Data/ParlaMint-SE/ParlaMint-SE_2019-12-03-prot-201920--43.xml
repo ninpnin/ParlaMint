@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 43 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 43 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--43">2019/20--43</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,17 +75,17 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8F2eLamUXN8H1dPbgnCAe2">§ 1 Justering av protokoll</head>
         <note xml:id="i-MgdMbpM47JunBQrard6JBE">Protokollen för den 12 och 13 november justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-W6RdVG3dc9sMfz6QvQ1115">§ 2 Anmälan om återtagande av plats i riksdagen</head>
         <note xml:id="i-UrrirkWwUbYHzHwXRz7erS">T almannen meddelade</note>
         <note xml:id="i-26bLLJZgfJMndCnaCJnY1U">att Teresa Carvalho (S) återta git sin plats i riksdagen från och med den 1 december , varigenom uppdraget som ersättare upphör t för Erica Nådin (S) och</note>
         <note xml:id="i-9MoYnCDcFr5hdiknSRAnMB">att Emilia Töyrä (S) återta git sin plats i riksdagen från och med den 1 december , varigenom uppdraget som ersättare upphör t för Hannah Bergstedt (S) .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UZckDoJeH9GAm1VpMpuAVF">§ 3 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-G4WXEkzL6s3paq7G8aQCAn">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-F4X7TKpA74Cg63yWvkXq5W">Interpellation 2019/20: 158</note>
@@ -100,13 +101,13 @@
         <note xml:id="i-F4VdZgHQdafrmWyk9hkX6a">Egon Abresparr</note>
         <note xml:id="i-EaB18jq74zAgGYvNkftBao">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YYds7ni3FTkQ7dXfqrhRKU">§ 4 Ärende för hänvisning till utskott</head>
         <note xml:id="i-C1FS2rjK5M6wR82cmRM7CE">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Ji1om7x9B9xK9UAsy4rt2d">Motion</note>
         <note xml:id="i-WKnLRPvNXNwSzigWX6zyDr">2019/20:3436 till konstitutionsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7T8f3zm4sQAto6dwNZcEtg">§ 5 Ärenden för bordläggning</head>
         <note xml:id="i-YBpy3HZaPtUcGHfrX9yLJM">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-8rGUfUYTyboxr8kHW67b2E">Konstitutionsutskottets betänkande</note>
@@ -520,7 +521,7 @@
         </u>
         <note xml:id="i-QUZJZ2Pg65UKk2QhrkTmsK">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Wx1RRMqdpzdLkvDfZMoXuc">§ 11 Bordläggning</head>
         <note xml:id="i-2FgcjQtXc8GEC8kHuiUMvy">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-ZZdBjy6SHVcMyFzzY4r79">Motioner</note>
@@ -530,7 +531,7 @@
         <note xml:id="i-2NUijP4HA4u9YdDEgfLcSd">2019/20:3440 av Lars Hjälmered m.fl. (M)</note>
         <note xml:id="i-WCWgwZihJ7sJ3yABPuRfLF">2019/20:3441 av Camilla Brodin m.fl. (KD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-F8g2Su5VugetU6qTnpbACu">§ 12 Anmälan om interpellationer</head>
         <note xml:id="i-3C8w8rbdWbSawAo7DuzyKQ">Följande interpellationer hade framställts:</note>
         <note xml:id="i-KWKjREaLvBfjTU5XQjm8gn">den 2 december</note>
@@ -550,7 +551,7 @@
         <note xml:id="i-P4AYZtcpBFawK61zCEWi8x">av Sara Gille (SD)</note>
         <note xml:id="i-4fr933ADrFuQdqFqyKfnRo">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SCLra2dJpMyUkCRXd2x3SH">§ 13 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-LNBdWzziohnhxSdYhWfHmQ">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-2QSnqGQeraeyTxyfdmm14p">den 2 december</note>
@@ -576,69 +577,11 @@
         <note xml:id="i-JrEvEzaGLbxeoJd6rFcwhq">av Alexandra Anstrell (M)</note>
         <note xml:id="i-NCKwQkKoNbZioAD4kReShr">till försvarsminister Peter Hultqvist (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PqAdT56vg6KE8ZTYpiL6iF">§ 14 Kammaren åtskildes kl. 14.58.</head>
         <note xml:id="i-Ncmdpiv8KoP9uxsi9Y9Kfg">Sammanträdet leddes av talmannen .</note>
         <note xml:id="i-WrRczXubdHmHpiB9Z3chU">Vid protokollet</note>
         <note xml:id="i-KScPtftGsVB3phzBnv3A8u">ANNA ASPEGREN</note>
-        <note xml:id="i-AVJkRWz8zq49yKG7t9MFaJ">/Olof Pilo</note>
-        <note xml:id="i-SSGyNEF1f5pqap9m52kXqe">Innehållsförteckning</note>
-        <note xml:id="i-UVcnkR6cvd5cCzF7aEEUQz">§ 1 Justering av protokoll</note>
-        <note xml:id="i-F4G7NvN8nBaE3AV81ZGKY8">§ 2 Anmälan om återtagande av plats i riksdagen</note>
-        <note xml:id="i-P1VeciBDHdkM4otTzFLt7e">§ 3 Anmälan om fördröjt svar på interpellation</note>
-        <note xml:id="i-9VVyCkyA3WEyGzwxgD6d6s">§ 4 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-9Bg7EFNWNy8ZWQm7F2FEYj">§ 5 Ärenden för bordläggning</note>
-        <note xml:id="i-XB8cfAUFXQwQhs2sFfuy5y">§ 6 Svar på interpellation 2019/20:88 om en huvudman för personer med samsjuklighet, beroendesjukdom och psykisk ohälsa</note>
-        <note xml:id="i-93o93LShSPcMouHDVjmuhy" type="speaker">Anf. 1 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-E1Qmf6rGSz9Feie7th2EAy" type="speaker">Anf. 2 MICHAEL ANEFUR (KD)</note>
-        <note xml:id="i-D4XUQPX8zSojkdhQAkFPQc" type="speaker">Anf. 3 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-Kvww89qUfJws22zButdNW5" type="speaker">Anf. 4 MICHAEL ANEFUR (KD)</note>
-        <note xml:id="i-E1uuVo3pbCLdCXkZPrYJn3" type="speaker">Anf. 5 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-9rceVPkSD9k6xFeM9FvNq7" type="speaker">Anf. 6 MICHAEL ANEFUR (KD)</note>
-        <note xml:id="i-PuWNqGkSg8fRmrsr6P5UfL" type="speaker">Anf. 7 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-LJQnc5CUmWFU6H8HwnikZa">§ 7 Svar på interpellation 2019/20:125 om habiliteringsersättning i alla kommuner</note>
-        <note xml:id="i-AoW54SmbcQenrsUT24VJvZ" type="speaker">Anf. 8 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-MjXmg7k8ftwAnccMpDhVja" type="speaker">Anf. 9 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-WiUAE4GBvbmAgssTMGqZj" type="speaker">Anf. 10 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-HBjLEAjmj6Lggr2EgHUhTn" type="speaker">Anf. 11 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-LM8tz82moSihzNqXwmm1eh" type="speaker">Anf. 12 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-QjRBkViuRibYav5edH57wC" type="speaker">Anf. 13 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-QUj3D8CWcRd3gzxEwRfkhq" type="speaker">Anf. 14 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-2H9aSvxV2nckmrGXkk1M8C">§ 8 Svar på interpellation 2019/20:159 om mikrobryggeriers och folkölsbutikers förutsättningar</note>
-        <note xml:id="i-HsgXLTohCKd3YSUnaEcwVg" type="speaker">Anf. 15 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-VSha82m4f7KuCCyZyJpqyb" type="speaker">Anf. 16 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-DmPdTLU6kgGCyTtUc5DDu5" type="speaker">Anf. 17 LARS-ARNE STAXÄNG (M)</note>
-        <note xml:id="i-9CPnJSi4omksMFAYCmt4Gd" type="speaker">Anf. 18 LARS BECKMAN (M)</note>
-        <note xml:id="i-Hyr8oaySrkoZefBykMqd5J" type="speaker">Anf. 19 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-KZcwfVe1makvvHUb4dPyg" type="speaker">Anf. 20 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-9vzrZuqfUi8eYqRunQNt7H" type="speaker">Anf. 21 LARS-ARNE STAXÄNG (M)</note>
-        <note xml:id="i-5BSrR45BLRLSWcqW64JWwM" type="speaker">Anf. 22 LARS BECKMAN (M)</note>
-        <note xml:id="i-M9SeEGqt6ch2UGNQHV5M8u" type="speaker">Anf. 23 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-Kmr7qCRcRYSkzWv7Ro2peX" type="speaker">Anf. 24 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-UgS1x6jT7fS8tnspA9Z1nA" type="speaker">Anf. 25 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-VeL8aBS1tSehoLzp923QBU">§ 9 Svar på interpellation 2019/20:111 om utvecklingstid</note>
-        <note xml:id="i-GMpFbwTSNPZjeFrfSeEvrF" type="speaker">Anf. 26 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-JAqBjdqfbR9AS6WAscLdsE" type="speaker">Anf. 27 LARS BECKMAN (M)</note>
-        <note xml:id="i-PoPNXK3kpmtb2jk68us4ZL" type="speaker">Anf. 28 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-8H74wouNDqwoV9UwiDYX2j" type="speaker">Anf. 29 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-Qn6RE8swUfcyrD8v9ZE8go" type="speaker">Anf. 30 LARS BECKMAN (M)</note>
-        <note xml:id="i-CdbkGnXKUQduEKLahJ3fcn" type="speaker">Anf. 31 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-VmBMwvYqi7nqBgTMqqFZ49" type="speaker">Anf. 32 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-KAm6EYEfXjwepVnGLVZ7Nx" type="speaker">Anf. 33 LARS BECKMAN (M)</note>
-        <note xml:id="i-8TKqKytQwyHmVdhc4wUXUE" type="speaker">Anf. 34 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-2WiKiNf4dUt4VNDXM9AFcL">§ 10 Svar på interpellation 2019/20:112 om arbetsmiljö och psykisk ohälsa</note>
-        <note xml:id="i-5Cv1J6jCoao6wJkcohCx7Y" type="speaker">Anf. 35 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-5HQ39RSd7vBEpdcpg8Mmmn" type="speaker">Anf. 36 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-BTNYFzxsXqc8iKfS2a9nQ1" type="speaker">Anf. 37 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-WHizNdU5f8GkPcPbr4aMW" type="speaker">Anf. 38 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-MGYh4q7c3qrHrzsvKGLhZA" type="speaker">Anf. 39 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-W3XuEjXhugieqjFxCHLDvC" type="speaker">Anf. 40 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-MLy8PHtNbz3qbKPqKizHG6" type="speaker">Anf. 41 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-VycHz1Cj1LqtQsH4acoGrJ">§ 11 Bordläggning</note>
-        <note xml:id="i-CEdWoyMS9tUVRDX56t4KQe">§ 12 Anmälan om interpellationer</note>
-        <note xml:id="i-NVCTpRNbtVPkgVby42vsa6">§ 13 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-VKoAaWBHqznBJjcQsGvLPK">§ 14 Kammaren åtskildes kl. 14.58.</note>
-        <note xml:id="i-NiazDrTHAffscMuQi3shQf">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

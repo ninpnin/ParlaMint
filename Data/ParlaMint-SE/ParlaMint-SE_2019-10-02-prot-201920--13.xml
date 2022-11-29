@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 13 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 13 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--13">2019/20--13</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,23 +75,23 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Vmxxb3VyrJF1o3FXCB7wUW">§ 1 Avsägelse</head>
         <note xml:id="i-4spzwwL3MWuKbfzcdmsH6F">Talmannen meddelade att Mattias Ottosson (S) avsagt sig uppdraget som suppleant i EU-nämnden.</note>
         <note xml:id="i-4sSJxVJahPYk8jjhVqfCEm">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RDnFX1esYp1Txa86zARALx">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-QcSptLPixyJ5k5REFkzSEs">T almannen meddelade att Socialdemokraternas riksdagsgrupp anmält Alexandra Völker som suppleant i EU-nämnden.</note>
         <note xml:id="i-5VYLUh2hasKvH4doCegZWg">T almannen förklarade vald till</note>
         <note xml:id="i-94q5KVGP8uppPtsu84ycP6">suppleant i EU-nämnden</note>
         <note xml:id="i-7MkS26AqouyFRr2Ai6vEPb">Alexandra Völker (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HQhi8rdj5RgHuXGty55roA">§ 3 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-PbfpNj81PAu945oqMJyzYj">Talmannen anmälde att utdrag ur prot. 2019/20:2 för torsdagen den 19 september i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från trafikutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-H8R6hGPGwiYmLKcui4vQas">§ 4 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-N4AKsf9WmbvcPuz84w6tQd">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Sp7JC34tPiQixvDAMW51Ne">Propositioner</note>
@@ -102,7 +103,7 @@
         <note xml:id="i-PbzqB8UYbLjQjSr1FzRed4">2019/20:108 till justitieutskottet</note>
         <note xml:id="i-VKD34Ayo1SnynPjHD2sTYe">2019/20:110, 263, 288, 300, 316 och 361 till justitieutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EUckCABmjvbrcEXVeWkRX">§ 5 Tillsyn över och ingripanden mot advokater och advokatbolag vid tillämpning av penningtvättslagen</head>
         <note xml:id="i-4qmaaMopX2jLvjUKaW7jTU">Justitieutskottets betänkande 2019/20:JuU2</note>
         <note xml:id="i-GtDaBRWK9wR2qCTaMqUNx1">Tillsyn över och ingripanden mot advokater och advokatbolag vid tillämpning av penningtvättslagen (prop. 2018/19:125)</note>
@@ -110,7 +111,7 @@
         <note xml:id="i-LxhLfv3RR6vwJsPjpkVNAR">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-FnzrGTx9vLPeBFitirtrG4">(Beslut fattades under § 13.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RrK16XmWZwa6bHr6grnjJo">§ 6 Genomförande av EU:s reviderade direktiv om säkerhet ombord på passagerarfartyg</head>
         <note xml:id="i-Wc8BcWfYcBgKbgKjh8XJwG">Trafikutskottets betänkande 2019/20:TU2</note>
         <note xml:id="i-QxkVDdqxrui6LuDZsMy9zT">Genomförande av EU:s reviderade direktiv om säkerhet ombord på passagerarfartyg (prop. 2018/19:116)</note>
@@ -118,7 +119,7 @@
         <note xml:id="i-H35uwS7iSCLmdD42hGnjst">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-RWtkuUqPnS6rLYbghuzTHm">(Beslut fattades under § 13.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TFv9AG3fEbWtHRwxnQVzsw">§ 7 Genomförande av EU:s direktiv om arbete ombord på fiskefartyg</head>
         <note xml:id="i-Ax7wPBuoGsQw2oTJnCZTbC">Trafikutskottets betänkande 2019/20:TU3</note>
         <note xml:id="i-Mh5AGs1VReTFj9Dkk91gUJ">Genomförande av EU:s direktiv om arbete ombord på fiskefartyg (prop. 2018/19:137)</note>
@@ -174,7 +175,7 @@
         <note xml:id="i-K8vnuUzgTfMNS65zgeNL7k">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-FNBzmgNQXCRvmCtQgoCVvY">(Beslut fattades under § 13.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4FL3B8Kf1Q1EibZwQBPQNT">§ 9 Genomförande av direktivet om skattetvistlösningsmekanismer inom EU</head>
         <note xml:id="i-NcVXwYgm9U54rXHBoRinnJ">Skatteutskottets betänkande 2019/20:SkU3</note>
         <note xml:id="i-J1ScUakj2RM3ENJRdDWMrG">Genomförande av direktivet om skattetvistlösningsmekanismer inom EU (prop. 2018/19:143)</note>
@@ -182,7 +183,7 @@
         <note xml:id="i-A9Jdii47cDxKjV61ho89ay">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-F8oYfpRh84miaZFbrJGAYm">(Beslut fattades under § 13.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5ASG4rAhfLFkL1GgR2d7Ja">§ 10 Ändring i det nordiska skatteavtalet</head>
         <note xml:id="i-BSxKu9Etet9K2SY6Tbry93">Skatteutskottets betänkande 2019/20:SkU2</note>
         <note xml:id="i-UnraST8huLneoq1suENDPs">Ändring i det nordiska skatteavtalet (prop. 2018/19:126)</note>
@@ -194,7 +195,7 @@
         <note xml:id="i-GunVL88dVikj6gW5tJ2E8j">Återupptaget sammanträde</note>
         <note xml:id="i-MgZa3HH26qeKZ5eB87mcnE">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SVzaFjnXQaw1LoRjZ8Rqnt">§ 11 Val av ledamöter i Nordiska rådets svenska delegation</head>
         <note xml:id="i-XwGGaFqvq9Qifcskjxitv9">Val av 20 ledamöter i Nordiska rådets svenska delegation företogs.</note>
         <note xml:id="i-GHUaNaqBqCWhYJxW2oWfCi">Sedan kammaren godkänt den gemensamma listan var följande personer valda till ledamöter i Nordiska rådets svenska delegation till dess nytt val till delegationen förrättats i början av nästa riksmöte:</note>
@@ -219,7 +220,7 @@
         <note xml:id="i-Y2qDa5RPEaWHEgPdMAf318">Linda Ylivainio (C)</note>
         <note xml:id="i-QGJyWmkfwTgXGUNaeJUkY4">Daniel Riazat (V)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Dy7eVNT8Q3HBNiBUMazQJh">§ 12 Val av suppleanter i Nordiska rådets svenska delegation</head>
         <note xml:id="i-3J2xzrgqNuTBrnH38uQtAp">Val av 20 suppleanter i Nordiska rådets svenska delegation företogs.</note>
         <note xml:id="i-JPtAnZs1n7EgCpNe2tzzkj">Sedan kammaren godkänt den gemensamma listan var följande personer valda till suppleanter i Nordiska rådets svenska delegation till dess nytt val till delegationen förrättats i början av nästa riksmöte:</note>
@@ -244,7 +245,7 @@
         <note xml:id="i-EbG6NWXbGqJRMvedA4hMC5">Ola Johansson (C)</note>
         <note xml:id="i-22jmZmLtXtGncL72c77QB6">Jonas Sjöstedt (V)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7w4H9Us6Xnj6ii6rHm2VzF">§ 13 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-DmstdUCTGKoZ6MKyq5uqvS">JuU2 Tillsyn över och ingripanden mot advokater och advokatbolag vid tillämpning av penningtvättslagen</note>
         <note xml:id="i-upZCrqeL2XADMK9Ai1Aob">Kammaren biföll utskottets förslag.</note>
@@ -285,13 +286,13 @@
         <note xml:id="i-6pZvH8wTzxByPQ4TLcNrtx">SkU2 Ändring i det nordiska skatteavtalet</note>
         <note xml:id="i-UxExEvchN2yeGS37VAswu">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5TTMDEN4Ys4WWG5yGX2Vsz">§ 14 Bordläggning</head>
         <note xml:id="i-WgWyCqTiWkGvAVjfaNMsXy">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-M6UVFs5te3ZQM5AyyQLZry">Skrivelse</note>
         <note xml:id="i-Cj2HKF22ntzgMs9YtxxQGX">2019/20:18 Arbetet i frågor som rör Kina</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PCZmFtbqFqajYFFLNgXAr7">§ 15 Anmälan om fråga för skriftligt svar</head>
         <note xml:id="i-MpkeMVbezakrCqKcLH35en">Följande fråga för skriftligt svar hade framställts:</note>
         <note xml:id="i-SMMTsJD3kCDU23v5M5XYo4">den 1 oktober</note>
@@ -299,7 +300,7 @@
         <note xml:id="i-EzdgcNvkW98GNGao7QdNwD">av Carina Ståhl Herrstedt (SD)</note>
         <note xml:id="i-BFiWba6Kse3FFfJF8EpLXM">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8yQebpXPijmuVPyVRDz6Zf">§ 16 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-YKh7wfCateUQHTL5sFjE2Y">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-CQ82jjV2qSf5juqdE6mrpG">den 1 oktober</note>
@@ -328,56 +329,13 @@
         <note xml:id="i-WbxExd9JGvXv6amvaBfMbC">av Erik Ottoson (M)</note>
         <note xml:id="i-7Eg1JM5rdXoaQSAud8wnCn">till statsrådet Per Bolund (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9o7hKx8kTfTKzEKQqNBebd">§ 17 Kammaren åtskildes kl. 16.06.</head>
         <note xml:id="i-C2MeVkCxp4n7Q8im93GrQe">Sammanträdet leddes</note>
         <note xml:id="i-LUytAhakNR9cmwVXHrTQAr">av talmannen från dess början till ajourneringen kl. 9.12 och</note>
         <note xml:id="i-3noXdCTe3rtpUzsjmCn6e3">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-P5ruswamDHocPZjA7VkJ7v">Vid protokollet</note>
         <note xml:id="i-GSjkbZum7Nfb3uCgCeGHXr">ANNA ASPEGREN</note>
-        <note xml:id="i-JY1avPomhfGkpFYsEfYZAC">/Olof Pilo</note>
-        <note xml:id="i-67cXuqZrrvYyBJBPzvoaNJ">Innehållsförteckning</note>
-        <note xml:id="i-5BYiGaMmKDKVVENxhXK8TT">§ 1 Avsägelse</note>
-        <note xml:id="i-SGy4KQRiSzAHfJqHGVFxMe">§ 2 Anmälan om kompletteringsval</note>
-        <note xml:id="i-JMc5ZzT4yfxxGm1YkfgWjp">§ 3 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-Rae9bYq5YER9uoLgsATUyt">§ 4 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-Fy9AzkqUQ9fCcEx5yjLHj7">§ 5 Tillsyn över och ingripanden mot advokater och advokatbolag vid tillämpning av penningtvättslagen</note>
-        <note xml:id="i-ThCVcsekYPwUFnara43Nyi">Justitieutskottets betänkande 2019/20:JuU2</note>
-        <note xml:id="i-DYaJQnWL1DQZLLJFx4JKop">(Beslut fattades under § 13.)</note>
-        <note xml:id="i-HZem2o2XBLmCChoed46PuK">§ 6 Genomförande av EU:s reviderade direktiv om säkerhet ombord på passagerarfartyg</note>
-        <note xml:id="i-QUt4e4ktZ5sZENuVbcqnTn">Trafikutskottets betänkande 2019/20:TU2</note>
-        <note xml:id="i-9Btf4jMBPAGjWPZEYNVNWe">(Beslut fattades under § 13.)</note>
-        <note xml:id="i-VH8kPWzy19Tj3A6dtiVKma">§ 7 Genomförande av EU:s direktiv om arbete ombord på fiskefartyg</note>
-        <note xml:id="i-2bMHdJd6K9J2paWCceWqad">Trafikutskottets betänkande 2019/20:TU3</note>
-        <note xml:id="i-DamCf5BF4cmP7wLHU9nVQd">(Beslut fattades under § 13.)</note>
-        <note xml:id="i-8UfqKChVHu9GEVsVE42R3Q">§ 8 Riksrevisionens rapport om statens vägledning av kommunal tillsyn</note>
-        <note xml:id="i-Qb4zyT5UowJ7nsvaTaSjAz">Miljö- och jordbruksutskottets betänkande 2019/20:MJU3</note>
-        <note xml:id="i-T8JxUzXg9wWTrvWx9saBCm" type="speaker">Anf. 1 MARLÉNE LUND KOPPARKLINT (M)</note>
-        <note xml:id="i-PtihLkz9nHB87Zkmvh3sxA" type="speaker">Anf. 2 ULRIKA HEIE (C)</note>
-        <note xml:id="i-3YJo2zdmCsr3fVt6anoGmN" type="speaker">Anf. 3 MARIA GARDFJELL (MP)</note>
-        <note xml:id="i-B9o7fSsGm3TxJF9KF73W3Y">(Beslut fattades under § 13.)</note>
-        <note xml:id="i-HNLXquNHooJVzQpSzVGTT2">§ 9 Genomförande av direktivet om skattetvistlösningsmekanismer inom EU</note>
-        <note xml:id="i-3uCPmLXP3dhT3gr3BeNaNX">Skatteutskottets betänkande 2019/20:SkU3</note>
-        <note xml:id="i-UP3bbixFTqjyJGG3AT1UGM">(Beslut fattades under § 13.)</note>
-        <note xml:id="i-WsgpoV6JV8P2pNcpUwAumH">§ 10 Ändring i det nordiska skatteavtalet</note>
-        <note xml:id="i-AiyuK2Kvu1Yfo6RQpmwPxB">Skatteutskottets betänkande 2019/20:SkU2</note>
-        <note xml:id="i-F2UGo3K47u6M9Y2iUAKeB3">(Beslut fattades under § 13.)</note>
-        <note xml:id="i-5LzE3faYrnKdBV6H4N7Nse">Ajournering</note>
-        <note xml:id="i-FKY8fkJ6818qdqX1WPhmgo">Återupptaget sammanträde</note>
-        <note xml:id="i-WdpKew7ez8UWKZe9UUZ2hm">§ 11 Val av ledamöter i Nordiska rådets svenska delegation</note>
-        <note xml:id="i-2PaRFZFJDsUYe2rFjQ5raw">§ 12 Val av suppleanter i Nordiska rådets svenska delegation</note>
-        <note xml:id="i-L2hJWrHD1bvbxcFHwvaXbw">§ 13 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-JZZATPSuesFQQnFzT27ERk">JuU2 Tillsyn över och ingripanden mot advokater och advokatbolag vid tillämpning av penningtvättslagen</note>
-        <note xml:id="i-KF4SXfxaUFGF6knssmZZ8o">TU2 Genomförande av EU:s reviderade direktiv om säkerhet ombord på passagerarfartyg</note>
-        <note xml:id="i-Mv98iR86tBQaBJAo6cK23e">TU3 Genomförande av EU:s direktiv om arbete ombord på fiskefartyg</note>
-        <note xml:id="i-L3V4qGV1zvGoft7pcPiwxs">MJU3 Riksrevisionens rapport om statens vägledning av kommunal tillsyn</note>
-        <note xml:id="i-CDT94xGFGzQHHGfQYhW5N1">SkU3 Genomförande av direktivet om skattetvistlösningsmekanismer inom EU</note>
-        <note xml:id="i-3zFNkaPEtj5pXUxD5Ns8hW">SkU2 Ändring i det nordiska skatteavtalet</note>
-        <note xml:id="i-HcU7WCqQT1ouVqWdvkjg6N">§ 14 Bordläggning</note>
-        <note xml:id="i-K86jJKULgha58mCGEiZWSi">§ 15 Anmälan om fråga för skriftligt svar</note>
-        <note xml:id="i-PFTRWCYXqxzLPVLRLPakPa">§ 16 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-QYBGcN69WGP5hcdBsoJoYL">§ 17 Kammaren åtskildes kl. 16.06.</note>
-        <note xml:id="i-S5raqxxno3hQUDjF9VCNHd">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

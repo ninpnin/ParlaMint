@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 119 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 119 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--119">2019/20--119</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,26 +75,26 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-88QWnECYZMKh4uJ7DibPbE">§ 1 Justering av protokoll</head>
         <note xml:id="i-CMHaZqy1egVt6R6mSXnWL2">Protokollen för den 17 och 21 april justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8D19teteMUGBbB5xht62AY">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-35BYmg7fGbCXjH3SEFVc9V">Tredje vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Lars Jilmstad som suppleant i konstitutionsutskottet.</note>
         <note xml:id="i-NeHNVuRr7faBsdHzJy2ptg">Tredje vice talmannen förklarade vald till</note>
         <note xml:id="i-HaCEmzVSuwuwtC3akRefvp">suppleant i konstitutionsutskottet</note>
         <note xml:id="i-3F6YNUzhcPDq8HnaayrGDu">Lars Jilmstad (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YRvzmDhb9dZ7KEb7HLE85Q">§ 3 Meddelande om statsministerns frågestund</head>
         <note xml:id="i-MN1D14aa5qzYPAihtTn3iz">Tredje vice talmannen meddelade att vid frågestunden torsdagen den 14 maj kl. 14.00 skulle frågor besvaras av statsminister Stefan Löfven (S).</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6BKpyU1EZb7tcngVMAGcia">§ 4 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-CQnkH7FNZ6umuUjtz17Baf">Tredje vice talmannen anmälde att utdrag ur prot. 2019/20:35 för torsdagen den 7 maj i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från civilutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RbmGgd2WeDZ5SeLGCJeLgL">§ 5 Anmälan om faktapromemorior</head>
         <note xml:id="i-49Ky3a1zKSuqp7Twr4JFcX">Tredje vice talmannen anmäl de att följande faktapromemorior om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-8Diue6gyZCHTmusk5E972o">2019/20:FPM35 Förslag till förordning om ett europeiskt instrument för tillfälligt stöd för att minska risken för arbetslöshet i en krissituation (SURE) till följd av covid-19-utbrottet COM(2020) 139 till finansutskottet</note>
@@ -101,7 +102,7 @@
         <note xml:id="i-YD5Z2sdGxExiJWK52vEn81">2019/20:FPM37 Europeisk färdplan för att lätta på åtgärderna mot covid ‑ 19, till socialutskottet</note>
         <note xml:id="i-9iDm8E42Wfa9Y4qbSyRgcC">2019/20:FPM38 Meddelande om EU:s globala svar på covid-19-pandemin JOIN(2020) 11 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JnDrgk4hBxkP3RpGfvptx7">§ 6 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-HJ2vKHyXCBTXQ5DGTXJfJu">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-P6fV5KiF5KxCvTjW5gW8RL">Motioner</note>
@@ -121,7 +122,7 @@
         <note xml:id="i-JGekU5CX5tjA2BKEMvKuqE">Kammaren biföll talmannens förslag att motion 2019/20:3614 omedelbart skulle hänvisas till civilutskottet.</note>
         <note xml:id="i-5k3KwaR2mcDmhNx8Qc3VSn">Kammaren biföll talmannens förslag att motionerna 2019/20:3613 och 3615 omedelbart skulle hänvisas till trafikutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QfGr6bNAMtmbAENjq2EHX6">§ 7 Ärenden för bordläggning</head>
         <note xml:id="i-3w1rnQfZ7XK1KQWG86JVkJ">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-6EEJvoLj6fjUAxpZZWjMhG">Konstitutionsutskottets betänkanden</note>
@@ -148,7 +149,7 @@
         <note xml:id="i-HgQa2oZGbBe1wTmCHLX7Mi">2019/20:JuU39 Ett förbud mot spridning av bilder från rättegångar</note>
         <note xml:id="i-Ttnv8YvRo6NjDYvZmVnGqU">2019/20:JuU42 Den gemensamma parlamentariska kontrollgruppen för Europol (JPSG)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9xtUnNeUZ3CTqKrrU8Ktve">§ 8 Bordläggning</head>
         <note xml:id="i-YMHJNpbVUbh9TK6FfZ9Eo7">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-27nEFeAxp72oMyYufoK1mS">Skrivelse</note>
@@ -163,7 +164,7 @@
         <note xml:id="i-T3WeH8zL7LCqCEhyfcVrAn">COM(2020) 198 Förslag till rådets beslut om ändring av direktiven (EU) 2017/2455 och (EU) 2019/1995 vad gäller dag för införlivande och dag för tillämpning till följd av covid-19-utbrottet</note>
         <note xml:id="i-SmNmSVmPvjY5iRrZ3tjWVw">COM(2020) 201 Förslag till rådets förordning om ändring av förordning (EU) 2017/2454 vad gäller dag för tillämpning till följd av covid-19-utbrottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-xmMH1ZyYvzuTWuTRtwqfG">§ 9 Anmälan om interpellationer</head>
         <note xml:id="i-Furzu8zr3LiTmSNPsPhr2g">Följande interpellationer hade framställts:</note>
         <note xml:id="i-Hj74ciWYdMQ1haTMdaHcHP">den 7 maj</note>
@@ -178,7 +179,7 @@
         <note xml:id="i-JLTxvsja86AsDFoJetR1te">av Sven-Olof Sällström (SD)</note>
         <note xml:id="i-8b9t4kLdKXCwYC5gWmfwUP">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GMeWoPeUzV5g5eRhBcCxME">§ 10 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-S1GbMSNK13j7vHCFMmnr2U">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-XE5w6CQEqxK9Ge1Rz9K8hb">den 7 maj</note>
@@ -278,7 +279,7 @@
         <note xml:id="i-WYbjg6S5YWaiiGyv9q1P46">av David Josefsson (M)</note>
         <note xml:id="i-7XkzcMgiYWAuxvXUExuZ6e">till näringsminister Ibrahim Baylan (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-G53NcvMmZCLhnNY8AoGQrW">§ 11 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-BsqUZfVUZnBA2GhTv1iMda">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-Up4fpQB99aBPxxR4LuPBiU">den 7 maj</note>
@@ -290,26 +291,11 @@
         <note xml:id="i-6nuprERLPAg8ESGJ6BUAfE">av Mikael Larsson (C)</note>
         <note xml:id="i-Sy412Fnv3meDMKmxaNK7ho">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-R6BvWnTj4rpEVH1aVi9uNJ">§ 12 Kammaren åtskildes kl. 9.02.</head>
         <note xml:id="i-WtUiCNKMd8jzortSNe1quH">Sammanträdet leddes av tredje vice talmannen.</note>
         <note xml:id="i-64ddSg1Nor3k57hJQXofYh">Vid protokollet</note>
         <note xml:id="i-6gxjJGwFrLXxuEnr1m6pKT">JOHAN WELANDER</note>
-        <note xml:id="i-YCcddRHtZ2ZrBd13MgtFgB">/Olof Pilo</note>
-        <note xml:id="i-9DzPU3XwW1CaFrQZkmHNnt">Innehållsförteckning</note>
-        <note xml:id="i-4ZBGYQ9WWAHCQ7jxYbLJYW">§ 1 Justering av protokoll</note>
-        <note xml:id="i-77LKAvNuP3RST4YJEgZUdi">§ 2 Anmälan om kompletteringsval</note>
-        <note xml:id="i-VdcMgaYWDrbKKniwTCjGHG">§ 3 Meddelande om statsministerns frågestund</note>
-        <note xml:id="i-YH9ADRHbB2Nj2cvUviL9sF">§ 4 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-CpWARSDu875EzCBwy2xwtS">§ 5 Anmälan om faktapromemorior</note>
-        <note xml:id="i-E8ProMDuQNXQ7iAfNiGpMC">§ 6 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-AX6prSK9ub9d5wM4P3bRw1">§ 7 Ärenden för bordläggning</note>
-        <note xml:id="i-4K5jEuv5iKHU5fFFsR7S2g">§ 8 Bordläggning</note>
-        <note xml:id="i-YFyiKWoje6FJ6JJfqx9WK7">§ 9 Anmälan om interpellationer</note>
-        <note xml:id="i-2eScParMZ3B5NneRYr7iaM">§ 10 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-WCE3VoCZmFb7krzFVZjvme">§ 11 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-Lo3mnLVbzRPhn9mT3ysL8P">§ 12 Kammaren åtskildes kl. 9.02.</note>
-        <note xml:id="i-RcTd9wJh1DBDwmJMTGk7qc">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

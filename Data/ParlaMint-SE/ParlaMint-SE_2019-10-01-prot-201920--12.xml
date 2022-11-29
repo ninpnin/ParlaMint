@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 12 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 12 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--12">2019/20--12</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,28 +75,28 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-T8FXkwbvfJWoVtpUGT8Eko">§ 1 Justering av protokoll</head>
         <note xml:id="i-9kG5dseBXKHQAovmqU8BTE">Protokollen för den 10 september justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ieZy6DYqpsuJ9urQpjtM4">§ 2 Avsägelse</head>
         <note xml:id="i-V1S1UVYwyFY9nkkGtAk1nB">Tredje vice talmannen meddelade att Jenny Andersson avsagt sig uppdraget som ledamot i s tyrelsen för Stiftelsen Riksbankens Jubileumsfond .</note>
         <note xml:id="i-4gRLg63pZjhi4BRmf3Q3QZ">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-B8ZUpvxaKRD6fXP5R7wdys">§ 3 Meddelande om frågestund</head>
         <note xml:id="i-MJBrMe3LSG2UajTgVnArJ">Tredje vice talmannen meddelade att frågestund skulle äga rum torsdagen den 3 oktober kl. 14.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3pnktD7TVWjDgjRnPWT7FJ">§ 4 Meddelande om partiledardebatt</head>
         <note xml:id="i-74fnE4YcbWRgqHD7TCngZT">Tredje vice talmannen meddelade att partiledardebatt skulle äga rum onsdagen den 16 oktober kl. 9.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Qvm79ZXNhw2XCToTNbhGe5">§ 5 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-UyTaZ39rbKtnKegfztmuzF">Tredje vice talmannen anmälde att utdrag ur prot. 2019/20:2 för tisdagen den 24 september i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från arbetsmarknadsutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HrkNPb3VHc8du8pds7UFw6">§ 6 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-KYpHY7vYXao7Dg28GTsFay">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-W7CquS69wCygf3BuUPc8eH">Interpellation 201 9 / 20 : 1</note>
@@ -120,7 +121,7 @@
         <note xml:id="i-VzfETeN6AKG5HmbaDwdEHF">Justitiedepartementet</note>
         <note xml:id="i-Wi2YeANh6hLrNicbUQ5xbm">Morgan Johansson</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LSzM5GmVL3cEsR4zpKSPYN">§ 7 Ärenden för bordläggning</head>
         <note xml:id="i-L41dLFaicbP1hZQ8MbSPtQ">Följande dokument anmä ldes och bordlades:</note>
         <note xml:id="i-L8CSREc4DWRpdrUo8xSadC">Justitieutskottets betänkande</note>
@@ -441,7 +442,7 @@
         </u>
         <note xml:id="i-Qf1t7hDCqGu1rFNf9ZCy4q">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AVvSZje6PYMePDke9f5mrG">§ 12 Bordläggning</head>
         <note xml:id="i-U9XsZwR3u3HkK8fPD8ZEPd">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-FrCU8RLo2cwPsPSTnzwdwC">Propositioner</note>
@@ -463,11 +464,11 @@
         <note xml:id="i-ER3jts3XJ1v9gKVWyGsX2A">2019/20:316 av Andreas Carlson m.fl. (KD)</note>
         <note xml:id="i-8RRNucVdJuCRtPk7L2C7Cg">2019/20:361 av Adam Marttinen m.fl. (SD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Y8LX6uNtmkwfTWPeRg7fcC">§ 13 Beslut om förlängd motionstid</head>
         <note xml:id="i-4JDd9fRpM4sVtaQyZ6T4j3">Kammaren biföll talmannens förslag att motionstiden för skr . 2019/20:17 Sveriges feministiska utrikespolitik skulle förlängas till och med torsdagen den 17 oktober .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3guT5jtTRSqswtUdwogoVg">§ 14 Anmälan om interpellationer</head>
         <note xml:id="i-51ewVbT7ZCFAkyR5Lq6DxC">Följande interpellationer hade framställts:</note>
         <note xml:id="i-UxGtSLtxiB1pW2SE3shfcX">den 27 september</note>
@@ -488,7 +489,7 @@
         <note xml:id="i-EqLhN9gfKuDr1GDmgxAXbz">av Lars Adaktusson (KD)</note>
         <note xml:id="i-T6T6UpjDfDSzHsU4Qy1XSD">till statsminister Stefan Löfven (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DSjHRGhWt5WgTHveN9UTDe">§ 15 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-KZkwyEdnLoXKTFGLBpxj81">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-79a19RBqj1E6pWHWFEuhDY">den 27 september</note>
@@ -524,7 +525,7 @@
         <note xml:id="i-VYp1UztYzHDbfwDagVk6dG">av Niels Paarup-Petersen (C)</note>
         <note xml:id="i-Ljm94p78bCFmAh9R8o8VGM">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-P9sxCYg926DiBDSfp838qy">§ 16 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-WPALDe4kgTDsThe6vmCWgF">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-U89a6vRydAm123KBT7fCcR">den 30 september</note>
@@ -541,63 +542,11 @@
         <note xml:id="i-3BTLWwX1w2tnVaJ1zagSfg">av Margareta Cederfelt (M)</note>
         <note xml:id="i-LTH2fx9uRHXThkhUsNS8BK">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-66rBjSw6yocvzGhd5cqr9C">§ 17 Kammaren åtskildes kl. 14 . 38 .</head>
         <note xml:id="i-UoGzwdk1D4hCWfp1wFR2zb">Sammanträdet leddes av tredje vice talmannen .</note>
         <note xml:id="i-4kjbyJLjwvtaiXFpS8ufcU">Vid protokollet</note>
         <note xml:id="i-CUK28Ku3hKkruHvf1RBNPH">EMMA PAAKKINEN</note>
-        <note xml:id="i-5asBxQQ3EBddbSLCHQKksr">/Olof Pilo</note>
-        <note xml:id="i-BUK2SrqHuxaJzxmEox2qos">Innehållsförteckning</note>
-        <note xml:id="i-Ff5z2UquJ3t31cL74CW5SG">§ 1 Justering av protokoll</note>
-        <note xml:id="i-AnzQwgBpAdkRR6gCV5SL5r">§ 2 Avsägelse</note>
-        <note xml:id="i-WuYDGVbJmfz7MNBcYWAw6t">§ 3 Meddelande om frågestund</note>
-        <note xml:id="i-79YhLae1pjTcA3vvCdDhEA">§ 4 Meddelande om partiledardebatt</note>
-        <note xml:id="i-244GLH49kiZKdB6WDaJaX7">§ 5 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-BoNCLJHkUXduXwLW2vZmk2">§ 6 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-F59tPKz2Z5vmyo88o7C4DZ">§ 7 Ärenden för bordläggning</note>
-        <note xml:id="i-VPqNY1weaik6CJiWsMVBf6">§ 8 Svar på interpellation 2018/19:312 om en avvägning mellan havsbaserad vindkraft och naturvärden</note>
-        <note xml:id="i-SuLTcrXmyLV6RmQQzWtvw8" type="speaker">Anf. 1 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-Hzrh2FAtHos2NmWZqojg9w" type="speaker">Anf. 2 STAFFAN EKLÖF (SD)</note>
-        <note xml:id="i-Tbq2bc77T55UC2fwhKkFwr" type="speaker">Anf. 3 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-WkNiqhqqrCwCJhS1soAMvn" type="speaker">Anf. 4 STAFFAN EKLÖF (SD)</note>
-        <note xml:id="i-91fF11iWvWbaBgH7PpyD6m" type="speaker">Anf. 5 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-NZgyFuw7k4fMrFzxrzsnfL" type="speaker">Anf. 6 STAFFAN EKLÖF (SD)</note>
-        <note xml:id="i-BB4D1haWHEZEDiYxCWthjP" type="speaker">Anf. 7 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-BsPQ6WypFtwvLEGJVwoypz">§ 9 Svar på interpellation 2018/19:314 om en moderniserad och teknikneutral gentekniklagstiftning</note>
-        <note xml:id="i-P3Y3vRSSF98KczSEDGRAin" type="speaker">Anf. 8 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-3KJ8yLqmK18K7XZbdmZDMo" type="speaker">Anf. 9 STAFFAN EKLÖF (SD)</note>
-        <note xml:id="i-NiWSxjovTkfaD8PrsWjuNQ" type="speaker">Anf. 10 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-Vk66Xv4bPBCGwfdBhB5bPQ" type="speaker">Anf. 11 STAFFAN EKLÖF (SD)</note>
-        <note xml:id="i-6FHoiNz8ZW6CtJU7Ue61Jp" type="speaker">Anf. 12 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-Lrrktq6tdrSjXBYAS3ciUc" type="speaker">Anf. 13 STAFFAN EKLÖF (SD)</note>
-        <note xml:id="i-HKqpyqXj4mcn3PU5Ef3t6L" type="speaker">Anf. 14 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-GQgnpT4qSr24L1bS4JJ9L2">§ 10 Svar på interpellation 2018/19:318 om sponsring av damidrott</note>
-        <note xml:id="i-FTpJtbxVrGSShhxfc9JpMH" type="speaker">Anf. 15 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-KjLPFhMUui8exMXtXWuHJH" type="speaker">Anf. 16 LOTTA FINSTORP (M)</note>
-        <note xml:id="i-PiRFZQ5avgsmTC6a4VdGbs" type="speaker">Anf. 17 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-VKWXn8Q2Se8R1iXbStEwR3" type="speaker">Anf. 18 LOTTA FINSTORP (M)</note>
-        <note xml:id="i-Mu3FfKxdLUGd2qgeEod3na" type="speaker">Anf. 19 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Qu9dqYWZtaheaeAxHPnQCp" type="speaker">Anf. 20 LOTTA FINSTORP (M)</note>
-        <note xml:id="i-6HMyChVAG9qVPv8o8ewbWf" type="speaker">Anf. 21 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-2DV4dZWeTYWKa26fMLrECi">§ 11 Svar på interpellationerna 2019/20:2 och 4 om könsdiskriminering och fängslade strejkande arbetare i Iran</note>
-        <note xml:id="i-JUw3jgebhj4fEQseYSschU" type="speaker">Anf. 22 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-MMcyfP1urTX1FkU8YBJyw1" type="speaker">Anf. 23 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-RpFtg31DGFKL1gqY2xP26G" type="speaker">Anf. 24 ANDERS ÖSTERBERG (S)</note>
-        <note xml:id="i-E2PV7UVBZ974WL1xbJk3BS" type="speaker">Anf. 25 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-KUVFeMKFbUdbnnNxf2jpbE" type="speaker">Anf. 26 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-GfTYeQR3R4DHYGXY7YhWhJ" type="speaker">Anf. 27 ANDERS ÖSTERBERG (S)</note>
-        <note xml:id="i-98M3pfAGZkVBJi5NS9LxWm" type="speaker">Anf. 28 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-SWpbFfimu3EGcEXEdJKYUj" type="speaker">Anf. 29 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-9TrsUFbsW7BAzE65XfpL1D" type="speaker">Anf. 30 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-AK4Pk21yk89yNqr3rZTcSG">§ 12 Bordläggning</note>
-        <note xml:id="i-UWz1oqBQ73NPyUHAgQpgCD">§ 13 Beslut om förlängd motionstid</note>
-        <note xml:id="i-PQgvt3LjqFTw1hirqkhEfd">§ 14 Anmälan om interpellationer</note>
-        <note xml:id="i-UN5pwW5Wx6HVcDVKiw4XdR">§ 15 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-DuwvGJvyeJkW3sQuh1JT8z">§ 16 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-pPX99TNZ9dDU7BtPb6b89">§ 17 Kammaren åtskildes kl. 14.38.</head>
-        <note xml:id="i-BvXriPrc5Nt6MuLsBdcZis">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

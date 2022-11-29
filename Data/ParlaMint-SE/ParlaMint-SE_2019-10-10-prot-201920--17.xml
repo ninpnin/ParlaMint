@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 17 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 17 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--17">2019/20--17</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,34 +75,34 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MU94wVh251Woh26BV2kT1N">§ 1 Justering av protokoll</head>
         <note xml:id="i-9DVzKiaNeAqwWNKKX61dkc">Protokollen för den 19 och 20 september justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HheR7Vb2PcruhiA6sA8Pva">§ 2 Utökning av antalet suppleanter</head>
         <note xml:id="i-MPqkpns18WvkXoNuVr2RHC">Valberedningen hade, enligt ett till kammaren inkommet protokollsutdrag, tillstyrkt att antalet suppleanter i näringsutskottet skulle utökas från 29 till 30.</note>
         <note xml:id="i-HCSxKe5WrtXbbSxXxwidqm">Kammaren medgav denna utökning.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FMCRY9N4szCFUkkGuiyTNs">§ 3 Val av extra suppleant</head>
         <note xml:id="i-QTjT9AAwXC85F42HpYtymn">Val av extra suppleant i näringsutskottet företogs.</note>
         <note xml:id="i-5FknsNuPHC7qgRUH3B17tP">Kammaren valde i enlighet med valberedningens förslag till</note>
         <note xml:id="i-7XEq1iDsP4XX12TrZMXpkZ">suppleant i näringsutskottet</note>
         <note xml:id="i-QPRyLhEU6D8n4Bx6D66T3u">Amanda Palmstierna (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-43872GEBEiTEfW2iDoewAN">§ 4 Anmälan om faktapromemorior</head>
         <note xml:id="i-VRGLrct1srkFUnQ4uxy1bH">Tredje vice talmannen anmäl de att följande faktapromemorior om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-DVw95GBDJK64AupUgS7SrF">2019/20:FPM4 Förordningsändring gällande Europeiska unionens solidaritetsfond med anledning av brexit COM(2019) 399 till försvarsutskottet</note>
         <note xml:id="i-2gnCW26AWKZchJXY76yAPP">2019/20:FPM5 Meddelande om de sista förberedelserna inför Storbritanniens utträde ur EU 2017/18:FPM162, 2018/19:FPM17, 2018/19:FPM27, 2018/19:FPM54, COM(2019) 394 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Db2v1mBRP2q6Nc1aiz3461">§ 5 Anmälan om granskningsrapport</head>
         <note xml:id="i-PJutG2bQh6CFA5Zu1jZ6uV">Tredje vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till närings utskottet:</note>
         <note xml:id="i-4TqcxP2yyJW3btqUk3SwhK">RiR 2019:26 Konkurrensverkets tillsyn – förutsättningar för effektivt resursutnyttjande</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JyNxomsTHQQ1GzNauPT3US">§ 6 Ärende för hänvisning till utskott</head>
         <note xml:id="i-DULkCxQSdqym8h3o1hN6Rv">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-9syGWTPuDJHDoK5uiiJ8fi">Proposition</note>
@@ -315,7 +316,7 @@
       <div type="debateSection">
         <head xml:id="i-UXYL6vexXUrd1r2yJVUbMB">§ 9 Frågestund</head>
         <note type="speaker" xml:id="i-FcN8fAiugchvvb1DYMAtPc">Anf. 23 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-6Pu29RDHf8MbX9t3dTKWku" who="#unknown" ana="#regular">
+        <u xml:id="i-6Pu29RDHf8MbX9t3dTKWku" ana="#regular">
           <seg xml:id="i-Npt9oVebYPdmReMub9XyPc">Jag vill hälsa statsråden välkomna. Frågor besvaras i dag av statsrådet Mikael Damberg, näringsminister Ibrahim Baylan, statsrådet Jennie Nilsson och statsrådet Anna Hallberg, som deltar i frågestunden för första gången, så varmt välkommen!</seg>
           <seg xml:id="i-QrZ5kapuJ9LDtom3t3X9ds">En fråga ska vara av övergripande och allmänpolitiskt slag eller avse ett ämne som faller inom statsrådets ansvarsområde och rör dennes tjänste ­ utövning. Statsrådet Mikael Damberg besvarar såväl allmänpolitiska frå ­ gor som frågor inom sitt eget ansvarsområde.</seg>
         </u>
@@ -811,7 +812,7 @@
         </u>
         <note xml:id="i-YFhN8LUh1jkPjJBFCvgUFR">Frågestunden var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QNdXvoFp7SKqHdhudhyRbe">§ 10 Bordläggning</head>
         <note xml:id="i-HgQj8PmEENYrvpac9JDYnW">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-nTDwZczKCywjTiPjqJMUA">Motioner</note>
@@ -829,7 +830,7 @@
         <note xml:id="i-MG4AJsDGXjgdNsFMEpYyW5">2019/20:3381 av Jens Holm m.fl. (V)</note>
         <note xml:id="i-RzVDXWLyvXb3A9ZLutVn4o">2019/20:3387 av Jessika Roswall m.fl. (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EjoHhFncQiHQSAKzXMPzQK">§ 11 Anmälan om interpellationer</head>
         <note xml:id="i-ToL9pthPyJWxTi2znk2iwu">Följande interpellationer hade framställts:</note>
         <note xml:id="i-A96RmYzpLXv2KSDdx3DBnt">den 8 oktober</note>
@@ -841,7 +842,7 @@
         <note xml:id="i-LzNhVVFbxznxgVPZaD3LQo">av Amineh Kakabaveh (-)</note>
         <note xml:id="i-WnCqrPQwrm2hzkPGKMj4AQ">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7GsTTagBastKWo4nCPmxUq">§ 12 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-8j7tg1QSupZuEVpDgPAckq">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-PCyrSr3v9tYSQREpo3uFGH">den 8 oktober</note>
@@ -889,7 +890,7 @@
         <note xml:id="i-GrrLc6PT6CQUjcKDxSm9Ns">av Clara Aranda (SD)</note>
         <note xml:id="i-S2ox2ubq4UDLTxMP3HsEJE">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HtqiGQ85T1BQooQY9PvsoY">§ 13 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-Tu8h9oUyzRrdCEi2dizngR">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-6Mtz4y71QT6w1bzwouDkXe">den 9 oktober</note>
@@ -1005,161 +1006,13 @@
         <note xml:id="i-LVwfpm6DvsG42X8VQxmBFY">av Henrik Vinge (SD)</note>
         <note xml:id="i-TmN5ijExCUgHGZGU7rKzee">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5wXACvVp5QKU6vNFsLRnDq">§ 14 Kammaren åtskildes kl. 15.12.</head>
         <note xml:id="i-6igpcutwrXBwtwfNzXYrsy">Sammanträdet leddes</note>
         <note xml:id="i-95cYMRESRkfziX7S99XiYP">av tredje vice talmannen från dess början till ajourneringen kl. 13.03 och</note>
         <note xml:id="i-AzWzSRb21NM2me1hiTA832">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-RQ1PiXT4HC6STSYYmmj3t1">Vid protokollet</note>
         <note xml:id="i-XsBMLZ2jAatEAosqP751DP">ANNALENA HANELL</note>
-        <note xml:id="i-31aYh8BnxyHqWWvLVqRgvA">/Olof Pilo</note>
-        <note xml:id="i-UD3eMgGp5yA6Rjs2DEpMCV">Innehållsförteckning</note>
-        <note xml:id="i-WLWxwbyiAN31bnNSRj6BDC">§ 1 Justering av protokoll</note>
-        <note xml:id="i-4sjkMNPD4tzhPoiU9SP7kw">§ 2 Utökning av antalet suppleanter</note>
-        <note xml:id="i-GiJsjKgPxdZ9H9eXbtNgvN">§ 3 Val av extra suppleant</note>
-        <note xml:id="i-AwZbZT9XUy9kYDmDzRrHmD">§ 4 Anmälan om faktapromemorior</note>
-        <note xml:id="i-VWzsT2YNyrqm6ZiDhKaQKb">§ 5 Anmälan om granskningsrapport</note>
-        <note xml:id="i-Y2T87YBusCa17AnXngTcqA">§ 6 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-6MccvgW7CuWE8Gqrom82YM">§ 7 Svar på interpellation 2019/20:20 om dålig arbetsmiljö på Mynak</note>
-        <note xml:id="i-9vdXB9EbMToBRqdZ6qZZew" type="speaker">Anf. 1 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-Xtn9mdmpiAQwSNS7wFXUTK" type="speaker">Anf. 2 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-9CoKvsC1Ma4VcCAkS6rdY1" type="speaker">Anf. 3 LARS BECKMAN (M)</note>
-        <note xml:id="i-6ka2mjWZWKQWsmefoDVoHc" type="speaker">Anf. 4 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-QffpAr4cbtqvqxHnNRPmjD" type="speaker">Anf. 5 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-HqFakhbqyzeHQQfiaXKgkB" type="speaker">Anf. 6 LARS BECKMAN (M)</note>
-        <note xml:id="i-GxkFi2ZMEcUBoC6zfnZNvU" type="speaker">Anf. 7 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-hNVAbccxHhdbzDeVV98RA" type="speaker">Anf. 8 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-PUecMREPPDR5aktb3RKW5c" type="speaker">Anf. 9 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-TRwCypxr2W9cUEZ5bBYMSi">§ 8 Svar på interpellation 2019/20:23 om den ökande arbetslösheten</note>
-        <note xml:id="i-PkXctXFvMNkAiW7j9pNAYe" type="speaker">Anf. 10 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-Qmo7qECbYXYARWz8R7aNaR" type="speaker">Anf. 11 LARS BECKMAN (M)</note>
-        <note xml:id="i-Be2Z2te5FVmWVYNq85PtXd" type="speaker">Anf. 12 JÖRGEN BERGLUND (M)</note>
-        <note xml:id="i-86jgepgiAnoAvAJPBHXiXW" type="speaker">Anf. 13 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-V6q4HPKgSthsrioy5C5dJC" type="speaker">Anf. 14 LARS JILMSTAD (M)</note>
-        <note xml:id="i-UZVZeeoQjU9gUSBwZjry24" type="speaker">Anf. 15 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-BPddycAmfEdVy1VCxpZCcb" type="speaker">Anf. 16 LARS BECKMAN (M)</note>
-        <note xml:id="i-GRKDiuyhhrkuG8YKyDiSQF" type="speaker">Anf. 17 JÖRGEN BERGLUND (M)</note>
-        <note xml:id="i-VBxjXFDGPh55UyqxJtzL4S" type="speaker">Anf. 18 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-6a6U2JQj8G9KrptgEaq8hy" type="speaker">Anf. 19 LARS JILMSTAD (M)</note>
-        <note xml:id="i-KNfJsQy3AmYyWxZXvFxJmk" type="speaker">Anf. 20 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-3LKDfJhcWrVUxPeGZvn1Cc" type="speaker">Anf. 21 LARS BECKMAN (M)</note>
-        <note xml:id="i-UUkDXVHrpP517tqG1bCRNs" type="speaker">Anf. 22 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-HBb9ECi5nTB169SWr7Aeda">Ajournering</note>
-        <note xml:id="i-VZ2AT6By5SZWAN3mchDNBi">Återupptaget sammanträde</note>
-        <note xml:id="i-P4qCAfvocyRQo6qi7eLKXc">§ 9 Frågestund</note>
-        <note xml:id="i-JWhJTzU654nStRt8H3f6E9" type="speaker">Anf. 23 FÖRSTE VICE TALMANNEN</note>
-        <note xml:id="i-FPkoS7mF3q5hhjbh92QStn">Nivån på asylmottagandet</note>
-        <note xml:id="i-YaPqiG4HZDD3Z2WKziJsHG" type="speaker">Anf. 24 MARIA MALMER STENERGARD (M)</note>
-        <note xml:id="i-KQNjyqX4FPBRiCBo9a4CjL" type="speaker">Anf. 25 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-NwA6vwFC18b6h99FsEcDRj" type="speaker">Anf. 26 MARIA MALMER STENERGARD (M)</note>
-        <note xml:id="i-M65H6JYKYusqfxVLd44cUQ" type="speaker">Anf. 27 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-BQHydEjMUpF7UfMMdEu96p">Sveriges agerande med anledning av Turkiets anfall mot kurderna</note>
-        <note xml:id="i-wNgBSkz5SMNCTAxnY571R" type="speaker">Anf. 28 MARKUS WIECHEL (SD)</note>
-        <note xml:id="i-V9kTQSeetF1P4ghqWA2hBK" type="speaker">Anf. 29 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-F2rtZJtQqyjyKBACyrWtrc" type="speaker">Anf. 30 MARKUS WIECHEL (SD)</note>
-        <note xml:id="i-3MeRw77Fq18zDvZdKNa12w" type="speaker">Anf. 31 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-U53dGzsC7W3J1NTFAadX47">Licensjakt på säl</note>
-        <note xml:id="i-HY91ZAKCJ613kENbL4L84B" type="speaker">Anf. 32 KRISTINA YNGWE (C)</note>
-        <note xml:id="i-5kguYSYAX827keYNijYUYj" type="speaker">Anf. 33 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-4QepkpfNNadDTJ2RiA791K" type="speaker">Anf. 34 KRISTINA YNGWE (C)</note>
-        <note xml:id="i-54dW4bPeGUcnJRookre5pL" type="speaker">Anf. 35 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-WMiPS34QfPBctmyYSxLvGq">Stopp för svensk vapenexport till Turkiet</note>
-        <note xml:id="i-V8Ntx3upHE3M94KmVX8g13" type="speaker">Anf. 36 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-Tc2vfjsxyzF6iiCBMob1Rv" type="speaker">Anf. 37 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-4oWxiwJFuamp7LMJfKBSrh" type="speaker">Anf. 38 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-3iVkYWs6eXTooZmxbjpwof" type="speaker">Anf. 39 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-S7LCPoEW8fCgqbpXq867zx">Företagsklimatet och stöd till brottsutsatta företag</note>
-        <note xml:id="i-RoAKWhN2oiR6AMS16obFkQ" type="speaker">Anf. 40 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-4t88Tf5TKru5dkbdjufonf" type="speaker">Anf. 41 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-S2qZtCQjbctUSfZaq3b35W" type="speaker">Anf. 42 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-66BnPb6wmCyduLDq3HjHNS" type="speaker">Anf. 43 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-16EE1rNf9c7cX8EwnkCB9n">Ett samlat totalförsvarsbeslut 2020</note>
-        <note xml:id="i-SEu24XuAF7NqpeNhxBJdpd" type="speaker">Anf. 44 ALLAN WIDMAN (L)</note>
-        <note xml:id="i-5VbPksQt8tqaQtDZ8ZtwxW" type="speaker">Anf. 45 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-DexBsoNw4n6K125LgmZeHd">Klimatomställningen av svensk industri</note>
-        <note xml:id="i-FBjQbvp8przGMfYxmh6Fpt" type="speaker">Anf. 46 PATRIK ENGSTRÖM (S)</note>
-        <note xml:id="i-7VLZAMfH3WQ8FEWBTmWmZc" type="speaker">Anf. 47 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-AUoRiqBhnuS6xg5zgmVbHd" type="speaker">Anf. 48 PATRIK ENGSTRÖM (S)</note>
-        <note xml:id="i-SepeGUvHdFBxRJo1JFCwYp" type="speaker">Anf. 49 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-Bu7jD5mhCciTfpLXz72V2t">Fotbollssupportrars förtroende för polisen</note>
-        <note xml:id="i-8Y1iBwNcA4n9ewA1jzWJxZ" type="speaker">Anf. 50 LORENTZ TOVATT (MP)</note>
-        <note xml:id="i-5Y3nqHugj4eRmos3kVTKcQ" type="speaker">Anf. 51 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-7WFbRkVE72jyfCvPJw5F7v" type="speaker">Anf. 52 LORENTZ TOVATT (MP)</note>
-        <note xml:id="i-MhkKxaP31nqXZkqHXK9vaR" type="speaker">Anf. 53 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-871zeJRf4WyGitWB8UNDLU">Gängkriminalitet och Danmarks gränskontroller</note>
-        <note xml:id="i-4tVgvdXiDA18vYvPvihjWh" type="speaker">Anf. 54 HANS WALLMARK (M)</note>
-        <note xml:id="i-U9hWnyenq3ZiqZfZ79Af6u" type="speaker">Anf. 55 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-G6NfYnPs8esoWgLLkm21yr" type="speaker">Anf. 56 HANS WALLMARK (M)</note>
-        <note xml:id="i-3UGjzEKjHUKirGFqEPMbEp" type="speaker">Anf. 57 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-RKyNS9ibwbu6dGGESKJ3QN">Regeringens åtgärder mot det ökade antalet skjutningar</note>
-        <note xml:id="i-WxH1Xhm99KHS9HWEzhMHj" type="speaker">Anf. 58 KATJA NYBERG (SD)</note>
-        <note xml:id="i-BV7gVRwgKAjjveSdbm6LkK" type="speaker">Anf. 59 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-KT9NsRqAQis6tdNk18LgUo" type="speaker">Anf. 60 KATJA NYBERG (SD)</note>
-        <note xml:id="i-9kG1h4Bqu9MRVNsGGtEQW1" type="speaker">Anf. 61 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-8CeEFg2YEpgjrm3mH5Fejg">Samordningen av exportfrämjande insatser</note>
-        <note xml:id="i-Pm6kDGHzxHEsQ1DsCKUtei" type="speaker">Anf. 62 PER SCHÖLDBERG (C)</note>
-        <note xml:id="i-6FZ1UoGVhmin3i8oGndmZc" type="speaker">Anf. 63 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-QMydE1NcS1QrtLRYdTpEC" type="speaker">Anf. 64 PER SCHÖLDBERG (C)</note>
-        <note xml:id="i-VU1DYxrtLpNaWjAgTV4hEE" type="speaker">Anf. 65 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-G8LCTX1KncaDMgNx2Z3KU6">Konkurrensverkets möjligheter att bekämpa korruption</note>
-        <note xml:id="i-97MvUMrsS9LrVAFyay1NLT" type="speaker">Anf. 66 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-RNvqJZPuWs7TWRa5n2QAZ7" type="speaker">Anf. 67 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-3vrRjjmqyxWcwYxx6chwc8" type="speaker">Anf. 68 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-FemWtWX43Rp2aM3Tw255fa" type="speaker">Anf. 69 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-SJWknAqrGNSYfGkHAEPEJE">Elkapacitetsbristen i Skåne</note>
-        <note xml:id="i-JdMU69dKsLvdUPArhFqFzu" type="speaker">Anf. 70 ANN-CHARLOTTE HAMMAR JOHNSSON (M)</note>
-        <note xml:id="i-8dznpkARZVvWu4zjsDvyLn" type="speaker">Anf. 71 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-2nthhk1rFq3F5KpwinTdKQ" type="speaker">Anf. 72 ANN-CHARLOTTE HAMMAR JOHNSSON (M)</note>
-        <note xml:id="i-Wob59fswQ5eB9iExZnYUvA" type="speaker">Anf. 73 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-5DmTfCuonAkNN2BYWiE1zG">Sexualbrott mot unga kvinnor</note>
-        <note xml:id="i-XNNL73ph6Puzpqhfyw73mi" type="speaker">Anf. 74 MARIA STRÖMKVIST (S)</note>
-        <note xml:id="i-7T45CAgJ62GQLFJsFRqykg" type="speaker">Anf. 75 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-D6wZGQirMo6rZHuJfcF93K" type="speaker">Anf. 76 MARIA STRÖMKVIST (S)</note>
-        <note xml:id="i-5kC9u6Gff4f3RDeUHoUhV9">Kortare tillståndsprocesser</note>
-        <note xml:id="i-UuAViVJJYCzZJD6uN672t8" type="speaker">Anf. 77 RICKARD NORDIN (C)</note>
-        <note xml:id="i-RioZrP2fShC1C4jAsTQZBE" type="speaker">Anf. 78 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-FSBvCxkRUMS73iUyjhwPkj" type="speaker">Anf. 79 RICKARD NORDIN (C)</note>
-        <note xml:id="i-9x87HoXTftgC69Ra1ykkyP" type="speaker">Anf. 80 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-LjG9DwTzZih99TVLV7XsqC">Skötseln av statlig skog och granbarkborrens spridning</note>
-        <note xml:id="i-DpnMfVYFxwHAkyz3kGizYH" type="speaker">Anf. 81 MAGNUS OSCARSSON (KD)</note>
-        <note xml:id="i-2WMRUy4SYFwbJ9CCwnW6du" type="speaker">Anf. 82 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-4WVb5CWjUbpjTj7mVoBC7S" type="speaker">Anf. 83 MAGNUS OSCARSSON (KD)</note>
-        <note xml:id="i-MRCkFvsvxC8bzBRXsG6hcD" type="speaker">Anf. 84 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-GXUtgNprFkrBJ9Kw5zSzpP">Språkförbistringen i äldreomsorgen</note>
-        <note xml:id="i-FLerMD6NwQ2gtZ5nBfqBtJ" type="speaker">Anf. 85 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-CT9oHPwmXhSZDaKZTq2knt" type="speaker">Anf. 86 Statsrådet MIKAEL DAMBERG (S)</note>
-        <u xml:id="i-3836c029cf7ba80d-400" who="#Q3372917" ana="#regular">
-          <seg xml:id="i-VusLdr5NAtsinVu4FtNocf">Handelsrelationen med Kina och respekten för WTO:s regler</seg>
-        </u>
-        <note xml:id="i-Jt5A8jAiWPPTCUBqxE3EVH" type="speaker">Anf. 87 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-TnCnSaBTxRRdi4z9CLxBo1" type="speaker">Anf. 88 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-MexZ3FuUJvCp7mCEAfB6B1">Det nationella skogsprogrammet</note>
-        <note xml:id="i-EY8RTT6XR8NuwuMDs5wyZz" type="speaker">Anf. 89 ISAK FROM (S)</note>
-        <note xml:id="i-T4z7wgF1kZhcDjBjyub2en" type="speaker">Anf. 90 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-QrhiFBTYYbYBzwXjrivHPg">Köerna till cancervården</note>
-        <note xml:id="i-8CyotMu96xKpfUZevXrocr" type="speaker">Anf. 91 CAMILLA WALTERSSON GRÖNVALL (M)</note>
-        <note xml:id="i-WZyZbrQn7kg6rZyQBeykvz" type="speaker">Anf. 92 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-TjFLSGngYsJuVeRhkFyELq">Riksrevisionens förslag om arbetet mot den organiserade brottsligheten</note>
-        <note xml:id="i-Hpdie1APakQFbS93Th7vgr" type="speaker">Anf. 93 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-Pji35bfVsAdEyMQ5LunnkH" type="speaker">Anf. 94 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-NN4D6k1uAsLdoDaoNg7XoG">Kemiindustrins gröna omställning</note>
-        <note xml:id="i-7PXaGPeE9TDSacFxyerkzd" type="speaker">Anf. 95 MARLENE BURWICK (S)</note>
-        <note xml:id="i-42atxJoE4qC1LseS8DKL5r" type="speaker">Anf. 96 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-2Gf5b5Xey24gN1fU3hiUMs">Skatten på lokal elproduktion</note>
-        <note xml:id="i-BNgmYE8gYrX6n9kA8KRoFR" type="speaker">Anf. 97 LARS HJÄLMERED (M)</note>
-        <note xml:id="i-EUDHVDbw6NbrzfVcL8mRAZ" type="speaker">Anf. 98 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-FMSXkaRM29y39ZYZHGYbpu">Effekterna av brexit för den svenska exportindustrin</note>
-        <note xml:id="i-Um5eXqYALSwYbcha1meiHJ" type="speaker">Anf. 99 MARKUS SELIN (S)</note>
-        <note xml:id="i-4HyzN9Usaf6NUTQTYGrE3j" type="speaker">Anf. 100 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-UjRS5DNsXXhaxVcB8prcx6">Dansk utredning av svensk gängkriminalitet</note>
-        <note xml:id="i-JL6wTQb1QDtNHgrzHoV2VB" type="speaker">Anf. 101 MARIE-LOUISE HÄNEL SANDSTRÖM (M)</note>
-        <note xml:id="i-8orU4YtoLMf6e5oZBz16oM" type="speaker">Anf. 102 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-FSTryE4vGTSwq9KYYL46ox">§ 10 Bordläggning</note>
-        <note xml:id="i-S9UJ5GhctjE8A3NBof78M7">§ 11 Anmälan om interpellationer</note>
-        <note xml:id="i-NLvbT5LKd2FQ4QcH4cphi8">§ 12 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-XbPTMNmoum5teh9VR6d1E">§ 13 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-LsyCvAeyWpFDfp2B91h5Kj">§ 14 Kammaren åtskildes kl. 15.12.</note>
-        <note xml:id="i-2NKf6t5eGpixMjUJcJgPkj">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 122 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 122 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--122">2019/20--122</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,15 +75,15 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-C9vdT49rXfEFU3EKkUhL6K">§ 1 Justering av protokoll</head>
         <note xml:id="i-FrBZbrY93hRZmzrG1HH9JL">Protokollen för den 27–30 april justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4Cp6nUah9aA7ZKFCif7JBP">§ 2 Anmälan om återtagande av plats i riksdagen</head>
         <note xml:id="i-PtS3ZYtZhYZVgPDFAgPPbo">Tredje vice talmannen meddelade att Sanne Lennström (S) återtagit sin plats i riksdagen från och med den 18 maj, varigenom uppdraget som ersättare upphört för Inga-Lill Sjöblom (S).</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6J1E1BLvFoCiqfYJeFArcr">§ 3 Anmälan om kompletteringsval</head>
         <note xml:id="i-9YJjt2VEKy3U5YH8rWqodK">Tredje vice talmannen meddelade att Socialdemokraternas riksdagsgrupp anmält Sanne Lennström som suppleant i konstitutionsutskottet, i finansutskottet, i skatteutskottet, i utrikesutskottet, i försvarsutskottet, i socialförsäkringsutskottet, i socialutskottet, i kulturutskottet, i trafikutskottet, i miljö- och jordbruksutskottet, i näringsutskottet, i arbetsmarknadsutskottet och i EU-nämnden.</note>
         <note xml:id="i-VvTMmTe3j1ybPBn611VAtK">Tredje vice talmannen förklarade vald till</note>
@@ -113,7 +114,7 @@
         <note xml:id="i-CJvC7bo7CMQf5dMJ1ftbDc">suppleant i EU-nämnden</note>
         <note xml:id="i-QXhvGvfnfvkbmXwQk1mHy">Sanne Lennström (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YHyuuzn2G9cwss7r64M6Do">§ 4 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-U451yZnNoyKKPwTJwXbn1">Följande dokument anmäldes:</note>
         <note xml:id="i-YUDJPvwZiZVn6EEdCABPCU">Motioner</note>
@@ -123,7 +124,7 @@
         <note xml:id="i-9775L4FYzBZvcXru8nhiT6">2019/20:3618 av Elisabeth Svantesson m.fl. (M)</note>
         <note xml:id="i-7tHPi1sgSkTcGkpQbpKfnt">Kammaren biföll talmannens förslag att ovanstående motioner omedelbart skulle hänvisas till finansutskottet .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-89rHkwrfbg2XjYyqQpDPre">§ 5 Anmälan om interpellationer</head>
         <note xml:id="i-4vWZCw8ERXsLgL6fsQXsNF">Följande interpellationer hade framställts:</note>
         <note xml:id="i-DB3LMf16Tn9QyvEgi6VT6T">den 14 maj</note>
@@ -141,7 +142,7 @@
         <note xml:id="i-Carv8ShwVfNSa5sjQGVVQk">av Jens Holm (V)</note>
         <note xml:id="i-DYEWNEkr8sMLEJKd84cceG">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Cx5A9gwcVhrVpbtbGMPgFa">§ 6 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-U9Pvd1bnHbyTL5JVts5B5y">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-S9ofTcTzyiqRv87JMxhoEG">den 14 maj</note>
@@ -232,7 +233,7 @@
         <note xml:id="i-XVDMGFsBugMqykLpg5eEA6">av Lotta Johnsson Fornarve (V)</note>
         <note xml:id="i-L1gDKnSjMB6WpUDUFc8W6E">till statsrådet Peter Eriksson (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4WwsSG3kamxefbcW94izzn">§ 7 Anmälan om skriftligt svar på fråga</head>
         <note xml:id="i-U5d92Q7vPzRbsPqPHTRgdx">Skriftligt svar på följande fråga hade kommit in:</note>
         <note xml:id="i-9hQe4EaQYdLv6V9yYgqomt">den 14 maj</note>
@@ -240,24 +241,11 @@
         <note xml:id="i-QabbFCRT1f2CHgAAkhaLRj">av Markus Wiechel (SD)</note>
         <note xml:id="i-WzKc7cZ5Way6WCq7zHRiye">till arbetsmarknadsminister Eva Nordmark (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-67VduKxbV6ZMYPynNbskw7">§ 8 Kammaren åtskildes kl. 9 . 01 .</head>
         <note xml:id="i-KrcvaeP9yzYPti5hruA8Y5">Sammanträdet leddes av tredje vice talmannen .</note>
         <note xml:id="i-SufTKxyFWuFne757QRcyvL">Vid protokollet</note>
         <note xml:id="i-B58y6K6vHbVDjWtMxwNAoq">JOHAN WELANDER</note>
-        <note xml:id="i-KdXwDwKSFcVawY2musrhbm">/Olof Pilo</note>
-        <note xml:id="i-FB5wUGKnsqeoRb7cYYU6C8">Innehållsförteckning</note>
-        <note xml:id="i-HszNc3G8mbrP3MD2tMKm4Q">§ 1 Justering av protokoll</note>
-        <note xml:id="i-JMhVwbwSuL1LTPxkQiTGzJ">§ 2 Anmälan om återtagande av plats i riksdagen</note>
-        <note xml:id="i-5ai1BJBDsmoAk4mY2Lx4WW">§ 3 Anmälan om kompletteringsval</note>
-        <note xml:id="i-HGXRNATGuriPU6LtdfxZZb">§ 4 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-9zwcnuthPpomLA9uUtFuUj">§ 5 Anmälan om interpellationer</note>
-        <note xml:id="i-WNEqzVoPwvJxrE2Nkn4qGX">§ 6 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-P2PgkNQusFwCgRUgG9cEJh">§ 7 Anmälan om skriftligt svar på fråga</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-AgCHNteKs4ao6QQPV46LZH">§ 8 Kammaren åtskildes kl. 9.01.</head>
-        <note xml:id="i-KFnZhU9HkFw9EMoLhhbYWe">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

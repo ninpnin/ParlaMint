@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 3 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 3 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--3">2019/20--3</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6rJYWZCBrrB3UZ7z2kixSF">§ 1 Anmälan om förändringar i regeringens sammansättning</head>
         <note xml:id="i-M3mjjuqSb9LAsU7WbjPUPf">Från statsminister Stefan Löfven (S) hade följande skrivelser kommit in:</note>
         <note xml:id="i-RdhY7ea3buZUYWzfBNKdsm">Till riksdagens talman</note>
@@ -104,12 +105,12 @@
         <note xml:id="i-2WtBDoVvwzoseNsdS5Wtba">Stefan Löfven</note>
         <note xml:id="i-XDrr2qRja86GGSywHP5YR3">Skrivelserna lades till handlingarna.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SDu483sUy9FH4YzgsWFzJD">§ 2 Avsägelse</head>
         <note xml:id="i-DjxPZGDThpUjVCaHfqgHxg">Förste vice talmannen meddelade att Gustav Fridolin (MP) avsagt sig uppdraget som ledamot av riksdagen från och med den 1 oktober.</note>
         <note xml:id="i-NfUkHaVhPL2WiPZEcgXRpA">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Mi6A6VheMgLg2p9jSd2ZCp">§ 3 Anmälan om ändrad partibeteckning</head>
         <note xml:id="i-5x6ABBogZKchuJq8Fxrmky">Från Amineh Kakabaveh hade följande skrivelse kommit in:</note>
         <note xml:id="i-2UTbZrjxnYKtgdp81iLMHd">Till Sveriges riksdag</note>
@@ -120,7 +121,7 @@
         <note xml:id="i-PVXHK38vGxzEE4zwFZstzc">Amineh Kakabaveh</note>
         <note xml:id="i-WYKwsZep4x4sJa2ghEYyoo">Skrivelsen lades till handlingarna.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GaaxNcWGj62ULh11kHk8AS">§ 4 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-EEvePzMKjSSFaVpov79X4k">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-2MMZ2ZbdUvQ1Vj6D7Zzjmn">Interpellation 2018/19:318</note>
@@ -136,13 +137,13 @@
         <note xml:id="i-8Mud6CjdxG5epn4yvegYMi">Johan Ndure</note>
         <note xml:id="i-CCjehbRbhEzuFYbixLb2Jj">Departementsråd</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LDLx4f3ExpPt1zjLRmvC9N">§ 5 Anmälan om faktapromemorior</head>
         <note xml:id="i-LwPMdZARoUiR5JMsY6qvsL">Förste vice talmannen anmälde att följande faktapromemorior om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-RmMjnwMVZ8xCJbY3fvWRLT">2018/19:FPM58 Förordning om styrningsram för budgetinstrumentet för konvergens och konkurrenskraft i euroområdet COM(2019) 354 till finansutskottet</note>
         <note xml:id="i-CD4S1j7n62VgzFMhEY8N3m">2019/20:FPM1 Meddelande om att intensifiera EU:s insatser för att skyd ­ da och återställa världens skogar COM(2019) 352 till miljö- och jordbruksutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7QbyUxZxDA1a9hK92xPABa">§ 6 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-ViDUhPUsXMKGDowYXbBFe5">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-6SPjy1kU9FTj4jggw6ZqF1">Propositioner</note>
@@ -375,7 +376,7 @@
       <div type="debateSection">
         <head xml:id="i-TzUKv13zB4EL6gchQEqjth">§ 10 Frågestund</head>
         <note type="speaker" xml:id="i-PczUSGHoq4LpNVRKVHEDSV">Anf. 22 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-BjGcB5zbg1Qaxp4GDEDGnN" who="#unknown" ana="#regular">
+        <u xml:id="i-BjGcB5zbg1Qaxp4GDEDGnN" ana="#regular">
           <seg xml:id="i-QVPVVkYgdtjUefwYC4bxsR">Jag hälsar statsråden välkomna. Frågorna ska besvaras av statsrådet Mikael Damberg, justitie- och migrationsminister Morgan Johansson, statsrådet Hans Dahlgren och statsrådet Matilda Ernkrans.</seg>
           <seg xml:id="i-MEJVc13VjnGvFhPS7veeBH">En fråga ska vara av övergripande allmänpolitiskt slag eller avse ett ämne som faller inom statsrådets ansvarsområde och rör dennes tjänsteutövning. Statsrådet Mikael Damberg besvarar såväl allmänpolitiska frågor som frågor inom sitt eget ansvarsområde.</seg>
         </u>
@@ -888,7 +889,7 @@
         </u>
         <note xml:id="i-RguWTqAYY5JerpXhHvBLxF">Frågestunden var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RujzWtZuUcx18casCZ9tux">§ 11 Bordläggning</head>
         <note xml:id="i-ARvQs7PBywncjWNfTAjysm">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-WhWU9PT7dH9pimzbxmb73c">EU-dokument</note>
@@ -897,7 +898,7 @@
         <note xml:id="i-Niy5pwEdk6oaXy1bVyn9HV">COM(2019) 399 Förslag till Europaparlamentets och rådets förordning om ändring av rådets förordning (eg) nr 2012/2002 i syfte att tillhandahålla ekonomiskt bistånd till medlemsstaterna för att minska den allvarliga ekonomiska börda som uppstår till följd av förenade kungarikets utträde ur unionen utan avtal</note>
         <note xml:id="i-6jjLYq4ssRfiXERYs21nZw">COM(2019) 411 Förslag till Europaparlamentets och rådets beslut om ytterligare makroekonomiskt stöd till Hashemitiska konungariket Jordanien</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9qCCnE8mSJnGM8r3AAyG8U">§ 12 Anmälan om interpellation</head>
         <note xml:id="i-2LZYLnTPDeELVkrTtfoMLc">Följande interpellation hade framställts:</note>
         <note xml:id="i-UUyAhpN6bxTUf36VJy7zKa">den 10 september</note>
@@ -905,7 +906,7 @@
         <note xml:id="i-SQLEY6jPbZmrZvBRKuvYf6">av Christer Nylander (L)</note>
         <note xml:id="i-2T82nTJD2r4rMhFAmSBRw9">till kultur- och demokratiminister Amanda Lind (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PfLH8Fjb7qP31HqNAwcVZA">§ 13 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-H25Lv28yuJ3hPgvtgauvgA">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-LmK51FvL17vBV497DcXf7Q">den 10 september</note>
@@ -929,7 +930,7 @@
         <note xml:id="i-5FdRKpKu2fYn57iz6B6Lj2">av Elisabeth Björnsdotter Rahm (M)</note>
         <note xml:id="i-XPZwEb7QRXoyhizmRovVin">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3NYeU8RXZ1neJ8GeiGtqNP">§ 14 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-2Uj957ATN9zA5dPvFfW3wu">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-S2LqWbqB2WLNHk8XeFRqwU">den 11 september</note>
@@ -1025,166 +1026,11 @@
         <note xml:id="i-6LBVhLm1nE2TLK4umtGnkD">av Saila Quicklund (M)</note>
         <note xml:id="i-S1qrSgCA6xVaDnXf1piKW5">till statsrådet Anders Ygeman (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Qg7ev6jfSevfUqAx3XFL8M">§ 15 Kammaren åtskildes kl. 15.16.</head>
         <note xml:id="i-7PKwTsxdfxkmvQ7UoAZBsX">Sammanträdet leddes av förste vice talmannen.</note>
         <note xml:id="i-SKcpUYrK9jmXDcj4Y6s3xe">Vid protokollet</note>
         <note xml:id="i-GiJFsbWMDEUcDVFytQy6DD">ANNA ASPEGREN</note>
-        <note xml:id="i-7esrWmt7DpLF15YBb7hMMB">/Olof Pilo</note>
-        <note xml:id="i-AVyzFpct2zzDMEMng1yxKc">Innehållsförteckning</note>
-        <note xml:id="i-VJN5tCyYFJZxHyMBFutkok">§ 1 Anmälan om förändringar i regeringens sammansättning</note>
-        <note xml:id="i-PTT32rDVyzyDiz9RofH25a">§ 2 Avsägelse</note>
-        <note xml:id="i-Kohq1nNk6uFzXKdBuj18Pg">§ 3 Anmälan om ändrad partibeteckning</note>
-        <note xml:id="i-7sPj3xfKRoEjAFK3KgTYKb">§ 4 Anmälan om fördröjt svar på interpellation</note>
-        <note xml:id="i-G6MFGkhPqphmaGQdnFGGkn">§ 5 Anmälan om faktapromemorior</note>
-        <note xml:id="i-HChjuMNCCuH5acpLd1is4i">§ 6 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-5juhuNjKcXh7nemkeFJpSW">§ 7 Svar på interpellation 2018/19:277 om Sveriges utvisningspolitik</note>
-        <note xml:id="i-VqdhA4iXpqQP2B7P9GnnZ" type="speaker">Anf. 1 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-VJaKLEvirbNRRPXUVnDyjH" type="speaker">Anf. 2 LOUISE MEIJER (M)</note>
-        <note xml:id="i-CcP6563aQwN27yE5WHtmwi" type="speaker">Anf. 3 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-SGEaywE6eQWd5asxQ8k5u9" type="speaker">Anf. 4 LOUISE MEIJER (M)</note>
-        <note xml:id="i-5i8gnJvXiEqSADn7WiCQXH" type="speaker">Anf. 5 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-49k6Lx662gnMm3tvGfaw9J" type="speaker">Anf. 6 LOUISE MEIJER (M)</note>
-        <note xml:id="i-3BpkydCBi895gRja5Pydvc" type="speaker">Anf. 7 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-AMjrjQH72YyhXpyGj7zY1F">§ 8 Svar på interpellation 2018/19:281 om butiksstölder</note>
-        <note xml:id="i-SK4YqR5aFMF7gVNsz1thEu" type="speaker">Anf. 8 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-SRzwtmu6SpfzAsR422a32L" type="speaker">Anf. 9 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-5AqKuAcMRuCJvfaQee9jph" type="speaker">Anf. 10 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-4zkFR91iJPhRcC9oZj2n1s" type="speaker">Anf. 11 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-PTmSKAgXbEWDTN2AoKHFPB" type="speaker">Anf. 12 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-pYYSyJofoCnj867JHQMNZ" type="speaker">Anf. 13 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-67oaWD4fSj2XUsR6Ywftzt" type="speaker">Anf. 14 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-X4UAaUbwXBJPJufqZUxTaY">§ 9 Svar på interpellation 2018/19:310 om lägre kapitalkrav för privata aktiebolag</note>
-        <note xml:id="i-kdbfcZPzKjCnvAFs625X7" type="speaker">Anf. 15 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-L1qoYtaxFrGs3JNRQgKYQa" type="speaker">Anf. 16 TONY HADDOU (V)</note>
-        <note xml:id="i-WdFq83LESdfZWn8u4BiCz8" type="speaker">Anf. 17 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-VnjiEn6ekxjArKoDAgphsH" type="speaker">Anf. 18 TONY HADDOU (V)</note>
-        <note xml:id="i-HJAH9JahEKYF9jY784Jp89" type="speaker">Anf. 19 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-ApVPsmkmrtueWSGNU9DNw3" type="speaker">Anf. 20 TONY HADDOU (V)</note>
-        <note xml:id="i-9xQBhXx9cnYvXuH6CDrow8" type="speaker">Anf. 21 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-RVDB1DfxZ38kXcunYwvpWm">Ajournering</note>
-        <note xml:id="i-YUfFXEB5KtYAE1YDKdy18P">Återupptaget sammanträde</note>
-        <note xml:id="i-5E2d57D8ngr5NHzUpsBCcC">§ 10 Frågestund</note>
-        <note xml:id="i-FLN4pYgRJXkckbkyb16p7z" type="speaker">Anf. 22 FÖRSTE VICE TALMANNEN</note>
-        <note xml:id="i-XqE5Ctp7rFyhwqsYy5itsL">Anonyma vittnen</note>
-        <note xml:id="i-R22TaDa8gz7WTfosVkWmQt" type="speaker">Anf. 23 JOHAN FORSSELL (M)</note>
-        <note xml:id="i-MGPcThQAAjeokdP7qbWQmo" type="speaker">Anf. 24 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-J7cYVQ8P5wxShy85qSMGmK" type="speaker">Anf. 25 JOHAN FORSSELL (M)</note>
-        <note xml:id="i-GuDEgNYGTG6DLxRJ9WWCYG" type="speaker">Anf. 26 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-NETSE3Jg2diQMtZ2iVr7uA">Utredning om stärkt vittnesskydd</note>
-        <note xml:id="i-CehkpQA9Siqr9WUA47CSEz" type="speaker">Anf. 27 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-NazcaSXqNqmJaA35m2Q2yT" type="speaker">Anf. 28 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-GiYcwPPaDFVwB4kP6xWuMR" type="speaker">Anf. 29 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-BWFAaVdkuJbW8tSfkYykTe" type="speaker">Anf. 30 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-T8NtPzJbskLJZBhiwFc17K">Effekterna av brexit för svenska företag</note>
-        <note xml:id="i-KDu7g3nEqVBPy3fMPH5mJs" type="speaker">Anf. 31 ANNIKA QARLSSON (C)</note>
-        <note xml:id="i-CCZML4Fk37Vxz2df9WzAqu" type="speaker">Anf. 32 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-XcBCaqLGTpwfaqhtjMqf8N" type="speaker">Anf. 33 ANNIKA QARLSSON (C)</note>
-        <note xml:id="i-NSJYdbWoZ1dV8kGmnXSx8V" type="speaker">Anf. 34 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-7vM88ZaxPmmiDuaSATutyR">Inställda lärarutbildningar</note>
-        <note xml:id="i-CAUxWEPLtE33RTo5Htjx8r" type="speaker">Anf. 35 ILONA SZATMARI WALDAU (V)</note>
-        <note xml:id="i-PDQco3QsK96XsZUBNP4fNG" type="speaker">Anf. 36 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-FMENG4nRGJpg1eF3is9iVN" type="speaker">Anf. 37 ILONA SZATMARI WALDAU (V)</note>
-        <note xml:id="i-WSeiU5buYBEP2DLai55zre" type="speaker">Anf. 38 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-WwyjcKnacpet2PnaoXcvHK">Assistansersättningen</note>
-        <note xml:id="i-WfqJSbmSdAAWqEkdpsBZNJ" type="speaker">Anf. 39 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-K7FdqR5G5aSG6nMKEm8Tdk" type="speaker">Anf. 40 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-Pv9ck4CxsVaBxxXxQeikQt" type="speaker">Anf. 41 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-Qizr4CxCe7CEJxx9qN6Moz" type="speaker">Anf. 42 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-V9mfdqewuisuwjbmzb69Ed">Hongkong och Sveriges agerande i EU</note>
-        <note xml:id="i-RRVE6wJkayXJnhFNBXCJUc" type="speaker">Anf. 43 JOAR FORSSELL (L)</note>
-        <note xml:id="i-Gv6mQFJ3j8eEu4vb2x5jcC" type="speaker">Anf. 44 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-GzzxRwtrkv1Qpzau4p414M" type="speaker">Anf. 45 JOAR FORSSELL (L)</note>
-        <note xml:id="i-KaCosdg8dEBrhE9EBLetSJ" type="speaker">Anf. 46 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-XnVaykVjBqvda6qqjD29nW">Beredskapen för en avtalslös brexit</note>
-        <note xml:id="i-AvgwLw9JhU9E4YouBw8rBr" type="speaker">Anf. 47 MATHIAS TEGNÉR (S)</note>
-        <note xml:id="i-Eb6M1BjdhDbY6whQ8GoVUF" type="speaker">Anf. 48 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-UY2ohRjcrvUTmdVa9g6iUe" type="speaker">Anf. 49 MATHIAS TEGNÉR (S)</note>
-        <note xml:id="i-EY4PhDCcdgKfDJveHthTSD" type="speaker">Anf. 50 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-BbeafwBgHkbNjL14pBWYvy">Sveriges åtgärder mot skövlingen av Amazonas</note>
-        <note xml:id="i-TU4v23rv9WTbL1NGqGwJdX" type="speaker">Anf. 51 MARIA GARDFJELL (MP)</note>
-        <note xml:id="i-5cusY1Nti7nP3ECPKCU8QA" type="speaker">Anf. 52 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-W5dz4qPLz2JZ3T6NkxvwCB" type="speaker">Anf. 53 MARIA GARDFJELL (MP)</note>
-        <note xml:id="i-DiDXtKe8DFggCALydrS9X" type="speaker">Anf. 54 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-AaB5S3ANrWqHsZZd4UqNeB">Sexualbrott mot kvinnor</note>
-        <note xml:id="i-RCsjEFpz6sXad7Kp2ZyWiW" type="speaker">Anf. 55 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-9NhFHfY51BwgQeEc98sgbD" type="speaker">Anf. 56 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-Capx3ALfMvDxntYmq5Vscg" type="speaker">Anf. 57 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-BGgBRnFXC73uv5yxQaCpY2" type="speaker">Anf. 58 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-De4be37ei8XcM8s6xQUzAo">Barn som förs bort till utlandet</note>
-        <note xml:id="i-XTHwGxEjYfKYWaY8FmQ3RA" type="speaker">Anf. 59 SARA SEPPÄLÄ (SD)</note>
-        <note xml:id="i-FRAemZkBF7CbvjovGZ1E9i" type="speaker">Anf. 60 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-3LNqFUthYyrZgaKgBqUgX2" type="speaker">Anf. 61 SARA SEPPÄLÄ (SD)</note>
-        <note xml:id="i-XzNqjjv5gZKoUamMUaNqdZ" type="speaker">Anf. 62 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-X6snEMFdpzSntPHP9ZtHyg">Långsiktig brottsbekämpning</note>
-        <note xml:id="i-EC7TzDYCzdwb81ej6WfbEF" type="speaker">Anf. 63 JOHAN HEDIN (C)</note>
-        <note xml:id="i-341MYyRcUXSmVZk8tMmo6a" type="speaker">Anf. 64 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-VxDEt5ciURc9KCd84QQ64B" type="speaker">Anf. 65 JOHAN HEDIN (C)</note>
-        <note xml:id="i-RL2wdsJDix658g8AWoqaU3" type="speaker">Anf. 66 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-QSjEpj75zLX2gL5P1b8Gom">Universitetsstatus till Mälardalens högskola</note>
-        <note xml:id="i-4TFNq5tThHaKbrXZkgPTki" type="speaker">Anf. 67 PIA NILSSON (S)</note>
-        <note xml:id="i-VfLJpje9yL5X1WXasEN3g4" type="speaker">Anf. 68 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-WFBfuzWJzCyVNz14vErVbi" type="speaker">Anf. 69 PIA NILSSON (S)</note>
-        <note xml:id="i-7t6yY5coePuwko27r5n1ht" type="speaker">Anf. 70 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-3XM4FmkpzsuZS5YfL2K2JX">Jägareförbundet och offentlig upphandling</note>
-        <note xml:id="i-6U9fU4VUdqvDYeqCiWq3aY" type="speaker">Anf. 71 REBECKA LE MOINE (MP)</note>
-        <note xml:id="i-LqHd286V4eB4uLEkwtFARZ" type="speaker">Anf. 72 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-A6n7ex9K5ewdUAWydxgisu" type="speaker">Anf. 73 REBECKA LE MOINE (MP)</note>
-        <note xml:id="i-PFAfB87dP77VRzoSVqijwU" type="speaker">Anf. 74 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-FLcxxuBxpPUwxiR24nzU4H">Slopande av ungdomsrabatten</note>
-        <note xml:id="i-Kcf28YytMxUCtvaDa9q5p3" type="speaker">Anf. 75 ARIN KARAPET (M)</note>
-        <note xml:id="i-TBbNrXbpu2gsjS9uAfuifE" type="speaker">Anf. 76 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-JkZe5heBFTSKHtHyxj6bwv" type="speaker">Anf. 77 ARIN KARAPET (M)</note>
-        <note xml:id="i-5kpVdZCfT1CbnofrtPJNH1" type="speaker">Anf. 78 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-SAXduvg4mfF5oddWxy8wa1">Ett veto mot en ökad svensk EU-avgift</note>
-        <note xml:id="i-MPWScGwBB4usGVyZs8nArv" type="speaker">Anf. 79 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-QTjVaJfDGyRrU9ZF1tFDnp" type="speaker">Anf. 80 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-B9PdSdsv5SpDxq7rAw5D9f" type="speaker">Anf. 81 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-7ujuEuy8ed3GLzuDBiUpee" type="speaker">Anf. 82 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-CXULVcaNYyKXFGmz7m9tU5">Genomförandet av EU:s upphovsrättsdirektiv</note>
-        <note xml:id="i-CcV6qVBgv7gND12rAsi1tb" type="speaker">Anf. 83 PER-ARNE HÅKANSSON (S)</note>
-        <note xml:id="i-UASuhrmHHPXzJSoJK99ZNz" type="speaker">Anf. 84 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-GGFCG2cR69hKFBLyJeMLxg" type="speaker">Anf. 85 PER-ARNE HÅKANSSON (S)</note>
-        <note xml:id="i-Wvc7kJpwPV73E81LQMHaqA" type="speaker">Anf. 86 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-MPUTYcYX4dJ7RdL1hNm9Ny">Antagningskraven till lärarutbildningen</note>
-        <note xml:id="i-HvqY2zhUvsi3qZhCRXQCkz" type="speaker">Anf. 87 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-4PLZiMPRAB3QUEKe1KV34F" type="speaker">Anf. 88 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-4FWdCg37fzQF4nVgpznAGV">Utvisning av asylsökande</note>
-        <note xml:id="i-YHfdSvozJt6dww35X23JVc" type="speaker">Anf. 89 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-KUgGqNHd6RxDa2rhLRy66e" type="speaker">Anf. 90 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-83tVY9PHnhNpGuUwz6vthi">Sveriges prioriteringar i EU:s budgetförhandlingar</note>
-        <note xml:id="i-KgP7wpcK3wFsxSVU6CeL1J" type="speaker">Anf. 91 SARA HEIKKINEN BREITHOLTZ (S)</note>
-        <note xml:id="i-6ceS96vLtUwifHPw2vWoTi" type="speaker">Anf. 92 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-X4FkSW9EoF3PXr8kU2GB8F">Regelförenklingar för företag</note>
-        <note xml:id="i-Xx7TmpeDtzgKTRXjLkK6m1" type="speaker">Anf. 93 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-NHihtSfaLEvA1sBR6w7uTB" type="speaker">Anf. 94 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-YYLwefXfMbKWBjvPyiuvSg">Åtgärder mot otrygghet i Malmö</note>
-        <note xml:id="i-JL6dsu2dXCDQxQzMdS2gC4" type="speaker">Anf. 95 NORIA MANOUCHI (M)</note>
-        <note xml:id="i-CvA6zqiJ4p2F8vhceaKV11" type="speaker">Anf. 96 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-7uCTCajF36etVuYvcJxKTz">Rymdstrategin och klimatutmaningen</note>
-        <note xml:id="i-3yzavrGxEYUhmSzWd6s8zR" type="speaker">Anf. 97 LINUS SKÖLD (S)</note>
-        <note xml:id="i-8a8XfvUiXa8mb3wDwvCend" type="speaker">Anf. 98 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-UkwGsC6e8EA9y6cCrKvDkh">Tidsplan för insatser mot grov brottslighet</note>
-        <note xml:id="i-JuhmB1uWyhVtZcUvYHpk28" type="speaker">Anf. 99 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-LhhfCGvTz5caT7ZmPoWPb" type="speaker">Anf. 100 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-NFEQQVuJQdfPut968YpGbi">Regeringens syn på EU:s framtida försvars- och säkerhetspolitik</note>
-        <note xml:id="i-MvARxjMLnJVTz4F2bvkSmD" type="speaker">Anf. 101 PÅL JONSON (M)</note>
-        <note xml:id="i-ReREQDXqME6DFV28eKRNsT" type="speaker">Anf. 102 Statsrådet HANS DAHLGREN (S)</note>
-        <note xml:id="i-KPw4xfAo4JEDFghd2hHtAG">Stärkandet av kriminalvården</note>
-        <note xml:id="i-DuY4wsrdATCG6Swvit5JrD" type="speaker">Anf. 103 GUSTAF LANTZ (S)</note>
-        <note xml:id="i-FYSeU2pw26ovQRkFaDsqKb" type="speaker">Anf. 104 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-PWd9LNLDdLPz2PBbW119BL">Ratificering av fiskeavtal</note>
-        <note xml:id="i-9xaPVk9VgLJcsg37vhFvjh" type="speaker">Anf. 105 MARGARETA CEDERFELT (M)</note>
-        <note xml:id="i-En7FsCFCbuYTYLnBjhk1Kw" type="speaker">Anf. 106 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-5XbohWEfANGS7ECJbp4Yqy">Följderna av förbudet mot handel med hyreskontrakt</note>
-        <note xml:id="i-EHF4yiVK3MhQJ1kbdQyaSv" type="speaker">Anf. 107 JOAKIM JÄRREBRING (S)</note>
-        <note xml:id="i-AFudQLM2BRgW9XFaV12hiw" type="speaker">Anf. 108 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-iFGVnXGgCuJg9E3QQbVxW">§ 11 Bordläggning</note>
-        <note xml:id="i-9VxNGvPmujahjnDbqqhWEa">§ 12 Anmälan om interpellation</note>
-        <note xml:id="i-G6nA465i2bPa6kXxLx97wf">§ 13 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-QcsiNy9yzHEcZnPSErvc3Z">§ 14 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-UdGQbw3FfjwK1VyPoP9kzW">§ 15 Kammaren åtskildes kl. 15.16.</note>
-        <note xml:id="i-Sjn7N11Cy2Vstyu1cmYGX3">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

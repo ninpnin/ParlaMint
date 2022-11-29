@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 90 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 90 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--90">2019/20--90</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Q7ojzdFMpZv6mhGbmRLcHq">§ 1 Ärende för hänvisning till utskott</head>
         <note xml:id="i-8PTQ4VmjTEwQFF2CVdA2N8">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-7JTiDJ1in38QmBmhYpZFUT">EU-dokument</note>
@@ -859,7 +860,7 @@
         <note xml:id="i-8t2LcnjKegBiNTuXrspBL4">Återupptaget sammanträde</note>
         <note xml:id="i-HikVQzcnhb8reP5pzQhnSE">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7oLd5BF2vW9pDunfw5JQxV">§ 9 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-RdBkPZRCxaE46Zic8X2hdD">FiU52 Extra ändringsbudget för 2020 – Kreditgarantier till flygföretag med anledning av coronaviruset</note>
         <note xml:id="i-QjzRUDG499CNxe12K1kuGY">Kammaren biföll utskottets förslag.</note>
@@ -1023,7 +1024,7 @@
         <note xml:id="i-Pvuk472gsbAnEPiKreCE5P">Övriga punkter</note>
         <note xml:id="i-RjjvKh7fvJHEiewRDjX23n">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EyKpFYjppowCWSAJbBGaNY">§ 10 Bordläggning och beslut om förkortad motionstid</head>
         <note xml:id="i-Tghg456oaGo1AwuVVvTRLF">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-Fx1mzjAyinGwVQ9aWPoK8E">Proposition</note>
@@ -1039,7 +1040,7 @@
         <note xml:id="i-RUydUDK7qZ9dMWe15e92Qr">2019/20:3509 av Acko Ankarberg Johansson m.fl. (KD)</note>
         <note xml:id="i-6gPXix2GowAUZsfqqUEHeV">Kammaren biföll regeringens förslag att motionstiden för prop. 2019/20:132 Extra ändringsbudget för 2020 – Åtgärder med anledning av coronaviruset skulle förkortas till sex dagar.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ukw9eR9CjJXFU56FhHyVab">§ 11 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-DpAb83kEquhcz8px94gFqh">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-X4SEJVLLPbtYHhyCYNNTHd">den 18 mars</note>
@@ -1050,7 +1051,7 @@
         <note xml:id="i-AAXwN5n2qGKnxsqsnqW2Wd">av Yasmine Posio (V)</note>
         <note xml:id="i-UXvR7dAktdr85io7fUmYmi">till statsrådet Peter Eriksson (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VMSDaTD3rH87UaGAYFrzmg">§ 12 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-98q4KfxM2okD2X3r1qBCir">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-CLBG4463GZcDkF6BuYUuto">den 18 mars</note>
@@ -1199,147 +1200,13 @@
         <note xml:id="i-HMee7V9Du9KfA1D2Mfer5b">av Markus Wiechel (SD)</note>
         <note xml:id="i-SdxYEiT5PK5meEQmdSmYfV">till statsminister Stefan Löfven (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-126iAobd1oC2xqDTha41jq">§ 13 Kammaren åtskildes kl. 16 . 12 .</head>
         <note xml:id="i-3wVyhYpPzmAGSWsKZUWHFr">Sammanträdet leddes</note>
         <note xml:id="i-FMdNvesEReKZPPsu7J5uLf">av ålderspresidenten från dess början till ajourneringen kl. 13.55 och</note>
         <note xml:id="i-6KDMsf7tTPx7D6AShGx8zz">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-RRFd19GoQPAuUSy6ibzD79">Vid protokollet</note>
         <note xml:id="i-XxHp2EgHFbyaW9p4Pq2s6t">ANNALENA HANELL</note>
-        <note xml:id="i-GjgXsebPLNLNudLwHg17m4">/ Olof Pilo</note>
-        <note xml:id="i-PmGBNXvirDmqTusCvgj1bb">Innehållsförteckning</note>
-        <note xml:id="i-PRwLSB4h56BQqEQCSkp392">§ 1 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-igQC8DX5DcNCLntjs2j2J">§ 2 Extra ändringsbudget för 2020 – Kreditgarantier till flygföretag med anledning av coronaviruset</note>
-        <note xml:id="i-JjrxYFo5WNKMva9ctWmS3R">Finansutskottets betänkande 2019/20:FiU52</note>
-        <note xml:id="i-RBK4fWiCxB1PGqjJ12wqVo" type="speaker">Anf. 1 FREDRIK OLOVSSON (S)</note>
-        <note xml:id="i-H8CoVvbjzGhdvtVK7qmmkY" type="speaker">Anf. 2 ELISABETH SVANTESSON (M)</note>
-        <note xml:id="i-SJECn33VNobVeP3NwZwFVR" type="speaker">Anf. 3 EMIL KÄLLSTRÖM (C)</note>
-        <note xml:id="i-ZMSHKCbcGF3mF5pwNTGMP" type="speaker">Anf. 4 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-8GRnkwaYviNdBfEoa5L2FZ" type="speaker">Anf. 5 MATS PERSSON (L)</note>
-        <note xml:id="i-RPsYXahZz8zrxQL6To32WS" type="speaker">Anf. 6 KAROLINA SKOG (MP)</note>
-        <note xml:id="i-GW7GkrMA6ka7MhiYQ4fEAH">(Beslut fattades under § 9.)</note>
-        <note xml:id="i-Djt8wxqKToc1GBtkDfcvff">§ 3 Lag om tillfällig stängning av verksamheter på skolområdet vid extraordinära händelser i fredstid</note>
-        <note xml:id="i-M3fSnWAEVSe5h2WArssExp">Utbildningsutskottets betänkande 2019/20:UbU25</note>
-        <note xml:id="i-DAAnRpyaYZTon7bVzYnqQS" type="speaker">Anf. 7 GUNILLA SVANTORP (S)</note>
-        <note xml:id="i-VTR79Gzb93kMTyVYuL5NJp">(Beslut fattades under § 9.)</note>
-        <note xml:id="i-K1usQpy9LFySSmqZ6i1YoF">§ 4 Kommissionens arbetsprogram 2020 och kommissionens meddelande om konferensen om Europas framtid</note>
-        <note xml:id="i-2CEwVEJ2rLTP9o3bu7tCfw">Utrikesutskottets utlåtande 2019/20:UU5</note>
-        <note xml:id="i-9hT4aPimMt4LJU4f36zNuZ" type="speaker">Anf. 8 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-QKpUA6pZhyXFZUuGYs75Js" type="speaker">Anf. 9 PYRY NIEMI (S)</note>
-        <note xml:id="i-YG4zcDA5ejHciWgvKUNygR" type="speaker">Anf. 10 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-Uv1wiLENnWWRYfmaVNW6VR" type="speaker">Anf. 11 MARTIN KINNUNEN (SD)</note>
-        <note xml:id="i-FVd784xUgW2UpMSt2Fz1b4" type="speaker">Anf. 12 KERSTIN LUNDGREN (C)</note>
-        <note xml:id="i-8knMFMLTvJu1TzV3AUZeEF" type="speaker">Anf. 13 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-7TMZWBWyy47WtrzAhD3XeQ">(Beslut fattades under § 9.)</note>
-        <note xml:id="i-3FYVjL1FGCgrEmLKY3PjpU">§ 5 Grundläggande frågor om utbildning</note>
-        <note xml:id="i-Rvcx4gkyLarooxxQjj3p4C">Utbildningsutskottets betänkande 2019/20:UbU11</note>
-        <note xml:id="i-XD3G8U1cdbEgx8pbcJ8icV" type="speaker">Anf. 14 KRISTINA AXÉN OLIN (M)</note>
-        <note xml:id="i-TfHayRu4pWQWEYdLqZwHsY" type="speaker">Anf. 15 JÖRGEN GRUBB (SD)</note>
-        <note xml:id="i-5yAjnPkVVwxCEh7MVNELQu" type="speaker">Anf. 16 DANIEL RIAZAT (V)</note>
-        <note xml:id="i-Wc3p8YRNQ75deBhJiFpaLj" type="speaker">Anf. 17 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-5WUwgDh34do5hdtZikKKce" type="speaker">Anf. 18 ROGER HADDAD (L)</note>
-        <note xml:id="i-AmtajdqnebaWTBiLdcuYu9" type="speaker">Anf. 19 ROZA GÜCLÜ HEDIN (S)</note>
-        <note xml:id="i-PVaUE2Xae3S47YsM2cCqh1">(Beslut fattades under § 9.)</note>
-        <note xml:id="i-QDpisi3FfpwCRJBhA1Toea">§ 6 Högskolan</note>
-        <note xml:id="i-Vd4dUfuZ1gXsbwx8RU9NNB">Utbildningsutskottets betänkande 2019/20:UbU15</note>
-        <note xml:id="i-HWTFRq18FMMeKqQ8qkokpc" type="speaker">Anf. 20 KRISTINA AXÉN OLIN (M)</note>
-        <note xml:id="i-SxzqJrdvwVeEJhYeoNSWeV" type="speaker">Anf. 21 ROBERT STENKVIST (SD)</note>
-        <note xml:id="i-9KqyveYetzQp3mmqNeY7Ga" type="speaker">Anf. 22 FREDRIK CHRISTENSSON (C)</note>
-        <note xml:id="i-8BJZYLDtw7GjMcnYZMskKL" type="speaker">Anf. 23 KRISTINA AXÉN OLIN (M) replik</note>
-        <note xml:id="i-LM7NR1HuGWLdwG8itSFpPY" type="speaker">Anf. 24 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-TshoEygX9HDrx9apkMgHiG">(forts. § 8)</note>
-        <note xml:id="i-MUP2yfbkQFT23Xt8aDtAW">Ajournering</note>
-        <note xml:id="i-P94qMABCYcwM3LSGBKBdEX">Återupptaget sammanträde</note>
-        <note xml:id="i-RxL5Mc5mbHF9EyvpksfeE3">§ 7 Statsministerns frågestund</note>
-        <note xml:id="i-KriZwBuGtgEVCnCh7JbeSH">Corona och samarbetet mellan stat, region och kommun</note>
-        <note xml:id="i-Kv1Hgvi7rcLwCfW5szr6Kn" type="speaker">Anf. 25 ULF KRISTERSSON (M)</note>
-        <note xml:id="i-BfHVDEXxfSurE5K5SoZjrA" type="speaker">Anf. 26 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-M8uL7VuurcVt1NMPBoPqjt" type="speaker">Anf. 27 ULF KRISTERSSON (M)</note>
-        <note xml:id="i-NaBUansiQ59ixGVvPERwn3" type="speaker">Anf. 28 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-R1K8HdrTJzaurnFGcyvmHx">Prognos för coronavirusets spridning i Sverige</note>
-        <note xml:id="i-JD5C5Fps4QSCQvg3GsiFLF" type="speaker">Anf. 29 HENRIK VINGE (SD)</note>
-        <note xml:id="i-A8FyTDhwJEzpnfxxBqV1Xx" type="speaker">Anf. 30 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-FEJGH6zH64iRz7Gw9NTNve" type="speaker">Anf. 31 HENRIK VINGE (SD)</note>
-        <note xml:id="i-2CMTQVB9dqXHJ32qCshxwP" type="speaker">Anf. 32 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-Eb3eySspAB8748oZKZiirG">Politiskt samförstånd</note>
-        <note xml:id="i-8x2mxALJmtuy7AarfaFAFb" type="speaker">Anf. 33 ANDERS W JONSSON (C)</note>
-        <note xml:id="i-4UukBxHyj8UMcsLak92hVG" type="speaker">Anf. 34 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-KBVpe8sxtL73s8eHEgo1od" type="speaker">Anf. 35 ANDERS W JONSSON (C)</note>
-        <note xml:id="i-VYMyzuEzu4EySrAydToQiA" type="speaker">Anf. 36 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-9WysKCHaN4eRMpDwmpPoQC">Förändring av a-kassans regelverk</note>
-        <note xml:id="i-7wacDrCFgQmgMcCYz1teMZ" type="speaker">Anf. 37 JONAS SJÖSTEDT (V)</note>
-        <note xml:id="i-T93Z9CEQTr5N2TyWWFvuuj" type="speaker">Anf. 38 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-A9aAinfZrD3BqZ7eEhw853" type="speaker">Anf. 39 JONAS SJÖSTEDT (V)</note>
-        <note xml:id="i-RFFroJj6TvdabWkFEPtXpK" type="speaker">Anf. 40 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-AM5BvAgJRieBsuhbg2SvgQ">Mandat för Socialstyrelsen att fördela vårdresurser</note>
-        <note xml:id="i-HtfzPchWNjfnwFrz7enzBF" type="speaker">Anf. 41 EBBA BUSCH (KD)</note>
-        <note xml:id="i-SRa7XBo1yPi6sin2PF8jvk" type="speaker">Anf. 42 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-Fi71DbnH1PfvCQPTbbHcFv" type="speaker">Anf. 43 EBBA BUSCH (KD)</note>
-        <note xml:id="i-92jrwGr1MwGpeF1ZnYvFcX" type="speaker">Anf. 44 Statsminister STEFAN LÖFVEN (S)</note>
-        <u xml:id="i-bed2ca0eba32bd3a-491" who="#Q2740012" ana="#regular">
-          <seg xml:id="i-GS1ESfDpHfDCPo9mSwUeM6">Coronapandemins följder för kulturen, medierna och idrotten</seg>
-        </u>
-        <note xml:id="i-C55zf3eN9BqwU69Lk5qu9D" type="speaker">Anf. 45 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-Db5ZNmgsTF5Fa3TTnuJ3fS" type="speaker">Anf. 46 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-FKZvLBZruncGu1fjKS3uuX" type="speaker">Anf. 47 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-12rZYuyMrR1ZQG7zm63TEm" type="speaker">Anf. 48 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-CULskyieXbkc2cp6tuCgr3">Coronakrisens konsekvenser för företag och anställda</note>
-        <note xml:id="i-UuyciobqcLKJJerPhsCQxm" type="speaker">Anf. 49 ANNELIE KARLSSON (S)</note>
-        <note xml:id="i-BBYMKUppBg4FZEBZWrcayP" type="speaker">Anf. 50 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-ER2sFxtB8ntKyKmMJZrwkR">Krisberedskap och civilt försvar</note>
-        <note xml:id="i-KriEMqoZcxtuoPfCAUqeHH" type="speaker">Anf. 51 MARIA GARDFJELL (MP)</note>
-        <note xml:id="i-ArLkJAyvSdhuG8YeHNN2jY" type="speaker">Anf. 52 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-9fiYFenLFQGDAJfUT1dAiz">Relationen mellan de nordiska och de baltiska länderna</note>
-        <note xml:id="i-4EqwN2MCTa9UEAfNxakht2" type="speaker">Anf. 53 HANS WALLMARK (M)</note>
-        <note xml:id="i-TiqCmc1dr9h6biqVUv5e7d" type="speaker">Anf. 54 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-F8HSDho49nK2UBFMDsHv3E">Skärpta straff för brott i kristider</note>
-        <note xml:id="i-5oYkNVTZrBRTtKGH2EjrS8" type="speaker">Anf. 55 KATJA NYBERG (SD)</note>
-        <note xml:id="i-2ifvNAr4duzjDjSfhhW6m8" type="speaker">Anf. 56 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-TiDzpD5N3QreZNLNPHSwGD">Svenskar som behöver konsulärt stöd</note>
-        <note xml:id="i-Tu9buFDuKErKsPrJ3Aj598" type="speaker">Anf. 57 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-6ARVWKaRSKBqEVERCvC7Zu" type="speaker">Anf. 58 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-FiL2rBZBTr4U1XxdVsQUUM">Stöd till skolhuvudmän</note>
-        <note xml:id="i-QJAjDUkwJsgmjHQoFPHo6h" type="speaker">Anf. 59 ROGER HADDAD (L)</note>
-        <note xml:id="i-UUUqrXuRrh2iKCFnLXHsTh" type="speaker">Anf. 60 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-LcQEjTg21i8MZ66B64bbj2">Sveriges livsmedelsförsörjning</note>
-        <note xml:id="i-T3sDRk1Dccdat2JKUc9GdL" type="speaker">Anf. 61 MALIN LARSSON (S)</note>
-        <note xml:id="i-UMnntM8WBx7PZXx5dBFN1C" type="speaker">Anf. 62 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-2ynDckLWZ1q8c6V5gNX9q6">Stöd till regionala flygplatser</note>
-        <note xml:id="i-Rz4YtVq4aYdvVZAZbXtGw" type="speaker">Anf. 63 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-3dMeANHkZWx61PJnk9KbZo" type="speaker">Anf. 64 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-L2Nb4KiehXixK4eqU3LRVn">Begränsning av asylinvandring</note>
-        <note xml:id="i-EBBtyx3Ngs73Eu4BacT26Z" type="speaker">Anf. 65 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-QrGXeqLjiZvGAk185JnhzP" type="speaker">Anf. 66 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-AB4Nm9sNnpmdbwRRfzWKUh">Bredbandsutbyggnad i glesbygden</note>
-        <note xml:id="i-PWf8irvhaNf3w5ARVTXGhB" type="speaker">Anf. 67 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-DVfhjVAggjXg7HfgQXwMCt" type="speaker">Anf. 68 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-ARtFLAER9Dfi4N94HVKRNL">Insatser för människor med osäkra anställningar</note>
-        <note xml:id="i-87HUNkuUPtWsiFwu1r2ExD" type="speaker">Anf. 69 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-WceGEUnczz8TCV5GGnvN1m" type="speaker">Anf. 70 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-DBMRJj95g5NutuBtkDsaZU">Borttagande av undantag för enmansföretag</note>
-        <note xml:id="i-GJ9TKqfGAHauMYzV3V2FwW" type="speaker">Anf. 71 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-NAMZQhDYLQzbLog9JPCpVx" type="speaker">Anf. 72 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-L7gLS1xoGgt7cXoPf3Jz8m">§ 8 (forts. från § 6) Högskolan (forts. UbU15)</note>
-        <note xml:id="i-FRfLdLojLgt6UgGDwKPVuN" type="speaker">Anf. 73 MARIA NILSSON (L)</note>
-        <note xml:id="i-EUdQfwP3LP3rg64qGJgTfT" type="speaker">Anf. 74 GUNILLA SVANTORP (S)</note>
-        <note xml:id="i-RVnocZx9vKVMUUSwyjEC7v" type="speaker">Anf. 75 MATS BERGLUND (MP)</note>
-        <note xml:id="i-EhiM9PQ9ELgLyQv4CuCmB" type="speaker">Anf. 76 DANIEL RIAZAT (V)</note>
-        <note xml:id="i-P5ECNbJC4fv2gvRqASXzUR">(Beslut fattades under § 9.)</note>
-        <note xml:id="i-SXPvv1YSrTEzSb9gLAjFLw">Ajournering</note>
-        <note xml:id="i-Eq9esJkQ1ZACrN7jF5Mozs">Återupptaget sammanträde</note>
-        <note xml:id="i-HnWVZ6sNcjVADXaTeCRhiu">§ 9 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-QhzvUdc5fdYuR7mxpM6zne">FiU52 Extra ändringsbudget för 2020 – Kreditgarantier till flygföretag med anledning av coronaviruset</note>
-        <note xml:id="i-akFxPYVNmfZ9qZfsRtm42">UbU25 Lag om tillfällig stängning av verksamheter på skolområdet vid extraordinära händelser i fredstid</note>
-        <note xml:id="i-EUs7U1gpeyEoWTa6FWhN61">UU5 Kommissionens arbetsprogram 2020 och kommissionens meddelande om konferensen om Europas framtid</note>
-        <note xml:id="i-PKRChNNNHiTP8TaJxoLgay">UbU11 Grundläggande frågor om utbildning</note>
-        <note xml:id="i-3nTTzApF28a8syzr2p2dzi">UbU15 Högskolan</note>
-        <note xml:id="i-5tfaTrixYa8MuzCr5Eundv">§ 10 Bordläggning och beslut om förkortad motionstid</note>
-        <note xml:id="i-WPRCRK7iuzvi8szhgKZxnJ">§ 11 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-DKR2xTR5DyD94sAgccc6px">§ 12 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-C7u4VTDssjwvwiKtPPuAUB">§ 13 Kammaren åtskildes kl. 16.12.</head>
-        <note xml:id="i-5LUpss97s9Jt49BeJB7mNU">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 125 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 125 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--125">2019/20--125</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,15 +75,15 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TKprc8ecsduTM2FhE4KEZR">§ 1 Justering av protokoll</head>
         <note xml:id="i-SxmiZMuHyRVGBhZmkTLVkz">Protokollet för den 5 maj justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MK5o6yU4gzwYX6ecwC9MoN">§ 2 Fastställande av dag för riksmötets start 2020/21</head>
         <note xml:id="i-1u3UFRDqgWSrWWMTiQLui">Kammaren biföll riksdagsstyrelsens förslag att riksmötet 20 20 /2 1 skulle inledas tisdagen den 8 september .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RigFAGVayyYSeLoYCUAZ3P">§ 3 Ärenden för bordläggning</head>
         <note xml:id="i-DYyv1x4rrfwHs2fScoDhc8">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-YHQPUB7GHLzEYSvgeEbxBa">Trafikutskottets betänkanden</note>
@@ -102,7 +103,7 @@
         <note xml:id="i-E1QLVZtGjrLVfBVscC1gXp">2019/20:NU16 Riksrevisionens granskning av statliga insatser för att underlätta nyföretagande genom digitalisering</note>
         <note xml:id="i-EZ9PhVZ2mP9WKSwmRvqLYh">2019/20:NU17 Riksrevisionens rapport om Konkurrensverkets tillsyn</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GtEfBsgvbKFV6bvGcZVXga">§ 4 Rättelse i lagen om näringsförbud</head>
         <note xml:id="i-LXfVaWUHpgr3mb4DJJpr9">Finansutskottets betänkande 2019/20:FiU58</note>
         <note xml:id="i-UoKRzokFW7msZsyRF3o9VN">Rättelse i lagen om näringsförbud</note>
@@ -395,7 +396,7 @@
         <note xml:id="i-EPtj73jDRV1rb6NVwgi3h9">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-CazjPvzTup2tuHBcfK2bHc">(Beslut skulle fattas den 27 maj. )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CahLacojT2cXwiqWuufxSc">§ 6 Stärkt integritet i Rättsmedicinalverkets verksamhet</head>
         <note xml:id="i-G31xsQKWCVDChMbkgLTvdw">Justitieutskottets betänkande 2019/20:JuU24</note>
         <note xml:id="i-XBepLKKaKQF9TN44rY9gai">Stärkt integritet i Rättsmedicinalverkets verksamhet (prop. 2019/20:106)</note>
@@ -599,7 +600,7 @@
         <note xml:id="i-GrHqUoNHT3ZBTbWpcyGtw7">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-PKPDQ6YcKRntoG1QSqY7gn">(Beslut skulle fattas den 27 maj.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5pRmbrpW1Mt7KzSkMZMQGL">§ 9 Bordläggning</head>
         <note xml:id="i-AsrEhoXq1RueZddkoR31us">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-LMBPVaP3rT3kRJJ6TLL54i">EU-dokument</note>
@@ -607,7 +608,7 @@
         <note xml:id="i-WqNhTk9nR5A78ZtWDdju3Y">Finansutskottets betänkande</note>
         <note xml:id="i-V3ZHf4eVoWndRTWmFsmc8J">2019/20:FiU59 Extra ändringsbudget för 2020 – Anpassningar av reglerna om stöd vid korttidsarbete och tillfälliga anstånd samt ett effektivare informationsutbyte inom Skatteverket m.m. med anledning av corona ­ viruset</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AmSJvjbPdJ3gM6kCcZaxRg">§ 10 Anmälan om interpellationer</head>
         <note xml:id="i-BCUq2xwPrXo6FQrp9vTVVB">Följande interpellationer hade framställts:</note>
         <note xml:id="i-6WSnac2221fxpZDZQXfHNM">den 25 maj</note>
@@ -621,7 +622,7 @@
         <note xml:id="i-9s6jesdgvLWgtGCaFTHmv4">av Dennis Dioukarev (SD)</note>
         <note xml:id="i-7xB4h9uRNurpswBZGBbMku">till utbildningsminister Anna Ekström (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VjDwdiDSmRgzXV4TU4P1DN">§ 11 Anmälan om skriftligt svar på fråga</head>
         <note xml:id="i-JGvWHnpMx2nAoazBvzov6p">Skriftligt svar på följande fråga hade kommit in:</note>
         <note xml:id="i-NrErEc749HfbpH8Pfrpobf">den 25 maj</note>
@@ -629,70 +630,13 @@
         <note xml:id="i-3cSnWwE1D4qUNtJXw7Xxf1">av Yasmine Posio (V)</note>
         <note xml:id="i-JHdcccj9dmDRZJcJ3RR9Gb">till statsrådet Peter Eriksson (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KpgfVs7R1Ngx5SKKwqxQy4">§ 12 Kammaren åtskildes kl. 15.41.</head>
         <note xml:id="i-6sQkNZxAiU5qKUrcta1jXf">Sammanträdet leddes</note>
         <note xml:id="i-NQ1LQNawf6JnnBLVZnXFpM">av förste vice talmannen från dess början till och med § 8 anf. 27 (delvis) och</note>
         <note xml:id="i-SRsBVxozmkXHykW6JoXqhs">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-QqTepzFfxuF2yhEPNxrrDN">Vid protokollet</note>
         <note xml:id="i-QgzHBku7fSqGkbnJmVdvyo">EMMA PAAKKINEN</note>
-        <note xml:id="i-FSMU3FxEYpMU3kSgdzYcuq">/ Olof Pilo</note>
-        <note xml:id="i-FsbzYNKsN6GDP37Z27z1CJ">Innehållsförteckning</note>
-        <note xml:id="i-7gZ2DbP9KAVNR2Cjfc7iv8">§ 1 Justering av protokoll</note>
-        <note xml:id="i-RQnaVbzqXPL3wjo5sTDQzb">§ 2 Fastställande av dag för riksmötets start 2020/21</note>
-        <note xml:id="i-JNJzzirY6GmSYP4rCFnTUX">§ 3 Ärenden för bordläggning</note>
-        <note xml:id="i-AAUEz6UBwLssMr6jPdCPKs">§ 4 Rättelse i lagen om näringsförbud</note>
-        <note xml:id="i-F2NAVaRGrddEoscJhcj8kT">Finansutskottets betänkande 2019/20:FiU58</note>
-        <note xml:id="i-AQZwdGLtgJAmA5FYf6xExK">(Beslut skulle fattas den 27 maj.)</note>
-        <note xml:id="i-8PFkjiEfkmn587tJbakbCJ">§ 5 Ökat skydd mot hedersrelaterad brottslighet</note>
-        <note xml:id="i-DcYxdioeT9xxJzCzus5jhv">Justitieutskottets betänkande 2019/20:JuU23</note>
-        <note xml:id="i-H285BFYkc9hfpaxZFpzFGq" type="speaker">Anf. 1 LOUISE MEIJER (M)</note>
-        <note xml:id="i-CtMnhevpuLKPSVro9sxJkm" type="speaker">Anf. 2 KATJA NYBERG (SD)</note>
-        <note xml:id="i-Yb5iEV16n7Qfxh1T3pAtF" type="speaker">Anf. 3 ILONA SZATMARI WALDAU (V)</note>
-        <note xml:id="i-3cCNpbK1CdChiVm3FvcNPE" type="speaker">Anf. 4 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-Tg6FZEGBic32WT6iaMkXVn" type="speaker">Anf. 5 MARIA STRÖMKVIST (S)</note>
-        <note xml:id="i-AguWDpu1a7nYMFBKwFtPUX" type="speaker">Anf. 6 JOHAN HEDIN (C)</note>
-        <note xml:id="i-PQvJSsuhE6VLRmdeqPDdDe" type="speaker">Anf. 7 JUNO BLOM (L)</note>
-        <note xml:id="i-4gc8k3eiJV3UFGchAsHs56" type="speaker">Anf. 8 LOUISE MEIJER (M) replik</note>
-        <note xml:id="i-PHEw6JqCMNkZRD4VrY1ai7" type="speaker">Anf. 9 JUNO BLOM (L) replik</note>
-        <note xml:id="i-YUNvfzVHWYn8KdzCGWZoU1" type="speaker">Anf. 10 LOUISE MEIJER (M) replik</note>
-        <note xml:id="i-7yHRRZHrCawwEpzF6NZPEm" type="speaker">Anf. 11 DÉSIRÉE PETHRUS (KD) replik</note>
-        <note xml:id="i-5WvCBbrDW8mJnCQvB89MpD" type="speaker">Anf. 12 JUNO BLOM (L) replik</note>
-        <note xml:id="i-MTCTcULPaSt2ghbWgZdQin" type="speaker">Anf. 13 DÉSIRÉE PETHRUS (KD) replik</note>
-        <note xml:id="i-DLCnyMNFLQxWApokubmDNq" type="speaker">Anf. 14 JUNO BLOM (L) replik</note>
-        <note xml:id="i-7fAp7Uig2PNP6ZgpZFMo1W" type="speaker">Anf. 15 JOHANNA ÖFVERBECK (MP)</note>
-        <note xml:id="i-TdzJu3mvKJSQKmnwubQEMm" type="speaker">Anf. 16 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-9CX3Ko1nBfcjTT8g5EmUc6" type="speaker">Anf. 17 ILONA SZATMARI WALDAU (V) replik</note>
-        <note xml:id="i-GuyHSsRW31QJJkMCMVRyS2" type="speaker">Anf. 18 AMINEH KAKABAVEH (-) replik</note>
-        <note xml:id="i-KGFcZ1aRrL3XY188A1wMkJ" type="speaker">Anf. 19 ILONA SZATMARI WALDAU (V) replik</note>
-        <note xml:id="i-LULrohZQQWA61CncWNijfn" type="speaker">Anf. 20 AMINEH KAKABAVEH (-) replik</note>
-        <note xml:id="i-B2U76hNGoUNJZ9bLnHCAQE" type="speaker">Anf. 21 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-HkMuYrk1JAUsGGfHuiLeNS">(Beslut skulle fattas den 27 maj.)</note>
-        <note xml:id="i-VfSvMobD2jp1kw4irVvrjU">§ 6 Stärkt integritet i Rättsmedicinalverkets verksamhet</note>
-        <note xml:id="i-TzZqQZHd5cj95GCfe1HDnC">Justitieutskottets betänkande 2019/20:JuU24</note>
-        <note xml:id="i-4sQ7h5ZBdYrZHwvY2NALgo">(Beslut skulle fattas den 27 maj.)</note>
-        <note xml:id="i-AwBQnrkiLS6Ckr9qRs21mX">§ 7 En effektivare hantering av ärenden om överförande av straffverkställighet</note>
-        <note xml:id="i-FnStfX6zDKYLpx6ngEGC1o">Justitieutskottets betänkande 2019/20:JuU40</note>
-        <note xml:id="i-Wib8tzia5GgBkGAeG1VEnh" type="speaker">Anf. 22 MIKAEL DAMSGAARD (M)</note>
-        <note xml:id="i-HSkoHK8xLYpHwepbE69D8E" type="speaker">Anf. 23 KATJA NYBERG (SD)</note>
-        <note xml:id="i-XkFv52fx69TkN519Y5mfjr" type="speaker">Anf. 24 ANDREAS CARLSON (KD)</note>
-        <note xml:id="i-LX1Daz5za26Z2AjpTFMpZN">(Beslut skulle fattas den 27 maj.)</note>
-        <note xml:id="i-J1VAXdv287Fd5bB5WdYboZ">§ 8 Hälso- och sjukvårdens organisation m.m.</note>
-        <note xml:id="i-MKvynu9BVgShQAqDW5LsSF">Socialutskottets betänkande 2019/20:SoU11</note>
-        <note xml:id="i-TyFyyaC4PejPWJ16HN39yn" type="speaker">Anf. 25 ACKO ANKARBERG JOHANSSON (KD)</note>
-        <note xml:id="i-PeyoXJgxscSMAiW2tVN3v5" type="speaker">Anf. 26 CAMILLA WALTERSSON GRÖNVALL (M)</note>
-        <note xml:id="i-3TXHUTavAKz6mVzoRZDCrb" type="speaker">Anf. 27 KATJA NYBERG (SD)</note>
-        <note xml:id="i-QfXgHCwfdfD6EGFSj9Gy5f" type="speaker">Anf. 28 SOFIA NILSSON (C)</note>
-        <note xml:id="i-YGDLPXcesxjnA8Du7hd729" type="speaker">Anf. 29 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-HPHSRpHP27kuagBc7xrBND" type="speaker">Anf. 30 LINA NORDQUIST (L)</note>
-        <note xml:id="i-3vWkvePUtYfFVNLexKxbLH" type="speaker">Anf. 31 DAG LARSSON (S)</note>
-        <note xml:id="i-UwPXXVfcKAFGhUMHqMQqR5" type="speaker">Anf. 32 PERNILLA STÅLHAMMAR (MP)</note>
-        <note xml:id="i-TvnKVT8WVvvQFgy68YCYLk">(Beslut skulle fattas den 27 maj.)</note>
-        <note xml:id="i-UGe7NqvpKhNGBTgcrqMVKV">§ 9 Bordläggning</note>
-        <note xml:id="i-EjEwPGsKzrn9ZMRUogfzGx">§ 10 Anmälan om interpellationer</note>
-        <note xml:id="i-T5Y5cu6pZDXJoJcsic5Ebg">§ 11 Anmälan om skriftligt svar på fråga</note>
-        <note xml:id="i-APGZNZxxV3LKKTTTPHjPXC">§ 12 Kammaren åtskildes kl. 15.41.</note>
-        <note xml:id="i-ER5jPxay2nPYrZ9y4TtLy">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

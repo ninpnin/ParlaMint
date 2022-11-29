@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 112 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 112 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--112">2019/20--112</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,15 +75,15 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-89rtGDpX4KyxvwJDLHeEbt">§ 1 Justering av protokoll</head>
         <note xml:id="i-LVncZjCFYKqhUpzzYDLNLv">Protokollet för den 7 april justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9mBSfeGtUf6tZvE5tsZKPo">§ 2 Meddelande om återrapportering från informellt möte med EU:s stats- och regeringschefer</head>
         <note xml:id="i-ETCL1pEAtJyxzoLVhQnCZy">Tredje vice talmannen meddelade att tisdagen den 28 april kl. 1 4 . 30 skulle återrapportering från informellt möte med EU:s stats- och regeringschefer äga rum.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Bve66TK72ueQtHxjXYhxLs">§ 3 Bordläggning och beslut om förkortad motionstid</head>
         <note xml:id="i-RZWjok1WQKqQrREiRGujeJ">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-3f3apEZFE66DKcn5xEug13">Proposition</note>
@@ -98,14 +99,14 @@
         <note xml:id="i-UXkGnrSCzWPQ1PvpDTGGB9">2019/20:3591 av Ali Esbati m.fl. (V)</note>
         <note xml:id="i-FATYuBLFUuw1Jt6ese2Z6">2019/20:3597 av Mats Green m.fl. (M, C, KD, L)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WcVQ5pMAsSWXwQiCwgHNDq">§ 4 Motion för omedelbar hänvisning</head>
         <note xml:id="i-9zsvQsKsG22jAH82puxUG8">Följande dokument anmäldes:</note>
         <note xml:id="i-2Qi69GAcURdFDNDuMsX4iP">Motion</note>
         <note xml:id="i-SkpWJXVsnjVKk1qcwiZEHo">2019/20:2021 Gode män av Ann-Charlotte Hammar Johnsson (M)</note>
         <note xml:id="i-Q7G83YTRMahJA6fzRnUptB">Kammaren biföll talmannens förslag att ovanstående motion omedelbart skulle hänvisas till civilutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GGboaMTF5fgQ8H75RwDGng">§ 5 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-WEZ2wen8MkJc6oZeRyQvKw">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-LiRdf8jAfwp22AmdjinH4e">den 24 april</note>
@@ -116,22 +117,11 @@
         <note xml:id="i-TBXkgP1TEQ3hg3rFrjQ9DH">av Acko Ankarberg Johansson (KD)</note>
         <note xml:id="i-U6JycEXhawHce2w3QEQq1H">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5hYqdqyiaAx17xpor9bWhy">§ 6 Kammaren åtskildes kl. 13 . 01 .</head>
         <note xml:id="i-XY84dW1qXESfmR2XcFV7mF">Sammanträdet leddes av tredje vice talmannen .</note>
         <note xml:id="i-8NgAQbtYGEDNi8xXoAPbSN">Vid protokollet</note>
         <note xml:id="i-EwM81opeakqR1fj3uN6kM8">ANNA ASPEGREN</note>
-        <note xml:id="i-VyddcszYS9NXYNk8tpLPC8">/Olof Pilo</note>
-        <note xml:id="i-NDrAdCGt35s4YyftAtY8bs">Innehållsförteckning</note>
-        <note xml:id="i-3xhMmLNDYzyTRdYB9jmiGf">§ 1 Justering av protokoll</note>
-        <note xml:id="i-RUZsr4KeAnARYQ2L6kKK4x">§ 2 Meddelande om återrapportering från informellt möte med EU:s stats- och regeringschefer</note>
-        <note xml:id="i-S62p1y5V3dNvMQLuR7HHK2">§ 3 Bordläggning och beslut om förkortad motionstid</note>
-        <note xml:id="i-QAbBYyZ2kBYNU6ziPwaA1U">§ 4 Motion för omedelbar hänvisning</note>
-        <note xml:id="i-5kNGzUiT7w7BtAGEEToZYf">§ 5 Anmälan om frågor för skriftliga svar</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-AK5HGYb17hCMd29RwSuStQ">§ 6 Kammaren åtskildes kl. 13.01.</head>
-        <note xml:id="i-3dHZow57czTmxKEi4qw6Ev">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

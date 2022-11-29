@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 147 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 147 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--147">2019/20--147</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,17 +75,17 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FYdnqGWCvuBLPGwbZZLtmC">§ 1 Anmälan om faktapromemoria</head>
         <note xml:id="i-EqHEGJhy1DzgrEmNFJcRo8">Talmannen anmälde att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-6kALPack4WtdHvR7WM3UzX">2019/20:FPM61 Strategi för energisystemintegration och strategi för vätgas COM(2020) 299 , COM(2020) 301 till näringsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TPuN9SBW7njcRqb4eJzfZW">§ 2 Anmälan om granskningsrapport</head>
         <note xml:id="i-4Uv5p9r27mxcAYvJi3GrdZ">Talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till utbildningsutskottet :</note>
         <note xml:id="i-53DJCWfKYajxb1viEn7p4J">RiR 2020:15 Att styra utbildning till ämneslärare</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QAwBZfR4YDANoE3c4bKVXk">§ 3 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-UqFTc2L1LKJY3D1FPG4SD9">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-WMkCqP8hGVBMYf4YRgM9YN">Proposition</note>
@@ -327,7 +328,7 @@
         </u>
         <note xml:id="i-MMLgpmPetj6jKmms6h9hVf">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-R47wdp5jxA4poqNAHUx2zL">§ 7 Anmälan om interpellationer</head>
         <note xml:id="i-HgiVYXCHm2rFSjNN1kf8uQ">Följande interpellationer hade framställts:</note>
         <note xml:id="i-MCqX5DhU2tRmvtQgMGMWPC">den 20 augusti</note>
@@ -349,7 +350,7 @@
         <note xml:id="i-UdHJF4XFN6SzMwUDE96cTc">av Amineh Kakabaveh (-)</note>
         <note xml:id="i-AWLF5BnobxSgSqDe7a2MVX">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KT2zRxzha67D6VyguhvPv2">§ 8 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-XHFMgqvpi174183Zx93Hg6">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-4thQPLypquUhy7o8iGgk4E">den 20 augusti</note>
@@ -528,7 +529,7 @@
         <note xml:id="i-BdzTK1foKjVREco54qzqq">av Markus Wiechel (SD)</note>
         <note xml:id="i-3NwD4mj4x9558hNkESrdpz">till statsrådet Peter Eriksson (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VzKgufFGPy7ax52dcVWqFy">§ 9 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-7ghEBSbNqPz5aqHam5h7Wc">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-AwppLgha1L3Lk2XAWDCNGw">den 21 augusti</note>
@@ -680,47 +681,11 @@
         <note xml:id="i-4RYHTZwkJLD5bTXw8fCy1v">av Markus Wiechel (SD)</note>
         <note xml:id="i-CbKjxyWmPTQjpQa94VuGHq">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PsVhxqAaHEpmXHNJ9dgVMM">§ 10 Kammaren åtskildes kl. 13 . 10 .</head>
         <note xml:id="i-T3p4eoJ6mxpJxU6x89fz1i">Sammanträdet leddes av talmannen .</note>
         <note xml:id="i-AMyWwTjPZmx3DT9mAZFe2s">Vid protokollet</note>
         <note xml:id="i-ECKgFoSLQDTED2tCrgQmdL">JOHAN WELANDER</note>
-        <note xml:id="i-HHFJ1jJr6kGNE5jKvA1m9L">/Olof Pilo</note>
-        <note xml:id="i-P9V9SETkzaJdqFcHkQLsSW">Innehållsförteckning</note>
-        <note xml:id="i-JLT1g38z5RCMVJWjGQDqeM">§ 1 Anmälan om faktapromemoria</note>
-        <note xml:id="i-VAfXFDSLyhWqqLJvRekqJQ">§ 2 Anmälan om granskningsrapport</note>
-        <note xml:id="i-6ioEFdPekbvWerp7UpWWUR">§ 3 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-GvCrPjLDhYAnQLTg7zGXVw">§ 4 Svar på interpellation 2019/20:437 om stöd till eventbranschen</note>
-        <note xml:id="i-84KJF1Fx2cT1nbfWV39iyd" type="speaker">Anf. 1 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-AN4htvB7PpGt9LgRYTWzyV" type="speaker">Anf. 2 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-XeMjv7T8DZTqU3L7Fyz2rV" type="speaker">Anf. 3 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-FiuziGkei5azH7GUHXpeaL" type="speaker">Anf. 4 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-FFzTdAeF8S9tJzDhZSjQiW" type="speaker">Anf. 5 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-Rw8jpSD7UCnfQBscjJNQ79" type="speaker">Anf. 6 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-C3e7xQDHdAkpGrujgyoZpd" type="speaker">Anf. 7 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-6K5BRgFmv7Xxnb6BTZHNNu">§ 5 Svar på interpellation 2019/20:438 om stöd till resebranschen</note>
-        <note xml:id="i-2ifT84Afu2DGxyr42mcndZ" type="speaker">Anf. 8 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-9x2nSwjmCZpKAhB8JLuiKq" type="speaker">Anf. 9 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-5jux2bWvxoJpnCJNQsWJPS" type="speaker">Anf. 10 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-SBoqpGbjWf63AJZXvyNMF6" type="speaker">Anf. 11 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-DBGHMWy1aWduREYXbLMxq9" type="speaker">Anf. 12 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-46EkVMDf24AmttC5P4uedW" type="speaker">Anf. 13 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-AvUHnR8nMpbunCJpDF7Qp6" type="speaker">Anf. 14 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-RV3i44NV6r6SDiGuQpwkXu">§ 6 Svar på interpellation 2019/20:440 om olycksfall och systematiskt arbetsmiljöarbete på Samhall</note>
-        <note xml:id="i-GdAVK2nxRbgEr4H5KHrjzn" type="speaker">Anf. 15 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-EHGwNHKfzYeUVwSApEBvDy" type="speaker">Anf. 16 ALI ESBATI (V)</note>
-        <note xml:id="i-Fha29nsKtPnC8HNgAqaPsy" type="speaker">Anf. 17 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-PepsS4eikVq6BYnXG3C6wg" type="speaker">Anf. 18 ALI ESBATI (V)</note>
-        <note xml:id="i-QUqQqQ9R7CJrS4Dh8DUxXt" type="speaker">Anf. 19 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-TkhWeNvBprhcxGR6DjGdeg" type="speaker">Anf. 20 ALI ESBATI (V)</note>
-        <note xml:id="i-7x3CCvBvgoa9Sf6b2g9Pda" type="speaker">Anf. 21 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-ETJNAxQh1XeoZzcmbbPiU2">§ 7 Anmälan om interpellationer</note>
-        <note xml:id="i-5GY3Y2nz1A7bL1Wad4LqWW">§ 8 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-UQjQkqGiCBM45uw7fMVsDW">§ 9 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-CNKeRPTSE7sfb3WFCQyyWK">§ 10 Kammaren åtskildes kl. 13.10.</head>
-        <note xml:id="i-Pz68p8G7k4suwdWFkLBYqX">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 26 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 26 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--26">2019/20--26</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -437,7 +438,7 @@
         </u>
         <note xml:id="i-B82Jvfe9iVE8mwrnxq8MKq">Den aktuella debatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6e3QxzdVbnVn8YHpiMctsL">§ 2 Avsägelser</head>
         <note xml:id="i-NLqawqFpt1XSL984bzVwfu">Andre vice t almannen meddelade att Jonas Eriksson (MP) avsagt sig uppdraget som ledamot av riksdagen från och med den 4 november.</note>
         <note xml:id="i-UxvKvvbKWxK7BNCp5J3bSA">Kammaren biföll denna avsägelse.</note>
@@ -451,7 +452,7 @@
         <note xml:id="i-9CMQNdd6Qzby4QBsF4dLRj">att Carl-Oskar Bohlin (M) avsagt sig uppdraget som ledamot i delega ­ tionen till den gemensamma parlamentariska kontrollgruppen för Europol.</note>
         <note xml:id="i-P7q6reCc145WtboL52dgQN">Kammaren biföll dessa avsägelser.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GPEebHFhkNakkqnXs32jqS">§ 3 Anmälan om kompletteringsval</head>
         <note xml:id="i-GdG3iG8oo6sG4v8WYG2uYz">Andre vice talmannen meddelade</note>
         <note xml:id="i-KfnED9Kc4MAhbox4RBa7pz">att Moderaternas riksdagsgrupp anmält Mikael Damsgaard som ledamot i delegationen till den gemensamma parlamentariska kontrollgruppen för Europol,</note>
@@ -474,12 +475,12 @@
         <note xml:id="i-LCM6bVAXMRxquV9rA2jiCR">ledamot i miljö- och jordbruksutskottet</note>
         <note xml:id="i-8UdGLcRJB97bCUVDvU3h7t">Nina Lundström (L)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Pk48DfBHSAvSsUs88xv1fL">§ 4 Anmälan om granskningsrapport</head>
         <note xml:id="i-6Yiy3zxAyFp6Z2uF9xFwdr">Andre vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till finansutskottet :</note>
         <note xml:id="i-Q7LGqDQFqj1bGYW6qCt9Lj">RiR 2019:29 Det kommunala utjämningssystemet – behov av mer utjämning och bättre förvaltning</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-43DHS7JC2a9QsRMUfgDtek">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-4BA4uqgn2uh7AqkrZPYiP7">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-XvRo2ckqgnfpkST6uHo3Uk">Propositioner</note>
@@ -489,7 +490,7 @@
         <note xml:id="i-DHHwRTE8xCgBLyiL2xw3Eb">Motioner</note>
         <note xml:id="i-3f2H5xdXpw8SMELpge1FVt">2019/20:3406, 3407 och 3409 till civilutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Fhsz8XhLJJuaBXhK1pYByG">§ 6 Anmälan om interpellationer</head>
         <note xml:id="i-KVjCGpzgC5KFuySY4rz49o">Följande interpellationer hade framställts:</note>
         <note xml:id="i-nQYrU4DXVJfS2LR4tuQKF">den 24 oktober</note>
@@ -506,7 +507,7 @@
         <note xml:id="i-TajQgFM74wTb3S3FQJwLSH">av Lotta Olsson (M)</note>
         <note xml:id="i-MreY88ck4S1BXiqVn31Yzr">till statsrådet Anders Ygeman (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JsM47L7r64BeVnSgXPb3HG">§ 7 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-9gWmrh8VkryvLLD5BPmVEd">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-6R21Ndfi2kPkCrmzrU5sj6">den 24 oktober</note>
@@ -580,7 +581,7 @@
         <note xml:id="i-KJ3RXemfRAPvTdPUqXhchS">av Mattias Bäckström Johansson (SD)</note>
         <note xml:id="i-UueXvzttHruBckgh22dUFp">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PPgp7yPbCuWD7kun5joorA">§ 8 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-Koz2N6oNKjKPS2NicofuxZ">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-KNuj4bQFDRBB2QXAHsADNe">den 24 oktober</note>
@@ -630,80 +631,11 @@
         <note xml:id="i-8dKMuWYbZcq7FFh9CFEYgH">av Helena Lindahl (C)</note>
         <note xml:id="i-SEPwZzbF9kKzeBLdC13oF">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TSx2LbMbVmVzNauo3PsTvt">§ 9 Kammaren åtskildes kl. 10.16.</head>
         <note xml:id="i-2xf8qemunzuGcuroKt2s4p">Sammanträdet leddes av andre vice talmannen.</note>
         <note xml:id="i-E69PegwLoWsQysRQWJ2Jo9">Vid protokollet</note>
         <note xml:id="i-6ejzpGToHNFCD5cV2w1f2b">CHARLOTTE RYDELL</note>
-        <note xml:id="i-AWmQyFiY5Vez7ytrDPTnku">/Olof Pilo</note>
-        <note xml:id="i-SfakEGxGZXkaA9VBSXGqeQ">Innehållsförteckning</note>
-        <note xml:id="i-UCiJVS27Kzamru5BSXuAaN">§ 1 Aktuell debatt med anledning av det höga antalet dödsolyckor i arbetslivet</note>
-        <note xml:id="i-CLmyJZwVQms7g7wM7FQmLu" type="speaker">Anf. 1 ALI ESBATI (V)</note>
-        <note xml:id="i-EodDMsw99F7PGEh8w1qXd9" type="speaker">Anf. 2 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-M53dtmV26Nzj9mdjZ2s7jC" type="speaker">Anf. 3 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-5VN2eLFbY1x81Hj3eHWtGH" type="speaker">Anf. 4 MAGNUS PERSSON (SD)</note>
-        <note xml:id="i-9vGPzJWn1Ep4Qwc2Yo153E" type="speaker">Anf. 5 ALIREZA AKHONDI (C)</note>
-        <note xml:id="i-4t8XNB41ybQuMHEnXpb9p2" type="speaker">Anf. 6 ALI ESBATI (V)</note>
-        <note xml:id="i-DoNy983XLoLGdM5A4EXZ2F" type="speaker">Anf. 7 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-FkmWBmzTXZ1aiNTKbWcWYA" type="speaker">Anf. 8 MARIA NILSSON (L)</note>
-        <note xml:id="i-8kBuD5e26Mdr4Ew1gZDv91" type="speaker">Anf. 9 MATS BERGLUND (MP)</note>
-        <note xml:id="i-KoF91xVw647LVVBSeRVQEW" type="speaker">Anf. 10 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-A8C8MHTCqmETxtAJuyXUFT" type="speaker">Anf. 11 SAILA QUICKLUND (M) replik</note>
-        <note xml:id="i-Wbda6qwnQvRWxnWzL8g2rX" type="speaker">Anf. 12 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-UoaQdZN7hyanft8Q5S3nHs" type="speaker">Anf. 13 SAILA QUICKLUND (M) replik</note>
-        <note xml:id="i-JNrkLGVdKkEQPacVpyvhzS" type="speaker">Anf. 14 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-Np7ZKRRN8EAyykKiUViPKB" type="speaker">Anf. 15 MAGNUS PERSSON (SD) replik</note>
-        <note xml:id="i-WG4DLUVyaZBLsGZZcrFPdH" type="speaker">Anf. 16 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-JqpoMpjm55wD2xEe5jvnWF" type="speaker">Anf. 17 MAGNUS PERSSON (SD) replik</note>
-        <note xml:id="i-5pzfmfLqDwwXNQQWsbWFF9" type="speaker">Anf. 18 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-HGR2M6GDGntFX2BLwXxBBm" type="speaker">Anf. 19 ALI ESBATI (V) replik</note>
-        <note xml:id="i-AUfDCFpPfzK3BL3CKUV91N" type="speaker">Anf. 20 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-DXcVUzUaqt63GUHpVYmhUd" type="speaker">Anf. 21 ALI ESBATI (V) replik</note>
-        <note xml:id="i-R2HpoyRPDGGk68s5ugSNND" type="speaker">Anf. 22 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-7qYW69gsNyhc7uUNVDmcmw" type="speaker">Anf. 23 DÉSIRÉE PETHRUS (KD) replik</note>
-        <note xml:id="i-VbWJpvEYrnGADGvYv8N5KZ" type="speaker">Anf. 24 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-4ahGyBRWbSAtTEgWnE7HfS" type="speaker">Anf. 25 DÉSIRÉE PETHRUS (KD) replik</note>
-        <note xml:id="i-KFRyFCYxGtLjVYgzUedXKi" type="speaker">Anf. 26 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-8DWgA75YfZTHWT4mRmay2g" type="speaker">Anf. 27 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-JkCb8jqAKXaAdickLfbnbq" type="speaker">Anf. 28 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-AmVUHxQzpC3XDaXj8g76vE" type="speaker">Anf. 29 SAILA QUICKLUND (M) replik</note>
-        <note xml:id="i-C41vUw1h2GVWNXpdHHCfLT" type="speaker">Anf. 30 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-7ZJZbFsXqaGWYajcANVjdE" type="speaker">Anf. 31 SAILA QUICKLUND (M) replik</note>
-        <note xml:id="i-8X5Vup5PLJnZAZZJXkrsdc" type="speaker">Anf. 32 ALI ESBATI (V) replik</note>
-        <note xml:id="i-FWK1g7LFgNQm8uJfscLGbi" type="speaker">Anf. 33 SAILA QUICKLUND (M) replik</note>
-        <note xml:id="i-QGhRAZnbJNXProhf43z8sN" type="speaker">Anf. 34 ALI ESBATI (V) replik</note>
-        <note xml:id="i-PkneMiuHAwFG3iGmczPNvk" type="speaker">Anf. 35 SAILA QUICKLUND (M) replik</note>
-        <note xml:id="i-WXWm7uEBY9zhy5zTuse6Hc" type="speaker">Anf. 36 MAGNUS PERSSON (SD)</note>
-        <note xml:id="i-ThnEdoQbRqfkF3rS3pH5LU" type="speaker">Anf. 37 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-Be347HXLAFRyvH4sDb2iQT" type="speaker">Anf. 38 MAGNUS PERSSON (SD) replik</note>
-        <note xml:id="i-NQFCxfYixEvU5W3tN65ZD9" type="speaker">Anf. 39 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-HL8StD8shv2eVN2ZqBhCq8" type="speaker">Anf. 40 MAGNUS PERSSON (SD) replik</note>
-        <note xml:id="i-HfWG7v3A7mHWkVQyL149Ff" type="speaker">Anf. 41 ALI ESBATI (V) replik</note>
-        <note xml:id="i-DmT1AtCDg8Fi7HU3uR7pCs" type="speaker">Anf. 42 MAGNUS PERSSON (SD) replik</note>
-        <note xml:id="i-WTmUTnCGGPtouAmZqtxs7b" type="speaker">Anf. 43 ALI ESBATI (V) replik</note>
-        <note xml:id="i-QGdMTZBZEWh77T23BxcfNL" type="speaker">Anf. 44 MAGNUS PERSSON (SD) replik</note>
-        <note xml:id="i-JU6YLXxmzN9GHRmHpbEyC4" type="speaker">Anf. 45 ALIREZA AKHONDI (C)</note>
-        <note xml:id="i-Cds3eB6t18AeN1fGz5adCp" type="speaker">Anf. 46 ALI ESBATI (V)</note>
-        <note xml:id="i-4vnAwn3MBDaYVhunex1kHQ" type="speaker">Anf. 47 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-TzsST4DuWDo83LpV7Q2mYi" type="speaker">Anf. 48 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-MCdjP5eJJbG1HDupKkLuSj" type="speaker">Anf. 49 DÉSIRÉE PETHRUS (KD) replik</note>
-        <note xml:id="i-XrdmDtqeiJpUWdb8TY2t2z" type="speaker">Anf. 50 Arbetsmarknadsminister EVA NORDMARK (S) replik</note>
-        <note xml:id="i-H2eBhL6UoZqBLxpaGy2N34" type="speaker">Anf. 51 MARIA NILSSON (L)</note>
-        <note xml:id="i-5H1hcysdtkhWembsGKavL6" type="speaker">Anf. 52 ALI ESBATI (V) replik</note>
-        <note xml:id="i-M4G2ETTEyKhihso4pYUWdZ" type="speaker">Anf. 53 MARIA NILSSON (L) replik</note>
-        <note xml:id="i-DwXUNQNsrhFmo6ExvaSaUx" type="speaker">Anf. 54 ALI ESBATI (V) replik</note>
-        <note xml:id="i-8zmpGfesPVCHdNhqEkqmYt" type="speaker">Anf. 55 MARIA NILSSON (L) replik</note>
-        <note xml:id="i-CSpnq62Fwi3jXrFfdPnETh" type="speaker">Anf. 56 MATS BERGLUND (MP)</note>
-        <note xml:id="i-So11oqPGtbPmCWjVXhdA5i" type="speaker">Anf. 57 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-MsqQYzsPiHMwYBejKgZZqQ">§ 2 Avsägelser</note>
-        <note xml:id="i-UrmgDx9r8cJrQgvo74TMyf">§ 3 Anmälan om kompletteringsval</note>
-        <note xml:id="i-7bj4EnTDwQqDq85UeBAEjp">§ 4 Anmälan om granskningsrapport</note>
-        <note xml:id="i-PHsqAm5NT3hjnw5YzcJAQV">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-3vYysdmQrxR88UcxUaWMoL">§ 6 Anmälan om interpellationer</note>
-        <note xml:id="i-FFeq1mR5L9PBm3iTcX51cz">§ 7 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-R6uefykd6MSeKY1yG9ZNii">§ 8 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-W6oAh4kXXufZvrxKmDAVPS">§ 9 Kammaren åtskildes kl. 10.16.</note>
-        <note xml:id="i-NxkZoS2C98fBPedDnsw1pB">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 9 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 9 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--9">2019/20--9</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,23 +75,23 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Nbu1UuFetKe4vhhSxCvB8x">§ 1 Avsägelser</head>
         <note xml:id="i-DGGZmktABUNhbRkwchJh8E">Tredje vice talmannen meddelade att Hanif Bali (M) avsagt sig uppdragen som suppleant i arbetsmarknadsutskottet och i EU-nämnden.</note>
         <note xml:id="i-7M8ma5ejTRVA5TdDpSy5PA">Kammaren biföll dessa avsägelser.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-S7ofG29uYFX4vPUGuXg5L1">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-QhhzD5paskmQ2Keix5KxCo">Tredje vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Katarina Brännström som suppleant i arbetsmarknadsutskottet .</note>
         <note xml:id="i-6224yoLBb77QBwY7stYXqM">Tredje vice talmannen förklarade vald till</note>
         <note xml:id="i-TPQmisMYN8HstHuzPTfiXd">suppleant i arbetsmarknadsutskottet</note>
         <note xml:id="i-Y7xb2eEexg5vzMSTjWig4p">Katarina Brännström (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-47SB9KBRDqAyK9z8s4PBYv">§ 3 Meddelande om frågestund</head>
         <note xml:id="i-ESmZJXE2GYefeaxQXYoZ4r">Tredje vice talmannen meddelade att frågestund skulle äga rum torsdagen den 26 september kl. 14.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5Mg7gartZocTsQomTspGGp">§ 4 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-X8Z2gAVaMHbDH7SZCpnQmU">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-C7mQiUoTq5cyqiX6uDcvWv">Interpellation 2019/20:2</note>
@@ -130,7 +131,7 @@
         <note xml:id="i-D3gUhyzzguMuM5ENawkqdR">Egon Abresparr</note>
         <note xml:id="i-SoE5akvrQfCPYUxpxdt6tC">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Di3FJupVSBwcpbweNahis3">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-z9J6mh3yyFEmVqDSJEs4D">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-4gdSVUVhoV38CGtkknUFfz">Motioner</note>
@@ -555,7 +556,7 @@
         </u>
         <note xml:id="i-BZ8RQVcdqaJp77D7soHSY1">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Af6iLJoQeQX8TDrzpEdCAm">§ 10 Bordläggning</head>
         <note xml:id="i-6jb2LtzgV6gvC8ZCQuSXpT">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-TcsCaEK9mQw718Ffi7WG3X">Propositioner</note>
@@ -569,7 +570,7 @@
         <note xml:id="i-AmL6PoHR3HDi9Qq2EWWxiE">Skrivelse</note>
         <note xml:id="i-LPpeuD34zHFLC5J9DqUoA3">2019/20:6 Riksrevisionens rapport om regeringens styrning av kulturområdets institutioner</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-L2fA8SVYDRpJje8mdG6z3C">§ 11 Anmälan om interpellationer</head>
         <note xml:id="i-S74z5yoR8QwAgpUtFACkCB">Följande interpellationer hade framställts:</note>
         <note xml:id="i-ECW2VomDNNgoCitbUw8vhQ">den 20 september</note>
@@ -581,7 +582,7 @@
         <note xml:id="i-XqenpjuLFgNwmj8ReCk6LL">av Mats Green (M)</note>
         <note xml:id="i-Pt9hssRQ6fD2ReKKPaPKf7">till arbetsmarknadsminister Eva Nordmark (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3maVeZD9VpKtz6n3fXq56n">§ 12 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-GCnRtjHSUee7Kt8fgkVFBf">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-RwN3Fpq4eTS2cBac8TQZNd">den 20 september</note>
@@ -614,7 +615,7 @@
         <note xml:id="i-5V9XzaUVQ3Z9y1x6pRrqFz">av Åsa Coenraads (M)</note>
         <note xml:id="i-T7CCQQwbf47XZqrpx9oNEf">till statsrådet Jennie Nilsson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TmENEBM8gbBRw9uRK3Gm61">§ 13 Anmälan om skriftligt svar på fråga</head>
         <note xml:id="i-27KZSt12pSaooVY2KBDSRH">Skriftligt svar på följande fråga hade kommit in:</note>
         <note xml:id="i-GDuUgXRH6H1DULM7U2zdNs">den 20 september</note>
@@ -622,76 +623,13 @@
         <note xml:id="i-WBGLAfdyo1BPYFFHxxJzd9">av Björn Söder (SD)</note>
         <note xml:id="i-DYkSjt1XVvZcAqMhidKmR4">till statsrådet Peter Eriksson (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LZT32RMw5uPxuUHAYur6qT">§ 14 Kammaren åtskildes kl. 15.04.</head>
         <note xml:id="i-V4hRjFKLCeqT4hSVr7usNf">Sammanträdet leddes</note>
         <note xml:id="i-ALrkXe7KQnuWqNwQB3tivL">av tredje vice talmannen från dess början till och med § 9 anf. 42 (delvis) och</note>
         <note xml:id="i-FWHkwTLpScvAjiDZMeKzAd">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-AfWiL1w45REhnheRm6uhJq">Vid protokollet</note>
         <note xml:id="i-XL3QJh6m6boDZHRaf29QBV">ANDERS NORIN</note>
-        <note xml:id="i-41bY42QUiiX2awucKf4cz4">/Olof Pilo</note>
-        <note xml:id="i-C6MfcYYsv2HwSh9rQyvfCA">Innehållsförteckning</note>
-        <note xml:id="i-KTGiJqfbtTWUa1MoYao9YB">§ 1 Avsägelser</note>
-        <note xml:id="i-WR4j7McD9tKkWzGciRcET6">§ 2 Anmälan om kompletteringsval</note>
-        <note xml:id="i-XoPQZs5MYfcAJpHNMpp6zT">§ 3 Meddelande om frågestund</note>
-        <note xml:id="i-UNAX7RBtzw2FSaBpaoB5GC">§ 4 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-7Wh8wYAARGAGjG6PwUS93m">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-2Ner7uDFnBN4xmovAFw56B">§ 6 Svar på interpellationerna 2018/19:272 och 275 om skattebelastningen på privatbilismen</note>
-        <note xml:id="i-6Fv6rnvpUH5D1mNez5a88b" type="speaker">Anf. 1 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-CJyZH69rSnUKCq7iiTkFgW" type="speaker">Anf. 2 JAN ERICSON (M)</note>
-        <note xml:id="i-JT6zcUzgDHidQuAApfNZVb" type="speaker">Anf. 3 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-JnQLJ5SgScD6qYxyitsZLi" type="speaker">Anf. 4 LARS BECKMAN (M)</note>
-        <note xml:id="i-K3n4RcJ8A1AL75bxB1exEX" type="speaker">Anf. 5 JÖRGEN BERGLUND (M)</note>
-        <note xml:id="i-4QU18GRmc2JfA9DPq4V3NM" type="speaker">Anf. 6 LARS JILMSTAD (M)</note>
-        <note xml:id="i-82UMLBU3sjKk2YvsF1qQB8" type="speaker">Anf. 7 STEN BERGHEDEN (M)</note>
-        <note xml:id="i-DqeLMu32PramMVyKtfRRBs" type="speaker">Anf. 8 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-EwwJXBENazZQWBSCkMY7Br" type="speaker">Anf. 9 ARIN KARAPET (M)</note>
-        <note xml:id="i-Cqz1z7z7PmpLN7MDYwNAs8" type="speaker">Anf. 10 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-6mwGMQidu1vsrSAUvXQ6EQ" type="speaker">Anf. 11 JAN ERICSON (M)</note>
-        <note xml:id="i-6sdr5WW69E6KsN9Qvzqzw5" type="speaker">Anf. 12 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-Y8ZepLXzZjer5Eham5dAFG" type="speaker">Anf. 13 LARS BECKMAN (M)</note>
-        <note xml:id="i-UaTtFaf8W1bAQNJfn3Sz9q" type="speaker">Anf. 14 JÖRGEN BERGLUND (M)</note>
-        <note xml:id="i-J1ngo7Ai1vg59xUiX2BzLj" type="speaker">Anf. 15 LARS JILMSTAD (M)</note>
-        <note xml:id="i-WdEXmsuZmMouCbxnSPauNF" type="speaker">Anf. 16 STEN BERGHEDEN (M)</note>
-        <note xml:id="i-2aqz8ypujMFisTWzbbX7Rm" type="speaker">Anf. 17 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-R2oK6M8MjRU3rzcpMx6oBH" type="speaker">Anf. 18 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-9uTJvno9U9GTkYA8an2eZP" type="speaker">Anf. 19 JAN ERICSON (M)</note>
-        <note xml:id="i-PkLTsWBsS1Pkq3F6UjiFU7" type="speaker">Anf. 20 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-22UF61WHo4NHKdqHTk4a7A" type="speaker">Anf. 21 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-6zgeiBpYe4xzVHMNPB9jKe">§ 7 Svar på interpellation 2018/19:284 om momsbeläggning av sjukvårdstjänster</note>
-        <note xml:id="i-Lnjs9dRNigg76iFFWzGZns" type="speaker">Anf. 22 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-6PUpGf5LYyJpA2igyh8kpy" type="speaker">Anf. 23 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-MGVe2wLLYFasrY2wJoSNiz" type="speaker">Anf. 24 KJELL JANSSON (M)</note>
-        <note xml:id="i-21ELGb1i7s4DDJv2x3X1wt" type="speaker">Anf. 25 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-JtbaFvd4qvRre1wKSzSPXq" type="speaker">Anf. 26 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Keo9yrEkKabGzH7XU8z6Qg" type="speaker">Anf. 27 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-MWCRjVKfo1MHrmv67owP1N" type="speaker">Anf. 28 KJELL JANSSON (M)</note>
-        <note xml:id="i-EJefvKbvsPVyuXNPsdeCC2" type="speaker">Anf. 29 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-RPfGTz7b5snv7FNzAu2CZ5" type="speaker">Anf. 30 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-9RxGkeZyKD5uiszGXETEoj" type="speaker">Anf. 31 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-NdyfMV8NuA6CLysxZJfXW6" type="speaker">Anf. 32 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-6osEJgeaoTX6Wk4edbZVHU">§ 8 Svar på interpellation 2018/19:296 om avvikande personnummer</note>
-        <note xml:id="i-UnbBn6FgDEekP7ocvXbeoL" type="speaker">Anf. 33 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-8afn8Vx7cqGFQpB6EUnE5X" type="speaker">Anf. 34 ANGELICA LUNDBERG (SD)</note>
-        <note xml:id="i-yVSuuXyA64sPmG8eWd9Lj" type="speaker">Anf. 35 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-MDjXqogM4uvRYZnud4XPXX" type="speaker">Anf. 36 ANGELICA LUNDBERG (SD)</note>
-        <note xml:id="i-4mHbkLBzffBEuuHwTJGfZe" type="speaker">Anf. 37 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-8eAJP9YATbaqfweo11T3n7" type="speaker">Anf. 38 ANGELICA LUNDBERG (SD)</note>
-        <note xml:id="i-PnVrb2yz3K1A7wBxX5dSGf" type="speaker">Anf. 39 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-JnZ85e2WjRvNB6Bn4xZeU8">§ 9 Svar på interpellation 2018/19:302 om aggressiv skatteplanering</note>
-        <note xml:id="i-G1Ju18JnyKfGdJ9ZBkBTQy" type="speaker">Anf. 40 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-5nT8TCgnx1ebJZNTdQ5sTr" type="speaker">Anf. 41 TONY HADDOU (V)</note>
-        <note xml:id="i-EXL2A3FV4mtYqYWsbGkntq" type="speaker">Anf. 42 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-FwqSN9WjhNbAExtv9pSqmP" type="speaker">Anf. 43 TONY HADDOU (V)</note>
-        <note xml:id="i-4R9tamucXF18zHu7MUYZuH" type="speaker">Anf. 44 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-WMjd6vHwMwUpSPkuXK1Zw4" type="speaker">Anf. 45 TONY HADDOU (V)</note>
-        <note xml:id="i-CbJEQmWcKppRvZmWhhvPia" type="speaker">Anf. 46 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-EKBZyqNqKF4uiRMcJFFtsm">§ 10 Bordläggning</note>
-        <note xml:id="i-8SRs1QvndVevkxTW17DoZV">§ 11 Anmälan om interpellationer</note>
-        <note xml:id="i-Er4i2j9SF9sZCZXUYSeajX">§ 12 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-Q2ZXrciBx9UKCwgz5g9UhF">§ 13 Anmälan om skriftligt svar på fråga</note>
-        <note xml:id="i-3YTkssRQJBCdZd8uWvDpqs">§ 14 Kammaren åtskildes kl. 15.04.</note>
-        <note xml:id="i-KbfdohpKNFz4xot89YeeP">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

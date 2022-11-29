@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 120 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 120 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--120">2019/20--120</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -98,18 +99,18 @@
         <note xml:id="i-MjtzcKbpT9XSdd9WyXHpa">riksrevisionsdirektör</note>
         <note xml:id="i-JNMSLNv3Eiig4eMcqMzA51">Claudia Gardberg Morner</note>
         <note type="speaker" xml:id="i-3DDY9VaU7cf6boU82StutF">Anf. 2 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-be75a8ad4ea29e93-8" who="#unknown" ana="#regular">
+        <u xml:id="i-be75a8ad4ea29e93-8" ana="#regular">
           <seg xml:id="i-YMwYRqi2B74CafB6jLu3u7">Jag ber Claudia Gardberg Morner att resa sig upp så att vi kan gratulera ordentligt. Stort grattis, och välkommen!</seg>
         </u>
         <kinesic type="applause">
           <desc>(Applåder)</desc>
         </kinesic>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6k2G5RVEzCoYpjFDtCYfmx">§ 2 Justering av protokoll</head>
         <note xml:id="i-2jpYdbmqjqY3EbpMGMTYDE">Protokollet för den 22 april justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Q84vS34LTZ2TLvGh3dgKG2">§ 3 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-5w8M2DPfAW3XJTY1GrNv17">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-QJxAhFpazJ4YL9EdKvPAkz">Skrivelse</note>
@@ -124,7 +125,7 @@
         <note xml:id="i-D9uEvHG5Z55jMcumQho8zc">COM(2020) 198 och COM(2020) 201 till skatteutskottet</note>
         <note xml:id="i-CByqijh5ZHuV4pbJcksspt">Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 6 juli .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VjHU6iT8CUE3d3sL9aYzkT">§ 4 Ärenden för bordläggning</head>
         <note xml:id="i-W1dNYCNQDyrmD36t614UwP">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-Mgyveie2XM2EqMc337hEz5">Socialutskottets betänkanden</note>
@@ -183,7 +184,7 @@
         <note xml:id="i-TNqjfdw8C4kGraF22Ky3Rz">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-Aw92bBvGBGG1huu7469g7z">(Beslut fattades under § 24 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PF1DK1VHXjogq4ejUG6zn7">§ 6 Riksrevisionens årsredovisning för 2019</head>
         <note xml:id="i-C433tNGnEw971pRneqkymk">Konstitutionsutskottets betänkande 2019/20:KU17</note>
         <note xml:id="i-6B8XzujwAdyQD8884gRZ9L">Riksrevisionens årsredovisning för 2019 (redog. 2019/20:RR1)</note>
@@ -191,7 +192,7 @@
         <note xml:id="i-PUr7LDVaGqezjBhuhFNp6J">Förste vice t almannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-PungCDsM6ZNokknfmop1QV">(Beslut fattades under § 24 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-D4qCQRVcetppJXrNACjzBS">§ 7 Verksamhetsredogörelser för riksdagens nämnder</head>
         <note xml:id="i-HDrAXRUMTbPDJAWSV29xCb">Konstitutionsutskottets betänkande 2019/20:KU22</note>
         <note xml:id="i-PpyZPctb211bRziFNn5g1e">Verksamhetsredogörelser för riksdagens nämnder (redog. 2019/20:NL1, redog. 2019/20:NSÖ1, redog. 2019/20:PN1, redog. 2019/20:RAN1, redog. 2019/20:RAR1, redog. 2019/20:SN1, redog. 2019/20:VPN1 och redog. 2019/20:ÖN1)</note>
@@ -248,7 +249,7 @@
         <note xml:id="i-64uE15eRJn9aHfgf4TxGby">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-SEncUJSDmB39U8uCoPWJcC">(Beslut fattades under § 24 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4cuWaRZWF9H6579Zj65EWZ">§ 9 Vissa frågor om försäkring och tjänstepension</head>
         <note xml:id="i-BrBBacMnopD92e189kRxMf">Finansutskottets betänkande 2019/20:FiU40</note>
         <note xml:id="i-DkJRLwLkEVd6ewpDdid4ss">Vissa frågor om försäkring och tjänstepension (prop. 2019/20:138)</note>
@@ -256,7 +257,7 @@
         <note xml:id="i-UhSHqKntMrmHUjWVdQCfHx">Förste vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-XaZuSqUC183CL4rNyjcoUf">(Beslut fattades under § 24.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6CH2c7GgsKdeA3QhtnkwGj">§ 10 Bilateralt avtal mellan Europeiska unionen och Amerikas förenta stater om tillsynsregler för försäkring och återförsäkring</head>
         <note xml:id="i-EBCLaHyTATcgA5HMWL1x78">Finansutskottets betänkande 2019/20:FiU42</note>
         <note xml:id="i-JvBu8TiwoiEcLXxHTmDMvV">Bilateralt avtal mellan Europeiska unionen och Amerikas förenta stater om tillsynsregler för försäkring och återförsäkring (prop. 2019/20:111)</note>
@@ -423,7 +424,7 @@
         <note xml:id="i-WwcipsNYfLJE2xGWRnkMAQ">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-NJrPmLsZ8fShvEKAFZ2cKf">(Beslut fattades under § 24 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GiPFtaQHGygKu8zzZeALSw">§ 14 Ändring i skatteavtalet mellan Sverige och Schweiz</head>
         <note xml:id="i-GmGArziZnJ7NC1CjiT2NdV">Skatteutskottets betänkande 2019/20:SkU26</note>
         <note xml:id="i-UkUNCA2tPi5ge3vbGUD29M">Ändring i skatteavtalet mellan Sverige och Schweiz (prop. 2019/20:96)</note>
@@ -1066,7 +1067,7 @@
         <note xml:id="i-LcSVdBAaJvAcAV3sefnJXh">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-ERBZKK3bkKUG1v2watJ1tC">(Beslut fattades under § 24.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DrpDUoD5xiE3j2v2g43nUg">§ 20 Internationellt samarbete om verkställighet av straff anpassas till nya regler i brottsbalken</head>
         <note xml:id="i-WoPD9YnzggdjdjvmkpAakS">Justitieutskottets betänkande 2019/20:JuU37</note>
         <note xml:id="i-RiorR2RRjBQ6nuBGP1mhH7">Internationellt samarbete om verkställighet av straff anpassas till nya regler i brottsbalken (prop. 2019/20:119)</note>
@@ -1074,7 +1075,7 @@
         <note xml:id="i-5jSdxjQDdohsa1qKX2Z3kQ">Förste vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-HyNswNvikcpyuLxMMmj5gA">(Beslut fattades under § 24.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7wpmjEoCzA3Zpk5W3QRHVX">§ 21 Ett förbud mot spridning av bilder från rättegångar</head>
         <note xml:id="i-VSDwkUWsxApzT63getA1Z5">Justitieutskottets betänkande 2019/20:JuU39</note>
         <note xml:id="i-R8g5aSUudcisACFua9fSYN">Ett förbud mot spridning av bilder från rättegångar (prop. 2019/20:88)</note>
@@ -1082,7 +1083,7 @@
         <note xml:id="i-KQsdyDGQohMTVbV8cSa8dC">Förste vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-T5dR1VmFnHJvay3LiXneNE">(Beslut fattades under § 24.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-zmCV4MgbZMhidhTxzVSuC">§ 22 Den gemensamma parlamentariska kontrollgruppen för Europol (JPSG)</head>
         <note xml:id="i-DEvN1vSYXErz9siiZVCRQ1">Justitieutskottets betänkande 2019/20:JuU42</note>
         <note xml:id="i-3ir85Y9tpCJrXuqv85Vu1j">Den gemensamma parlamentariska kontrollgruppen för Europol (JPSG) (redog. 2019/20:Europol1)</note>
@@ -1094,7 +1095,7 @@
         <note xml:id="i-E5n4wA6AHom9sg9wz4PnYG">Återupptaget sammanträde</note>
         <note xml:id="i-81CSPEvTHQxQxxXoPgedU1">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JYmwJbsVLwYVPB1npLBf9w">§ 23 Beslut om ärende som slutdebatterats den 7 maj</head>
         <note xml:id="i-6bYApTBgKkUAYT4HNgB9wV">MJU15 Naturvård och biologisk mångfald</note>
         <note xml:id="i-EcE2dcET6r7tTLZcDoHC38">Punkt 4 (Reglering av gentekniken Crispr-Cas9)</note>
@@ -1164,7 +1165,7 @@
         <note xml:id="i-FoSMTEPk43vThd6nN2mQFt">Övriga punkter</note>
         <note xml:id="i-JuvKi8BzDgNLqQ2uGREgaH">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ENHq66hVWP5D5RusKtCeZm">§ 24 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-Megn2n21hxQT5cMSx8jCdS">KU13 Godkännande av tillfälliga ändringar i presstödet</note>
         <note xml:id="i-97dWL3FdsJyZcwqAoFGikn">Kammaren biföll utskottets förslag.</note>
@@ -1626,13 +1627,13 @@
         <note xml:id="i-KkSrqcSX2XJvSsj2qo8CcK">JuU42 Den gemensamma parlamentariska kontrollgruppen för Europol (JPSG)</note>
         <note xml:id="i-EDaFjeQj9BLUcikjkdmFTY">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GhRbtzMGszfFVzjorLgvsM">§ 25 Bordläggning</head>
         <note xml:id="i-QFbs2tZXMGCR6k22dAs4TW">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-D8dFsWPQoaMfhQiyaVmdVC">EU-dokument</note>
         <note xml:id="i-FqChio4apTrCyYiBjVWXwB">COM(2020) 197 Förslag till rådets direktiv om ändring av direktiv 2011/16/EU för att åtgärda det akuta behov av att skjuta upp vissa tids ­ frister för inlämning och utbyte av upplysningar i fråga om beskattning som följer av covid-19-pandemin</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7iYLcpatfQF7TTVupywbbW">§ 26 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-Gi9R2rfnmSNSkekprQbxpw">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-9MESUNmZksLGKWMi2f6XTh">den 13 maj</note>
@@ -1646,7 +1647,7 @@
         <note xml:id="i-WUYdxqr3GGDeyi5cQqve5b">av Markus Wiechel (SD)</note>
         <note xml:id="i-QLKzTk4SPvQ3tCwhFjhr6n">till statsminister Stefan Löfven (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-V7gLFxbhtbK7iYHCMpHYKS">§ 27 Kammaren åtskildes kl. 16.32.</head>
         <note xml:id="i-D4yR4a5seRF3ttDrTAN3zi">Sammanträdet leddes</note>
         <note xml:id="i-YFsGBoUCXVwpTQdeXoYTuK">av förste vice talmannen från dess början till och med § 16 anf. 34 (delvis),</note>
@@ -1655,154 +1656,6 @@
         <note xml:id="i-Gwma7RCqnfYVoTaNPix6h1">av andre vice talmannen därefter till dess slut.</note>
         <note xml:id="i-KNorkjSqKstyKxvkvTmdVQ">Vid protokollet</note>
         <note xml:id="i-4ouFrGikK6EAz1NWcNewHn">JOHAN WELANDER</note>
-        <note xml:id="i-YQeHAUHEaVNNAdCgPaopGT">/Olof Pilo</note>
-        <note xml:id="i-TRGf9GUdvjHNzYa4jhdvuq">Innehållsförteckning</note>
-        <note xml:id="i-XsLZkpz6wGiB47XwPUxT7B">§ 1 Val av riksrevisionsdirektör</note>
-        <note xml:id="i-AAhJUrCtJMHoDx1wWE2eds" type="speaker">Anf. 1 KARIN ENSTRÖM (M)</note>
-        <note xml:id="i-N3z8FGoYw4x8bf6rMcKKkp" type="speaker">Anf. 2 FÖRSTE VICE TALMANNEN</note>
-        <note xml:id="i-A6yuxcSpBFBp6uatfwp2Gj">§ 2 Justering av protokoll</note>
-        <note xml:id="i-RHi4NMGSK1HvrW41KhC5Qk">§ 3 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-DRtVbsMAfbxfM1gPswatAk">§ 4 Ärenden för bordläggning</note>
-        <note xml:id="i-LZcJyeEGWigtPjGR9s6wCc">§ 5 Godkännande av tillfälliga ändringar i presstödet</note>
-        <note xml:id="i-2nQ74rPPcbYDi4LYX86nsK">Konstitutionsutskottets betänkande 2019/20:KU13</note>
-        <note xml:id="i-XQ2xhU7jf3ensujPTEvUtQ" type="speaker">Anf. 3 IDA KARKIAINEN (S)</note>
-        <note xml:id="i-PjXRwUXLGGZC9cETmytJvG" type="speaker">Anf. 4 ERIK OTTOSON (M)</note>
-        <note xml:id="i-V8wxwMQkCuY6eRvirbrxMv" type="speaker">Anf. 5 MIA SYDOW MÖLLEBY (V)</note>
-        <note xml:id="i-8CB4R4hGKegoA8P9wuUhZv" type="speaker">Anf. 6 CAMILLA HANSÉN (MP)</note>
-        <note xml:id="i-3WGNTV2jbJ43HJKbJhyiu4">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-HFpunQTECit7G7n73BhLUp">§ 6 Riksrevisionens årsredovisning för 2019</note>
-        <note xml:id="i-V6jiZajjnwTMTKARq14Tpr">Konstitutionsutskottets betänkande 2019/20:KU17</note>
-        <note xml:id="i-9X7JCU1VGBLsyGqbgjRkoH">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-ScbjQsVdG68UUsQxveHTcN">§ 7 Verksamhetsredogörelser för riksdagens nämnder</note>
-        <note xml:id="i-EqwGrTGAJXEtBE5UQRjzsK">Konstitutionsutskottets betänkande 2019/20:KU22</note>
-        <note xml:id="i-HqgcgrKLLvwyNtCPNmYKJG">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-XKGMfAM5jSshoNybrYEgsC">§ 8 Sekretess till skydd för enskilda som lämnat stödförklaringar enligt EU:s nya förordning om det europeiska medborgarinitiativet</note>
-        <note xml:id="i-NyHKL6Dqgh4fcxUosmZtSE">Konstitutionsutskottets betänkande 2019/20:KU24</note>
-        <note xml:id="i-WqE5sC6aBWmUrPhUPhUeop" type="speaker">Anf. 7 MIKAEL STRANDMAN (SD)</note>
-        <note xml:id="i-7otAzT9vPqSALLw2cpJUko" type="speaker">Anf. 8 MIA SYDOW MÖLLEBY (V)</note>
-        <note xml:id="i-6QuKyPztQkcXtidZ8Mf1eZ" type="speaker">Anf. 9 ERIK OTTOSON (M)</note>
-        <note xml:id="i-Kr32N7g9TgXbdNkfC1XzJx" type="speaker">Anf. 10 CAMILLA HANSÉN (MP)</note>
-        <note xml:id="i-aZArRKVCvKiZeaamir5pY">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-6RQcKcTpWqfJaFDmxrfSan">§ 9 Vissa frågor om försäkring och tjänstepension</note>
-        <note xml:id="i-3MdUGCvZa6MkbogFWQ6Hms">Finansutskottets betänkande 2019/20:FiU40</note>
-        <note xml:id="i-3PYAjSYuisEYxqdmoHjN1n">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-J1KNs17dWu2R8ZswxvWX54">§ 10 Bilateralt avtal mellan Europeiska unionen och Amerikas förenta stater om tillsynsregler för försäkring och återförsäkring</note>
-        <note xml:id="i-7zpj3EBJ8Axa9jd37QHWX1">Finansutskottets betänkande 2019/20:FiU42</note>
-        <note xml:id="i-63oQAxZkwNbpGvJrDNtPoL">(Beslut fattades under § 24.)</note>
-        <u xml:id="i-8rDxXYgz5G6gkhq5MBPRDq" who="#Q22923559" ana="#regular">
-          <seg xml:id="i-NzXjXkh4pA7QiaEvqnEbvA">§ 11 Riksrevisionens rapport om nationalräkenskaperna – en stabilare grund för finanspolitiken</seg>
-        </u>
-        <note xml:id="i-MjjTWhxkJgsxssB3GaHrLe">Finansutskottets betänkande 2019/20:FiU43</note>
-        <note xml:id="i-GLisKPWJ4fEKHdsYqH4BAP">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-JzhahHUmvDVDVgfYsLSM68">§ 12 Medgivande för Riksbanken att delta i Internationella valutafondens finansieringslösning</note>
-        <note xml:id="i-DtvMoLYyNwVAdyRpc9ADNr">Finansutskottets betänkande 2019/20:FiU47</note>
-        <note xml:id="i-E1pkQsp1oWjWjkh3xLupJY" type="speaker">Anf. 11 DENNIS DIOUKAREV (SD)</note>
-        <note xml:id="i-GvdRTdD2ZSmwHxB6NEPWw6" type="speaker">Anf. 12 INGELA NYLUND WATZ (S)</note>
-        <note xml:id="i-RjjLPQf8P7wGZJDkF8gQKk" type="speaker">Anf. 13 DENNIS DIOUKAREV (SD) replik</note>
-        <note xml:id="i-H27b1mS1sYhgVuVrQRcAAs" type="speaker">Anf. 14 INGELA NYLUND WATZ (S) replik</note>
-        <note xml:id="i-QYAhVinzGz8Y9sHQJSGfpS" type="speaker">Anf. 15 DENNIS DIOUKAREV (SD) replik</note>
-        <note xml:id="i-Epyv5iqKrHVQ6GPM2ZuQVY" type="speaker">Anf. 16 INGELA NYLUND WATZ (S) replik</note>
-        <note xml:id="i-2QAcCqDdPUbQozpf6mGLBR">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-KszQEUJyqxqx6TMgkGY79r">§ 13 Höjt tak för uppskov med kapitalvinst vid avyttring av privatbostad</note>
-        <note xml:id="i-TFjZCXrqTuSbG56sACD277">Skatteutskottets betänkande 2019/20:SkU18</note>
-        <note xml:id="i-79cyCeVdAqVqwNj2DSWAaS" type="speaker">Anf. 17 KJELL JANSSON (M)</note>
-        <note xml:id="i-LTmFHqDkYqCyBP7vL15ea3" type="speaker">Anf. 18 TONY HADDOU (V)</note>
-        <note xml:id="i-DcBdcjR6MuZ9R6Cviihymt" type="speaker">Anf. 19 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-U7xKvXhhu6iuE5azWr7Qs4" type="speaker">Anf. 20 ANNA VIKSTRÖM (S)</note>
-        <note xml:id="i-7rBR43F2qu94FoMUtvG7QQ" type="speaker">Anf. 21 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-PAh6ccT7yVEJGSEJEgtx9q" type="speaker">Anf. 22 JOAR FORSSELL (L)</note>
-        <note xml:id="i-Ecqkn6cLp5jR8HLcb1zZ1F">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-BpJZy8FmuCkM49523VmvND">§ 14 Ändring i skatteavtalet mellan Sverige och Schweiz</note>
-        <note xml:id="i-7AenAu9SL69Nh5pcwtNJ7v">Skatteutskottets betänkande 2019/20:SkU26</note>
-        <note xml:id="i-4LgFsKotrkvXGVswCAYQQQ">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-HLz8qaR5CwZuu2owp9Stj2">§ 15 Nya befogenheter på konsumentskyddsområdet</note>
-        <note xml:id="i-5Mbx3Epi5D6cpnauw3yNDq">Civilutskottets betänkande 2019/20:CU23</note>
-        <note xml:id="i-4jYezv9TV2K9rMMqEiDoCy" type="speaker">Anf. 23 CECILIE TENFJORD TOFTBY (M)</note>
-        <note xml:id="i-43AZEwzHsgGszYtc95kb9M" type="speaker">Anf. 24 AMANDA PALMSTIERNA (MP)</note>
-        <note xml:id="i-DFvpjdDZw8ZoNVyMiwbvG7" type="speaker">Anf. 25 CECILIE TENFJORD TOFTBY (M) replik</note>
-        <note xml:id="i-VTJVh9n8sKUaTg5S3V5vLf" type="speaker">Anf. 26 AMANDA PALMSTIERNA (MP) replik</note>
-        <note xml:id="i-ShqoGy4Z2xMNay7pW9DA7S" type="speaker">Anf. 27 CECILIE TENFJORD TOFTBY (M) replik</note>
-        <note xml:id="i-KA4w1Cs4d3TJmnzQJZvzUr" type="speaker">Anf. 28 AMANDA PALMSTIERNA (MP) replik</note>
-        <note xml:id="i-B9ifp9t8CXGofAaY4mjZHX">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-WFRAW3Bris7DQHWBxUKyjL">§ 16 2019 års redogörelse för tillämpningen av lagen om särskild utlänningskontroll</note>
-        <note xml:id="i-7PhfiyfPYPdg2Uc8vk2jaf">Justitieutskottets betänkande 2019/20:JuU16</note>
-        <note xml:id="i-FCefAGZU24VAx93e6hR33F" type="speaker">Anf. 29 GUSTAF LANTZ (S)</note>
-        <note xml:id="i-AzT721MR8QRJZpPwJmjSXq" type="speaker">Anf. 30 MIKAEL DAMSGAARD (M)</note>
-        <note xml:id="i-AkDD1tsnoGwrAsTeHFCMT7" type="speaker">Anf. 31 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-7bXTaAc7WPPfgeEiUPmHGr" type="speaker">Anf. 32 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-CzBfS6NrkSEja7BB1iQke6" type="speaker">Anf. 33 ANDREAS CARLSON (KD)</note>
-        <note xml:id="i-6gAPqncJq4zdnPgaqUrgNQ" type="speaker">Anf. 34 JOHAN HEDIN (C)</note>
-        <note xml:id="i-3ebXu9zvmscGBoZTzcTVqS" type="speaker">Anf. 35 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-5L2eZVqkPq5hYkehN9TgAy" type="speaker">Anf. 36 JOHANNA ÖFVERBECK (MP)</note>
-        <note xml:id="i-N5FSzMcAMYaez6qWLoTia8">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-YATQxLAPd5S5RahTQX52Zc">§ 17 Polisfrågor</note>
-        <note xml:id="i-Hx2P74EtWDg3m3bdGyKuFB">Justitieutskottets betänkande 2019/20:JuU25</note>
-        <note xml:id="i-7wr7cjn9X4dE5p1WK72aoa" type="speaker">Anf. 37 FREDRIK LUNDH SAMMELI (S)</note>
-        <note xml:id="i-85Bz7PkaYVzpCQ9Fg7Lreu" type="speaker">Anf. 38 JOHAN FORSSELL (M)</note>
-        <note xml:id="i-CQW4BKVbXTqc3rWjsWk9Cf" type="speaker">Anf. 39 KATJA NYBERG (SD)</note>
-        <note xml:id="i-Uz7fSSfeSBdjja5hcBA4Fn" type="speaker">Anf. 40 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-54Pom6M9QM84tRY4in3yL4" type="speaker">Anf. 41 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-9vxALuhTzvoDcYyz8Rnb5M" type="speaker">Anf. 42 ANDREAS CARLSON (KD)</note>
-        <note xml:id="i-ANAQ5t34wiAYQFhwqutcW4" type="speaker">Anf. 43 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-VCRmFAwzboAcX6PNRHNwce" type="speaker">Anf. 44 LORENTZ TOVATT (MP)</note>
-        <note xml:id="i-8FLE888rcuzhz7jUnQ9ghe" type="speaker">Anf. 45 JOHANNA ÖFVERBECK (MP)</note>
-        <note xml:id="i-M9KtfEax3SvQknyZNyybmb" type="speaker">Anf. 46 KATJA NYBERG (SD)</note>
-        <note xml:id="i-LByKpKYo1547VUjTni5ku8">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-CyYuFaADA52KU2JDMocNpH">§ 18 Straffrättsliga frågor</note>
-        <note xml:id="i-2z8MV14eEE3gU2c45nsySA">Justitieutskottets betänkande 2019/20:JuU26</note>
-        <note xml:id="i-NTv7LeDSTpZRSzxLVTukuD" type="speaker">Anf. 47 GUSTAF LANTZ (S)</note>
-        <note xml:id="i-VnkV6rtLEFup9UZpWRz6fC" type="speaker">Anf. 48 JOHAN FORSSELL (M)</note>
-        <note xml:id="i-TgvcBhCu6b6WuBFJ8KrE57" type="speaker">Anf. 49 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-AqkkVPcLLTEr3wEduyjRAv" type="speaker">Anf. 50 JOHAN HEDIN (C)</note>
-        <note xml:id="i-FE4Xmp7eyf5jF2Ys3EoBtS" type="speaker">Anf. 51 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-YNm7z3rHYzNLn21AAkUwXk" type="speaker">Anf. 52 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-N4L9r7pftGavAS4L1tW8Yf" type="speaker">Anf. 53 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-K95vQqXLt77587zZ1jxVzD">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-BMVuES7iMjh3SL85DnULcp">§ 19 Processrättsliga frågor</note>
-        <note xml:id="i-ThPxXH5DAqnDC6cJud6W3L">Justitieutskottets betänkande 2019/20:JuU27</note>
-        <note xml:id="i-4n26HeKJuzaisnuYJ8y8fX" type="speaker">Anf. 54 GUSTAF LANTZ (S)</note>
-        <note xml:id="i-FWBaceVLPz8AsRuxfnp5XP" type="speaker">Anf. 55 MIKAEL DAMSGAARD (M)</note>
-        <note xml:id="i-9w3ezfXM3PBz9KqVfCowYy" type="speaker">Anf. 56 KATJA NYBERG (SD)</note>
-        <note xml:id="i-4giDytnYJho5VXBeutjvy4" type="speaker">Anf. 57 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-4HjTnjdWnFTQxsRfUhSznx" type="speaker">Anf. 58 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-4qZATjHHYnXm5xPvmTLkHJ" type="speaker">Anf. 59 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-B7AC5KYW6VbwSnzqatDA9U">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-Gj7o7psTvNRfWvPDz9hVNP">§ 20 Internationellt samarbete om verkställighet av straff anpassas till nya regler i brottsbalken</note>
-        <note xml:id="i-6UMh29u9RoMEqNrtMoPb7x">Justitieutskottets betänkande 2019/20:JuU37</note>
-        <note xml:id="i-2gviPYVcnFrnWRETiScXdW">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-5zrZgv8GMXYsUixEkTh1Xb">§ 21 Ett förbud mot spridning av bilder från rättegångar</note>
-        <note xml:id="i-Gz5xh4J7V4k92teW1UeTkj">Justitieutskottets betänkande 2019/20:JuU39</note>
-        <note xml:id="i-XgMD4KqbkDXxsLx7G22oj7">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-RS6BigoGo5PrVPy34xqx83">§ 22 Den gemensamma parlamentariska kontrollgruppen för Europol (JPSG)</note>
-        <note xml:id="i-3CfSFrmswDZUdrNdBD3eLt">Justitieutskottets betänkande 2019/20:JuU42</note>
-        <note xml:id="i-U8ASSMzRrfwKRVUs3X7AJH">(Beslut fattades under § 24.)</note>
-        <note xml:id="i-BvRfyrgs5U2AgeFyH8cHUy">Ajournering</note>
-        <note xml:id="i-F5M5EAnYuyQ9vqVZi2z7kq">Återupptaget sammanträde</note>
-        <note xml:id="i-UfXhiHpxfXVvAmy7EZExbC">§ 23 Beslut om ärende som slutdebatterats den 7 maj</note>
-        <note xml:id="i-PCmkbrxiH2LUj3e7M7Ws4Z">MJU15 Naturvård och biologisk mångfald</note>
-        <note xml:id="i-XdoekeW8RpBSpbqb4idEHn">§ 24 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-W43cxs9usgxtyDwLK1WG55">KU13 Godkännande av tillfälliga ändringar i presstödet</note>
-        <note xml:id="i-FqDovEgBgBZwuuSTKrfPmv">KU17 Riksrevisionens årsredovisning för 2019</note>
-        <note xml:id="i-SC661i15ktTrYeZD1cY8NB">KU22 Verksamhetsredogörelser för riksdagens nämnder</note>
-        <note xml:id="i-XwG8BYKDtDPq9ZL85j7sBZ">KU24 Sekretess till skydd för enskilda som lämnat stödförklaringar enligt EU:s nya förordning om det europeiska medborgarinitiativet</note>
-        <note xml:id="i-VYXza6ULXHdKhzMnEN7iB">FiU40 Vissa frågor om försäkring och tjänstepension</note>
-        <note xml:id="i-pqxUJcdCYu1HiLNReK4Qy">FiU42 Bilateralt avtal mellan Europeiska unionen och Amerikas förenta stater om tillsynsregler för försäkring och återförsäkring</note>
-        <note xml:id="i-R9z8CeZcv4PSo6gMBWWxab">FiU43 Riksrevisionens rapport om nationalräkenskaperna – en stabilare grund för finanspolitiken</note>
-        <note xml:id="i-GT9H3B2N31p7Nbp9BK4bKR">FiU47 Medgivande för Riksbanken att delta i Internationella valutafondens finansieringslösning</note>
-        <note xml:id="i-QrwjJZyDJajEoH6XxfFMzE">SkU18 Höjt tak för uppskov med kapitalvinst vid avyttring av privatbostad</note>
-        <note xml:id="i-QjbNa2JpuJaSbzjzVSZRue">SkU26 Ändring i skatteavtalet mellan Sverige och Schweiz</note>
-        <note xml:id="i-BAQ6hR5jEE8mfV7C4DZ3rY">CU23 Nya befogenheter på konsumentskyddsområdet</note>
-        <note xml:id="i-WASGTHeAEhr7rX59xF1XSr">JuU16 2019 års redogörelse för tillämpningen av lagen om särskild utlänningskontroll</note>
-        <note xml:id="i-24CLHKvhoPzd19rDyMA47u">JuU25 Polisfrågor</note>
-        <note xml:id="i-MXFyNNXen2yUzjyiy3Vcsf">JuU26 Straffrättsliga frågor</note>
-        <note xml:id="i-KnaTcC5x3B3PJESTkShHo5">JuU27 Processrättsliga frågor</note>
-        <note xml:id="i-99eJhC6f2CeiCisymBej6z">JuU37 Internationellt samarbete om verkställighet av straff anpassas till nya regler i brottsbalken</note>
-        <note xml:id="i-UGnjGxHMxfye86LpKM4GUg">JuU39 Ett förbud mot spridning av bilder från rättegångar</note>
-        <note xml:id="i-92xWetDee39HNRBxhnEFpc">JuU42 Den gemensamma parlamentariska kontrollgruppen för Europol (JPSG)</note>
-        <note xml:id="i-PaW3SNmS7p8bBG3xGhk4kr">§ 25 Bordläggning</note>
-        <note xml:id="i-PWKNkXPoKGUNskHbyiWn4R">§ 26 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-MNfnvtPfFE9vNYtguvz7vh">§ 27 Kammaren åtskildes kl. 16.32.</note>
-        <note xml:id="i-Lcj3CBVd2mDBteRzMH1nhy">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

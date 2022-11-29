@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 30 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 30 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--30">2019/20--30</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,32 +75,32 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BU3SMmLRT2nwLaWMdy9ZV6">§ 1 Justering av protokoll</head>
         <note xml:id="i-SfrDc8ehPbMmor7SGBQQDy">Protokollen för den 22 och 23 oktober justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KMG93E1KLKGFBWA1ftn5dy">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-MVYxqyCdN7KZGx82ZW4him">Andre vice talmannen meddelade att Socialdemokraternas riksdagsgrupp anmält Fredrik Stenberg som supplean t i EU-nämnden.</note>
         <note xml:id="i-FbwUTP64fygbhjradZHh3q">Andre vice talmannen förklarade vald under tiden den 20 december 2019 – 17 augusti 2020 till</note>
         <note xml:id="i-K1ETde9bAkYE2sb9MtiK2E">supplean t i EU-nämnden</note>
         <note xml:id="i-EotdzG2ptYNQvcq1JmLnRc">Fredrik Stenberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-V1bammSXYuucYwEAtsX6Q1">§ 3 Meddelande om frågestund</head>
         <note xml:id="i-RLi2CR2Z7zqbFuqUSguq9C">Andre vice talmannen meddelade att frågestund skulle äga rum torsdagen den 14 november kl. 14.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HfA4VbooJUDEz56KozR9UN">§ 4 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-LgJRCvx26yMLbd1NXFJtu9">Andre vice talmannen anmälde att utdrag ur prot. 2019/20:9 för tisdagen den 5 november i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från finansutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BCzTHbDW8CSabCiVbuLyPd">§ 5 Ärende för hänvisning till utskott</head>
         <note xml:id="i-QVSw9hwPUV8MotmRoZbmE7">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-BhEaEJor1QJrwSTnsQLp1E">Motion</note>
         <note xml:id="i-K9hJ4TzyszyJixKXrHiPp3">2019/20:3423 till civilutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KiWRcRVx6L1SXCPYFgrrkR">§ 6 Ärenden för bordläggning</head>
         <note xml:id="i-GEiEV9yhdXupgBaHbmJGn8">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-Mfcn2HqMN833ThFuXcwWCp">Finansutskottets betänkanden</note>
@@ -522,7 +523,7 @@
           <seg xml:id="i-ApFJPWWjzCNiicuHFPbX2D">Fru talman! Jag har inte blivit mindre orolig av att höra utrikesministern här i dag när hon har sagt att Kinastrategin ska vara ett långsiktigt dokument. Det tycker jag är bra, men det betyder också att när jag ställde frågan till Hans Dahlgren var svaret jag fick antingen mumbojumbo och ett sätt att försöka komma undan att svara på frågan eller en ren lögn. Det är bra att dokumentet är långsiktigt, men det svarar inte på frågan om vad vi ska göra här och nu.</seg>
         </u>
         <note type="speaker" xml:id="i-M3hjvnyGqFhtGGNAsGNC5d">Anf. 40 ANDRE VICE TALMANNEN:</note>
-        <u xml:id="i-eb39dda2cbd71049-263" who="#unknown" ana="#regular">
+        <u xml:id="i-eb39dda2cbd71049-263" ana="#regular">
           <seg xml:id="i-XDs9EXfby3Xw3AA8zjANk4">Jag vill påminna interpellanten om att statsrådet Dahlgren inte är närvarande och deltar i debatten.</seg>
         </u>
         <note type="speaker" xml:id="i-MPxoYA1ABZohDsGvbBv987">Anf. 41 Utrikesminister ANN LINDE (S):</note>
@@ -548,7 +549,7 @@
         </u>
         <note xml:id="i-Bnza3cMFKdAAWvTaiNemDC">Interpellationsdebatten var härmed avslutad.</note>
         <note type="speaker" xml:id="i-PEvYjzNU7tyWPhGuWfX6uJ">Anf. 44 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-eb39dda2cbd71049-276" who="#unknown" ana="#regular">
+        <u xml:id="i-eb39dda2cbd71049-276" ana="#regular">
           <seg xml:id="i-6PFi3uo8Vfe2qSJz2xF593">Som ni säkert vet accepterar vi inte yttringar från åskådarläktaren.</seg>
         </u>
       </div>
@@ -686,7 +687,7 @@
           <seg xml:id="i-QiCxrNs8LKKnw2gS5uFrAh">Under den tid som ni satt i regeringen skar ni kraftigt i arbetsmiljöpolitiken. Det drabbade bland annat kunskapen om arbetsmiljön. Arbetslivs ­ institutet lades ned. Jag måste säga att det är lite magstarkt att Saila Quicklund kritiserar regeringen – det är uppenbart – samtidigt som hon har väldigt få egna förslag och lösningar. Det vore intressant att ta del av dem, för vi är överens om att vi ska ha en nollvision för dödsolyckor i arbetslivet. Jag är lyhörd inför att pröva allt som krävs för att säkerställa att ingen dör på eller av sitt arbete.</seg>
         </u>
         <note type="speaker" xml:id="i-4NRUpg366VeWmXHWmUDXYa">Anf. 57 FÖRSTE VICE TALMANNEN:</note>
-        <u xml:id="i-eb39dda2cbd71049-366" who="#unknown" ana="#regular">
+        <u xml:id="i-eb39dda2cbd71049-366" ana="#regular">
           <seg xml:id="i-M1YNkTxwDqQjUM1C2VdmVg">Jag vill påminna om att vi varken duar eller niar här inne, utan vi pratar genom talmannen.</seg>
         </u>
         <note type="speaker" xml:id="i-H7DJituacA8Lg3Qgi4fnga">Anf. 58 SAILA QUICKLUND (M):</note>
@@ -707,7 +708,7 @@
         </u>
         <note xml:id="i-HScfR5xa2vAWZ98Uaqw1cr">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HicipE9EcHF44JaG1WJeUo">§ 14 Bordläggning</head>
         <note xml:id="i-6cGf54Rp5ckmqzTx3V4Xnt">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-Tfx3mtHPYGxMtiTmZmXH3o">Proposition</note>
@@ -724,7 +725,7 @@
         <note xml:id="i-BznZ5pAkd7xwy93yjfVh2h">med anledning av prop. 2019/20:32 Skatt på avfallsförbränning</note>
         <note xml:id="i-Ng3NnQi4ohExpTFxwgEhWn">2019/20:3422 av Eric Westroth m.fl. (SD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LUU8DQ1M1oBSQeP4T4jxrb">§ 15 Anmälan om interpellationer</head>
         <note xml:id="i-7Dn9LW58YyjcauteB1ruWd">Följande interpellationer hade framställts:</note>
         <note xml:id="i-9UnsaTGDipVGdhSQVcn3JD">den 8 november</note>
@@ -766,7 +767,7 @@
         <note xml:id="i-AcxTZB3USNAHyTzeByuAVo">av Alexandra Anstrell (M)</note>
         <note xml:id="i-RwNs1ayGue81WmcXH7EFvs">till försvarsminister Peter Hultqvist (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TgaB2xK92D1shHsE9iN6rg">§ 16 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-FaUd5FPjMQnFJLiLkvx17w">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-GAhY7UYAVkC574fVAhRAU1">den 8 november</note>
@@ -850,7 +851,7 @@
         <note xml:id="i-Vyv2SyjpXWoKiz6Soet2LA">av Louise Meijer (M)</note>
         <note xml:id="i-8reMr9vqhugb23qN3RhVcK">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WHQbQHrGdLkNVZsbEqFBZc">§ 17 Anmälan om skriftligt svar på fråga</head>
         <note xml:id="i-CXqE2wnCBkfXCHyqhJxQnj">Skriftligt svar på följande fråga hade kommit in:</note>
         <note xml:id="i-XRQJifiAENr182RddVMcuP">den 8 november</note>
@@ -858,93 +859,13 @@
         <note xml:id="i-Qu1ArCemTc1mXR8DXmFSE3">av Ann-Charlotte Hammar Johnsson (M)</note>
         <note xml:id="i-9GWqDZedtrQrzYpbZ8L7aD">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DVUkv92LD78zcf6hCLVwNK">§ 18 Kammaren åtskildes kl. 15.46.</head>
         <note xml:id="i-NLF7Ks3tKdBeM16GXrUYBZ">Sammanträdet leddes</note>
         <note xml:id="i-NLKLihHu1MZTyWQfFwiGB4">av andre vice talmannen från dess början till och med § 11 anf. 4 2 (delvis) och</note>
         <note xml:id="i-QVyWbCrXxjDWLusLn6UkXm">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-Y1gS9hpH3P4T43JfvzsCUe">Vid protokollet</note>
         <note xml:id="i-YUgXBRpNezjoHwA88ijFFH">THOMAS LARUE</note>
-        <note xml:id="i-PdU3YAYtmqfQuZkBweV4rg">/Olof Pilo</note>
-        <note xml:id="i-DxDRFf7Je1UrJsSLD4oEDR">Innehållsförteckning</note>
-        <note xml:id="i-R8LJQZy5xzVEMT6DCoPMsL">§ 1 Justering av protokoll</note>
-        <note xml:id="i-8FcCowHRfuwMz1kfU1izs9">§ 2 Anmälan om kompletteringsval</note>
-        <note xml:id="i-Q2RMZTi8wqMN51ZpLmdCqy">§ 3 Meddelande om frågestund</note>
-        <note xml:id="i-4ux18cgE7a4ydWxXASx16o">§ 4 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-McVuCpAgQLLmhmnghDo9A6">§ 5 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-TZvBVd2mweZRG5VAWiUGoA">§ 6 Ärenden för bordläggning</note>
-        <note xml:id="i-JHkZmsZ9sePATxSaf63GzN">§ 7 Svar på interpellation 2019/20:41 om barns idrottande och bullernivåer</note>
-        <note xml:id="i-XcHLeMgFHhRw1CXoAXCDNC" type="speaker">Anf. 1 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-4gPiDLPrDxky2WPh463ePa" type="speaker">Anf. 2 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-XCNG8UjLYbitCGecDrW595" type="speaker">Anf. 3 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-PS4Q3Ly2ttZb4KukqzTfVQ" type="speaker">Anf. 4 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-5uFZroxE6DLPTsVhGqxVYb" type="speaker">Anf. 5 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-McxSPUFkJrv2kcLdj6jhqH" type="speaker">Anf. 6 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-X7bPGvrfYhhtFT6DpHNSeZ" type="speaker">Anf. 7 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-2CAgrpt4ggDDwhaKbZEYUZ">§ 8 Svar på interpellationerna 2019/20:82 och 84 om strandskydd</note>
-        <note xml:id="i-9MJL5QShC5KRyjGSyja7mL" type="speaker">Anf. 8 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-6GFHQNsMtTmW5cXTwtQSuC" type="speaker">Anf. 9 CARL-OSKAR BOHLIN (M)</note>
-        <note xml:id="i-791ebg8RR77FVDcWoEsiUJ" type="speaker">Anf. 10 KJELL JANSSON (M)</note>
-        <note xml:id="i-YPWQybCRXXq5nvrY8AdVTd" type="speaker">Anf. 11 LARS BECKMAN (M)</note>
-        <note xml:id="i-DGmSEAoyxX7Jff3nxF7meG" type="speaker">Anf. 12 STEN BERGHEDEN (M)</note>
-        <note xml:id="i-3RDkPCL1pzmpbDMmPkcQUN" type="speaker">Anf. 13 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-D3Yy6MPupZZSVaNTtp8QES" type="speaker">Anf. 14 CARL-OSKAR BOHLIN (M)</note>
-        <note xml:id="i-QxGCQkJdi4Lx9mnB23Xnx2" type="speaker">Anf. 15 KJELL JANSSON (M)</note>
-        <note xml:id="i-54EWH5e444uQgNmJrDjYLm" type="speaker">Anf. 16 LARS BECKMAN (M)</note>
-        <note xml:id="i-VXyxacdEW7ZMfmmRuNTxnH" type="speaker">Anf. 17 STEN BERGHEDEN (M)</note>
-        <note xml:id="i-CCb4dAn5C3J5DuidL61TNi" type="speaker">Anf. 18 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-6af6s9UxkvtKXA7gqMMqpF" type="speaker">Anf. 19 CARL-OSKAR BOHLIN (M)</note>
-        <note xml:id="i-3SK9ZRUAwQQAJYNnXPsp3L" type="speaker">Anf. 20 KJELL JANSSON (M)</note>
-        <note xml:id="i-797qfpZkEHEZovphV1mGCH" type="speaker">Anf. 21 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-NH3iPZegztveGAy217iZnq">§ 9 Svar på interpellation 2019/20:69 om krångliga regler för företag</note>
-        <note xml:id="i-Gbu9THrC7NCvMUu1EhQdn8" type="speaker">Anf. 22 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-5mhEUbcPtNJSJwEqsLMxfE" type="speaker">Anf. 23 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-Bct7erbqLCNgUBPhrFJ96t" type="speaker">Anf. 24 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-Rms4PfrepHdBNHWtzxsyba" type="speaker">Anf. 25 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-GQHpwAe1X1qipjB77DEmcz" type="speaker">Anf. 26 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-JjAZb9Xq2Bjo989o3WVhsT" type="speaker">Anf. 27 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-3bh7G7DQA5e1YKV3JfTssm" type="speaker">Anf. 28 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-MwZnwp4oZ24ZEx93NN6cuL">§ 10 Svar på interpellation 2019/20:105 om det statliga bolaget Metria</note>
-        <note xml:id="i-PNf1gGvHD7sc5V16okdiiD" type="speaker">Anf. 29 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-PmRFQP8Wzu3d9nq5oGenp7" type="speaker">Anf. 30 LARS BECKMAN (M)</note>
-        <note xml:id="i-RXfySA14UbB6NMTVn1BLEe" type="speaker">Anf. 31 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-oVTQMEt72BPzmiYMfRCjx" type="speaker">Anf. 32 LARS BECKMAN (M)</note>
-        <note xml:id="i-C2Xm1g9hDDbvjnTGikpsQL" type="speaker">Anf. 33 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-2aGWSCgPkCoD4nnPGWGMDN" type="speaker">Anf. 34 LARS BECKMAN (M)</note>
-        <note xml:id="i-6SnV1B9ZweMQdEXXDU1PdS" type="speaker">Anf. 35 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-G99w4EWiDvSywy9D7GGWcq">§ 11 Svar på interpellation 2019/20:63 om Kinastrategin och stödet till demokratisk utveckling i Hongkong</note>
-        <note xml:id="i-Sfg23EqmU8w3bvR4kTeBEP" type="speaker">Anf. 36 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-BmyXX4qxqqfBJMVzftb86w" type="speaker">Anf. 37 JOAR FORSSELL (L)</note>
-        <note xml:id="i-XU51SaTe9PeqCGGCEVWz3N" type="speaker">Anf. 38 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-L6RirrYtnPesuTAfjrHfUL" type="speaker">Anf. 39 JOAR FORSSELL (L)</note>
-        <note xml:id="i-HfTUrg1dLx4ziF7dcjqMoP" type="speaker">Anf. 40 ANDRE VICE TALMANNEN</note>
-        <note xml:id="i-PkPjyncVxbsaK57Kd9HfV" type="speaker">Anf. 41 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-U1zxu4NFV8NUjEcYV9dujG" type="speaker">Anf. 42 JOAR FORSSELL (L)</note>
-        <note xml:id="i-6EYEQvfqCJn36GwBmbtAAs" type="speaker">Anf. 43 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-6df5UJrXtqz1rrEu9zc9Tu" type="speaker">Anf. 44 FÖRSTE VICE TALMANNEN</note>
-        <note xml:id="i-XFQ1n46crY8xHrgw55nYFP">§ 12 Svar på interpellation 2019/20:87 om en undersökningskommission för fallet Dawit Isaak</note>
-        <note xml:id="i-Hu9CaAUogozYFEMnx58inc" type="speaker">Anf. 45 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-HNXoJuwUTfJUwYtsf9RmRr" type="speaker">Anf. 46 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-8MwJPp9RW6GHWhHKBxaa58" type="speaker">Anf. 47 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-DRkDB2yy1jk4kr1qk5HaCY" type="speaker">Anf. 48 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-LsfTtRFjp9vQAfgVjCwtV8" type="speaker">Anf. 49 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-9yQfKX61RDUXHFzeeGiYyU" type="speaker">Anf. 50 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-2cwcskKUpgG7ur2nPaKgps" type="speaker">Anf. 51 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-75vkGEx9GnPYynJxqpJxRh">§ 13 Svar på interpellation 2019/20:99 om dödsfall på jobbet</note>
-        <note xml:id="i-FPeWxHhLnSdhQH6bRSkMWX" type="speaker">Anf. 52 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-JtLeLXW7XpQQmJDrGur8Tu" type="speaker">Anf. 53 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-E7MArRJxseVu7M3h86mZpB" type="speaker">Anf. 54 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-5gdQoMqf1MRPacfm5BrHH6" type="speaker">Anf. 55 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-UHa47iTA6SLiQQgDvafKdk" type="speaker">Anf. 56 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-DP2V9vR2NT1VbRzAcV1nbn" type="speaker">Anf. 57 FÖRSTE VICE TALMANNEN</note>
-        <note xml:id="i-VQFkmT3UeUcJhCpAuGe2eB" type="speaker">Anf. 58 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-F42UnvL7nAacjeePxVTaQS" type="speaker">Anf. 59 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-43Vg3GPRye8d1a534YaBtT">§ 14 Bordläggning</note>
-        <note xml:id="i-CYeTepmPTFvDBDiWCYyKUj">§ 15 Anmälan om interpellationer</note>
-        <note xml:id="i-5xyTyL7wHaYp4u8Qdd32zD">§ 16 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-TyfdCFdJrtoGe2HVgdzVUf">§ 17 Anmälan om skriftligt svar på fråga</note>
-        <note xml:id="i-D3icFqG2FzJn7Arx3WcSwH">§ 18 Kammaren åtskildes kl. 15.46.</note>
-        <note xml:id="i-VH2TahMYSLttZCYXi5UQbF">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

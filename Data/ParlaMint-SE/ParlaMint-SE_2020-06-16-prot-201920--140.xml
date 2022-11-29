@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 140 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 140 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--140">2019/20--140</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,18 +75,14 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
-        <head xml:id="i-S1F7nGNh8jG1bnPEr7i49g">§ 1 Justering av protokoll</head>
-        <note xml:id="i-X3j3EaghMXzFLMW4ubJyn2">Protokollet för den 26 maj justerades.</note>
-      </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LdMBA3P8qdk5FkoH9NEUv7">§ 2 Anmälan om subsidiaritetsprövningar</head>
         <note xml:id="i-CT1DgpQEhUmsSw5gFKthQS">Förste vice talmannen anmälde att utdrag ur följande protokoll i ärenden om subsidiaritetsprövning av EU-förslag hade kommit in:</note>
         <note xml:id="i-AwBzXrVcNVWnSqJCQ71YVQ">prot. 2019/20:40 för tisdagen den 2 juni från näringsutskottet,</note>
         <note xml:id="i-4bPeES87dDjAaSdESn8X7F">prot. 2019/20:42 för tisdagen den 9 juni från näringsutskottet samt</note>
         <note xml:id="i-8jcCqbnxDy1mrfocWxShk1">prot. 2019/20:44 för torsdagen den 11 juni från utrikesutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7rw4TpQ84qoj9tbVPpk8dp">§ 3 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-HeuhdhU7nsuvwBVNwmjUR">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-Mz38HAcByyqbceqPhrNw1x">Interpellation 2019/20: 418</note>
@@ -101,18 +98,18 @@
         <note xml:id="i-2wWb4ANL3piM33GMQ6tFLf">Malin Goubaud</note>
         <note xml:id="i-GmEEqnR2DHsMuSTUgsTaLa">Tf. expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6UJfQ8RTRN3Bn5mXd1T4Lg">§ 4 Anmälan om faktapromemoria</head>
         <note xml:id="i-A9P18MHyTvsCGmw7MM1cMq">Förste vice talmannen anmälde att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-QezrMG18kyEtdaywrZJUoL">2019/20:FPM40 Meddelande om turism och transport COM(2020) 550 till näringsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SYFEp2aAxYbkBwvBukiozn">§ 5 Ärende för hänvisning till utskott</head>
         <note xml:id="i-4miPmFP6LkJFWzBQAAcGrY">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-AGRPyCDZdFKaLo9GyDNEi6">Proposition</note>
         <note xml:id="i-h82Ej6ge7VmY3nrfVj449">2019/20:187 till finansutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3ZxLmbFA4SkZBexNy2Enpa">§ 6 Ärenden för bordläggning</head>
         <note xml:id="i-EDdWm44Q2gMRjrDQH74mZV">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-CcpXoCD9YQjzT7kXT2caFr">Finansutskottets betänkande</note>
@@ -706,7 +703,7 @@
         <note xml:id="i-5EZ98EF9r1r1T9PWzi7DWp">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-GW5cP3LUJoEpqo1byrKdBE">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-S8gxEf3xSf5kjcYKk5cDtX">§ 8 Utvärdering av penningpolitiken för perioden 2017–2019</head>
         <note xml:id="i-YBrSaoJdzK3MWKVFZRgvCY">Finansutskottets betänkande 2019/20:FiU24</note>
         <note xml:id="i-XBh6MTcrEZyP64znCL255t">Utvärdering av penningpolitiken för perioden 2017–2019</note>
@@ -714,7 +711,7 @@
         <note xml:id="i-VYcfCzZuDhWBYRcWkwbb3x">Tredje vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-PEQap2FowbpHG9Hq7wSF92">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YHATfXke6gvQY1XuPtf1d3">§ 9 Anpassade regler för understödsföreningar som inte är tjänstepensionskassor</head>
         <note xml:id="i-9LTTE73JL3MsbMcfrPvXtR">Finansutskottets betänkande 2019/20:FiU41</note>
         <note xml:id="i-SNMRbdeKhMoVXdUKiWZ9RV">Anpassade regler för understödsföreningar som inte är tjänstepensionskassor (prop. 2019/20:148)</note>
@@ -722,7 +719,7 @@
         <note xml:id="i-9nnw1PDoR8n67fdzJv9bLY">Tredje vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-XhLontV4D7xgZbyY1fyTYz">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PxTkiqS3DA2W6KMXd8tbrW">§ 10 Riksrevisionens rapport om tillämpningen av det finanspolitiska ramverket 2019</head>
         <note xml:id="i-JbBwwdvoCZjcGArfpSeuGf">Finansutskottets betänkande 2019/20:FiU44</note>
         <note xml:id="i-6nAJHkaRziprStrXHUnuiu">Riksrevisionens rapport om tillämpningen av det finanspolitiska ramverket 2019 (skr. 2019/20:153)</note>
@@ -730,7 +727,7 @@
         <note xml:id="i-C3Vp3hjcVQ5jzVsKAn7NJh">Tredje vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-KZq8H4aUehNkLDyUwvamAr">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ay5NwyZsfb7LtU7KZ7CRDy">§ 11 Utvärdering av statens upplåning och skuldförvaltning 2015–2019</head>
         <note xml:id="i-BBZSCi1ui88JzMiAj49Hue">Finansutskottets betänkande 2019/20:FiU45</note>
         <note xml:id="i-8QrHrmFa5yV8FUo92k5XUG">Utvärdering av statens upplåning och skuldförvaltning 2015–2019 (skr. 2019/20:104)</note>
@@ -738,7 +735,7 @@
         <note xml:id="i-UyBTzX2YwfKRCHYKJ536ya">Tredje vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-Gsv2DGoaqtMLMQ12z6oQ6c">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EGzkGit5ag3JE1Qb586yPM">§ 12 Riksrevisionens rapport om Svenska skeppshypotekskassan</head>
         <note xml:id="i-BT4qZb9jv2BQQ6cFxtTQdL">Finansutskottets betänkande 2019/20:FiU46</note>
         <note xml:id="i-G2f8T3B6xSw2rshxHTCYBi">Riksrevisionens rapport om Svenska skeppshypotekskassan (skr. 2019/20:108)</note>
@@ -746,7 +743,7 @@
         <note xml:id="i-Rp3S2gSh4Z4qhrz5GNh1n2">Tredje vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-DAiiafe3P8JAEq8FuHiunT">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KVhYeXu7nxgP1DZD7gCgbN">§ 13 Ny associationsrätt för medlemsbanker</head>
         <note xml:id="i-Y8vx9p1wybd8UNimJTB2fs">Finansutskottets betänkande 2019/20:FiU50</note>
         <note xml:id="i-2fhUiu8cbvgL2PHAhQQpKz">Ny associationsrätt för medlemsbanker (prop. 2019/20:97)</note>
@@ -930,7 +927,7 @@
         <note xml:id="i-QurfCCaCavXB64QCRvB9aw">Återupptaget sammanträde</note>
         <note xml:id="i-2Yx6rbQUA61kAshUYHaFVx">Sammanträdet återupptogs kl. 15.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GtAREjvQtHjaFnB9uH5Y5K">§ 16 Beslut om ärenden som slutdebatterats den 11 juni</head>
         <note xml:id="i-ZtwwAp3vDSqjAik3cLDcd">UU11 Strategisk exportkontroll 2019 – krigsmateriel och produkter med dubbla användningsområden</note>
         <note xml:id="i-XAvNHvVhoWRUxH5aCedaTy">Punkt 1 (Krigsmaterielexport m.m.)</note>
@@ -989,7 +986,7 @@
         <note xml:id="i-MV65akrpkWkWJetAHVdexs">För res. 2: 4 V</note>
         <note xml:id="i-YCCm4akaa3TMvuvz82CTNV">Frånvarande: 84 S, 59 M, 52 SD, 26 C, 23 V, 19 KD, 16 L, 13 MP, 2 -</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GWm7QoDTenU5MATbii9KBW">§ 17 Beslut om ärenden som slutdebatterats den 15 juni</head>
         <note xml:id="i-7TrtpkK9nkJbANfthkaAFo">UU14 Nordiskt och arktiskt samarbete</note>
         <note xml:id="i-4NRWPBtF6uw8F7CGPcWtnL">Punkt 1 (Nordiskt samarbete)</note>
@@ -1259,7 +1256,7 @@
         <note xml:id="i-GKZt7cPevyz3uQGwxPLKh7">Övriga punkter</note>
         <note xml:id="i-Te7xv1HdxxGZEn2Dxyv4fK">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-McszTSfUFryJLwuTPpswP8">§ 18 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-XYhLe7cAZ33EsS3kFfafqj">FiU20 Riktlinjer för den ekonomiska politiken</note>
         <note xml:id="i-XqLDLT5f3oBrq76kdrWayy">1. utskottet</note>
@@ -1649,7 +1646,7 @@
         <note xml:id="i-2wDNDVpEKiKkig1yE3hkyM">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-W9dCP8xwX2SiYx6YGfTHGL">(Beslut skulle fattas den 17 juni.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8zSi96ypU9Aa4jmAG7yysW">§ 22 Bordläggning och beslut om förlängd motionstid</head>
         <note xml:id="i-NnvTZqzZFAGKLF5Bryzrjj">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-6yC5cgBDdLRyypDkGX9LSM">Propositioner</note>
@@ -1672,7 +1669,7 @@
         <note xml:id="i-H9h9MawA4L6VRCXDfCjpb7">2019/20:3634 av Aron Emilsson m.fl. (SD)</note>
         <note xml:id="i-RjricebfoFoeXThRqJYqeB">2019/20:3637 av Tina Acketoft m.fl. (L)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Eci5unvSyveskzjmQJg5Ym">§ 23 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-Q6h5Xh7q8BT989tmqd6CUN">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-NZW726ciWCeesMXaiKGDVb">den 15 juni</note>
@@ -1701,7 +1698,7 @@
         <note xml:id="i-F1cY8KpCGxHBTUn13zoYwE">av Kjell-Arne Ottosson (KD)</note>
         <note xml:id="i-BwShjY2RtjxxkYfvQufkk2">till statsrådet Anna Hallberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7rVnnsxXiA5RFGrdHG7x23">§ 24 Kammaren åtskildes kl. 19 . 08 .</head>
         <note xml:id="i-EPeXQwxAaxLq27z1XkBCzw">Sammanträdet leddes</note>
         <note xml:id="i-GYvSEcbLQ3P8GXw2AxuHyt">av förste vice talmannen från dess början till och med § 7 anf. 29 (delvis),</note>
@@ -1846,7 +1843,7 @@
         <note xml:id="i-PJsQvB7s7TN4iZ7PWiUkb1">Ajournering</note>
         <note xml:id="i-JzjmWSzeTqG7a4ZjA8jjjs">Återupptaget sammanträde</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FYmeEBLpdmKaYdnpmnbVmb">§ 20 (forts.) Riksrevisionens rapport om resurseffektivitet och produktivitet vid Sveriges lärosäten i nordisk jämförelse (forts. UbU21)</head>
         <note xml:id="i-6B9wZWfPL1erwhS2A7U8Wq" type="speaker">Anf. 67 FREDRIK CHRISTENSSON (C)</note>
         <note xml:id="i-ArHS9XT8pvpmKUNmJUrt9H" type="speaker">Anf. 68 ROZA GÜCLÜ HEDIN (S)</note>
@@ -1871,9 +1868,13 @@
         <note xml:id="i-5efLGrdc4qU7cp8JvogTmS">§ 22 Bordläggning och beslut om förlängd motionstid</note>
         <note xml:id="i-71asbqGXYmxzh7YY8HdcDB">§ 23 Anmälan om frågor för skriftliga svar</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7ZXAgdovGq2eDgt2Ge9fGA">§ 24 Kammaren åtskildes kl. 19.08.</head>
         <note xml:id="i-EE19YofdXeGFZCLvddtTzp">Tryck: Elanders Sverige AB, Vällingby 2020</note>
+      </div>
+      <div type="commentSection">
+        <head xml:id="i-S1F7nGNh8jG1bnPEr7i49g">§ 1 Justering av protokoll</head>
+        <note xml:id="i-X3j3EaghMXzFLMW4ubJyn2">Protokollet för den 26 maj justerades.</note>
       </div>
     </body>
   </text>

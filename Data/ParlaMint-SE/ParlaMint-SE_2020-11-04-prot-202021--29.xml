@@ -25,7 +25,7 @@
           <licence>http://creativecommons.org/licenses/by/4.0/</licence>
           <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
         </availability>
-        <date when="2022-11-24">2022-11-24</date>
+        <date when="2022-11-29">2022-11-29</date>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -75,6 +75,10 @@
   </teiHeader>
   <text ana="#covid">
     <body>
+      <div type="commentSection">
+        <head xml:id="i-NQktfPTLs9QEYNZAhBt8ZS">§ 1 Justering av protokoll</head>
+        <note xml:id="i-YCFahFeqCebNhKGYdTDgFN">Protokollet för den 14 oktober justerades.</note>
+      </div>
       <div type="commentSection">
         <head xml:id="i-BUYy5sW7enfvjUeZYPjN7H">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-DK2fYiaibyTGZTFaSL4LyN">Tredje vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Mats Sander som suppleant i socialutskottet under Ulrika Heindorffs ledighet och Richard Herrey som suppleant i konstitutionsutskottet under Erik Ottosons ledighet.</note>
@@ -643,10 +647,6 @@
         <note xml:id="i-145ZfoQKGwC9LmkgJGbpEZ">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-RQ9atmTE4A85QUS8hgCDhG">Vid protokollet</note>
         <note xml:id="i-RrWNyXBhmQ9tRVCtN25NJF">JOHAN WELANDER</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-NQktfPTLs9QEYNZAhBt8ZS">§ 1 Justering av protokoll</head>
-        <note xml:id="i-YCFahFeqCebNhKGYdTDgFN">Protokollet för den 14 oktober justerades.</note>
       </div>
     </body>
   </text>

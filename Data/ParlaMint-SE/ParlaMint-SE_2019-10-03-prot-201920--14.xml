@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 14 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 14 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--14">2019/20--14</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,11 +75,11 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QMEMbbPM8cTRvSNawYXWH8">§ 1 Justering av protokoll</head>
         <note xml:id="i-G23idxuMo6wM8q2zKDpQnx">Protokollen för den 12 och 13 september justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CtcH4sGZXBS3au9QCRqN7P">§ 2 Anmälan om förändringar i regeringens sammansättning</head>
         <note xml:id="i-DG1dKHABWRZkHLSVZd7uZ1">Från statsminister Stefan Löfven (S) hade följande skrivelser kommit in:</note>
         <note xml:id="i-HmQWtTauPJPnymadPUjLW9">Till riksdagens talman</note>
@@ -92,11 +93,11 @@
         <note xml:id="i-RLt4g3hCutyukToRLpA1kU">Stockholm den 1 oktober 2019</note>
         <note xml:id="i-PgSXPXuorsMeEGyqenNvJE">Stefan Löfven</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-fkEthTCDt7eLdSGiBTVzB">§ 3 Anmälan om ersättare för gruppledare för partigrupp</head>
         <note xml:id="i-E3QpwQMxkRpadhMeucGynE">Talmannen meddelade att Liberalernas partigrupp anmält Maria Nilsson som ersättare för gruppledare för partigrupp från och med den 12 augusti.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7FLgVBvPQdGMCLG4oBfFPu">§ 4 Anmälan om kompletteringsval</head>
         <note xml:id="i-DU9yNq4kZSjx83ah3gGqvG">Talmannen meddelade</note>
         <note xml:id="i-H6o2rUcTPYFTf7cktCMvg5">att Socialdemokraternas riksdagsgrupp anmält Lena Emilsson som suppleant i skatteutskottet och i civilutskottet under Ola Möllers ledighet, Inga-Lill Sjöblom som suppleant i justitieutskottet, i civilutskottet och i utbildningsutskottet under Sanne Lennströms ledighet och Nermina Mizimovic som suppleant i konstitutionsutskottet och i skatteutskottet under Laila Naraghis ledighet samt</note>
@@ -126,7 +127,7 @@
         <note xml:id="i-4RLKZYMDCW7UfVj7daXGq7">suppleant i skatteutskottet</note>
         <note xml:id="i-TEBqN1Q2zRRLGcX66Spxh1">Nermina Mizimovic (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AVn93bLDZnuZ97jHvBS6nw">§ 5 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-P64xZLP3qqD6ZLegF1wrgC">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-JyA5c4RzanSWCXPsqwpmHv">Interpellation 2019/20:7</note>
@@ -166,7 +167,7 @@
         <note xml:id="i-Buhw6rXzAX1AkkZqp2CCoF">Johan Ndure</note>
         <note xml:id="i-MKrK2SGCXRAVjucHaxWay1">Departementsråd</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-W3C6Zv59Q3JA6qYxnkj3wj">§ 6 Anmälan om uteblivna svar på interpellationer</head>
         <note xml:id="i-YQjRmXqg1gZ2bveZUFpBia">Talmannen anmälde att följande interpellationer inte skulle besvaras på grund av Annika Strandhälls entledigande som statsråd:</note>
         <note xml:id="i-S7Mz2rL3JaLfsxBRg3dfad">2018/19:282 Socialförsäkringssystemet för företagare av Hans Rothenberg (M)</note>
@@ -175,7 +176,7 @@
         <note xml:id="i-R5q7shiGuSBHoL2GhxET59">av Solveig Zander (C)</note>
         <note xml:id="i-KDsruXQwShwQkt7vPzMxff">till statsrådet Annika Strandhäll (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7BUGaNEkwaCcK2MuGspCUw">§ 7 Anmälan om uteblivna svar på skriftliga frågor</head>
         <note xml:id="i-4ccVkjGQWhAkw8SvK8rb9G">Talmannen anmälde att följande skriftliga frågor inte skulle besvaras på grund av Annika Strandhälls entledigande som statsråd:</note>
         <note xml:id="i-GM9NcpSvih5xjMzEsqBFNC">2018/19:953 Omvårdnadsbidrag och övergångsregler</note>
@@ -188,7 +189,7 @@
         <note xml:id="i-5edWMQ1aLbeKzycjhAaUkN">av Katarina Brännström (M)</note>
         <note xml:id="i-Lao8GDQU7joKziJdahbMQN">till statsrådet Annika Strandhäll (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RJE4zraRPsA6xGHCLa5cvo">§ 8 Ärende för hänvisning till utskott</head>
         <note xml:id="i-8iWvKqe2fxZmJKN3XUK5Gf">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-VrA1R9NJV7pogpRbJLwYd3">Skrivelse</note>
@@ -386,7 +387,7 @@
       <div type="debateSection">
         <head xml:id="i-87vQsX2UhUwnhBQoRY2ntn">§ 11 Frågestund</head>
         <note type="speaker" xml:id="i-94SdJfgXuv3dquiWtK5MnT">Anf. 18 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-G6WdVAhyhYaz2VALRfmoJx" who="#unknown" ana="#regular">
+        <u xml:id="i-G6WdVAhyhYaz2VALRfmoJx" ana="#regular">
           <seg xml:id="i-6CT4D2KeMN4NsS3GVfm76L">Jag vill hälsa statsråden välkomna. Frågor besvaras i dag av miljö- och klimatminister Isabella Lövin, justitie- och migrationsminister Morgan Johansson, statsrådet Peter Eriksson och utbildningsminister Anna Ekström.</seg>
           <seg xml:id="i-RMVkfaP6bjzoNirZMm4xBL">En fråga ska vara av övergripande och allmänpolitiskt slag eller avse ett ämne som faller inom statsrådets ansvarsområde och rör dennes tjänste ­ utövning. Miljö- och klimatminister Isabella Lövin besvarar såväl allmän ­ politiska frågor som frågor inom sitt eget ansvarsområde.</seg>
         </u>
@@ -928,13 +929,13 @@
         </u>
         <note xml:id="i-R4Q7rmvSsC4GbEmTCFgWpg">Frågestunden var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BTwYsQcMzrZrN9yk1BDZcd">§ 12 Bordläggning</head>
         <note xml:id="i-7qSJSQfjZ58gVUzgY4YGdq">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-51yav4Q2fTdQuPTBJgR7PM">Skrivelse</note>
         <note xml:id="i-8ds9N1Pm68DaAnJNgQxTFT">2019/20:3 Riksrevisionens rapport om myndighetsgemensamt arbete mot organiserad brottslighet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6o4tFSX5vnRqLgmZvztAXw">§ 13 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-KVqkMGztyQVvVduyiTnKFu">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-XMTPTq35eduSQHet12sfYD">den 2 oktober</note>
@@ -972,7 +973,7 @@
         <note xml:id="i-JBvBAajopMWjFoc5ohC21B">av Tobias Andersson (SD)</note>
         <note xml:id="i-GeMXhz5RfUtkXqbm6aoTLt">till statsrådet Jennie Nilsson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-G7SSEHHovnFc4psqMkt1d9">§ 14 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-Drn68sTYBXT1U77JVLdjZg">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-odYa8xBMuy2CsovJnErLG">den 2 oktober</note>
@@ -1040,164 +1041,13 @@
         <note xml:id="i-9qgzBEZN3mHfxsNiwn8d3Q">av Tobias Andersson (SD)</note>
         <note xml:id="i-74tKkG815nKoMJRGyDf2uz">till näringsminister Ibrahim Baylan (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-53shq5HGo6QKvu24g3azX9">§ 15 Kammaren åtskildes kl. 15.21.</head>
         <note xml:id="i-5hGm3377WakNPZgixFuawJ">Sammanträdet leddes</note>
         <note xml:id="i-8DWjHvZssPdHiSPkZ9FRNf">av talmannen från dess början till ajourneringen kl. 13.02 och</note>
         <note xml:id="i-DX129HaU9GMbh6nA9qq9WB">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-XtwRURpwi43H8pZx4e5ohF">Vid protokollet</note>
         <note xml:id="i-6aboi6YXhbD7yaC2YgVZPx">ANNALENA HANELL</note>
-        <note xml:id="i-TQWt4sfkRd7mJpFUu9trH7">/Olof Pilo</note>
-        <note xml:id="i-FWjKMGXcwEi3GbESntNj4g">Innehållsförteckning</note>
-        <note xml:id="i-17pAp7eMDxgp2DSPNtuowu">§ 1 Justering av protokoll</note>
-        <note xml:id="i-Mgpv1WpecbrUHKLK5X8bX3">§ 2 Anmälan om förändringar i regeringens sammansättning</note>
-        <note xml:id="i-PUEgVAMbyKTj9NwkXtUrot">§ 3 Anmälan om ersättare för gruppledare för partigrupp</note>
-        <note xml:id="i-FGuke4axrVK3wjWnYEGR3f">§ 4 Anmälan om kompletteringsval</note>
-        <note xml:id="i-KBzRqKhDNCd1NKpJUezQFX">§ 5 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-7QxzQENeJiUfZPSvtG732T">§ 6 Anmälan om uteblivna svar på interpellationer</note>
-        <note xml:id="i-SnSCQzPMxN6yGDEQTJp9xS">§ 7 Anmälan om uteblivna svar på skriftliga frågor</note>
-        <note xml:id="i-RDcxXnKhqZ54GCteSYBebL">§ 8 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-MECqSHzkMiVUXEkY6a1kgD">§ 9 Svar på interpellation 2019/20:12 om förebyggande av hedersförtryck i skolan och bortförande av barn</note>
-        <note xml:id="i-TkNJvNw5JF79L2YjtFQZKp" type="speaker">Anf. 1 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-Bp3KT6LayM49eJdojJrGkk" type="speaker">Anf. 2 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-Tr7GNBqi4zML1im6zzAUzu" type="speaker">Anf. 3 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-CSjiC4v9sxsWawY57NJSYK" type="speaker">Anf. 4 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-315FVnYhmvQ9Vp4u5GJuWH" type="speaker">Anf. 5 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-5HaPkAn27Py7hoNFuYTcKg" type="speaker">Anf. 6 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-E2LcyLMXQAusgHNgbELQnu" type="speaker">Anf. 7 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-D88hg2WA1ayjoqMTRe9Vvj">§ 10 Svar på interpellationerna 2018/19:295 och 307 om elsparkcyklar i stadsmiljöer</note>
-        <note xml:id="i-L9ZyurDvUoW7bpGGqLtqqK" type="speaker">Anf. 8 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-Te9PM6KnJRUPStSgQ4qTG7" type="speaker">Anf. 9 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-BpHeHi9D6CUd3zW2rkKBrU" type="speaker">Anf. 10 JENS HOLM (V)</note>
-        <note xml:id="i-EUMq1HLdKp19AKgpJtetKf" type="speaker">Anf. 11 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-TzxT3fLK17E1XahN4RtEAC" type="speaker">Anf. 12 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-MZWQdecXrvgjYrsNdR2gLi" type="speaker">Anf. 13 JENS HOLM (V)</note>
-        <note xml:id="i-C1UkigjFf2CZM5e7TBupqM" type="speaker">Anf. 14 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-Gv2MVivKtu6qJjY7yw4RXW" type="speaker">Anf. 15 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-DqsMeEDXvBqsmMGRn7v4r3" type="speaker">Anf. 16 JENS HOLM (V)</note>
-        <note xml:id="i-WcZUwkmXgdXEktJG8peZgG" type="speaker">Anf. 17 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-43kCuiiTCvMvHB9Ri6HQKz">Ajournering</note>
-        <note xml:id="i-HVfTsTBjKMZJGV46d7Xe8y">Återupptaget sammanträde</note>
-        <note xml:id="i-PPUWQJSV2PbneNspM5xHRK">§ 11 Frågestund</note>
-        <note xml:id="i-L6bnkUn7faqd74iprfp9z2" type="speaker">Anf. 18 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-VACMTx7DADrVZb6VnyCGGh">Satsningar på skolan</note>
-        <note xml:id="i-VAS3UFc2F9aSrJEJC7GKRw" type="speaker">Anf. 19 MARIE-LOUISE HÄNEL SANDSTRÖM (M)</note>
-        <note xml:id="i-ShqCqEWB9n3oNRANVdz2DA" type="speaker">Anf. 20 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-GnYnVrvwBFGCZoemk6qL1i" type="speaker">Anf. 21 MARIE-LOUISE HÄNEL SANDSTRÖM (M)</note>
-        <note xml:id="i-PQNgcTTLkRbjwJqhccdhog" type="speaker">Anf. 22 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-9aj6yHeDDNFHE67mKs9gFC">Situationen i förskolan</note>
-        <note xml:id="i-Y7nG7we3f3yfZCovQv7etc" type="speaker">Anf. 23 MICHAEL RUBBESTAD (SD)</note>
-        <note xml:id="i-MThFLsGUYVtWqxFdUAcLb6" type="speaker">Anf. 24 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-UsH1ghVCPcw5f6wqiGcdW2" type="speaker">Anf. 25 MICHAEL RUBBESTAD (SD)</note>
-        <note xml:id="i-GPmxHuTrJ55FkvJvioAMLY" type="speaker">Anf. 26 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-BwXP9ujpwarRf1a7G7Hw8k">Polen och målet om nettonollutsläpp</note>
-        <note xml:id="i-A3bLgXiNJiWXCZTWUSZuXy" type="speaker">Anf. 27 ANNIKA QARLSSON (C)</note>
-        <note xml:id="i-W75XEVwaTJwH7xCrvcWDU1" type="speaker">Anf. 28 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-Uq9hoAcucZ3W1Y6PahuwJ" type="speaker">Anf. 29 ANNIKA QARLSSON (C)</note>
-        <note xml:id="i-7DJTm4Mb6XREDdpKx2KDEm" type="speaker">Anf. 30 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-RoktcvvufLmmVsXA6wW735">Likvärdigheten och anslagen till skolan och förskolan</note>
-        <note xml:id="i-2C12oFtkibr2sAuVZT13d6" type="speaker">Anf. 31 DANIEL RIAZAT (V)</note>
-        <note xml:id="i-Lz9NBPjxLU1o6ATXWVaGt4" type="speaker">Anf. 32 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-PDFKs9t71GWXRAUEKbZg5V" type="speaker">Anf. 33 DANIEL RIAZAT (V)</note>
-        <note xml:id="i-RGZQPU8isGT8kyMwV7CWZ5" type="speaker">Anf. 34 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-S5YtQTs9Mdt28feRfxZv48">Regeringens justering av energiskatterna</note>
-        <note xml:id="i-4MgZYzTppH3yBVzrMfA1d7" type="speaker">Anf. 35 KJELL-ARNE OTTOSSON (KD)</note>
-        <note xml:id="i-LhvatE1VCfVgZnoz8oKx3j" type="speaker">Anf. 36 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-4Xh9K6iXQ3Ge2GqCYQVCNe" type="speaker">Anf. 37 KJELL-ARNE OTTOSSON (KD)</note>
-        <note xml:id="i-PgCy7nRU7F2f5RMJM1qt6i" type="speaker">Anf. 38 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-9KxRsqkVAaBpK4GU6KvwAa">Förtroendet för rättsväsendet hos brottsutsatta företag</note>
-        <note xml:id="i-Wxom6Sxtks4NXhcBz8xKbp" type="speaker">Anf. 39 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-Qgrkz6iauP5wSu2sJJBS2T" type="speaker">Anf. 40 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-ASpTuRC5gnK7nyizEhTHjg" type="speaker">Anf. 41 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-QCA2WDZ5kaeniFmALdup1b" type="speaker">Anf. 42 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-4tKG6LtDAFF5DiKMkD3yft">Arbetet med att förebygga ungdomsbrottslighet</note>
-        <note xml:id="i-9uhR9ZzbHfjdpdJ492vCqq" type="speaker">Anf. 43 GUSTAF LANTZ (S)</note>
-        <note xml:id="i-4eFdvHhcgzU1a6JgdLiBe4" type="speaker">Anf. 44 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-CPEM9AWnX65EuvUNTdc39J" type="speaker">Anf. 45 GUSTAF LANTZ (S)</note>
-        <note xml:id="i-Rn7Zakkb3owv7U36FjP1sL" type="speaker">Anf. 46 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-3czNsDhsUQ96ZvddkSqrCx">Antibiotikaresistens</note>
-        <note xml:id="i-KdaVA9LatcqGvFT5TuQjyG" type="speaker">Anf. 47 AMANDA PALMSTIERNA (MP)</note>
-        <note xml:id="i-HR6MbbE4VXWCw3whSBnQJa" type="speaker">Anf. 48 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-GouA6LqLp4nyGTbKk5ikTb" type="speaker">Anf. 49 AMANDA PALMSTIERNA (MP)</note>
-        <note xml:id="i-N1dYSvbGnputXDeFV7F3JM" type="speaker">Anf. 50 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-U4DYd3EwMU1e84rXSKWHya">Klimatklivet och stadstrafiken</note>
-        <note xml:id="i-Vu5foqRj7QTkww5C9T4CeJ" type="speaker">Anf. 51 SOFIA WESTERGREN (M)</note>
-        <note xml:id="i-FKp6Z7YXZfb5J36Rn5te9s" type="speaker">Anf. 52 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-MYBLG3ZeM79L417P9tg5nb" type="speaker">Anf. 53 SOFIA WESTERGREN (M)</note>
-        <note xml:id="i-FfCFqQQngUVC9Sv7B5AEQ4" type="speaker">Anf. 54 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-Mjvc4gGx4T8mppt31vfM6M">Människohandel</note>
-        <note xml:id="i-URrjha7tEafw9ozR6oeBbH" type="speaker">Anf. 55 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-9WgSScmEubRNNiHSHo6nRN" type="speaker">Anf. 56 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-SQY1Pq854gsmVsLT4q2PQv" type="speaker">Anf. 57 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-GdToF5uzXihxcDzhMyVVbS" type="speaker">Anf. 58 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-RDabatf4v4JBdpWqQBKazC">Stöldligor och inbrott på landsbygden</note>
-        <note xml:id="i-K7jCfwVT7LoRXprjin3c2F" type="speaker">Anf. 59 SOFIA NILSSON (C)</note>
-        <note xml:id="i-FJq3uxVzPiKenZJkqt5HrH" type="speaker">Anf. 60 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-U8m8LPeCB64d2eVB4LY98J" type="speaker">Anf. 61 SOFIA NILSSON (C)</note>
-        <note xml:id="i-VLjA1ATV9xZyyuWEhB5aYh" type="speaker">Anf. 62 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-DLLEwqVx7Kgsh1qkDu1EDJ">Rätten till målsägandebiträde i hovrätten</note>
-        <note xml:id="i-JJ66RcEegYzo5Hn8KoPhoj" type="speaker">Anf. 63 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-JWoaQbFzCdRj9DXNVYs3y2" type="speaker">Anf. 64 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-3NHaPJyBSuneT3eSMGFbyx" type="speaker">Anf. 65 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-EV6RYWAk6pDhh75nvyoi5o" type="speaker">Anf. 66 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-SKocnwWKz2QWBpLZvZmwkU">Antiken i skolans historieundervisning</note>
-        <note xml:id="i-NyWB57cyLbDVcFveZEJhkm" type="speaker">Anf. 67 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-VAMVCao5RgDa1LMkRUhTqD" type="speaker">Anf. 68 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-2Fdm8iBJw1eYWSsiVPN7cF" type="speaker">Anf. 69 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-Husg54w91qCSG6ih9szifn" type="speaker">Anf. 70 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-EXt1Phrkhyjyc7Yes2QnDL">Klimatbiståndet</note>
-        <note xml:id="i-YDw11vdbtph3XJgdfJ6Gan" type="speaker">Anf. 71 MAGNUS MANHAMMAR (S)</note>
-        <note xml:id="i-6wENXz6cxJYE2yV8j9xoER" type="speaker">Anf. 72 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-BKXsZszDzdrHCk3qUgbjes" type="speaker">Anf. 73 MAGNUS MANHAMMAR (S)</note>
-        <note xml:id="i-MUUQHzDraApzJ3MNN9qxAD" type="speaker">Anf. 74 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-JDdcG45nJsKnnrmJhxofhH">Skyddsjakt på varg</note>
-        <note xml:id="i-4Uv4kCrF7z2CztAib2Nk4J" type="speaker">Anf. 75 JOHN WIDEGREN (M)</note>
-        <note xml:id="i-MAzPPvmeDpWfRPyvGE7rdf" type="speaker">Anf. 76 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-QYjbsicY2GwtaSRabL6d3z" type="speaker">Anf. 77 JOHN WIDEGREN (M)</note>
-        <note xml:id="i-CTpcAcbCbZ9srnNgXUmqWX" type="speaker">Anf. 78 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-JiB13VdRn94kuJZ9nNvA9p">Skolans opartiskhet och elevers frånvaro vid klimatstrejk</note>
-        <note xml:id="i-Wbt659i9L9DsrsgbNEiqqN" type="speaker">Anf. 79 ROBERT STENKVIST (SD)</note>
-        <note xml:id="i-MJQeNc7wdyQY27Gk6fCC3C" type="speaker">Anf. 80 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-KBAUtPEtjjBJDmUPky7FSC">Straffsatserna för narkotikabrott</note>
-        <note xml:id="i-MYHXxqSscUybWS1UfiyS16" type="speaker">Anf. 81 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-4NfdZJ7E8iMBP1tYXegSnZ" type="speaker">Anf. 82 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-5CWfCadcetpiRtdpMyknyZ">Slopandet av straffreduktion</note>
-        <note xml:id="i-WBgY4H7APw9vg9z2NrsfBA" type="speaker">Anf. 83 ELLEN JUNTTI (M)</note>
-        <note xml:id="i-AikmEM9G1yWeMjTe8zQu3Z" type="speaker">Anf. 84 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-2X2mfWw4z8RDwp4rNuvE9C">Betygsinflation</note>
-        <note xml:id="i-EuQ6EkvwQqtX4t3ymtHsqz" type="speaker">Anf. 85 PIA NILSSON (S)</note>
-        <note xml:id="i-GvABurdGUQzX4Kjj4ZvgJw" type="speaker">Anf. 86 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-JH6VUbosqWz99Mb57iAX6Y">Åtgärder för minskade utsläpp av växthusgaser</note>
-        <note xml:id="i-DYbhPYme3Z3CdjS4uvptbh" type="speaker">Anf. 87 MARLÉNE LUND KOPPARKLINT (M)</note>
-        <note xml:id="i-8TDWRZXguNhpj6Xrq6HBh2" type="speaker">Anf. 88 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-TvyAbCCJNNBLzbJaNENict">Utvisning av utländska brottslingar</note>
-        <note xml:id="i-AYdSEKnWa7TePAbKMupbg5" type="speaker">Anf. 89 LARS-ARNE STAXÄNG (M)</note>
-        <note xml:id="i-V3UfAmBydcu67CkGJEx4m" type="speaker">Anf. 90 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-4Nh58ioqjE7ofu3UK18Dpr">Gröna och hållbara finansmarknader</note>
-        <note xml:id="i-Bo4XsQ9NLDY6iiJ3Q7KCdj" type="speaker">Anf. 91 MARKUS SELIN (S)</note>
-        <note xml:id="i-UAJaZ6wKnmosGSXUgJyXLw" type="speaker">Anf. 92 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-SSbz81CrcYhjQBovXnJuXL">Stranderosion</note>
-        <note xml:id="i-YPQaN1WWuqpMN4xhsL21FR" type="speaker">Anf. 93 LOUISE MEIJER (M)</note>
-        <note xml:id="i-2VmTk2msWsFuwzshcaDuYK" type="speaker">Anf. 94 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <u xml:id="i-95098c125e506365-416" who="#Q241208" ana="#regular">
-          <seg xml:id="i-NDpv9995cURwCDXEyu7mXA">En ny humanitär skyddsgrund</seg>
-        </u>
-        <note xml:id="i-9pBnWjxNVE41ZYCCWhyeFx" type="speaker">Anf. 95 KADIR KASIRGA (S)</note>
-        <note xml:id="i-24FZ9EYFK2gp6976ZzBUXc" type="speaker">Anf. 96 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-EwCDgC89dPCY2R6Z6UF3Fg">Fortsatt samarbete med Storbritannien om avfallshantering</note>
-        <note xml:id="i-SkBFbAs9Az915rJ5n1aT3q" type="speaker">Anf. 97 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-XKXrdesZ16nWks9H7xRiSh" type="speaker">Anf. 98 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-5Ra6UkLyMCaoArU6zkE73G">Regelverket för likvärdighetsbidraget</note>
-        <note xml:id="i-C3QiLGU7VFj8Mo3TeKYe7t" type="speaker">Anf. 99 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-5GAKcXSxUgnFdGzdtBn4ei" type="speaker">Anf. 100 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-3AcvQwDB2eNtuGJdGHEMPZ">Insatser mot missförhållanden på arbetsplatser</note>
-        <note xml:id="i-QpD5Y8fukv8tKEVR5EAP3A" type="speaker">Anf. 101 LEIF NYSMED (S)</note>
-        <note xml:id="i-XcnnWUdS7emVUAUmbAjtJb" type="speaker">Anf. 102 Justitie- och migrationsminister MORGAN JOHANSSON (S)</note>
-        <note xml:id="i-XHsh8qiJuKFAYSk2CWz2Q6">§ 12 Bordläggning</note>
-        <note xml:id="i-56dDT3Zgkqv8nUpNUpMDcR">§ 13 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-5hD1G7db87da9Fz2SPPd2A">§ 14 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-3GWoobkGAp3qmP81ACAuBJ">§ 15 Kammaren åtskildes kl. 15.21.</note>
-        <note xml:id="i-YPYAgc1tTk9FbwbVYkxRxz">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

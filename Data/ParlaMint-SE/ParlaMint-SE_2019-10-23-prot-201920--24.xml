@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 24 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 24 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--24">2019/20--24</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,26 +75,26 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BxLKMJiV5V8nCngvPEreG4">§ 1 Anmälan om kompletteringsval</head>
         <note xml:id="i-3vnRQ2q7T63nay1Gvo7kai">Andre vice talmannen meddelade att Centerpartiets riksdagsgrupp anmält Jonny Cato som suppleant i socialförsäkringsutskottet.</note>
         <note xml:id="i-T6fTRfmxUzPqA7d51bikMS">Andre vice talmannen förklarade vald till</note>
         <note xml:id="i-ViMvkv5XeqS4PuBos3hDXK">suppleant i socialförsäkringsutskottet</note>
         <note xml:id="i-3URMD9xTffLaVgpAEo5Q9T">Jonny Cato (C)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UpYEHATuX7AVLDwkMT8boC">§ 2 Utökning av antalet suppleanter</head>
         <note xml:id="i-C832s7MN65R3AzBZo5scdz">Valberedningen hade, enligt ett till kammaren inkommet protokollsutdrag, tillstyrkt att antalet suppleanter i utrikesutskottet skulle utökas från 30 till 31.</note>
         <note xml:id="i-HJrwLByzERSm6684JTpD7C">Kammaren medgav denna utökning.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TzPSN4VAn2qUBLAjvTcY5r">§ 3 Val av extra suppleant</head>
         <note xml:id="i-At1hjQKSPDQsd4fHdqMzB">Val av extra suppleant i utrikesutskottet företogs.</note>
         <note xml:id="i-s7AajScTufv7Ub4fFMFwU">Kammaren valde i enlighet med valberedningens förslag till</note>
         <note xml:id="i-L71FDQ9RzXYBYn5dVHgFvj">suppleant i utrikesutskottet</note>
         <note xml:id="i-QTdN9EtvQtvNX6wmFYcah2">Pål Jonson (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2ZPByNkXsq4VZKpXQHu442">§ 4 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-62S4rTyudzfFjJzDoCdXiG">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-Db75tvwZpxjFpHZ24KvswX">Interpellation 2019/20: 39</note>
@@ -121,7 +122,7 @@
         <note xml:id="i-Lqnvr196AjHUt1sT9KkcjB">Fredrik Ahlén</note>
         <note xml:id="i-Hfu5HpeA45RamTT2NE6QVE">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6qPLHXsp4VxKX3c3SHLYJz">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-QMBEXgZvrjQSAo3kx1WeuN">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-5va43mdJMXWyC8sH5ENTJt">Propositioner</note>
@@ -130,7 +131,7 @@
         <note xml:id="i-PUmXQ5qkwWbejWVCW7f2Uf">2019/20:3390 till finansutskottet</note>
         <note xml:id="i-RcjuynN8YLH9My1mD3YQmD">2019/20:3392, 3404 och 3405 till justitieutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-68udD8GhiSeXKPHyfpnQnk">§ 6 Fortsatt giltighet av lagen om försök med tillgänglighetsdelgivning i brottmål</head>
         <note xml:id="i-HFRNHoNs6rDVKP4fRs6qVG">Justitieutskottets betänkande 2019/20:JuU3</note>
         <note xml:id="i-AA7y7dZ8KGwUDJsQFSqcdX">Fortsatt giltighet av lagen om försök med tillgänglighetsdelgivning i brottmål (prop. 2018/19:139)</note>
@@ -257,7 +258,7 @@
         <note xml:id="i-PXnZv1TdLSnvzSerx8aJqA">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-PoSycCF2R5kMxP9NjEeqGo">(Beslut fattades under § 17 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AeDQ9cd8gotmPDebyneAwv">§ 9 Statistik på upphandlingsområdet</head>
         <note xml:id="i-AqpY5eNNQS7zyQju6MnxPg">Finansutskottets betänkande 2019/20:FiU16</note>
         <note xml:id="i-NDUYrarnLxDDtTUhzDajhi">Statistik på upphandlingsområdet (prop. 2018/19:142)</note>
@@ -1559,7 +1560,7 @@
         <note xml:id="i-CXgrcjTEgrkqGRJbLot34x">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-UhMj7PdN6SdHc4DX2friQH">(Beslut fattades under § 17.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3nSRAqvaHPhGGRHpSAHErs">§ 16 Behandling av personuppgifter vid Myndigheten för arbetsmiljökunskap</head>
         <note xml:id="i-MDc5VpGnnsBMLfvjUvCHbD">Arbetsmarknadsutskottets betänkande 2019/20:AU3</note>
         <note xml:id="i-QTWQXXW6yZTuk4sHqsfoRR">Behandling av personuppgifter vid Myndigheten för arbetsmiljökunskap (prop. 2018/19:151)</note>
@@ -1571,7 +1572,7 @@
         <note xml:id="i-UeAEYNLQgJAhdMy4cDYcng">Återupptaget sammanträde</note>
         <note xml:id="i-12UpPFWuVL1irhRVtMpBDR">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TAFTAzM4bHpKDFkEboRNos">§ 17 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-2Ko9AUAG8xR5evKZR9kMyd">JuU3 Fortsatt giltighet av lagen om försök med tillgänglighetsdelgivning i brottmål</note>
         <note xml:id="i-PwVB2jGh7M41JNC1bGsgZn">Kammaren biföll utskottets förslag.</note>
@@ -1740,17 +1741,17 @@
         <note xml:id="i-2SNiE3ckKUPRV6Jhne1HT2">AU3 Behandling av personuppgifter vid Myndigheten för arbetsmiljökunskap</note>
         <note xml:id="i-LDjz6B3WcCz8BEQXp9t5MH">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9uY9LBNwp7YQCNZv1aKwww">§ 18 Bordläggning</head>
         <note xml:id="i-6VSmoguFrabQpR2A7o9cWL">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-JA9czEiJzD2SdaAEeVCqee">Proposition</note>
         <note xml:id="i-FezqfRgsRCqsLpa4A3wyKT">2019/20:31 Större komplementbostadshus</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FzokyEDDPDPqw3eqxVQW9K">§ 19 Motion för omedelbar hänvisning</head>
         <note xml:id="i-PhmPiHCG2JNjH7F5Pc4X43">Kammaren biföll talmannens förslag att motion 2019/20:3408, som avlämnats under den allmänna motionstiden, omedelbart skulle hänvisas till miljö ‑ och jordbruksutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HqwYxsZoAwwAtyVakTgDxk">§ 20 Anmälan om interpellation</head>
         <note xml:id="i-Rt1gAR79zeiapSUTog3Qig">Följande interpellation hade framställts:</note>
         <note xml:id="i-Rg91PCd7uwkTMjGedhUmxd">den 22 oktober</note>
@@ -1758,7 +1759,7 @@
         <note xml:id="i-BLhdWb58zzzrcTH4G5NjVa">av Thomas Morell (SD)</note>
         <note xml:id="i-92hk4pPwT1MsacuAxKvjKP">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DBFJP8ZPRHaEMpckvBDEyb">§ 21 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-2nxhmCR7h3KuS4xnR7jF1S">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-PgatDT5xqJGQ5Vyo7JF3qR">den 22 oktober</note>
@@ -1784,7 +1785,7 @@
         <note xml:id="i-SDJsdrLUowb2fRewnXWQLQ">av Lina Nordquist (L)</note>
         <note xml:id="i-FPuj5kVX3GLyzzz5JYQy8D">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ReJbUGhjW7esxAcTtT2WmV">§ 22 Anmälan om skriftligt svar på fråga</head>
         <note xml:id="i-4bgH1G41wCB16Zug5pAWGz">Skriftligt svar på följande fråga hade kommit in:</note>
         <note xml:id="i-SrBpjpYhbmqc3mwb51KgeD">den 22 oktober</note>
@@ -1792,7 +1793,7 @@
         <note xml:id="i-9YBPNqnhkG2ToBs4jVmiMH">av Magnus Persson (SD)</note>
         <note xml:id="i-XjHTxH93fQwAJWCwV9spAJ">till statsrådet Jennie Nilsson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JwKt2pT3ju17wJuCZNGJ3x">§ 23 Kammaren åtskildes kl. 16.11.</head>
         <note xml:id="i-URKZRrTtEhDbUwyQXnJaK3">Sammanträdet leddes</note>
         <note xml:id="i-4erzxiCLGYQDkCo69oz4DE">av andre vice talmannen från dess början till och med § 11 anf. 28 (delvis),</note>
@@ -1801,180 +1802,6 @@
         <note xml:id="i-Jpt4SmiiH241npHawzWS5b">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-RGSJMD65efJLX88sgGA7xx">Vid protokollet</note>
         <note xml:id="i-RKnNH8qScWWwoYhP22eCa">ANDERS NORIN</note>
-        <note xml:id="i-LmpS8B7HwgVv3bC6uYkSWJ">/Olof Pilo</note>
-        <note xml:id="i-HdzA1ZAXxUfRtTdvR7gRuc">Innehållsförteckning</note>
-        <note xml:id="i-BB2ZzfJowMx4BpmvuEfsEv">§ 1 Anmälan om kompletteringsval</note>
-        <note xml:id="i-JDpvzHwU2mTYFtf8snVuTS">§ 2 Utökning av antalet suppleanter</note>
-        <note xml:id="i-6GYvBRi8xYRgX86FWVwH1q">§ 3 Val av extra suppleant</note>
-        <note xml:id="i-NHsThiqCs4DfVcXQgHHAgu">§ 4 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-KDYT1rZ9X6SjM7KU8iGGia">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-UmcwxgWpGCf2Puh4z7F5kQ">§ 6 Fortsatt giltighet av lagen om försök med tillgänglighetsdelgivning i brottmål</note>
-        <note xml:id="i-16rQmRqcmtYYhZAT9a2nte">Justitieutskottets betänkande 2019/20:JuU3</note>
-        <note xml:id="i-Fpuaz2ABFAQmYYd36mHGL">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-XG9fDwTYdZcu1ZBQciRv2s">§ 7 Elektroniska fraktsedlar vid vägtransport</note>
-        <note xml:id="i-KbBoopr1KdAt5HLhiz47Yf">Civilutskottets betänkande 2019/20:CU2</note>
-        <note xml:id="i-WScsWEmzqQ1Sk9cb4m2cCs" type="speaker">Anf. 1 ANGELICA LUNDBERG (SD)</note>
-        <note xml:id="i-Q4BCrTUfytf2nHW91AK1R" type="speaker">Anf. 2 JOAKIM JÄRREBRING (S)</note>
-        <note xml:id="i-AdVuH973FNjJipPVjqm3PT" type="speaker">Anf. 3 ANGELICA LUNDBERG (SD) replik</note>
-        <note xml:id="i-4GfYLxwHZYdgECro3JQvw9" type="speaker">Anf. 4 JOAKIM JÄRREBRING (S) replik</note>
-        <note xml:id="i-BNQHKMQLCYbeknJNsxHLKG" type="speaker">Anf. 5 ANGELICA LUNDBERG (SD) replik</note>
-        <note xml:id="i-8eDBji4WwdwfG57BCzQNGM" type="speaker">Anf. 6 JOAKIM JÄRREBRING (S) replik</note>
-        <note xml:id="i-2GMuPkH42yfHKnYHQxrgQM">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-TGEYd3vWj975GxQ1VLF3xT">§ 8 Statistik över hushållens tillgångar och skulder</note>
-        <note xml:id="i-CZdMrUvVVgZ366DFRu9Zxw">Finansutskottets betänkande 2019/20:FiU8</note>
-        <note xml:id="i-WsccRnkZr28GChGZupqirK" type="speaker">Anf. 7 CHARLOTTE QUENSEL (SD)</note>
-        <note xml:id="i-XaZj2S2atr3oynL6AQe9WL" type="speaker">Anf. 8 ADNAN DIBRANI (S)</note>
-        <note xml:id="i-YSfBWcJU2EfMFQ3L4gmA9H">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-L971EAfhBShMT2nYyN3WgG">§ 9 Statistik på upphandlingsområdet</note>
-        <note xml:id="i-f1D61GWc6F6ej5pVNBJ3e">Finansutskottets betänkande 2019/20:FiU16</note>
-        <note xml:id="i-QcgaWEqVJWHTZneqqniEt8">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-JgPFvuCtveUmxkhJWBE8DN">§ 10 Skyddsobjekt och obemannade farkoster</note>
-        <note xml:id="i-8s76c8qpomf7HLjMBKMqBw">Försvarsutskottets betänkande 2019/20:FöU2</note>
-        <note xml:id="i-N4xVwvFcRiDDSGe98NgwZC" type="speaker">Anf. 9 HELÉNE BJÖRKLUND (S)</note>
-        <note xml:id="i-5KLCciPF22zt2ZXu8J3uGP" type="speaker">Anf. 10 LARS PÜSS (M)</note>
-        <note xml:id="i-6UUqt7GHEpfut7D8CFDbTs" type="speaker">Anf. 11 CAROLINE NORDENGRIP (SD)</note>
-        <note xml:id="i-GWXUqmuLcoygYKuRjTx9JJ" type="speaker">Anf. 12 LARS THOMSSON (C)</note>
-        <note xml:id="i-JunBWpTtN6YiZDekEk7xdw" type="speaker">Anf. 13 LAILA NARAGHI (S)</note>
-        <note xml:id="i-SF1bWx2cbyaULtxh3bdMnF">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-NnzB4N9m3rLcn1NGuUWyp2">§ 11 Villkor och riktlinjer för radio och tv i allmänhetens tjänst 2020–2025</note>
-        <note xml:id="i-Udzzs9wVsq4u7DatRYuYET">Kulturutskottets betänkande 2019/20:KrU2</note>
-        <note xml:id="i-FbYEzpczDbW1G7oveBHopS" type="speaker">Anf. 14 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-8ZcroTRWw6sAeHM6eBEhi6" type="speaker">Anf. 15 LOTTA FINSTORP (M)</note>
-        <note xml:id="i-6HAS456Js9v56eZWxBb4pp" type="speaker">Anf. 16 ANGELIKA BENGTSSON (SD)</note>
-        <note xml:id="i-58qUMfGGHVeV1C8fh5aFJt" type="speaker">Anf. 17 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-UwYfnwXmkqvyfhEELwca2h" type="speaker">Anf. 18 ANGELIKA BENGTSSON (SD) replik</note>
-        <note xml:id="i-11oYK8dVLpC8hS9nZU8pq" type="speaker">Anf. 19 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-UAH3t6Xrmx5bgcVKGZGjAg" type="speaker">Anf. 20 ANGELIKA BENGTSSON (SD) replik</note>
-        <note xml:id="i-Qfn9ajkZRqjDqreaby6XPt" type="speaker">Anf. 21 PER LODENIUS (C)</note>
-        <note xml:id="i-WYJY5FYMCxiHcwW1UQUkuk" type="speaker">Anf. 22 VASILIKI TSOUPLAKI (V)</note>
-        <note xml:id="i-BDhe9PKiE2oi2EhWwXbmu9" type="speaker">Anf. 23 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-2yupKD1A3Uh6UkRSfbQPNZ" type="speaker">Anf. 24 VASILIKI TSOUPLAKI (V) replik</note>
-        <note xml:id="i-YY9hLLrDDhR4CDzoPYUSFN" type="speaker">Anf. 25 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-3C8cn7Gn6LReqriE8ftr4e" type="speaker">Anf. 26 VASILIKI TSOUPLAKI (V) replik</note>
-        <note xml:id="i-K2xFiXujrEeSUBa43CEm3k" type="speaker">Anf. 27 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-YCe9SS1tiW9UjRxLh4Ur1R" type="speaker">Anf. 28 VASILIKI TSOUPLAKI (V) replik</note>
-        <note xml:id="i-BBryqbDYvRgQTeZNjXG5Ro" type="speaker">Anf. 29 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-7TysLL2mQQf1xbUV9BRRGy" type="speaker">Anf. 30 VASILIKI TSOUPLAKI (V) replik</note>
-        <note xml:id="i-HmsZtB571EBjHC2p48nvvP" type="speaker">Anf. 31 ROLAND UTBULT (KD)</note>
-        <note xml:id="i-FNYwe54wbnBScpokmBYGoM" type="speaker">Anf. 32 LAWEN REDAR (S)</note>
-        <note xml:id="i-BnfoPvJ24JxTjp9n369NXJ" type="speaker">Anf. 33 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-TUH6xoYBDPyFtaeiAnidSG" type="speaker">Anf. 34 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-EhAad4EJ6ytqcwVawKzvDQ" type="speaker">Anf. 35 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-P36vda3DEmuQyAd4tszGyz" type="speaker">Anf. 36 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-C3z28FzbTYRiJPPxJv4Un6" type="speaker">Anf. 37 ROLAND UTBULT (KD) replik</note>
-        <note xml:id="i-6cMXy3jRb3MknkHoxQ2y6J" type="speaker">Anf. 38 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-QLS4zEEef2xfd15GTX1LnB" type="speaker">Anf. 39 ROLAND UTBULT (KD) replik</note>
-        <note xml:id="i-38eZDQmg5LHefWnAVbibNE" type="speaker">Anf. 40 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-EepXXpWehKYQqS7LwpcJSj" type="speaker">Anf. 41 VASILIKI TSOUPLAKI (V) replik</note>
-        <note xml:id="i-PxfMoQAKMKW1Et4UJD6K94" type="speaker">Anf. 42 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-Tug8xw73FVB5hXZhsVBKvf" type="speaker">Anf. 43 VASILIKI TSOUPLAKI (V) replik</note>
-        <note xml:id="i-GdPmGhK2aEanDqv7jH9kHH" type="speaker">Anf. 44 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-Dc4pQU3VzQy323Tnw4ZDD" type="speaker">Anf. 45 ANNA SIBINSKA (MP)</note>
-        <note xml:id="i-56tkjxMfTe9SNgJ1rKaojM" type="speaker">Anf. 46 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-UBvPdNgtRsdzbJW6CY75ey" type="speaker">Anf. 47 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-Eb9sVHyVao6morkJiLc8fU" type="speaker">Anf. 48 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-YC2VJUxZMCZjVZopKaNXB7" type="speaker">Anf. 49 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-6GGq8ZR8qtgsTmRhD72cdy" type="speaker">Anf. 50 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-2gAy2MXCAYYRbtFbo227Qp" type="speaker">Anf. 51 ANGELIKA BENGTSSON (SD) replik</note>
-        <note xml:id="i-4QSkWKoLFgUNxnJsVNKYpo" type="speaker">Anf. 52 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-LbaqGSSZ3oJ58mXvWFXNjF" type="speaker">Anf. 53 ANGELIKA BENGTSSON (SD) replik</note>
-        <note xml:id="i-ShrcAMpe7jxLZXzTun5nXu" type="speaker">Anf. 54 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-6Fg4tGtAHYGLfDGgeYjisv" type="speaker">Anf. 55 ROLAND UTBULT (KD) replik</note>
-        <note xml:id="i-Nm2ugP1tKSKug8aCEnyceN" type="speaker">Anf. 56 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-RWmC7BGUsWLFgWrpaH8iS9" type="speaker">Anf. 57 ROLAND UTBULT (KD) replik</note>
-        <note xml:id="i-6hkULHWyghAaCxFebrF63X" type="speaker">Anf. 58 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-2DejvgFpnVQ9trkKKGaiad" type="speaker">Anf. 59 ANNICKA ENGBLOM (M)</note>
-        <note xml:id="i-AKTXmrGUfQJryQcsRRGikJ" type="speaker">Anf. 60 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-Pft2MvLea35kBRRzi3Mh7V" type="speaker">Anf. 61 ANNICKA ENGBLOM (M) replik</note>
-        <note xml:id="i-JJRrMatyrr6ifYqiiNP5RV" type="speaker">Anf. 62 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-FGB2wxDtsHBBEk5QfvQZ72" type="speaker">Anf. 63 ANNICKA ENGBLOM (M) replik</note>
-        <note xml:id="i-NwoMaaXfyUgDyLagJpGS8C" type="speaker">Anf. 64 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-WoGKeiYh79kkwMHjzFADGc" type="speaker">Anf. 65 ANNICKA ENGBLOM (M) replik</note>
-        <note xml:id="i-4J3NMkSKPn6LXxNpKkFFyc" type="speaker">Anf. 66 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-RmVARBbQBZWuTJo1MpTmfy" type="speaker">Anf. 67 ANNICKA ENGBLOM (M) replik</note>
-        <note xml:id="i-SjyH6JNZfqpWTKAEezgRY9" type="speaker">Anf. 68 ARON EMILSSON (SD)</note>
-        <note xml:id="i-A8gKfMqBafKTFNscpFABVj" type="speaker">Anf. 69 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-8kFZmSB1kLb4F1nwtoqrSe" type="speaker">Anf. 70 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-HKNFidsU4M38VXiK5k2mtg" type="speaker">Anf. 71 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-Hr5sw7EDgtvxpNxbzsNz3C" type="speaker">Anf. 72 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-PmYtVEoeUP9t7gnqxyQF1F" type="speaker">Anf. 73 VIKTOR WÄRNICK (M)</note>
-        <note xml:id="i-D2VbEktDyV7gYJ965zFn4W">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-BHUzQnMEAc7nzqn6Xvea1t">§ 12 Riksrevisionens rapport om Klimatklivet</note>
-        <note xml:id="i-SWpjXdgjx55QpaMnPRvckc">Miljö- och jordbruksutskottets betänkande 2019/20:MJU4</note>
-        <note xml:id="i-U6u1LP73svRb15aHYvD428" type="speaker">Anf. 74 LOUISE MEIJER (M)</note>
-        <note xml:id="i-Eyd2C2ZLtc8WtoMptBvsfY" type="speaker">Anf. 75 MARTIN KINNUNEN (SD)</note>
-        <note xml:id="i-M7jZis431CeCJUfAtBiyb6" type="speaker">Anf. 76 KJELL-ARNE OTTOSSON (KD)</note>
-        <note xml:id="i-QzNQA6YGTNTDxKwhDsrNb6" type="speaker">Anf. 77 MARLENE BURWICK (S)</note>
-        <note xml:id="i-Qyf3oVAydfoEu2mV6QSmRq" type="speaker">Anf. 78 LOUISE MEIJER (M) replik</note>
-        <note xml:id="i-CfCyDYHmfoW8Nngarkdkxs" type="speaker">Anf. 79 MARLENE BURWICK (S) replik</note>
-        <note xml:id="i-NZk2EKjEVEiCGCw8CG47tP" type="speaker">Anf. 80 LOUISE MEIJER (M) replik</note>
-        <note xml:id="i-FEtDboEjRPeEWm2WgqJK7W" type="speaker">Anf. 81 MARLENE BURWICK (S) replik</note>
-        <note xml:id="i-RhWVJ12JkjQvW1pB5pzSWQ" type="speaker">Anf. 82 RICKARD NORDIN (C)</note>
-        <note xml:id="i-RrVa4giKgDaBWTknXHGqH2" type="speaker">Anf. 83 JOAR FORSSELL (L)</note>
-        <note xml:id="i-SViieEZ5RCRYyYDxstER4G" type="speaker">Anf. 84 LORENTZ TOVATT (MP)</note>
-        <note xml:id="i-R1rbPLnqfbwRwCavWTydE4" type="speaker">Anf. 85 LOUISE MEIJER (M) replik</note>
-        <note xml:id="i-4Jdcw5rLg25gAmTE1k1S7q" type="speaker">Anf. 86 LORENTZ TOVATT (MP) replik</note>
-        <note xml:id="i-HKgwarxopwmcetiwsavoQg" type="speaker">Anf. 87 LOUISE MEIJER (M) replik</note>
-        <note xml:id="i-NZByuC2Qry8fam6i2jTGtm" type="speaker">Anf. 88 LORENTZ TOVATT (MP) replik</note>
-        <note xml:id="i-4Wr3XQEuaXsoNWYnQYoGHN" type="speaker">Anf. 89 KJELL-ARNE OTTOSSON (KD) replik</note>
-        <note xml:id="i-65DoUtvsZA7GEZmbDFjzxc" type="speaker">Anf. 90 LORENTZ TOVATT (MP) replik</note>
-        <note xml:id="i-9VhhPKTrafEeuwXoDKU7Xj" type="speaker">Anf. 91 KJELL-ARNE OTTOSSON (KD) replik</note>
-        <note xml:id="i-7UtfFKMzoSSFsr1NvAHTDd" type="speaker">Anf. 92 LORENTZ TOVATT (MP) replik</note>
-        <note xml:id="i-Epc6drwCDThdyhkKaBGnDc">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-ENwjYPKhvQfc76UmvyME9g">§ 13 Riksrevisionens rapport om regionala exportcentrum</note>
-        <note xml:id="i-7rTTGHQqWzem4LKk4VrDp5">Näringsutskottets betänkande 2019/20:NU5</note>
-        <note xml:id="i-XN2aHsxTpRdgLvcwTP8W6c" type="speaker">Anf. 93 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-9jMyPjsqVSd187zdBEECpg" type="speaker">Anf. 94 ANN-CHARLOTTE HAMMAR JOHNSSON (M)</note>
-        <note xml:id="i-FDSmjTpJHdaNMMBVLerw9n" type="speaker">Anf. 95 PER SCHÖLDBERG (C)</note>
-        <note xml:id="i-25ptxrCy2T3NyoEY9cCEmz" type="speaker">Anf. 96 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-AtK7Q9mXuVcqa4H6TN7Rj1" type="speaker">Anf. 97 ÅSA ERIKSSON (S)</note>
-        <note xml:id="i-CSHx8us7JWf3736vnjP7gQ">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-9dd2fg5QFW9wVi73zWCbMt">§ 14 Riksrevisionens rapport om jämställdhet i Almis låneverksamhet</note>
-        <note xml:id="i-YBz7mATobPboyQMucL6BVg">Näringsutskottets betänkande 2019/20:NU6</note>
-        <note xml:id="i-V398qAHG8tRHcTLJR38eSZ" type="speaker">Anf. 98 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-2Q7PqiPi2BjB9mchE2aj2y" type="speaker">Anf. 99 MATHIAS TEGNÉR (S)</note>
-        <note xml:id="i-6eD2Yj7QGCdkEam8FKn62q" type="speaker">Anf. 100 ANN-CHARLOTTE HAMMAR JOHNSSON (M)</note>
-        <note xml:id="i-7qyfqSJtZ9GKBUPiZuj1W7" type="speaker">Anf. 101 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-PQ7hM7vZkgv6YpvuamEjPA">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-BFzPuRFPRfZyr9TRZUu7r6">§ 15 Första kontrollstationen för energiöverenskommelsen</note>
-        <note xml:id="i-TLa6z96XvMf4Afk71erxRs">Näringsutskottets betänkande 2019/20:NU7</note>
-        <note xml:id="i-2VzMEMYeA6qp8KN1x6Y1gt" type="speaker">Anf. 102 MATTIAS BÄCKSTRÖM JOHANSSON (SD)</note>
-        <note xml:id="i-AeDEfygJj4Nbq6pba59zAT" type="speaker">Anf. 103 PATRIK ENGSTRÖM (S)</note>
-        <note xml:id="i-HTwBMoRqdfvcsTcziZG32E" type="speaker">Anf. 104 MATTIAS BÄCKSTRÖM JOHANSSON (SD) replik</note>
-        <note xml:id="i-TfJ6aNW1c4XJpbkiDwczhm" type="speaker">Anf. 105 PATRIK ENGSTRÖM (S) replik</note>
-        <note xml:id="i-AFaMPWXNSr4eStHje4rZPe" type="speaker">Anf. 106 MATTIAS BÄCKSTRÖM JOHANSSON (SD) replik</note>
-        <note xml:id="i-PQM6P1s8Pq76UFPedBMueG" type="speaker">Anf. 107 PATRIK ENGSTRÖM (S) replik</note>
-        <note xml:id="i-HufumXJwyYHGxioEquPkN5" type="speaker">Anf. 108 LARS HJÄLMERED (M)</note>
-        <note xml:id="i-EJG3Xt5fyR7hrzcxuaAftN" type="speaker">Anf. 109 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-7TPjMzTKBwusLy1txueFTY" type="speaker">Anf. 110 RICKARD NORDIN (C)</note>
-        <note xml:id="i-M63HSGScLYKs9Z3pevXuSV" type="speaker">Anf. 111 BIRGER LAHTI (V)</note>
-        <note xml:id="i-S3JrWtNvkiBCvee6cSHxzQ" type="speaker">Anf. 112 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-3j4Js4BypkwAFaeFd7af9S" type="speaker">Anf. 113 LORENTZ TOVATT (MP)</note>
-        <note xml:id="i-caEUSfG4EiFvkwWDy3VPK">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-AJdjvTw9zEDLGW39j8rcng">§ 16 Behandling av personuppgifter vid Myndigheten för arbetsmiljökunskap</note>
-        <note xml:id="i-HNBo3ASMQQF6AJRLz7nTnw">Arbetsmarknadsutskottets betänkande 2019/20:AU3</note>
-        <note xml:id="i-R1s7ZEjdZ4BFNbKvJY88s4">(Beslut fattades under § 17.)</note>
-        <note xml:id="i-Gv86eKsKk6devaaLvPnPex">Ajournering</note>
-        <note xml:id="i-BYgXxgGxjmDXMXw4V8igiS">Återupptaget sammanträde</note>
-        <note xml:id="i-3wHEQAUNbPKPSZUQdQQEYy">§ 17 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-HqBWjSYKEEekSSFYAsXM6Z">JuU3 Fortsatt giltighet av lagen om försök med tillgänglighetsdelgivning i brottmål</note>
-        <note xml:id="i-17D5yXyKV8dfSwAvFvo4Z9">CU2 Elektroniska fraktsedlar vid vägtransport</note>
-        <note xml:id="i-RjTeJiGESb1aTMXRXd9p5R">FiU8 Statistik över hushållens tillgångar och skulder</note>
-        <note xml:id="i-Dtbv1seG4roxsKYkKLgV2S">FiU16 Statistik på upphandlingsområdet</note>
-        <note xml:id="i-ALXASsAYcEc8PfCiw7sVS1">FöU2 Skyddsobjekt och obemannade farkoster</note>
-        <note xml:id="i-BK1fT1iEKhHSNmLFVSHiRA">KrU2 Villkor och riktlinjer för radio och tv i allmänhetens tjänst 2020–2025</note>
-        <note xml:id="i-BNaJApAebNKRauvNQRBfG9">MJU4 Riksrevisionens rapport om Klimatklivet</note>
-        <note xml:id="i-LEVo67qWbHExwNvWw5uM1i">NU5 Riksrevisionens rapport om regionala exportcentrum</note>
-        <note xml:id="i-TzP336Qhe6dnGV9Y8MWGVc">NU6 Riksrevisionens rapport om jämställdhet i Almis låneverksamhet</note>
-        <note xml:id="i-5SAab9amkFQxjeSZMNppSe">NU7 Första kontrollstationen för energiöverenskommelsen</note>
-        <note xml:id="i-4pXgvDAB8j8Up8FawzwJus">AU3 Behandling av personuppgifter vid Myndigheten för arbetsmiljökunskap</note>
-        <note xml:id="i-FmSTApa3tJBdmqZe9eViXs">§ 18 Bordläggning</note>
-        <note xml:id="i-TUhMpd5uJ9BTa8hT9jvpF2">§ 19 Motion för omedelbar hänvisning</note>
-        <note xml:id="i-FmD3trX43WHvNhSt4VWid8">§ 20 Anmälan om interpellation</note>
-        <note xml:id="i-UR1tDTHHqFkKtuEwRmftGC">§ 21 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-KZxrPRicmwWsVqZsAnDGYu">§ 22 Anmälan om skriftligt svar på fråga</note>
-        <note xml:id="i-4weiXcvffU8utQNrV5PZQd">§ 23 Kammaren åtskildes kl. 16.11.</note>
-        <note xml:id="i-RCzFZN6LexgKE7y13ark5g">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

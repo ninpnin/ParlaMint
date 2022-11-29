@@ -25,7 +25,7 @@
           <licence>http://creativecommons.org/licenses/by/4.0/</licence>
           <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
         </availability>
-        <date when="2022-11-24">2022-11-24</date>
+        <date when="2022-11-29">2022-11-29</date>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -75,6 +75,10 @@
   </teiHeader>
   <text ana="#covid">
     <body>
+      <div type="commentSection">
+        <head xml:id="i-4nFAtSi9DnZ3gsG6qh6VxU">§ 1 Justering av protokoll</head>
+        <note xml:id="i-QhiEjkJCAKvaJx1cxXQFKs">Protokollet för den 30 september justerades.</note>
+      </div>
       <div type="commentSection">
         <head xml:id="i-2ysYJjqy9WxS3pmezZDSDL">§ 2 Avsägelse</head>
         <note xml:id="i-7Lk7qdoWwSrgj94wkWxtDQ">Ålderspresidenten meddelade att Maria Nilsson (L) avsagt sig uppdraget som suppleant i näringsutskottet.</note>
@@ -1242,10 +1246,6 @@
         <note xml:id="i-A3rL7UtJU81uePfAMv15GK">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-C91G2Tpt3KmuTMaq1EBBiX">Vid protokollet</note>
         <note xml:id="i-Knm5Wy5VQ5uXohz28zDcEo">ANNALENA HANELL</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-4nFAtSi9DnZ3gsG6qh6VxU">§ 1 Justering av protokoll</head>
-        <note xml:id="i-QhiEjkJCAKvaJx1cxXQFKs">Protokollet för den 30 september justerades.</note>
       </div>
     </body>
   </text>

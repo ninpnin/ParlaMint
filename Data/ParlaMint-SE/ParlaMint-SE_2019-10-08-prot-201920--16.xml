@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 16 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 16 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--16">2019/20--16</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,18 +75,18 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MUhBrBMigrsrnpZ2CUT8vH">§ 1 Justering av protokoll</head>
         <note xml:id="i-BED3RpiSVQQN5KD9H97GvT">Protokollen för den 17 och 18 september justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PGcHECgipZwz4v3Kvx2Y7M">§ 2 Avsägelser</head>
         <note xml:id="i-ScZdk8onZxDsCzscUs7cvK">Förste vice talmannen meddelade att Jan Björklund (L) avsagt sig uppdraget som ledamot av riksdagen från och med den 1 november.</note>
         <note xml:id="i-MC7wnL8der8Eqr3EbFUnYr">Kammaren biföll denna avsägelse.</note>
         <note xml:id="i-4TPcwpF3skr9JcLLp4346E">Förste vice talmannen meddelade att Karin Karlsbro (L) avsagt sig uppdraget som ersättare i riksdagen.</note>
         <note xml:id="i-KmwvuzPaALFTSNWGbZsrhL">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7dXgpCcrfyJMcxAzpyXqPk">§ 3 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-J1riAesdKzJLGFBx6Zf5Mq">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Qp7KFTNjvXYZ1BVdfFpTgR">Motioner</note>
@@ -242,13 +243,13 @@
         </u>
         <note xml:id="i-FfSpsc6hH6hCqVKgKGmE2U">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QjdezaR2QpjiAaa7BXBxbD">§ 6 Bordläggning</head>
         <note xml:id="i-S2oXARBfoqYH2yy221Fysi">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-DmDixQYaS3AmvUCnpX5Foy">Proposition</note>
         <note xml:id="i-DkRz12FqHuCBnRedgzUVk1">2019/20:21 Lägre kapitalkrav för privata aktiebolag</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AMVgUniq6efiPw3FuxnUth">§ 7 Anmälan om interpellation</head>
         <note xml:id="i-EY21ZBcSaLBGH7LWxD9VWn">Följande interpellation hade framställts:</note>
         <note xml:id="i-8jFZQesB72QeoZGRjCSJRg">den 4 oktober</note>
@@ -256,7 +257,7 @@
         <note xml:id="i-GVRUD85UjTExS4QBBFgoLj">av Lorena Delgado Varas (V)</note>
         <note xml:id="i-S84o2xB7vPexm3j1Q93uNG">till statsrådet Anna Hallberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GwE6VYimwsu3ATh4zngrkd">§ 8 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-WfpZqdj5ZN8BGaX1ym7k2u">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-3hiDDMYbBAUj4rpHAeb37X">den 4 oktober</note>
@@ -292,37 +293,11 @@
         <note xml:id="i-CHXQKTBKnuMfBgAauhz5sK">av Håkan Svenneling (V)</note>
         <note xml:id="i-D5Vt8s3rjjKa5KhJjxR7dw">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MSTkQQNk4sNFrgUodxc2rx">§ 9 Kammaren åtskildes kl. 13.50.</head>
         <note xml:id="i-Hg8bJ38KmsBmkzJmDbE7HB">Sammanträdet leddes av förste vice talmannen.</note>
         <note xml:id="i-UEPBbSmdV5itEZzwtowD5m">Vid protokollet</note>
         <note xml:id="i-5SW7d5yQwGKQsNWfieYy2H">EMMA PAAKKINEN</note>
-        <note xml:id="i-F6NXbCyADTCTaCEsvQn8yW">/Olof Pilo</note>
-        <note xml:id="i-QVSyKxo8DuauY4WPKCHTwP">Innehållsförteckning</note>
-        <note xml:id="i-JxfJstQqtXPq9GGXuuhdfu">§ 1 Justering av protokoll</note>
-        <note xml:id="i-5a2Gpco2ipHhUNLMdRo9eJ">§ 2 Avsägelser</note>
-        <note xml:id="i-HwQ8ij5TemwyWPkkaX5kt4">§ 3 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-GSt2SYwp8FbSqxTyGkhCw2">§ 4 Svar på interpellation 2019/20:9 om Naturvårdsverkets inblandning i norska angelägenheter</note>
-        <note xml:id="i-8ak33Zz9csDL6Voy77sMus" type="speaker">Anf. 1 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-BVBKQGE8DUNoGq6g4QbGkK" type="speaker">Anf. 2 KJELL-ARNE OTTOSSON (KD)</note>
-        <note xml:id="i-Wb594AA28BdvFkUvAyguL1" type="speaker">Anf. 3 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-S168uBhNj8BjVeEfT1jJCy" type="speaker">Anf. 4 KJELL-ARNE OTTOSSON (KD)</note>
-        <note xml:id="i-5aAQZ7tjG1mjyZrSNq6pNW" type="speaker">Anf. 5 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-Dd9gcoqXUuqtg28VXdKS98" type="speaker">Anf. 6 KJELL-ARNE OTTOSSON (KD)</note>
-        <note xml:id="i-YF6p2cxn7GnjsxvuXW28d1" type="speaker">Anf. 7 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-8TVwdZTHWDuPY4ByvPgDuL">§ 5 Svar på interpellation 2019/20:19 om återupprättade relationer mellan Sverige och Israel</note>
-        <note xml:id="i-5Zy9ZztZnJojfrfyCuvy3o" type="speaker">Anf. 8 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-CUaUETRJQkVSVbWBNLCXZW" type="speaker">Anf. 9 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-CcmWjZKnqwRH46WYBWXwba" type="speaker">Anf. 10 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-CiGYD9q7Fo6bi97Epyjiyc" type="speaker">Anf. 11 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-VfQh8Uwrj8p15FbqUjqcXS" type="speaker">Anf. 12 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-R33CwKndKEEQpqWCmFPy9g" type="speaker">Anf. 13 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-LsjzZ8dkw8URTwLQ3DavdG" type="speaker">Anf. 14 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-WPaarS4Z5kjobmaH4zUJ7f">§ 6 Bordläggning</note>
-        <note xml:id="i-EUY1F3u5BQVDZutnTpziUb">§ 7 Anmälan om interpellation</note>
-        <note xml:id="i-CfYU5zEX2pyATSryXihtaZ">§ 8 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-751kkoQiuqRwYRgwb5bTkC">§ 9 Kammaren åtskildes kl. 13.50.</note>
-        <note xml:id="i-4sSUdiXENxSTEmNjyWFW58">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

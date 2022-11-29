@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 38 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 38 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--38">2019/20--38</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,23 +75,23 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HsU9TBUHY6qnwA5NEvFZeK">§ 1 Justering av protokoll</head>
         <note xml:id="i-CSt5NSAD4XxJharHSQMuMB">Protokollen för den 5, 7 och 8 november justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-13WHRjRozyTe6n4BE499xP">§ 2 Anmälan om gruppledare för partigrupp</head>
         <note xml:id="i-oRAiL4GVnevsrzvbC9kFu">T redje vice t almannen meddelade att Sverigedemokraternas partigrupp anmält Henrik Vinge som gruppledare för partigrupp från och med den 25 november .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YASh7yJMH4vtFDgxtkPcDN">§ 3 Anmälan om vice gruppledare för partigrupp</head>
         <note xml:id="i-8AnBVNN3M4G3C5wpHyPtDj">T redje vice t almannen meddelade att Sverigedemokraternas partigrupp anmält Mattias Bäckström Johansson som vice gruppledare för partigrupp från och med den 25 november .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PJmQqjPdt5TMnZvdX7WgK9">§ 4 Meddelande om statsministerns frågestund</head>
         <note xml:id="i-VhCGDDJhHcdfYqgUn4yCu3">Tredje vice talmannen meddelade att vid frågestunden torsdagen den 28 november kl. 14.00 skulle frågor besvaras av statsminister Stefan Löfven .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-A5qT8MiAoXJ39BPM1W5RD">§ 5 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-X3EXBbGi8QDGKoMNkdwMCC">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-Y2NrJ4ZC6akjfntc4Y6H98">Interpellation 2019/20:121</note>
@@ -142,7 +143,7 @@
         <note xml:id="i-XAX3Gjp8HEuBT6PMDaPpAz">Johan Ndure</note>
         <note xml:id="i-Fg96RkC9y31wXZ4nXkYEj">Departementsråd</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2PkFgcfsFZgHoeuPtPq6xv">§ 6 Ärenden för bordläggning</head>
         <note xml:id="i-6noDWczbxSXJoi4Y2Qywim">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-YPWhTEcsSgCzgrqsEWQQkW">Finansutskottets betänkanden</note>
@@ -187,7 +188,7 @@
           <seg xml:id="i-9KDnR9ZXu4iZZqbmTTDxp">Jag skulle också vilja ställa en fråga på temat klimatfinansiering, som ministern var inne på och som också är oerhört viktigt. Det är viktigt att klimatfinansieringen, alltså de pengar som ska föras över till utvecklings ­ länder, inte tas från det ordinarie biståndet. Detta måste vara nya och additionella pengar. Därför vill jag fråga Isabella Lövin: Anser Isabella Lövin att de pengar som Sverige använder till Gröna fonden och annan klimatfinansiering verkligen är ny och additionell finansiering? Är det inte pengar som faktiskt tas från biståndsbudgeten?</seg>
         </u>
         <note type="speaker" xml:id="i-5XSznJ6cnzJWJbY5qQVTnk">Anf. 3 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-28" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-28" ana="#regular">
           <seg xml:id="i-NzrfRsQ523wAR55H65rcJp">Jag får upplysa om att det är det talade ordet som gäller. Det skriftliga interpellationssvaret återges alltså inte i protokollet, utan det är det talade ordet som återges där.</seg>
         </u>
         <note type="speaker" xml:id="i-N35XAYABRVX42Dy5VBrjvT">Anf. 4 Miljö- och klimatminister ISABELLA LÖVIN (MP):</note>
@@ -327,7 +328,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note type="speaker" xml:id="i-PEBugcYZKgTVxMk4NDh2f">Anf. 16 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-121" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-121" ana="#regular">
           <seg xml:id="i-N5kn2cNQj4DiwzM169o63A">Jag påminner om att alla talar via talmannen här i kammaren.</seg>
         </u>
         <note type="speaker" xml:id="i-D4VEpSpqjX5SnUXKAofWLx">Anf. 17 LOUISE MEIJER (M):</note>
@@ -564,7 +565,7 @@
           <seg xml:id="i-6uQfLDMYbNCzLxWJxYNXTv">Regeringen är därför redo att tidigarelägga en översyn av målnivån om en bredare samsyn finns.</seg>
         </u>
         <note xml:id="i-qvY5x1mNDV2nZUL2nB4L7" type="speaker">Anf. 43 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-258" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-258" ana="#regular">
           <seg xml:id="i-mKzRXpYSa1jPiJKUZEwf1">Fru talman! Jag vill börja med att tacka finansministern för svaret.</seg>
           <seg xml:id="i-VeLSTbSZK7hcCFMDLCpmQg">Som en produkt av 90-talskrisen skapades ju överskottsmålet för staten. Sedan dess har detta och det övriga finanspolitiska ramverket tjänat oss väl. Målet handlar ju om att den offentliga sektorns finansiella sparande ska nå en viss nivå för att det ska finnas pengar att använda när tiderna blir sämre. Men sedan 2015 vill finansminister Magdalena Andersson slopa överskottsmålet och ersätta det med ett balansmål som endast kräver att statens inkomster och utgifter går ihop.</seg>
           <seg xml:id="i-85gLotfbsHWZ8X3Z4CYmuE">Sedan finansministern först vädrade sin uppfattning om att överge överskottsmålet har frågan delvis varit begravd, detta sedan en parlamentarisk kommitté 2016 slog fast att överskottsmålet skulle behållas men sänkas från 1 procent till en tredjedels procent av bnp. Den ordningen började att gälla först i år.</seg>
@@ -585,7 +586,7 @@
           <seg xml:id="i-Awc6LfUmzCy3ZDtHWcGBN9">Min bedömning är att det i detta läge därför vore mer väl avvägt att ha ett balansmål. Även med balansmål minskar statsskulden i takt med att ekonomin växer.</seg>
         </u>
         <note xml:id="i-8E2ZvwXX9LEsaU4mcpSX8X" type="speaker">Anf. 45 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-273" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-273" ana="#regular">
           <seg xml:id="i-VRf5o22fTjyGJUsAZoZGYt">Fru talman! Jag tycker inte att det är seriöst att efter elva månader riva upp det finanspolitiska ramverket. Politiken har ju angivit att regelverket ska ses över varannan mandatperiod. Det är inte rimligt att ha den tidshorisonten om man vill att det ska finnas någon trovärdighet för de regler som vi har kommit överens om.</seg>
           <seg xml:id="i-Q8sa8UUb6CuHD8ocSAF1BY">Men efter höstens budgetprocess tyder nog alltmer på att notan för januariöverenskommelsen kommer att bli högre än många hade trott. Re ­ dan dyra punkter i programmet kan utökas i förhandlingarna och dessutom kompletteras med helt nya utgifter. Liberalerna krävde exempelvis ett till ­ skott till kriminalvården som inte fanns i 73-punktsprogrammet. Samtidigt har de punkter som Socialdemokraterna har stridit för, exempelvis familje ­ veckan, inte ens börjat genomföras.</seg>
           <seg xml:id="i-Q34TAfCUL25fbhuRZ99wWA">Till detta ska läggas att LO nu kräver att överskottsmålet ska tas bort. Man vill ha mer pengar till sin önskelista, som innehåller höjda bidrag och ökade offentliga utgifter. Man inser väl att pengarna ändå inte skulle räcka till, och LO kräver därför också höjda skatter.</seg>
@@ -599,7 +600,7 @@
           <seg xml:id="i-F1waKeL28B7HjQDKQtjPMJ">Jag däremot säger att jag är öppen för diskussion. Så kan man också agera.</seg>
         </u>
         <note xml:id="i-2QhgdXah9sVrHfiXWqZT3a" type="speaker">Anf. 47 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-281" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-281" ana="#regular">
           <seg xml:id="i-MVTAH8A8SMBMASFnTzHUGA">Fru talman! Det nuvarande finanspolitiska ramverket är välavvägt, och det är en styrka att det har en förankring över blockgränsen. Att i dagsläget trycka på gaspedalen och kraftigt öka de offentliga utgifterna riskerar att leda till slöseri med de offentliga medlen. Det är medel som kommer att behövas i den kommande lågkonjunkturen. En översyn av målen är ändå planerad att ske vart åttonde år. Till dess kan finansministern gott få hålla i pengarna.</seg>
         </u>
         <note type="speaker" xml:id="i-HvZqPt6RMcnjVC5YWc26te">Anf. 48 Finansminister MAGDALENA ANDERSSON (S):</note>
@@ -691,7 +692,7 @@
           <seg xml:id="i-UWh42iAqTUH3jPV6JFc86K">När det gäller den specifika frågan om en eventuell anslutning till TIPS förutsätter jag att Riksbanken beaktar säkerhets- och tillförlitlighetsaspek ­ ter samt synpunkter från dem som berörs. Jag förutsätter också att Riks ­ banken informerar sin huvudman, riksdagen, och att Mattias Karlsson då inom ramen för sin roll i finansutskottet beaktar de frågor han ställt till mig.</seg>
         </u>
         <note xml:id="i-N6LjffTj4zwTpXHVDT7kVg" type="speaker">Anf. 57 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-335" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-335" ana="#regular">
           <seg xml:id="i-4wzBiyksTB1jujNX9eyTnJ">Fru talman! Jag vill börja med att tacka finansmarknadsministern för svaret.</seg>
           <seg xml:id="i-DxMGf5Q4mAYaRRKY9RJBUp">I takt med digitalisering och innovation förändras svenskt betalväsen i grunden. Målet är att alla svenskar och företag nu ska kunna göra överföringar mellan olika länder i olika valutor. Allt ska gå sekundsnabbt, vara tillgängligt dygnet runt, året om, och tillgodose ökade säkerhetskrav.</seg>
           <seg xml:id="i-LyWX184M9hdYozwpa9dgVF">Utvecklingen har i sin tur lett till högre krav på den bakomliggande infrastruktur som gör allt detta möjligt, så kallade avvecklingstjänster. Infrastrukturen är lika grundläggande som elnät, vägar och järnvägar. Den modell vi har i Sverige, som gör alla betaltransaktioner möjliga, är ett arv från framgångsrik samverkan mellan privata och offentliga aktörer.</seg>
@@ -711,7 +712,7 @@
           <seg xml:id="i-NzjFeBe7PY2z4iyLdVM6ck">Jag får alltså helt enkelt skicka tillbaka frågeställningarna till Mattias Karlsson själv att besvara.</seg>
         </u>
         <note xml:id="i-KCBMSQfubsV36SziC7XDHV" type="speaker">Anf. 59 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-348" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-348" ana="#regular">
           <seg xml:id="i-XdUcL2ttfZnCkUKdcTqwKm">Fru talman! Regeringen har ansvar för den finansiella stabiliteten. Mot den bakgrunden och med tanke på att detta definitivt skulle kunna påverka densamma tycker jag att det finns anledning att ha ett resonemang om detta mellan riksdagen och regeringen och försöka analysera på vilket sätt det skulle kunna ha en skadlig inverkan på den finansiella stabiliteten i framtiden.</seg>
           <seg xml:id="i-7Jay6c2kpNLuZEqkptEybi">I Sverige är vi världsledande när det gäller att skapa bolag som definieras som enhörningar, det vill säga techbolag med ett värde över 1 miljard dollar. Med TIPS kommer den marknadsdynamik som byggts upp under årtionden att försvinna, och i stället monopoliseras marknaden. Det innebär att det kommer att bli omöjligt att vidareutveckla finansiella tjänster för svenska konsumenter och företag med dagens smidighet och utvecklingstakt. Sveriges betalningsmarknad skulle behöva anpassa sig till den långsammare utvecklingstakt som är önskad av hela den europeiska marknaden och Europeiska centralbanken tillsammans.</seg>
           <seg xml:id="i-SpNYodkXz3XpwJeZi6Sg9P">Swish, som i dag kopplar samman 7 miljoner människor, är ett exempel. TIPS skulle innebära att Swish och svenska banker behöver genomgå stora förändringar enbart för att kunna fungera som de gör i dag. Att Riksbanken vill ta sådana risker med vårt av hävd tryggt uppbyggda betalningssystem är för mig en gåta, likaså att vi som politiskt förtroendevalda utsedda i demokratiska val inte heller fått vara med och påverka en sådan för samhället avgörande kritisk frågeställning.</seg>
@@ -727,7 +728,7 @@
           <seg xml:id="i-B24BKRkX4ZkeuqQp92rjYn">Jag tycker alltså att den här debatten är väldigt märklig. Jag tycker att Mattias Karlsson kanske kan använda sin tid bättre än till att ställa frågor till regeringen som faktiskt enligt vår lagstiftning ligger på riksdagens bord.</seg>
         </u>
         <note xml:id="i-63ocL3GfGtB9EjgEZZkxRF" type="speaker">Anf. 61 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-358" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-358" ana="#regular">
           <seg xml:id="i-EpuguExbmfT3AXW6WFXCxM">Fru talman! Riksbankens självständighet avseende penningpolitiken är begriplig. Men frågan bör ställas om detta oberoende verkligen sträcker sig så långt som att, utan en mer genomlysande konsultation med riksdagen och relevanta intressenter, besluta om vilket it-system som ska utgöra svenskt betalningssystem.</seg>
           <seg xml:id="i-HV8x3PQrSWjjkfVrYwJMY4">Jag menar att Riksbanken inte på en djupare nivå har analyserat andra alternativ än outsourcing till TIPS. Mycket tidigt kom man fram till att det var det bästa alternativet, utan att analysera andra alternativ.</seg>
           <seg xml:id="i-N8XpbwKqG5tRNvew9Z9DkE">En sista fråga som vi nog kommer att få se hänga i luften, i varje fall i dag, är om Riksbanken hade gjort en säkerhetskyddsanalys enligt säkerhetsskyddslagen innan man valde alternativet TIPS.</seg>
@@ -1003,7 +1004,7 @@
           <seg xml:id="i-WbiubYTugfajCYBcXUq4QD">Allt detta säger jag inte för att visa på att allt i dag är bra, utan jag säger att väldigt mycket görs och att fokus finns på frågorna. Jag hoppas Thomas Morell även fortsättningsvis kan vara engagerad i dessa viktiga frågor, för jag tror att det behövs. Vi behöver mer ordning och reda på vägarna. Det skulle också skapa mer trygghet på vägarna.</seg>
         </u>
         <note type="speaker" xml:id="i-DenDZXbgnbB8u6nP4onZU3">Anf. 86 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-2db7a1bae7aeb5c3-536" who="#unknown" ana="#regular">
+        <u xml:id="i-2db7a1bae7aeb5c3-536" ana="#regular">
           <seg xml:id="i-FU3T5q4bVV2aZUJhAraVtA">Låt mig påminna om att samtliga talare talar via talmannen.</seg>
         </u>
         <note type="speaker" xml:id="i-PtmscPfkyXKav7TkHmQgYd">Anf. 87 THOMAS MORELL (SD):</note>
@@ -1410,14 +1411,14 @@
         </u>
         <note xml:id="i-QWMtMmKnVehkHZ9hUcgFRP">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3MQDQ5XDwjxxEFnSYxMrRr">§ 23 Bordläggning</head>
         <note xml:id="i-VPoTeDuro1iEwRmW4uEhTX">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-FwVBo4zjVznb7DRssfKkLT">Propositioner</note>
         <note xml:id="i-UEsD24PKGQ3ografmJqtuP">2019/20:43 Ändring i skatteavtalet mellan Sverige och Brasilien</note>
         <note xml:id="i-LXHZWsKUdBCKBLi4hDW8Aj">2019/20:47 Skatt på plastbärkassar</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-358ZVCHHfoXMWcKn9VrYQR">§ 24 Anmälan om interpellationer</head>
         <note xml:id="i-SULUbmxU1JEZNM5dB8igH">Följande interpellationer hade framställts:</note>
         <note xml:id="i-2JatkZBonxqqQ6C5y9Xm3a">den 22 november</note>
@@ -1447,7 +1448,7 @@
         <note xml:id="i-2KdHpQdX7xS2sQDVpNqPo4">av Helena Bouveng (M)</note>
         <note xml:id="i-3zK41mTWydm6AYbVPs2B12">till finansminister Magdalena Andersson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Kei1oFFFZ7UnNsEcBZr8am">§ 25 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-Vy8N5wknGYNHnqjSLnKxS5">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-DdcaAhn27bL3AE26FkRjby">den 22 november</note>
@@ -1504,7 +1505,7 @@
         <note xml:id="i-W1CjPsujVTswvrVGBSuYVx">av Magdalena Schröder (M)</note>
         <note xml:id="i-MZ6yXbGPxosPLN4xS4k13f">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AQZT1K1bM5Bt2y3vixrum2">§ 26 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-W5TewfkfmcoWmBD3Cpco4r">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-3DvrrFe39mCmGr7ZFY99op">den 26 november</note>
@@ -1548,7 +1549,7 @@
         <note xml:id="i-6GdCj99vwKfsoqM4PaCpYt">av Hans Rothenberg (M)</note>
         <note xml:id="i-5j1SGE4ZSthaD8keTokBav">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UKjsxXZo3Pp9TK1RfFVcix">§ 27 Kammaren åtskildes kl. 20.59.</head>
         <note xml:id="i-L1ir97rJ26Hi2wYyGVzvbt">Sammanträdet leddes</note>
         <note xml:id="i-NtcrsnCfCYq4uwfzAdLbiw">av tredje vice talmannen från dess början till och med § 12 anf. 44 (delvis),</note>
@@ -1557,166 +1558,6 @@
         <note xml:id="i-FLyZfkxF9mDUb9ZNLZyELe">av andre vice talmannen därefter till dess slut.</note>
         <note xml:id="i-2NatL5HqfGUyFrHnA1hCN9">Vid protokollet</note>
         <note xml:id="i-GwbixwtUPa4aAoR8EjstCf">EMMA PAAKKINEN</note>
-        <note xml:id="i-CsXqDGp89eLh9SmFxTb1LK">/Olof Pilo</note>
-        <note xml:id="i-XGuVNEhSbtuxYAxvNnxt53">Innehållsförteckning</note>
-        <note xml:id="i-RUBtLijnDnV2QVWCpmUuye">§ 1 Justering av protokoll</note>
-        <note xml:id="i-N5XL4vfQwhSKuF37vwt6Q2">§ 2 Anmälan om gruppledare för partigrupp</note>
-        <note xml:id="i-PmveDkrn1CBmkSxQjS8C8T">§ 3 Anmälan om vice gruppledare för partigrupp</note>
-        <note xml:id="i-XCqRQBPY3QwmS4KpP77ZCX">§ 4 Meddelande om statsministerns frågestund</note>
-        <note xml:id="i-4o4VFqzANNDmeHfiEadiXy">§ 5 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-Mdt4yVtGo5jBodUevekk81">§ 6 Ärenden för bordläggning</note>
-        <note xml:id="i-GtZmbBmTpLTL75GHaTbMgU">§ 7 Svar på interpellation 2019/20:103 om den svenska positionen inför klimattoppmötet COP 25</note>
-        <note xml:id="i-YM7DQ1ikVZmnTtNTAa7k4P" type="speaker">Anf. 1 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-KZWNwi7dxrkb9MfF5cusEp" type="speaker">Anf. 2 JENS HOLM (V)</note>
-        <note xml:id="i-MuudDB391GGFNCjJC7cbKr" type="speaker">Anf. 3 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-TVUMwTHGbFbVgFqHa8QHzN" type="speaker">Anf. 4 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-W1fsqPCFd2t6nofrkui7Wv" type="speaker">Anf. 5 JENS HOLM (V)</note>
-        <note xml:id="i-7VUwUPTJU5zrErZ69hoceu" type="speaker">Anf. 6 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-F5t9j4Qi3puPTtMRpVb3mK" type="speaker">Anf. 7 JENS HOLM (V)</note>
-        <note xml:id="i-9mbdwVWXTAAxn39jjABJSY" type="speaker">Anf. 8 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-8sRqeoh1fpsEeGD4HPoj8v">§ 8 Svar på interpellation 2019/20:114 om minskade utsläpp av växthusgaser</note>
-        <note xml:id="i-KPmttkDAbNnJPhquU3JTmi" type="speaker">Anf. 9 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-BUrMkEC3JJdbUfoNtFV5dw" type="speaker">Anf. 10 LOUISE MEIJER (M)</note>
-        <note xml:id="i-UV3tCsk3i5Dqh5hBFhDRJo" type="speaker">Anf. 11 JENS HOLM (V)</note>
-        <note xml:id="i-LK8UxBStMjmTzhhsmMb3w2" type="speaker">Anf. 12 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-Gue4VYYjgyoUW58qCNvJcZ" type="speaker">Anf. 13 LOUISE MEIJER (M)</note>
-        <note xml:id="i-188UbLpZm5XRY8EU4XTGfq" type="speaker">Anf. 14 JENS HOLM (V)</note>
-        <note xml:id="i-CTxNsMaBQ9EXvX9hvfS56z" type="speaker">Anf. 15 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-4sMa9cpRV13Liiyza36KVy" type="speaker">Anf. 16 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-2Y9XES4qWB1WU1GV7Qy8cG" type="speaker">Anf. 17 LOUISE MEIJER (M)</note>
-        <note xml:id="i-XKYoKoSitH3KYmYzLbAf9U" type="speaker">Anf. 18 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-WMAVDY8o7dAS3aens2JRDf">§ 9 Svar på interpellation 2019/20:85 om Asiatiska infrastrukturinvesteringsbanken</note>
-        <note xml:id="i-WG4tWRNj1C9s9mU4G4p7DN" type="speaker">Anf. 19 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-JpzCSGEs1HjnomACkztL93" type="speaker">Anf. 20 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-XgiDXhBasii6kK6qAJbpg6" type="speaker">Anf. 21 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-MBRJVCJtQMuYc6J83yfML5" type="speaker">Anf. 22 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-8JMRMas1SETHj6rRiRdvGv" type="speaker">Anf. 23 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Xu23YkiehgAAANWrwxkV9h" type="speaker">Anf. 24 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-Ndni1u7gQHuGssbHARpbbZ" type="speaker">Anf. 25 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-VqWagQnoK14ChKHb5m76vT">§ 10 Svar på interpellation 2019/20:96 om reformer för att öka drivkrafter till arbete</note>
-        <note xml:id="i-KPFjobUGUVTgMa8f1jTnj9" type="speaker">Anf. 26 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-MJeLGoeEeY56VnPYq1M3K2" type="speaker">Anf. 27 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-WSTt7dcovD5kB4NxMeZFHK" type="speaker">Anf. 28 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-2qcyHtnpiRYZaDFVNf5HGN" type="speaker">Anf. 29 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-MC96ZmPFRMH71xjoTjSyG7" type="speaker">Anf. 30 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-FYmhSrBhShahGnFFeEVWF9" type="speaker">Anf. 31 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-3qLBx5VR1BBvSfuQeDEL9A" type="speaker">Anf. 32 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-TJ6bYLuKTUpkeADQyM56TT">§ 11 Svar på interpellation 2019/20:98 om åtgärder för fler sysselsatta</note>
-        <note xml:id="i-ALm62ptgaey93WcwQoGnAy" type="speaker">Anf. 33 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-F1RrSV84ZFYm3cppUTPkTR" type="speaker">Anf. 34 KJELL JANSSON (M)</note>
-        <note xml:id="i-6qDMVXXcacYSsGDnM7ShD2" type="speaker">Anf. 35 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-9Lb5nXa2MvjZAGwFj5cay3" type="speaker">Anf. 36 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-HMH7nEx6adLWNY1hgjKyY6" type="speaker">Anf. 37 KJELL JANSSON (M)</note>
-        <note xml:id="i-U5yRUH43XJ35Mm5uRuSmTV" type="speaker">Anf. 38 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-QeEQiYLtkxb8sFYX3YiGjM" type="speaker">Anf. 39 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Tbhuu8CyvmUMTZwfQYH4wY" type="speaker">Anf. 40 KJELL JANSSON (M)</note>
-        <note xml:id="i-9SovWfaPwRz1zYNpF6fgWT" type="speaker">Anf. 41 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-8JYTrXMRRfVPFiQbvjoShC">§ 12 Svar på interpellation 2019/20:107 om slopande av överskottsmålet</note>
-        <note xml:id="i-27Nx8EnJDJsCHkCGLzBMeN" type="speaker">Anf. 42 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Nw4tNMrpZDB2wVKCVpFxAb" type="speaker">Anf. 43 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-GYwbCXuKWXHXF7jxAUQESX" type="speaker">Anf. 44 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-L2QKpmGR6dwTXAFVNnyQmN" type="speaker">Anf. 45 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-59DKuQpSfK4e1jJ66ttKUC" type="speaker">Anf. 46 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-B4j7GZBrFw6yWPLj5ZaDvW" type="speaker">Anf. 47 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-WQXDXwL8QWTBZ5adzw8H9" type="speaker">Anf. 48 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-K7vHjLRm3Ux8jRjH2FKvpx">§ 13 Svar på interpellation 2019/20:119 om kontroll av samordningsnummer</note>
-        <note xml:id="i-Lx2WSXAWrGh886i6zGoEFm" type="speaker">Anf. 49 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-VGRqSzXyQp3Zyg9EXV1a6S" type="speaker">Anf. 50 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-GNksjd6g9EfPYGnnVhq3zU" type="speaker">Anf. 51 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-4fJ22nFCF7HYr7avX4hFhb" type="speaker">Anf. 52 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-9fRsrc1JC5m6n4YZCuB34q" type="speaker">Anf. 53 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-JJwmnWumcArEq6v6UQvvUV" type="speaker">Anf. 54 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-S6n5HQbBgVwsTbF7nCXD53" type="speaker">Anf. 55 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-P1Ukfg5f1eyhpdeduVKiay">§ 14 Svar på interpellation 2019/20:130 om outsourcing av svensk betalningsinfrastruktur</note>
-        <note xml:id="i-R1Sa4Cp19KQin9zkyKeVrL" type="speaker">Anf. 56 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-8yianN92KYs1rA5NhxUN3S" type="speaker">Anf. 57 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-EK6C1Tiq2cAUYgLFh6Pz9J" type="speaker">Anf. 58 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-C2M7TUiNphFt1KAmpFC39X" type="speaker">Anf. 59 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-HaF5VREQ8fBWtv6AAZFKmP" type="speaker">Anf. 60 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-Vj8ypxqqrsJicuu6R4Pcew" type="speaker">Anf. 61 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-VLqGzrtcMf9NqdRxboWDvE" type="speaker">Anf. 62 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-SZ1CCtepPvXmbyqHrBCQ9S">§ 15 Svar på interpellation 2019/20:131 om kreditrestriktioners inverkan på bostadsmarknaden</note>
-        <note xml:id="i-PqJRJc2BxS6j2bRJdNtdE6" type="speaker">Anf. 63 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-JHkqhFF43NGSfTKZJXtPyC" type="speaker">Anf. 64 OLA JOHANSSON (C)</note>
-        <note xml:id="i-8ZWvWfJxLgSemh4XnPLZCn" type="speaker">Anf. 65 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-UL22rq7ZQW4JQ97Xt78tb">(forts.)</note>
-        <note xml:id="i-FARGavmGK5F7epZJwUS8rJ">Ajournering</note>
-        <note xml:id="i-S31Hdrnpq95nGBqVzEDmYg">Återupptaget sammanträde</note>
-        <note xml:id="i-7NX5HPjLU2fBe61JvSbKMC">§ 15 (forts.) Svar på interpellation 2019/20:131 om kreditrestriktioners inverkan på bostadsmarknaden</note>
-        <note xml:id="i-Niswzb7gGBSgnAwYGwNKxP" type="speaker">Anf. 66 OLA JOHANSSON (C)</note>
-        <note xml:id="i-7UBWLD2xSWaeqcNCNW4hGn" type="speaker">Anf. 67 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-D2gMtUwuapJphCGVGoe5xQ" type="speaker">Anf. 68 OLA JOHANSSON (C)</note>
-        <note xml:id="i-6fU82GnnwfJ1fbagLEN4Ms" type="speaker">Anf. 69 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-5yKq6yFrNEg5r4E7AAnNFU">§ 16 Svar på interpellation 2019/20:122 om otryggheten i Malmö efter de senaste skjutningarna</note>
-        <note xml:id="i-PkxkD6K3RT8CMnw7itcEgk" type="speaker">Anf. 70 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-S6QHr2x7xVovcGuG5bkbwp" type="speaker">Anf. 71 ANGELIKA BENGTSSON (SD)</note>
-        <note xml:id="i-3bx3FL2ZKuSdgBuzWXxDNs" type="speaker">Anf. 72 JÖRGEN GRUBB (SD)</note>
-        <note xml:id="i-Rn46gqZLi6Jpn8YBTJmjn8" type="speaker">Anf. 73 LARS ANDERSSON (SD)</note>
-        <note xml:id="i-UoofCP3GbukXz3qBkgwFFr" type="speaker">Anf. 74 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-LkhoSdqtsBfvriv2jb89Bu" type="speaker">Anf. 75 ANGELIKA BENGTSSON (SD)</note>
-        <note xml:id="i-LAHt95tHA8uhXruYfRhfBg" type="speaker">Anf. 76 JÖRGEN GRUBB (SD)</note>
-        <note xml:id="i-EXiDPgKyNAJ8opnbjbtYih" type="speaker">Anf. 77 LARS ANDERSSON (SD)</note>
-        <note xml:id="i-CnpLP7y1fB6CYBwuidXxCf" type="speaker">Anf. 78 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-Q4xGWLNH9XpxgcvnzGfaAY" type="speaker">Anf. 79 ANGELIKA BENGTSSON (SD)</note>
-        <note xml:id="i-4bQBjjZaJ5ZkM4YHYmRcjx" type="speaker">Anf. 80 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-VeefXoe79h6cM1T63jXZ2Q">§ 17 Svar på interpellation 2019/20:133 om kriminaliteten på våra vägar</note>
-        <note xml:id="i-7G5VsYZZLtSzYjdKoCotsy" type="speaker">Anf. 81 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-QDNjK7iYtULjoRbHfegfrg" type="speaker">Anf. 82 THOMAS MORELL (SD)</note>
-        <note xml:id="i-YP2b3KqpTZFHdatYnNeofW" type="speaker">Anf. 83 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-MEzztS3DqNEgv28KSb2MJe" type="speaker">Anf. 84 THOMAS MORELL (SD)</note>
-        <note xml:id="i-Nx85peyuAVXESXsJsr5ytY" type="speaker">Anf. 85 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-95CZ6RgkSebQTQ9XMdesfd" type="speaker">Anf. 86 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-TRwAmYaCeodqeGG5Ev4T6o" type="speaker">Anf. 87 THOMAS MORELL (SD)</note>
-        <note xml:id="i-YHrZ2z5d66eu7KTf7SbuWo" type="speaker">Anf. 88 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-JKnDuATgtepKYz1j4VrnVL">§ 18 Svar på interpellation 2019/20:77 om bristande opartiskhet i utbildningsväsendet</note>
-        <note xml:id="i-HQNfWpEhJ6HsCKq8Qtqia5" type="speaker">Anf. 89 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-Xhwwyvzfkjby729gXBjVUu" type="speaker">Anf. 90 ROBERT STENKVIST (SD)</note>
-        <note xml:id="i-K1oBeCokS6TrCUf9qPAX6i" type="speaker">Anf. 91 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-RDgBHeRHJEi7z9mDaTyVeh" type="speaker">Anf. 92 ROBERT STENKVIST (SD)</note>
-        <note xml:id="i-Sv4oTUkDERjebqyehjqxwr" type="speaker">Anf. 93 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-CnW7p4unkuWmV5BoibmCut" type="speaker">Anf. 94 ROBERT STENKVIST (SD)</note>
-        <note xml:id="i-DgAW7Km6t9s4kFnmvz8NBj" type="speaker">Anf. 95 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-G7n6gLTHtKGDvW5x8rULW2">§ 19 Svar på interpellation 2019/20:83 om digital likvärdighet i skolan</note>
-        <note xml:id="i-SGAZLcUpxCgoRfwkW6fPyE" type="speaker">Anf. 96 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-NctXWiMc9irfWzwzjf5bVB" type="speaker">Anf. 97 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-XiyKf676p7oQAeX8juP8Ed" type="speaker">Anf. 98 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-61pscBqFuZY3aizvwTSwX1" type="speaker">Anf. 99 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-5wLD2tp1q7B5hfhF6GXcpr" type="speaker">Anf. 100 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-TwGmMsKkRY8Wa4538Db8Pv" type="speaker">Anf. 101 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-Nv64DhgwF6oNhW7FaXV6e" type="speaker">Anf. 102 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-GUusGUmaPAwK9m6kQSSXDv">§ 20 Svar på interpellation 2019/20:89 om referenser till Bibeln och religiösa urkunder i grundskolans nya kursplan</note>
-        <note xml:id="i-GTV5fqvqYVasG2JPbjQUSh" type="speaker">Anf. 103 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-2cZS5GzJRa2NYYNQdbhRwp" type="speaker">Anf. 104 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-5JSyJ1htBDQYtPt28LXZEr" type="speaker">Anf. 105 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-LXsyvLbbjoic5yV3jr3Yai" type="speaker">Anf. 106 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-GviVNZrD7r18j9q9Cbd7Sp" type="speaker">Anf. 107 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-Bvk8fLpExxYnXWVFsgvBMv" type="speaker">Anf. 108 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-8x7PVcUvo4LEKPwpKMLZn5" type="speaker">Anf. 109 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-6Ley1vB6BWhuaJoSPtJNvS">§ 21 Svar på interpellation 2019/20:126 om statsbidrag till islamism via Folkbildningsrådet</note>
-        <note xml:id="i-7joVJ7cQJmvznNo61CVr8i" type="speaker">Anf. 110 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-Wwevh394eGzeJT198b3z5U" type="speaker">Anf. 111 JONAS ANDERSSON i Linköping (SD)</note>
-        <note xml:id="i-Lzi4fvzr77Z7txY3qHmP58" type="speaker">Anf. 112 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-6sp5iE1wr1ux3ioKpWFHeW" type="speaker">Anf. 113 JONAS ANDERSSON i Linköping (SD)</note>
-        <note xml:id="i-XXUJFT6rRqhjhHtqndKUbg" type="speaker">Anf. 114 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-U2TipSfXj4mooYjwFXVKPT" type="speaker">Anf. 115 JONAS ANDERSSON i Linköping (SD)</note>
-        <note xml:id="i-RZy9nNgGdCERWoUUYDyweG" type="speaker">Anf. 116 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-CLG6FCGV8Ez2Ytu9x7HzGt">§ 22 Svar på interpellationerna 2019/20:102 och 116 om Svenska institutets marknadsföring av Sverige</note>
-        <note xml:id="i-AdsfjxigzE2b5YR5Ypmks7" type="speaker">Anf. 117 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-KHMQmeuASh9PoTd25fxKYy" type="speaker">Anf. 118 KATARINA BRÄNNSTRÖM (M)</note>
-        <note xml:id="i-7ZTYAFQkbsoDYSwkVwK941" type="speaker">Anf. 119 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-K1WaiVyrg4z8Ph9tyaam47" type="speaker">Anf. 120 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-DaJM9DwujYBcFC1TGq5v2h" type="speaker">Anf. 121 KATARINA BRÄNNSTRÖM (M)</note>
-        <note xml:id="i-F1jYdjAAdaf8uSPmxr4Jpw" type="speaker">Anf. 122 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-7xKXNR5SDC4bDuSJBy22dK" type="speaker">Anf. 123 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-7nfeQgbrkNT3wdrpbbYCpN" type="speaker">Anf. 124 KATARINA BRÄNNSTRÖM (M)</note>
-        <note xml:id="i-xJ3z3YQckDAx9TxRqKYFw" type="speaker">Anf. 125 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-DgUqv7jnBx3ieEqKpQHcYJ" type="speaker">Anf. 126 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-SugwyFFFmTqci4C35uadqw">§ 23 Bordläggning</note>
-        <note xml:id="i-4aLuGP62QKZ43KjLiBNk7S">§ 24 Anmälan om interpellationer</note>
-        <note xml:id="i-75Y7tDEHGuLi2CCf8oLBw8">§ 25 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-3HY1N8HF5jni4frauoPcjA">§ 26 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-AB4sUs3KbfSnf6p2KSA3cs">§ 27 Kammaren åtskildes kl. 20.59.</note>
-        <note xml:id="i-KkskWvoY6714WUhfuPetHw">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

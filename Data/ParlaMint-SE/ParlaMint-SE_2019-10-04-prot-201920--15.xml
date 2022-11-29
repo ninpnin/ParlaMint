@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 15 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 15 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--15">2019/20--15</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,17 +75,17 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KMf3uzVKQaoYgM8ks42WFn">§ 1 Anmälan om faktapromemoria</head>
         <note xml:id="i-AfU8wfq4jFNDCqW65Mb8ZJ">Tredje vice talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-5XpkMkYmFqFG3DcpLVhKAn">2019/20:FPM3 Förordning om fiskemöjligheter i Östersjön 2020 COM(2019) 380 till miljö- och jordbruksutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DYMCyvwAfu7pnpw3752bap">§ 2 Anmälan om granskningsrapport</head>
         <note xml:id="i-RZhSE58fghiT4Y8zKu9CUX">Tredje vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till civilutskottet:</note>
         <note xml:id="i-WWQ1XyryGdopU3SH76iBZ5">RiR 2019:25 Stöd till renovering och energieffektivisering – en riktad satsning till vissa bostadsområden</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UAyP5pTa2MV5UprkjdGzR">§ 3 Ärende för hänvisning till utskott</head>
         <note xml:id="i-47i6gV1jxHPufxMDK65pQK">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-YCd2Yyt5hcsuChF9ebRx6">Skrivelse</note>
@@ -409,7 +410,7 @@
         </u>
         <note xml:id="i-4AHS8xoJkYbbY2D4Vu6FkX">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TpafLgQgGF88nBQhLwJ8NJ">§ 9 Bordläggning</head>
         <note xml:id="i-DeqoJvF6ixqt71EA5Hdu3Q">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-EVLJPVqAdAFhxrBMXPi3gW">Motioner</note>
@@ -418,7 +419,7 @@
         <note xml:id="i-Du5MVeaJdEh1xoYo3iBA7n">med anledning av skr. 2019/20:4 Riksrevisionens rapport om bostadsbidrag och trångboddhet</note>
         <note xml:id="i-89FDm6YaCvb3k85vuctzbk">2019/20:1736 av Solveig Zander och Martina Johansson (C)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SFUmDiZGC1UDDiir9LGt5W">§ 10 Anmälan om interpellationer</head>
         <note xml:id="i-LNSWMMaEb4Fnatqa4oD8if">Följande interpellationer hade framställts:</note>
         <note xml:id="i-TSkFgm7tVkkLSA4Q6pPrRQ">den 3 oktober</note>
@@ -432,7 +433,7 @@
         <note xml:id="i-ABKWeYiA4z1kr93MMXHD2S">av Tobias Andersson (SD)</note>
         <note xml:id="i-AQbekHJToHv9LaxMd9yKz8">till kultur- och demokratiminister Amanda Lind (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SJ6WR3chWm3TgL6zTYcH9Q">§ 11 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-KrRN9yCjVSgtxoGTrto2i5">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-X4AprwVNfiZffSEWjeVRGa">den 3 oktober</note>
@@ -494,62 +495,11 @@
         <note xml:id="i-CqQWKkXHxtLe1qcdydZ5Z7">av Lars Püss (M)</note>
         <note xml:id="i-9GbBRb7pu1vuJ4pYeAFcAe">till försvarsminister Peter Hultqvist (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-X3YAKSwCDXAJNEdRjrXUZk">§ 12 Kammaren åtskildes kl. 10.28.</head>
         <note xml:id="i-5z9Kso7x29SqeqPZfXJPAx">Sammanträdet leddes av tredje vice talmannen.</note>
         <note xml:id="i-Muzww14QvnGVkmKXM3hwsC">Vid protokollet</note>
         <note xml:id="i-T66UZXAxGCio7DaSK5u3Kc">TUULA ZETTERMAN</note>
-        <note xml:id="i-To8S1rpx3UfhMf8Td5zVrn">/Olof Pilo</note>
-        <note xml:id="i-LfxojZXRxKYdrtYbtNdTMW">Innehållsförteckning</note>
-        <note xml:id="i-TNdQChpekzRx4ihBhhkZQA">§ 1 Anmälan om faktapromemoria</note>
-        <note xml:id="i-NuT2sdbWy6FpUvj8Max4VA">§ 2 Anmälan om granskningsrapport</note>
-        <note xml:id="i-Nk8QhDUYURj2r8TyewiTUA">§ 3 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-EsYa7bM6qGgCvWRdbxE1t">§ 4 Svar på interpellation 2019/20:10 om utredning om ordningsvakter</note>
-        <note xml:id="i-3BVcCoUyqQCEYaYm5mGYr9" type="speaker">Anf. 1 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-QM23wvAFVF8Lfp8MoGw4m6" type="speaker">Anf. 2 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-K63S8QdHRe4P1WoUbUVr8m" type="speaker">Anf. 3 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-6gMYE9ahga9jzdQMR3Gjyx" type="speaker">Anf. 4 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-KsQ5zSzPzWLKLBw34moUL" type="speaker">Anf. 5 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-JPZ6JVGt8Q85VZNnLNkP5r" type="speaker">Anf. 6 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-2ohkiRLYqfUjkZAUCubZ69" type="speaker">Anf. 7 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-SenReDnJ4Hhh7xGx6gPocC">§ 5 Svar på interpellation 2019/20:13 om rekrytering av deltidsbrandmän</note>
-        <note xml:id="i-G4fXZiaSoa297dDBmYe7oH" type="speaker">Anf. 8 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-NYrqfd5hvAFFzGQ9SGPRH9" type="speaker">Anf. 9 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-QVZyGxSD5agiAwrki7qXR8" type="speaker">Anf. 10 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-5v3F5qDiLfhBVyGmmTqNkK" type="speaker">Anf. 11 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-8yE2SfeRkzup4wJWkRdDYv" type="speaker">Anf. 12 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-4hJmhtWfpDNU46xJNp6PX1" type="speaker">Anf. 13 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-7FXLvSBo1QpgTuQg3dpSWo" type="speaker">Anf. 14 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-9kJddqexuXyBH3DvNvWymw">§ 6 Svar på interpellation 2019/20:14 om kompetens för utryckningsförare</note>
-        <note xml:id="i-TGkFNHA7BmMwXZsftE7AMu" type="speaker">Anf. 15 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-MrG4jDHiqnQvGesjoRmrcz" type="speaker">Anf. 16 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-7NWFxBTnc7Ja9tQw2CpyWA" type="speaker">Anf. 17 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-P2k86JssZdjpwsMpRhMNHk" type="speaker">Anf. 18 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-7PfzSTuWH4aDrmugQzuEeC" type="speaker">Anf. 19 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-SoEmLBGQiSRbD1JVu6gGjz" type="speaker">Anf. 20 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-FmniR8r8MhsBmxftxq9NK5" type="speaker">Anf. 21 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-CXFiCejjfh2oiMA7Sx7F6R">§ 7 Svar på interpellation 2019/20:1 om ökade arbetsplatsrelaterade olyckor bland elektriker</note>
-        <note xml:id="i-LuQDvfDMV2BfkYfGvCUEBL" type="speaker">Anf. 22 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-8do8at5zSPBHJsDzJxSyw6" type="speaker">Anf. 23 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-E5G5eeU2PTmcwkp49hd9zR" type="speaker">Anf. 24 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-WuAM5A4N4YLSuZhmkTCkMw" type="speaker">Anf. 25 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-7xCJzqxbFnbU8zwQiTQnJr" type="speaker">Anf. 26 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-3bxuSm3Bh7vYS2MPbW6gqd" type="speaker">Anf. 27 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-R97uDAuhwKSGd5WBrvLaZp" type="speaker">Anf. 28 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-BJLYcatvd4HpismrJW9fid">§ 8 Svar på interpellation 2019/20:11 om utvecklingsårets betydelse för bristyrken</note>
-        <note xml:id="i-RN9VRH1ZVfKNFr3fMfWcn5" type="speaker">Anf. 29 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-76gpraoNe7QxiTanQSsYMa" type="speaker">Anf. 30 MATS GREEN (M)</note>
-        <note xml:id="i-PgkeA5dcnTvBSvUon8A5up" type="speaker">Anf. 31 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-VWUJr1rudtW6htCCzn6dNa" type="speaker">Anf. 32 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-2hfP1hW9Naxe7Nfhzev8Em" type="speaker">Anf. 33 MATS GREEN (M)</note>
-        <note xml:id="i-9eMVip4pCd5AQbcuYYGVib" type="speaker">Anf. 34 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-SRijzkhASft99KCGMvXRH5" type="speaker">Anf. 35 MATS GREEN (M)</note>
-        <note xml:id="i-CGEYespZ4oCPXTgBxZwqqL" type="speaker">Anf. 36 Arbetsmarknadsminister EVA NORDMARK (S)</note>
-        <note xml:id="i-HopQe7nzkA8eeqyoFHesGi">§ 9 Bordläggning</note>
-        <note xml:id="i-Dton2c8P3BFRJtJs39BRgH">§ 10 Anmälan om interpellationer</note>
-        <note xml:id="i-AREe6MePgisUPfMBxqxorm">§ 11 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-RXxKMedXkJmBKaWRBghQPo">§ 12 Kammaren åtskildes kl. 10.28.</note>
-        <note xml:id="i-HvpYXNb1eJV4iR3AzQnRiw">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

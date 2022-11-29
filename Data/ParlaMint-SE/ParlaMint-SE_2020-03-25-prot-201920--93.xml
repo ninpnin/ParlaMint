@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 93 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 93 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--93">2019/20--93</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,11 +75,11 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-59E1hW1Z38aAwdiDkAA1JS">§ 1 Justering av protokoll</head>
         <note xml:id="i-XXX9x9ubSXByjuFRLhiVLA">Protokollet för den 4 mars justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FkhxhTMA9xiRwJ4aZX6rWn">§ 2 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-JJGRUozLg27GzbCRtqq2sM">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Lsb4W7XKQ1dcGSVVYuT3CN">Propositioner</note>
@@ -98,7 +99,7 @@
         <note xml:id="i-DsRRisBq34Ygc4cJvbxZ69">COM(2020) 114 till försvarsutskottet</note>
         <note xml:id="i-MteJpZNvSbShdS9NeuMzmN">Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 18 maj .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UeBCP9iTnLc1T57MuU3eBT">§ 3 Ärenden för bordläggning</head>
         <note xml:id="i-Bk56xDur7tVo8RpsiZDBcn">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-3Faivoqn3QQ8WMXkn3CSUa">Finansutskottets betänkande</note>
@@ -107,7 +108,7 @@
         <note xml:id="i-GLxYhJhJXNF7cnNDhYjz7t">2019/20:SkU21 Företag, kapital och fastighet</note>
         <note xml:id="i-GYRix478ggijy1MjdwhmNC">2019/20:SkU23 Mervärdesskatt</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4z55VU8AsSxA8AWq3Yg7kc">§ 4 Finansiella företags uppgifter till Riksgäldskontoret och vissa betaltjänstfrågor</head>
         <note xml:id="i-h8rs6on8eZ25vY6zeNBSs">Finansutskottets betänkande 2019/20:FiU36</note>
         <note xml:id="i-RouehBq7i2bHEkeXspPchz">Finansiella företags uppgifter till Riksgäldskontoret och vissa betaltjänstfrågor (prop. 2019/20:78)</note>
@@ -139,7 +140,7 @@
         <note xml:id="i-23gVLHi2H1BrVePgNu5b6Z">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-Hj3SeK4X1EfGnUHS46xrat">(Beslut fattades under § 11 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Li9SC44gphkVni5WocAbj5">§ 6 Ersättningsbeloppet i insättningsgarantin och vissa andra frågor</head>
         <note xml:id="i-TCdrLPGvw8uYdxGwHSEFgz">Finansutskottets betänkande 2019/20:FiU38</note>
         <note xml:id="i-8vhzmmpZhRArgJCsGS2VCf">Ersättningsbeloppet i insättningsgarantin och vissa andra frågor (prop. 2019/20:80)</note>
@@ -426,7 +427,7 @@
           <seg xml:id="i-EwjZbNnq9TQQrTdfSdyDdq">Jag undrar om du känner till Israels historia, Tobias Andersson . Du verkar mena att palestinierna kommer att gagnas av Israels forskningsframsteg. Men Israels ockupationshistoria visar hur Israel har ockuperat fler och fler områden och infört allt fler begränsningar för det palestinska folket. Man tillåter inte ens hjälporganisationer att ta in läkemedel.</seg>
         </u>
         <note type="speaker" xml:id="i-QdhP3Tgwm4bNkxWbEfaQYn">Anf. 20 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-c34cad7256ebee42-208" who="#unknown" ana="#regular">
+        <u xml:id="i-c34cad7256ebee42-208" ana="#regular">
           <seg xml:id="i-8if7vCunpBHCFTduPqgYsd">Jag påminner ledamöterna om att tala via talmannen och inte dua varandra i debatten.</seg>
         </u>
         <note type="speaker" xml:id="i-TVtWMZy1YrsEAvjkZeet4E">Anf. 21 CAMILLA BRODIN (KD):</note>
@@ -777,7 +778,7 @@
         <note xml:id="i-UCv6BN51M93pfWmLT9xN3W">Återupptaget sammanträde</note>
         <note xml:id="i-CKvBGg3hCviHWHE5t8deHn">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FTXLZ39PpboKoPszMLNhPc">§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-8AcbX2N49tRuZf5D4GQcFK">FiU36 Finansiella företags uppgifter till Riksgäldskontoret och vissa betaltjänstfrågor</note>
         <note xml:id="i-Cy2PY8sZrzRwWYpisHusXQ">Kammaren biföll utskottets förslag.</note>
@@ -1022,7 +1023,7 @@
         <note xml:id="i-JwtmqpFRwvTD2boqn2jFpN">Övriga punkter</note>
         <note xml:id="i-Nhds7CQfmwDevqrBKx7EiC">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6aC6Shb2ucY9Eg2SVYovgv">§ 12 Bordläggning</head>
         <note xml:id="i-HyR9a5tWstnuQ5yoEHYBaU">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-S5ihzTGUuEv3BBboetqDau">Skrivelse</note>
@@ -1031,7 +1032,7 @@
         <note xml:id="i-CAVj8RHQMqhbs2F9NgWES2">med anledning av redog. 2019/20:ER1 Europarådets svenska delegations redogörelse om verksamheten under 2019</note>
         <note xml:id="i-AgvvZqvqPD9wTez1SUiJhE">2019/20:3511 av Kerstin Lundgren och Magnus Ek (båda C)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KJUZ4WmbsLrc4y8LxReQ34">§ 13 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-GNV7USmBdYhtQZUJcu8V1y">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-XZDQzT6BWBVP5S7jXxRT5T">den 24 mars</note>
@@ -1042,7 +1043,7 @@
         <note xml:id="i-FTy6oQ4JcdpnPwdrcCX9rq">av Hans Wallmark (M)</note>
         <note xml:id="i-6gaXUWqXVKWCkb5FYxZ79p">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ACnV6LWHankwUNoAdSJK5g">§ 14 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-TdvBmtx8WjhFV2Jz9idRoX">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-Ldw22GSoEoUnGt8rG4BXRs">den 25 mars</note>
@@ -1071,99 +1072,13 @@
         <note xml:id="i-A6358sQpPEQByK9m96fVoY">av Ola Johansson (C)</note>
         <note xml:id="i-SivUZcNopH4oUByRdjc1LD">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GtE4vqJjAJsnQChwHUJDiw">§ 15 Kammaren åtskildes kl. 16.14.</head>
         <note xml:id="i-PM5zNdGAxz3YFkLurQeqYJ">Sammanträdet leddes</note>
         <note xml:id="i-Ppm2UuJ4fDyE2Fes2x9fhF">av tredje vice talmannen från dess början till och med § 9 anf. 26 (delvis) och</note>
         <note xml:id="i-3HWGsHRxw8wPXxk3wiB7um">av andre vice talmannen därefter till dess slut.</note>
         <note xml:id="i-BXgmAtnTmk1tJuDSJq7Gmq">Vid protokollet</note>
         <note xml:id="i-PzeUCruYMPdQEWKPmSwmZR">ANNA ASPEGREN</note>
-        <note xml:id="i-7YWwFYZFs2BgCTHDBrrnTD">/ Olof Pilo</note>
-        <note xml:id="i-Wy5JnWG7m1GaNNdx95LKx2">Innehållsförteckning</note>
-        <note xml:id="i-7KYB2hUvzQa7uR7ozXrS1h">§ 1 Justering av protokoll</note>
-        <note xml:id="i-Ds7JEaNK7Cz8q5WrgUuFFF">§ 2 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-FxfNPrR6fuomobaQgxUFog">§ 3 Ärenden för bordläggning</note>
-        <note xml:id="i-A69RBTY23RXxKbpCPkujQN">§ 4 Finansiella företags uppgifter till Riksgäldskontoret och vissa betaltjänstfrågor</note>
-        <note xml:id="i-Qw33BQT11YRSwxoqGkn8cW">Finansutskottets betänkande 2019/20:FiU36</note>
-        <note xml:id="i-F6dTw63wsLhNnHPCv91yPr">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-B1xpbNxdRfpWyyvvD3BHS3">§ 5 Presentation av betalningssätt vid marknadsföring av betaltjänster online</note>
-        <note xml:id="i-XeLAiQWJCDM8g2Tc1o9rjt">Finansutskottets betänkande 2019/20:FiU37</note>
-        <note xml:id="i-Bb4F5dM7YVudz6WFNewUQh" type="speaker">Anf. 1 FREDRIK STENBERG (S)</note>
-        <note xml:id="i-Bjc6cU1SbD5kLFqEkK9hpS" type="speaker">Anf. 2 EDWARD RIEDL (M)</note>
-        <note xml:id="i-CTisHcvQoGcW87UYAtNpkF">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-Aiik6m3vLSnAXMfxv8yptT">§ 6 Ersättningsbeloppet i insättningsgarantin och vissa andra frågor</note>
-        <note xml:id="i-TYBKstQ2AjJtgR9TZf9EP6">Finansutskottets betänkande 2019/20:FiU38</note>
-        <note xml:id="i-CPR3PMr5RByncMRYj3Asup">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-BbxXNLqrCoNQYn5QVtKt3Z">§ 7 Arbetsrätt</note>
-        <note xml:id="i-2CSSBVWam8NNmnPmpt29zY">Arbetsmarknadsutskottets betänkande 2019/20:AU8</note>
-        <note xml:id="i-VDNAt68dhzepTkRxoA8U86" type="speaker">Anf. 3 MATS GREEN (M)</note>
-        <note xml:id="i-LyzyzVo78ZnH9R956eW9tE" type="speaker">Anf. 4 MAGNUS PERSSON (SD)</note>
-        <note xml:id="i-Uyoa7b3xdzLCqWbMYYTKrF" type="speaker">Anf. 5 ALI ESBATI (V)</note>
-        <note xml:id="i-FsP5s4ZFPVvDbSfDjceHyR" type="speaker">Anf. 6 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-XV65G4tjGKQYNGpk4Vsf5p" type="speaker">Anf. 7 GULAN AVCI (L)</note>
-        <note xml:id="i-LEfekq2gn6iSZh4dE4vRQg" type="speaker">Anf. 8 HELÉN PETTERSSON (S)</note>
-        <note xml:id="i-HUKtBPVcFvkYNgbuVyvhT4" type="speaker">Anf. 9 MARTIN ÅDAHL (C)</note>
-        <note xml:id="i-2XKnnio1CcJpYuGjEjhbQ1">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-UTcjVv3BaLsqb9Gj1Mm6U1">§ 8 Tydligare regler vid konsumentavtal</note>
-        <note xml:id="i-JKvMreQaL1MEcuv6RB6Zmc">Civilutskottets betänkande 2019/20:CU19</note>
-        <note xml:id="i-7nWr8FCCCym1g36biEQB2V" type="speaker">Anf. 10 MARTINA JOHANSSON (C)</note>
-        <note xml:id="i-NLraLXtkXgJ1vsVjzDd5Rg" type="speaker">Anf. 11 JOHAN LÖFSTRAND (S)</note>
-        <note xml:id="i-ED7argRWmgbmweMPJjupKi">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-BuKuri1eqN6EeskaKzan8v">§ 9 Näringspolitik</note>
-        <note xml:id="i-C8wWWUE9wwQaiV5aTE3zK7">Näringsutskottets betänkande 2019/20:NU12</note>
-        <note xml:id="i-CXMMjwetH87qdgUvmPEGnW" type="speaker">Anf. 12 LARS HJÄLMERED (M)</note>
-        <note xml:id="i-WFvvnbmFDkGGv9PF2mguL9" type="speaker">Anf. 13 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-XwUTJ7eiF7hcAbK1bY8ayr" type="speaker">Anf. 14 PETER HELANDER (C)</note>
-        <note xml:id="i-SiLNFXsxWh27dnaBTeqEAX" type="speaker">Anf. 15 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-Qjp68ZEkiXsZps6DQY4tKk" type="speaker">Anf. 16 TOBIAS ANDERSSON (SD) replik</note>
-        <note xml:id="i-EQzWoJ2V4gmMHHe6dGYraJ" type="speaker">Anf. 17 LORENA DELGADO VARAS (V) replik</note>
-        <note xml:id="i-SguZXi1Hi4X8fxh3LCqL2a" type="speaker">Anf. 18 TOBIAS ANDERSSON (SD) replik</note>
-        <note xml:id="i-Web1S9aZtQ8ukE6422V9aP" type="speaker">Anf. 19 LORENA DELGADO VARAS (V) replik</note>
-        <note xml:id="i-P4eCNPLX8sc8rxvED6EVVN" type="speaker">Anf. 20 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-Hztd17agMUghm6R5sQTQJX" type="speaker">Anf. 21 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-S4bmrUQ7qJRh7PUJz8ppFH" type="speaker">Anf. 22 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-CzsKuqAPyEPvnwQQdX3Bvc" type="speaker">Anf. 23 HELENE HELLMARK KNUTSSON (S)</note>
-        <note xml:id="i-RdUEoyfdhtjiyveb1mVxR2" type="speaker">Anf. 24 LARS HJÄLMERED (M) replik</note>
-        <note xml:id="i-UFxb5ngPibjECkqvUDpDP" type="speaker">Anf. 25 HELENE HELLMARK KNUTSSON (S) replik</note>
-        <note xml:id="i-SfJgHckCAGsKA3MnFaM84d" type="speaker">Anf. 26 LARS HJÄLMERED (M) replik</note>
-        <note xml:id="i-NA2CjqMn7JinTjo5o6qBUq" type="speaker">Anf. 27 HELENE HELLMARK KNUTSSON (S) replik</note>
-        <note xml:id="i-7zYJUVN3jhHet4xyUZPCxw" type="speaker">Anf. 28 LORENTZ TOVATT (MP)</note>
-        <note xml:id="i-TKJMwYnZXEkBGvVyvQVwrv" type="speaker">Anf. 29 TOBIAS ANDERSSON (SD) replik</note>
-        <note xml:id="i-Nx22XNruUwpDFGb5LbeA5V" type="speaker">Anf. 30 LORENTZ TOVATT (MP) replik</note>
-        <note xml:id="i-HeRh5iMysN6tswqdE7S4LY" type="speaker">Anf. 31 TOBIAS ANDERSSON (SD) replik</note>
-        <note xml:id="i-JEVn4oWgrxeCB8ERWJPzMV" type="speaker">Anf. 32 LORENTZ TOVATT (MP) replik</note>
-        <note xml:id="i-9f1SEhrTiJpeYWk7Pzx9dw">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-Y9x4iUQnhL8MyxBsTEmGH3">§ 10 Regional tillväxtpolitik</note>
-        <note xml:id="i-Wdjtbunq49rw5RSwX58hcu">Näringsutskottets betänkande 2019/20:NU13</note>
-        <note xml:id="i-XWpavPsdbs3BENVvVDvKBd" type="speaker">Anf. 33 LARS HJÄLMERED (M)</note>
-        <note xml:id="i-F4Qj2ie2UWrnYcz8kiEUn6" type="speaker">Anf. 34 ERIC PALMQVIST (SD)</note>
-        <note xml:id="i-NuiPcGb11bNqqyKmNAX6q2" type="speaker">Anf. 35 PETER HELANDER (C)</note>
-        <note xml:id="i-9GKLgBtnwYvFPbDsLXAXdX" type="speaker">Anf. 36 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-HhTxaJfqtfXycdM2nyWUZz" type="speaker">Anf. 37 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-CsX91adUu1Rqr8V7BipehM" type="speaker">Anf. 38 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-X3fbozMzUUMEoxm3w57137" type="speaker">Anf. 39 MATHIAS TEGNÉR (S)</note>
-        <note xml:id="i-G4Ws661PAMSGc9KJFsHBP8" type="speaker">Anf. 40 LARS HJÄLMERED (M) replik</note>
-        <note xml:id="i-XQ5iqz8VukWAAn95Zwc7MA" type="speaker">Anf. 41 MATHIAS TEGNÉR (S) replik</note>
-        <note xml:id="i-2wSsPoyTq96MYiLqrFvcgn" type="speaker">Anf. 42 LARS HJÄLMERED (M) replik</note>
-        <note xml:id="i-MnHow8LaKhpvh5wwRGtoGr" type="speaker">Anf. 43 MATHIAS TEGNÉR (S) replik</note>
-        <note xml:id="i-JYfyzriFzF5upgFzi2LaNH" type="speaker">Anf. 44 MARIA GARDFJELL (MP)</note>
-        <note xml:id="i-PzgwAYPJVCbuLH1U8YfDaj" type="speaker">Anf. 45 ERIC PALMQVIST (SD)</note>
-        <note xml:id="i-H3G6nLfpzqAghZsBuDjD1V">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-3KkxnfhdJtK6PcPWpe6oru">Ajournering</note>
-        <note xml:id="i-CaBqvCoi8zZiVvmmpNSfJR">Återupptaget sammanträde</note>
-        <note xml:id="i-LMro1xtDok3ZpvXb1NUctS">§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-NsEtuv15JbLkV1o1bSoYvb">FiU36 Finansiella företags uppgifter till Riksgäldskontoret och vissa betaltjänstfrågor</note>
-        <note xml:id="i-2FMuEqEnC2UA7vWn95JrEP">FiU37 Presentation av betalningssätt vid marknadsföring av betaltjänster online</note>
-        <note xml:id="i-EkPrVx9KgFXySTCTUdDXuv">FiU38 Ersättningsbeloppet i insättningsgarantin och vissa andra frågor</note>
-        <note xml:id="i-UuetFdxo959kVngem6AjwW">AU8 Arbetsrätt</note>
-        <note xml:id="i-Gb36cZmmgJ99cZr8jr8Bo5">CU19 Tydligare regler vid konsumentavtal</note>
-        <note xml:id="i-NgfFrM7TiwawzhSVwcuUmH">NU12 Näringspolitik</note>
-        <note xml:id="i-3q632bEmdgU4Zy98qkN6Q1">NU13 Regional tillväxtpolitik</note>
-        <note xml:id="i-G6pSZkMNo1AZuFrtcNbtdZ">§ 12 Bordläggning</note>
-        <note xml:id="i-3jeKKyqvb6XKNJD1ZBdsKV">§ 13 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-FGy2vGF8AtAdNxUqtpkoK1">§ 14 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-EYg98DGrQ1LqUaLktxS55e">§ 15 Kammaren åtskildes kl. 16.14.</note>
-        <note xml:id="i-HbuoKWCdyyVpGiD71pnoPs">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

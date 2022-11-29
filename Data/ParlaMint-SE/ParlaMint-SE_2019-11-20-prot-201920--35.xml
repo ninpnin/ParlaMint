@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 35 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 35 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--35">2019/20--35</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8upmtahfwgha1fXuN8EiaU">§ 1 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-C1siVUHHRZVbRNHXv4F1QC">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Ax3ubsc1omPThFSb2BB7Wm">Proposition</note>
@@ -86,7 +87,7 @@
         <note xml:id="i-9roPWMf8u4qLzKTLNipLc1">COM(2019) 581 till miljö- och jordbruksutskottet</note>
         <note xml:id="i-BRMHFufWa4FMYvz21u9KgZ">Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 4 februari 2020 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Chit46KRU3VDAEVNEwF1PE">§ 2 Ärenden för bordläggning</head>
         <note xml:id="i-EeDaX45t1Dp9qe4HeLRBHh">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-ThNxD6NGxhErA9F9ew3v2y">Utbildningsutskottets betänkanden</note>
@@ -344,7 +345,7 @@
           <seg xml:id="i-VtjDL9rcaCwz1uhQbP9GsB">Inser inte Karolina Skog att Miljöpartiets politik, utöver hyckleriet, allvarligt skadar möjligheten att bo och leva på den svenska landsbygden och framför allt möjligheten att driva de gröna näringar som Miljöpartiet talar sig så varmt för?</seg>
         </u>
         <note type="speaker" xml:id="i-rraFAhnBdCZWA8621B7pf">Anf. 17 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-15b0e4abe521ec69-177" who="#unknown" ana="#regular">
+        <u xml:id="i-15b0e4abe521ec69-177" ana="#regular">
           <seg xml:id="i-XXWruFvYFd5Gf65cU7QzMG">Jag vill påminna om att det här är en debatt om kostnadsutjämning.</seg>
         </u>
         <note type="speaker" xml:id="i-PW1TfH6Kg3QTo4T1BkULxz">Anf. 18 KAROLINA SKOG (MP) replik:</note>
@@ -670,7 +671,7 @@
         <note xml:id="i-8AkpgRuXWFCacFKDkDs2e3">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-ThbAZ4uX88FdCM9bSvnYVp">(Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TUUcJvXGhUt4Ti3zuYDK7G">§ 6 Ny lag om Säkerhetspolisens behandling av personuppgifter</head>
         <note xml:id="i-MTno84E7BwJMBSJorsXgkt">Justitieutskottets betänkande 2019/20:JuU9</note>
         <note xml:id="i-QD5jiAiZuEGNKhc6Fsnnny">Ny lag om Säkerhetspolisens behandling av personuppgifter (prop. 2018/19:163 )</note>
@@ -699,7 +700,7 @@
         <note xml:id="i-H7truJ2ETgkAG8nmDcXPha">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-5QbFuFMAr4jNKjh9xE2zBB">(Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-461mEqfgse8m43Pgd2rona">§ 8 Skatteregler för tjänstepensionsföretag</head>
         <note xml:id="i-Cf5p8kykf6nXLNvA7mVViN">Skatteutskottets betänkande 2019/20:SkU5</note>
         <note xml:id="i-QyaAktdDRjYqj2VxM1jEF6">Skatteregler för tjänstepensionsföretag (prop. 2018/19:161)</note>
@@ -707,7 +708,7 @@
         <note xml:id="i-Cvb8umTtTvrpFj4H9WFadJ">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-GAGNXHsZzphLxUiyqasiYa">(Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-29awRHaG9JA27owv4Tcksm">§ 9 Rätt till utbildning i förskoleklass för barn till beskickningsmedlemmar från tredjeland</head>
         <note xml:id="i-BKgUA9k1Gp9MFVLGWJkrQT">Utbildningsutskottets betänkande 2019/20:UbU6</note>
         <note xml:id="i-TKySfeqjBaGbWMVZ1PnHnx">Rätt till utbildning i förskoleklass för barn till beskickningsmedlemmar från tredjeland (prop. 2018/19:166)</note>
@@ -781,7 +782,7 @@
         <note xml:id="i-BwtZkaKNy8MyH4MEKSYnx7">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-SaFEYPeSCQX6pVjwECtdpm">(Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QMN3bgSC7cMVJQLozt4thq">§ 11 Digitaliserade hyresförhandlingar</head>
         <note xml:id="i-SvTHDnBTgv7kMLJph3xKd">Civilutskottets betänkande 2019/20:CU4</note>
         <note xml:id="i-6bMPCwEE64zbZ4a78CVtny">Digitaliserade hyresförhandlingar (prop. 2019/20:8)</note>
@@ -1182,7 +1183,7 @@
           <seg xml:id="i-JC5TtbmXxNCEkYAnT6kgsu">Jag tycker ändå att det var lite imponerande att USA:s roll kom upp i ditt replikskifte med Fredrik Malm och att ni erkände att USA finns med. Innan dess var USA helt osynligt i den här debatten.</seg>
         </u>
         <note type="speaker" xml:id="i-CL9ez68v8o81X1UqPZb1cR">Anf. 87 TJÄNSTGÖRANDE ÅLDERSPRESIDENTEN:</note>
-        <u xml:id="i-15b0e4abe521ec69-687" who="#unknown" ana="#regular">
+        <u xml:id="i-15b0e4abe521ec69-687" ana="#regular">
           <seg xml:id="i-9Z2uSpFzNnfjko2RBkx4XZ">Jag vill erinra ledamoten om att samtalet sker via talmannen eller som nu ålderspresidenten. Vi duar inte varandra.</seg>
         </u>
         <note type="speaker" xml:id="i-6Ddztm7eSpvWLznL1aL9gL">Anf. 88 HANS ROTHENBERG (M) replik:</note>
@@ -1550,7 +1551,7 @@
         <note xml:id="i-SZoHUtZTBkiHGY6vC9KeQr">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-TVrZbp5DwtWeUwCoyNzt4V">( Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3YcR12E8MtpPVNXPfkgXVM">§ 15 Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2018</head>
         <note xml:id="i-Rze5g1xZWiXAKpxhGhQeNK">Socialutskottets betänkande 2019/20:SoU2</note>
         <note xml:id="i-Kf8VrSvUmjGNHevZ69HYq4">Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2018 (skr. 2018/19:146)</note>
@@ -1752,14 +1753,14 @@
         <note xml:id="i-L6tMEqBgxoaG6Zfx3WFYDH">Kammaren biföll utskottets förslag.</note>
         <note xml:id="i-SkFPVrpCeQh1Uc6AwSSqz7">Meddelande om inställd votering</note>
         <note type="speaker" xml:id="i-TdMVESgZMc1YfdJ7BGJDFu">Anf. 119 TALMANNEN:</note>
-        <u xml:id="i-15b0e4abe521ec69-910" who="#unknown" ana="#regular">
+        <u xml:id="i-15b0e4abe521ec69-910" ana="#regular">
           <seg xml:id="i-BUbTTzgw5a7pjAgVHRfFx8">Därmed var dagens votering avslutad, och här kommer ett tillkännagivande: Jag kallade in kammaren till förtroendeomröstning i fredags. För att kompensera kammaren för det har jag beslutat att ställa in morgondagens votering.</seg>
         </u>
         <kinesic type="applause">
           <desc>(Applåder)</desc>
         </kinesic>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-D7qT28AYFZ6bFuxjx1ffTK">§ 17 Anmälan om interpellation</head>
         <note xml:id="i-Fx3WestuPVjqJVYevTZz2L">Följande interpellation hade framställts:</note>
         <note xml:id="i-4cbNxFMft36LXC8MuGevcm">den 19 november</note>
@@ -1767,7 +1768,7 @@
         <note xml:id="i-CDNdJyH1LkFvVKskhtPHoM">av Hanna Gunnarsson (V)</note>
         <note xml:id="i-MB4wDWVAgn7mbYCJ2Y63Po">till försvarsminister Peter Hultqvist (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Qm1RSgk1AdTsduaDWjrhGD">§ 18 Anmälan om fråga för skriftligt svar</head>
         <note xml:id="i-RTC2jpP68dk6RHQ3FMMQp3">Följande fråga för skriftligt svar hade framställts:</note>
         <note xml:id="i-Qouxx1acMewhBh3fbA4kmP">den 19 november</note>
@@ -1775,7 +1776,7 @@
         <note xml:id="i-D2B9PGaFhgWvYkY1GActc1">av Hans Rothenberg (M)</note>
         <note xml:id="i-7KRp2ev75vzdEk4FSVPx1p">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9JzUrZjTXfvUWwJqCXpNLa">§ 19 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-VuTbvBRUne7oUJpRcHACS">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-9TGiadwJMAuPJGpJkoBRtY">den 20 november</note>
@@ -1792,7 +1793,7 @@
         <note xml:id="i-YVx61TbCUqLcdu18iwUiXj">av Katarina Brännström (M)</note>
         <note xml:id="i-CxPPgEsJvs5BmXCNTa7ZT5">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WnCi4yqAwrqceDLGL1MyNM">§ 20 Kammaren åtskildes kl . 16.11.</head>
         <note xml:id="i-7bY9N5QD1sQGN6GYukFhK2">Sammanträdet leddes</note>
         <note xml:id="i-W4oy8TDbtMgHQhu9wgkRMz">av tredje vice talmannen från dess början till och med § 4 anf. 32 (delvis),</note>
@@ -1802,192 +1803,6 @@
         <note xml:id="i-4JTJ9GkqD8o3rA44BgUryA">av talmannen därefter till dess slut.</note>
         <note xml:id="i-8oYXBQ7WRqSeuSzeKWsQLD">Vid protokollet</note>
         <note xml:id="i-B6bH86paj1taki8s5GySA6">ANNA ASPEGREN</note>
-        <note xml:id="i-3iscribr7EfDJ3Aonabxm5">/Olof Pilo</note>
-        <note xml:id="i-Q1Wg5Dc9nxyEo8DGsP4bu7">Innehållsförteckning</note>
-        <note xml:id="i-XmWsFCXPPvMx5Lvf9bQdwC">§ 1 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-3HbUmvyh8vfziBEuyucFKK">§ 2 Ärenden för bordläggning</note>
-        <note xml:id="i-ScYNwDLwfxtHKhQetyTN41">§ 3 Ändringar i kostnadsutjämningen för kommuner och landsting</note>
-        <note xml:id="i-4m4Gu9wyu5HAXA7QodJA34">Finansutskottets betänkande 2019/20:FiU18</note>
-        <note xml:id="i-AZsZv3MS2ZVmkqhkGBx3bJ" type="speaker">Anf. 1 JAN ERICSON (M)</note>
-        <note xml:id="i-CRHnRhJCyfEd9cUPFwQF3A" type="speaker">Anf. 2 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-SRRvBQTAbQbd6qhW92dWSX" type="speaker">Anf. 3 JAKOB FORSSMED (KD)</note>
-        <note xml:id="i-K38MqjK7sbU7VkjyqyBRae" type="speaker">Anf. 4 JOAR FORSSELL (L)</note>
-        <note xml:id="i-ATpgxSYkaUtaq6oHXxNMbj" type="speaker">Anf. 5 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-DC7U8JaSVJc4nAHpMmJVvd" type="speaker">Anf. 6 JOAR FORSSELL (L) replik</note>
-        <note xml:id="i-KgNE3veLmH5KCL2ohbhj3W" type="speaker">Anf. 7 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-3gVr2z2VD5vV6X3xXDj3Py" type="speaker">Anf. 8 JOAR FORSSELL (L) replik</note>
-        <note xml:id="i-Qown9y24kioAX3v1U7Vpaf" type="speaker">Anf. 9 INGEMAR NILSSON (S)</note>
-        <note xml:id="i-NdvEUs3iX6kEbKkgwq8jBB" type="speaker">Anf. 10 JAN ERICSON (M) replik</note>
-        <note xml:id="i-2pd3DHvJV2rhc3q5NJVEm5" type="speaker">Anf. 11 INGEMAR NILSSON (S) replik</note>
-        <note xml:id="i-AfPDdJMBRiSSima5HERs1T" type="speaker">Anf. 12 JAN ERICSON (M) replik</note>
-        <note xml:id="i-4WFSdzgU19gW9z3TNfbwR1" type="speaker">Anf. 13 INGEMAR NILSSON (S) replik</note>
-        <note xml:id="i-Q2Z8r6XAkYvcftpS4ttpEd" type="speaker">Anf. 14 EMIL KÄLLSTRÖM (C)</note>
-        <note xml:id="i-9MFp7U3may87xcYPfgZmxW" type="speaker">Anf. 15 KAROLINA SKOG (MP)</note>
-        <note xml:id="i-675YrqCyqVLHZJpB7Txg2c" type="speaker">Anf. 16 JAN ERICSON (M) replik</note>
-        <note xml:id="i-3G1Tat6eUi5XfDraoZSWZ1" type="speaker">Anf. 17 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-4VTJfdy9bTieMfREMMg8wh" type="speaker">Anf. 18 KAROLINA SKOG (MP) replik</note>
-        <note xml:id="i-2DxJUUFQyaxB28k3koMiMy" type="speaker">Anf. 19 JAN ERICSON (M) replik</note>
-        <note xml:id="i-4hKYTumyt8Q9jbBPmp8s6L" type="speaker">Anf. 20 KAROLINA SKOG (MP) replik</note>
-        <note xml:id="i-T8bDjG49anuBJyU3qeTNGz" type="speaker">Anf. 21 JOAR FORSSELL (L) replik</note>
-        <note xml:id="i-4TcppXfUfVssD2812rh8uQ" type="speaker">Anf. 22 KAROLINA SKOG (MP) replik</note>
-        <note xml:id="i-A1ptbumADBUqQxGtacLU3G" type="speaker">Anf. 23 JOAR FORSSELL (L) replik</note>
-        <note xml:id="i-T8KVm9hPg4AagDztEAQ2B" type="speaker">Anf. 24 KAROLINA SKOG (MP) replik</note>
-        <note xml:id="i-QUZRaFoGvNWoBJbK6bfEZD" type="speaker">Anf. 25 LARS THOMSSON (C)</note>
-        <note xml:id="i-3HNxgyfjPfMagGV68vGNSV">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-6iH75AbxsJDjtB7ejhCKV9">§ 4 Brott mot förtroendevalda</note>
-        <note xml:id="i-UJFo9AtxxntbiU8eJE1tN5">Justitieutskottets betänkande 2019/20:JuU6</note>
-        <note xml:id="i-9tqTAdyiCf5Fp92tirqwUr" type="speaker">Anf. 26 JOAKIM SANDELL (S)</note>
-        <note xml:id="i-SFf9mywMemLMkosQDFJ2ww" type="speaker">Anf. 27 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-MXH4d7XAKYbk44VbhDFHUr" type="speaker">Anf. 28 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-EC5P6XfHdmsVz9yWPGWfca" type="speaker">Anf. 29 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-4VbCtNxPo4CuKnLnQVSBbp" type="speaker">Anf. 30 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-Vtttnr2KF582cqKf3HvgsU" type="speaker">Anf. 31 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-Ucmpbf6WPmqEuvXv2KfNrE" type="speaker">Anf. 32 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-QRVCTy3K8F7RhRUfywubC6" type="speaker">Anf. 33 RASMUS LING (MP)</note>
-        <note xml:id="i-7ZU8WF7YhT4pmkZUZMxfFf">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-LRCAhCpBSjRZ6GouN1UejA">§ 5 Ett stärkt straffrättsligt skydd för blåljusverksamhet och myndighetsutövning</note>
-        <note xml:id="i-AbdkBhW4z5hvd97N1zd7ae">Justitieutskottets betänkande 2019/20:JuU8</note>
-        <note xml:id="i-HwUHBG1wsYbp9nibpKXebx" type="speaker">Anf. 34 CARINA ÖDEBRINK (S)</note>
-        <note xml:id="i-YLqrSfWZgfwy5GdHu11fWE" type="speaker">Anf. 35 JOHAN FORSSELL (M)</note>
-        <note xml:id="i-N9oaqfCYdQepPrnRYPS6LV" type="speaker">Anf. 36 KATJA NYBERG (SD)</note>
-        <note xml:id="i-9KPkULoqeyQ22sTemjGSP7" type="speaker">Anf. 37 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-E5Gc3AJp1q745CS9moWyhC" type="speaker">Anf. 38 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-BAWb22iHB5ALiUmc4wTX27" type="speaker">Anf. 39 JOHAN HEDIN (C)</note>
-        <note xml:id="i-3RRUp8EaHMoTo2GtxJYtVJ" type="speaker">Anf. 40 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-CQTa8HGMrN3xEo25vtaByp">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-39ToTDvQAjkbNdq4HzGe1s">§ 6 Ny lag om Säkerhetspolisens behandling av personuppgifter</note>
-        <note xml:id="i-Efa9ZVogfZHuzyT4WL2DVR">Justitieutskottets betänkande 2019/20:JuU9</note>
-        <note xml:id="i-TKzhSQFbEUXyPgSom6vU59">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-RNQfFmn38omCp2zaS2x4kp">§ 7 Skärpta straffrättsliga sanktioner mot företag</note>
-        <note xml:id="i-Auxt5pELsQFG9k59teiWsF">Justitieutskottets betänkande 2019/20:JuU10</note>
-        <note xml:id="i-4o1dwygRXGLSX1hp24QQgj" type="speaker">Anf. 41 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-BHDWUSeQHV8dwMcP5Yucy1" type="speaker">Anf. 42 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-HUYW3oJMMc71yZcDYRYZgT">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-UDaDx7VQFYDnWG5z71dbbi">§ 8 Skatteregler för tjänstepensionsföretag</note>
-        <note xml:id="i-5fUVTxeTVcPpZsZ4LqnoTT">Skatteutskottets betänkande 2019/20:SkU5</note>
-        <note xml:id="i-YNXRrw5GNK5vdftAqZrVEC">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-JkmVFU4vvKLAWQRwXmFCDt">§ 9 Rätt till utbildning i förskoleklass för barn till beskickningsmedlemmar från tredjeland</note>
-        <note xml:id="i-KwyQztEDxbcYmyxKf8HZ5v">Utbildningsutskottets betänkande 2019/20:UbU6</note>
-        <note xml:id="i-Hf9tPUMJgWGCpKh7oMPgLx">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-bNTW99GfmdXzRPLSb9LcN">§ 10 En ny beteckning för kommuner på regional nivå och vissa frågor om regionindelning</note>
-        <note xml:id="i-RCGaBnTvcH8dGyx2Ev51Mm">Konstitutionsutskottets betänkande 2019/20:KU3</note>
-        <note xml:id="i-XyNMJZ6UR8B1SMftRJhTzr" type="speaker">Anf. 43 PER-ARNE HÅKANSSON (S)</note>
-        <note xml:id="i-CdhED3Uzj74psocqU7CaLb" type="speaker">Anf. 44 ERIK OTTOSON (M)</note>
-        <note xml:id="i-FAXPyci37SzYfVPFJZxtCX" type="speaker">Anf. 45 PER SÖDERLUND (SD)</note>
-        <note xml:id="i-3oNWNgE3XzUJcYpcCwYyEv">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-4LsSGBcCZ5N71RuWw6scRF">§ 11 Digitaliserade hyresförhandlingar</note>
-        <note xml:id="i-9dcwqzVn6tp8axyHT1AXQ4">Civilutskottets betänkande 2019/20:CU4</note>
-        <note xml:id="i-n9ezQA3oWbZwfq622nFbY">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-TaofAEibKDLSeP8qCBNiUx">§ 12 Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan</note>
-        <note xml:id="i-GADhJDu2bo8wHEx2iBBFA1">Utrikesutskottets betänkande 2019/20:UU3</note>
-        <note xml:id="i-M5oXQipjKptvnpmHMW7Zjh" type="speaker">Anf. 46 MARKUS WIECHEL (SD)</note>
-        <note xml:id="i-A1vKM3CJxCkjgf9SaRxzwh" type="speaker">Anf. 47 KERSTIN LUNDGREN (C)</note>
-        <note xml:id="i-Muq5uzyZwjh4QCXwLXQHsy" type="speaker">Anf. 48 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-AxSpzZsVTCRfwhQkjmVqyk" type="speaker">Anf. 49 FREDRIK MALM (L)</note>
-        <note xml:id="i-Kj3n9ceV7bYYMBnse832Uc" type="speaker">Anf. 50 PYRY NIEMI (S)</note>
-        <note xml:id="i-XvtqJKKvpm5Jr4J5Kd3NDt" type="speaker">Anf. 51 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-Gjajkqoci7TVMcmXu7y4t" type="speaker">Anf. 52 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-8uEzvwfmEufb2EuoBftCSc" type="speaker">Anf. 53 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-KWraPfShnf5kF492buc1Lu" type="speaker">Anf. 54 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-4hNfYmNTZvAow3sP1FDyBj" type="speaker">Anf. 55 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-57vqWXM1Gz6txNGW9dan4h" type="speaker">Anf. 56 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-GRgJrji4eHgqrG3Vb1q1nE" type="speaker">Anf. 57 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-9ReYYVeztRmYxDr8zrKNba" type="speaker">Anf. 58 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-Qm7pXHYKYmC2C3J6QZMXWC" type="speaker">Anf. 59 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-XrdYo3UDAMq7Rr18EnmzLk" type="speaker">Anf. 60 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-D2tExMycuH2hvxbrQ3vTty" type="speaker">Anf. 61 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-UqSdpaffWWBvdkhh47yuHJ" type="speaker">Anf. 62 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-FXEq4yyemNoLwGz7n6QAZU" type="speaker">Anf. 63 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-K8kN7fmmVK64nHe6TjecA9" type="speaker">Anf. 64 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-24jKeQg7byWqh1k5D7yVzP" type="speaker">Anf. 65 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-7xyBHUSCA8vzs65WVUVQin" type="speaker">Anf. 66 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-22qxE8iF3bM8RJM7sdhXSG" type="speaker">Anf. 67 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-LEMcPU9YnGN39ZD3AneLSk" type="speaker">Anf. 68 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-8eSQCfeXJjCsSATmt9wsFQ" type="speaker">Anf. 69 HANS ROTHENBERG (M) replik</note>
-        <note xml:id="i-YCgXFkt6vcU9mnfukyXTkz" type="speaker">Anf. 70 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-FyPjcsXH7YDxZarxodD6BR" type="speaker">Anf. 71 HANS ROTHENBERG (M) replik</note>
-        <note xml:id="i-XYy1hf1mHjuTN6taomiqs4" type="speaker">Anf. 72 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-KM9d7ARYYEQrQRmU2ug94s" type="speaker">Anf. 73 HANS ROTHENBERG (M) replik</note>
-        <note xml:id="i-VNNJD1xqbGSHW678maeN9C" type="speaker">Anf. 74 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-CXZs4q53MdVW1hNnJzp4LD" type="speaker">Anf. 75 HANS ROTHENBERG (M) replik</note>
-        <note xml:id="i-NBKgMECwcBAfGPt8KggiPv" type="speaker">Anf. 76 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-GMC7ccyy2xmtzbzZMkwzrs" type="speaker">Anf. 77 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-MJEey8X7G1MzvJnd5jzV5t" type="speaker">Anf. 78 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-BPfiU1JqxJVq6gkp1eus2n" type="speaker">Anf. 79 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-Bj77eR2jkbDacQM8psEDEx" type="speaker">Anf. 80 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-UTKYBZQewd4gtAzqqbF7mm" type="speaker">Anf. 81 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-G3pt3ZNTnguJdqrKu3d5Ab" type="speaker">Anf. 82 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-A46dtcCXfH9XdrgDe9fL2b" type="speaker">Anf. 83 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-EuJbpjLauYG2ATq7KtPwiU" type="speaker">Anf. 84 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-AHQXyfggMEzdv43bmmP8iw" type="speaker">Anf. 85 HANS ROTHENBERG (M) replik</note>
-        <note xml:id="i-KSz8P58bX1ajgJS6hyuNo9" type="speaker">Anf. 86 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-NnRwyowiJPTBEwgtfyfQK3" type="speaker">Anf. 87 TJÄNSTGÖRANDE ÅLDERSPRESIDENTEN</note>
-        <note xml:id="i-He2gMN67s9aPKnMCPgvcf5" type="speaker">Anf. 88 HANS ROTHENBERG (M) replik</note>
-        <note xml:id="i-APhom9LBxxp6TfJRoYXMvm" type="speaker">Anf. 89 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-EQARV8y12zfthb844cWkSg" type="speaker">Anf. 90 JANINE ALM ERICSON (MP)</note>
-        <note xml:id="i-T1rYpMo23TpY8T4JbRmfUU" type="speaker">Anf. 91 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-Md4huYq32ZtMp8Zn3r1N7c" type="speaker">Anf. 92 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-KxuXgqR7Hdiq842Cm22Ck6" type="speaker">Anf. 93 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-W8mqv1JSJdTjAToho8Jp3G" type="speaker">Anf. 94 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-KkMeJsqDSEu3JAiCjaMSnY" type="speaker">Anf. 95 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-P3hTfPLfkp3wXZbJeukfYk" type="speaker">Anf. 96 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-YcLWvBFs8EtucQ4PmFhPf7" type="speaker">Anf. 97 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-D5SZzfmifZunUicURGsFE6" type="speaker">Anf. 98 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-XTwcz6VCygrtxxZB4esSBn" type="speaker">Anf. 99 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-53Smfbfv1jYTFgqYY76yk2" type="speaker">Anf. 100 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-UQWTcn9egCuPNpWxF4kPpQ" type="speaker">Anf. 101 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-W2QHpLrg3RvUh8CjF5AnkK" type="speaker">Anf. 102 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-MGTBPtDFiB4HXSFv9agdab" type="speaker">Anf. 103 JAKOB FORSSMED (KD)</note>
-        <note xml:id="i-95XZoUY55rsBGh5T2vLfFV" type="speaker">Anf. 104 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-71gaU9CLrfs5HyFjQTAthQ" type="speaker">Anf. 105 JAKOB FORSSMED (KD) replik</note>
-        <note xml:id="i-8PT6QfdQvvDcLW5cHuyBvM" type="speaker">Anf. 106 PYRY NIEMI (S) replik</note>
-        <note xml:id="i-4e5aDowGphNo4ZYTcXjqZX" type="speaker">Anf. 107 JAKOB FORSSMED (KD) replik</note>
-        <note xml:id="i-BqRpK76Sj3dyXBqGpLLd4X">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-VXVWsycH1qYt2DzKXPKyPd">§ 13 Riksrevisionens rapport om bostadsbidrag och trångboddhet</note>
-        <note xml:id="i-SYNwW4qTsqeHU4B1AcL4Fm">Socialförsäkringsutskottets betänkande 2019/20:SfU9</note>
-        <note xml:id="i-KGYoBXtf2tMdRHU6WiZFgN" type="speaker">Anf. 108 LINDA LINDBERG (SD)</note>
-        <note xml:id="i-WyaUQEiUC7YyQGZWKmxzdy" type="speaker">Anf. 109 MARTINA JOHANSSON (C)</note>
-        <note xml:id="i-Y1pYs8q4gWGYYg1xq2AYZf" type="speaker">Anf. 110 KADIR KASIRGA (S)</note>
-        <note xml:id="i-QvavkWAe2E4tR8rzgH3NsS">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-54shXaXNLhUEkeAFuNvUKG">§ 14 Det kyrkliga kulturarvet</note>
-        <note xml:id="i-YLtZZNZh8rVZmjqwC6juZr">Kulturutskottets betänkande 2019/20:KrU3</note>
-        <note xml:id="i-QK2WwxwTx9JqtG7wqLiZkp" type="speaker">Anf. 111 JOHN WEINERHALL (M)</note>
-        <note xml:id="i-EBCqva2HTi4TzZsNjh4UA8" type="speaker">Anf. 112 ARON EMILSSON (SD)</note>
-        <note xml:id="i-LmWFxahUUZuXf2aUKDfvgc" type="speaker">Anf. 113 PER LODENIUS (C)</note>
-        <note xml:id="i-njU5mALmaLJMMSjzRvz1Z" type="speaker">Anf. 114 ROLAND UTBULT (KD)</note>
-        <note xml:id="i-7YravtRqnX7znwyMyCaVXD" type="speaker">Anf. 115 ÅSA KARLSSON (S)</note>
-        <note xml:id="i-PNaofDZa9oMdUzyLP8QtBm" type="speaker">Anf. 116 VASILIKI TSOUPLAKI (V)</note>
-        <note xml:id="i-9dU7EHJDfZT6LawE4Teciv" type="speaker">Anf. 117 ANNA SIBINSKA (MP)</note>
-        <note xml:id="i-RwJyVZxSwAKr3cPQZyZDcm" type="speaker">Anf. 118 ARON EMILSSON (SD)</note>
-        <note xml:id="i-U6dQr1PdjARnRzsFDPMRyw">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-TLp6Cjvj1k8GpY8xPG2tcg">§ 15 Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2018</note>
-        <note xml:id="i-SF3giBuZ5CLTwgE5tftGRt">Socialutskottets betänkande 2019/20:SoU2</note>
-        <note xml:id="i-KLLiaNgfHG49sxpKxPnsWP">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-2NsExUnznWqFQywRF4MmEt">Ajournering</note>
-        <note xml:id="i-N5tzDPZn4xaL1wvKfGWkKW">Återupptaget sammanträde</note>
-        <note xml:id="i-NTGb3QRoEk5kr2AKf6beeY">§ 16 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-143b94LoZmekEJaFCMWzgJ">FiU18 Ändringar i kostnadsutjämningen för kommuner och landsting</note>
-        <note xml:id="i-2rgGLyptxMG2HUNdaiRLGT">JuU6 Brott mot förtroendevalda</note>
-        <note xml:id="i-4uB57Exdy2k1WF6EMnmQ83">JuU8 Ett stärkt straffrättsligt skydd för blåljusverksamhet och myndighetsutövning</note>
-        <note xml:id="i-EzvXL3GGJZ29kVZcQYM9RM">JuU9 Ny lag om Säkerhetspolisens behandling av personuppgifter</note>
-        <note xml:id="i-KX2s45HT28mpvJiWaNUeHt">JuU10 Skärpta straffrättsliga sanktioner mot företag</note>
-        <note xml:id="i-PR78VG9rFNk8KM7PMY35SN">SkU5 Skatteregler för tjänstepensionsföretag</note>
-        <note xml:id="i-5rCaPdf94EK8uXc3XL3yPC">UbU6 Rätt till utbildning i förskoleklass för barn till beskickningsmedlemmar från tredjeland</note>
-        <note xml:id="i-YbxDnjhX2stMZpaNUjTsut">KU3 En ny beteckning för kommuner på regional nivå och vissa frågor om regionindelning</note>
-        <note xml:id="i-NqNXNGxEeqM4We9ZjvQhUN">CU4 Digitaliserade hyresförhandlingar</note>
-        <note xml:id="i-MhhqP98KuHh7rSwBie5dx7">UU3 Avtal om politisk dialog och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kuba, å andra sidan</note>
-        <note xml:id="i-JNCpLhpfR5iivWfVwxm2nc">SfU9 Riksrevisionens rapport om bostadsbidrag och trångboddhet</note>
-        <note xml:id="i-K6y7jva2gSq8SjNkkjxtq9">KrU3 Det kyrkliga kulturarvet</note>
-        <note xml:id="i-R9g9JkQpVPq5ikBu9f43sa">SoU2 Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2018</note>
-        <note xml:id="i-CpjhwrzYcVV3e98gALuSKM">Meddelande om inställd votering</note>
-        <note xml:id="i-XRUEDoxHzYRPykwntHaTaM" type="speaker">Anf. 119 TALMANNEN</note>
-        <note xml:id="i-XgPeDrBbwNzJ2qrDXR56DC">§ 17 Anmälan om interpellation</note>
-        <note xml:id="i-KizDUt9gtFDhYKbfThZuBs">§ 18 Anmälan om fråga för skriftligt svar</note>
-        <note xml:id="i-2szH6oL3gyL4fPLxwUBnw1">§ 19 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-AKAAg1sJQ5xR8emnBr4gy7">§ 20 Kammaren åtskildes kl. 16.11.</head>
-        <note xml:id="i-G9JebC66hFjxuw4xeMVP8">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

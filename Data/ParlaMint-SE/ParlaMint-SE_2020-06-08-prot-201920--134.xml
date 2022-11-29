@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 134 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 134 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--134">2019/20--134</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,31 +75,31 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HNeYQQYr3o1j3VHP45NfYo">§ 1 Anmälan om ersättare</head>
         <note xml:id="i-4Vqd2BnMqfFhjnhrDgHAcj">Andre vice talmannen anmälde att Nermina Mizimovic (S) skulle tjänstgöra som ersättare för Tomas Kronståhl (S) under tiden för hans ledighet den 8 september –1 december .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CL9wYvk66nkrBZ8PEaqsqq">§ 2 Avsägelse</head>
         <note xml:id="i-NnaJB7Ph5xUmPYbRd7sFsC">Andre vice talmannen meddelade att Linda Lindberg (SD) avsagt sig uppdraget som suppleant i socialförsäkringsutskottet .</note>
         <note xml:id="i-PW85uqBTieDdpEW6E3YeBq">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5mwNxvz13iVRT524fVQC58">§ 3 Anmälan om kompletteringsval</head>
         <note xml:id="i-HppPwG5cbWoADMaHyEEyMZ">Andre vice talmannen meddelade att S verige demokraternas riksdagsgrupp anmält Linda Lindberg som ledamot i socialförsäkringsutskottet .</note>
         <note xml:id="i-Jd97sZ6V9uWD7Ua7tzRb7i">Andre vice talmannen förklarade vald till</note>
         <note xml:id="i-A2ewsct888vaPrx3ZL8FAD">ledamot i socialförsäkringsutskottet</note>
         <note xml:id="i-SaenJBXhbWW2QR85ugkRpj">Linda Lindberg (SD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8mh5PDwCH4pAajkoyT4JjE">§ 4 Meddelande om frågestund</head>
         <note xml:id="i-9oZP5yybd1Afsz55AMNV7W">Andre vice talmannen meddelade att frågestund skulle äga rum torsdagen den 11 juni kl. 14.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CvkokZP8TQhoSuppXLQeMP">§ 5 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-Gk7ep5W3NVr3nnPQQRjWn6">Andre vice talmannen anmälde att utdrag ur prot. 2019/20:33 för torsdagen den 4 juni i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från arbetsmarknadsutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-M1Grx95puB3C3M87pwfk7u">§ 6 Ärenden för bordläggning</head>
         <note xml:id="i-ctL5Ye7KfKKcxHJuwxKs9">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-XJ8ahaQcEiafZixwp5dTah">Socialutskottets betänkanden</note>
@@ -468,7 +469,7 @@
         </u>
         <note xml:id="i-RznujtLmB9ySKz4noWFibg">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-N7hkQ94gXw9dpCzmKC2cgZ">§ 12 Bordläggning</head>
         <note xml:id="i-Xb5mxL6dU1rr7TWDRiXNbj">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-GWwVnMcXMSxpGEidM7MV2E">EU-dokument</note>
@@ -476,7 +477,7 @@
         <note xml:id="i-tkwNvttW5ignztDUyKshZ">COM(2020) 450 Ändrat förslag till Europaparlamentets och rådets förordning om gemensamma bestämmelser för Europeiska regionala utveck ­ lingsfonden, Europeiska socialfonden+, Sammanhållningsfonden, Fonden för en rättvis omställning samt Europeiska havs ‑ och fiskerifonden, och om finansiella regler för dessa fonder och för Asyl ‑ och migrationsfonden, Fonden för inre säkerhet samt instrumentet för gränsförvaltning och visering</note>
         <note xml:id="i-ExZTmKACsCqppdMRXSzTkp">COM(2020) 453 Förslag till Europaparlamentets och rådets förordning om lånefaciliteten för den offentliga sektorn inom mekanismen för en rättvis omställning</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-uBwSTJ1FQTLRReNYgWCKt">§ 13 Anmälan om interpellationer</head>
         <note xml:id="i-S9Y1AwNPVdeDgVGyuHndci">Följande interpellationer hade framställts:</note>
         <note xml:id="i-NWHti5Nshup8Qi3nQeQQQD">den 5 juni</note>
@@ -493,7 +494,7 @@
         <note xml:id="i-QuycRQt2mM2s55BTpuWfZF">av Markus Wiechel (SD)</note>
         <note xml:id="i-JHm7jTZg6TSdaTrML9NLZK">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MrPfRirr2oKNY6bsoeHd55">§ 14 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-SR4Nw16MCWEw96kFQmomXL">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-QaCyfW34gngemBsWtvCbmp">den 5 juni</note>
@@ -555,7 +556,7 @@
         <note xml:id="i-3UBoLcivubHnp2MLvpfPRr">av Markus Wiechel (SD)</note>
         <note xml:id="i-4K3cADhY6r4NxJtkJp8gvu">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-U7jRmwDaVgM7iYRreDEV3q">§ 15 Anmälan om skriftligt svar på fråga</head>
         <note xml:id="i-Qi5MpXzDpZF8pvdg5iMtE7">Skriftligt svar på följande fråga hade kommit in:</note>
         <note xml:id="i-SqNHp7LUckMvHuHxT7rQuB">den 5 juni</note>
@@ -563,67 +564,11 @@
         <note xml:id="i-7JxJ5sZFs8X1roJvnbvG2u">av Marléne Lund Kopparklint (M)</note>
         <note xml:id="i-SPnNSs3N6HZk2YTsEGt9MA">till statsrådet Ardalan Shekarabi (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Gy8dxaaqyByEGGjkYri79f">§ 16 Kammaren åtskildes kl. 12 . 58 .</head>
         <note xml:id="i-QAyBgmvjfSXvfmP4hJWdiF">Sammanträdet leddes av andre vice talmannen .</note>
         <note xml:id="i-9JN4Z2xZxN3tAfLYXHbno6">Vid protokollet</note>
         <note xml:id="i-AX9tJ6QiRFdKBT7qCYi1Kg">JOHAN WELANDER</note>
-        <note xml:id="i-QQXimAdJrGffRny9qBpZCT">/Olof Pilo</note>
-        <note xml:id="i-KTbXXDPuDo7kVCyen5r4M8">Innehållsförteckning</note>
-        <note xml:id="i-GEqei4PFhaQi7WsHStc1G5">§ 1 Anmälan om ersättare</note>
-        <note xml:id="i-JhpFsYDwkyztbLD6gKTJTL">§ 2 Avsägelse</note>
-        <note xml:id="i-S1GD5RqCnemDCox1cJmt8E">§ 3 Anmälan om kompletteringsval</note>
-        <note xml:id="i-XKjBiJJsFg9yZ9CGf1qngb">§ 4 Meddelande om frågestund</note>
-        <note xml:id="i-TBJ35r4H4qrqL7ykk8UpDN">§ 5 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-J4tPphBnrf5yj5hEZd6bfV">§ 6 Ärenden för bordläggning</note>
-        <note xml:id="i-DTBMC1KytEdhgapweAZhWN">§ 7 Svar på interpellation 2019/20:402 om klimatkrav på flyget</note>
-        <note xml:id="i-Jzop5yzEW3Tmv3eootSwFD" type="speaker">Anf. 1 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-AqW9DZUWVF7C82FkesJGGo" type="speaker">Anf. 2 JENS HOLM (V)</note>
-        <note xml:id="i-J7aF5X8c8ennEvAATUXuBX" type="speaker">Anf. 3 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-7QM1yUa3EGGykhi9xLQYpY" type="speaker">Anf. 4 JENS HOLM (V)</note>
-        <note xml:id="i-N4hF9iG1hHmW8hYGJ5rEiv" type="speaker">Anf. 5 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-VArdupXepLNCunrW5SUSUJ" type="speaker">Anf. 6 JENS HOLM (V)</note>
-        <note xml:id="i-G4x7RuzBafq852dTYSA4st" type="speaker">Anf. 7 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-VGsZFzMEPf3iMjg8HHi7is">§ 8 Svar på interpellation 2019/20:403 om en grön återstart</note>
-        <note xml:id="i-U4vV88UAsS5M7x8Y7Micfz" type="speaker">Anf. 8 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-5KzB6gSWX8FML67yefdsUu" type="speaker">Anf. 9 JENS HOLM (V)</note>
-        <note xml:id="i-PbP1s76ARnBKHpJsSR8v4a" type="speaker">Anf. 10 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-7prwtho9SnUUCAiM2sSYDH" type="speaker">Anf. 11 JENS HOLM (V)</note>
-        <note xml:id="i-8bG1HBqa3NVca6oxfhK8x7" type="speaker">Anf. 12 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-DdL7oTs1HtMqW9JahFbQHt" type="speaker">Anf. 13 JENS HOLM (V)</note>
-        <note xml:id="i-NddWMYuEYLqijREFDkWvpu" type="speaker">Anf. 14 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-UTbfNUpvsZ9j6fedMJQu8C">§ 9 Svar på interpellation 2019/20:409 om åtgärder mot förlust av sjukpenning i coronatider</note>
-        <note xml:id="i-VphPVMu6aPVQKB7EYmQjBx" type="speaker">Anf. 15 Statsrådet ARDALAN SHEKARABI (S)</note>
-        <note xml:id="i-51nDZ87vTuPRvBbqwx3k1D" type="speaker">Anf. 16 MATTIAS VEPSÄ (S)</note>
-        <note xml:id="i-HKx463CFBXrarWqyrHWBJp" type="speaker">Anf. 17 Statsrådet ARDALAN SHEKARABI (S)</note>
-        <note xml:id="i-N1ULqvkamuJ5p4LRQW1s5v" type="speaker">Anf. 18 MATTIAS VEPSÄ (S)</note>
-        <note xml:id="i-8uWhEzTszpRpCyDiR1ddgs" type="speaker">Anf. 19 Statsrådet ARDALAN SHEKARABI (S)</note>
-        <note xml:id="i-gqchujKM8mSCzrmwRHf74" type="speaker">Anf. 20 MATTIAS VEPSÄ (S)</note>
-        <note xml:id="i-8kfYJVFb3pjihyYBHnU2Qq" type="speaker">Anf. 21 Statsrådet ARDALAN SHEKARABI (S)</note>
-        <note xml:id="i-LT2kgCj4DZd8UbVHv8wjcR">§ 10 Svar på interpellation 2019/20:406 om Kinas ansvar för coronapandemin</note>
-        <note xml:id="i-RbY21n9HjHwXkswLWaH5TV" type="speaker">Anf. 22 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-NVi6Q4S1AztKwTR8BniPwW" type="speaker">Anf. 23 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-FAKQBigsq2aBD4GmaUqYCN" type="speaker">Anf. 24 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-EPPKimwoj72PziRn6Di8wN" type="speaker">Anf. 25 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-3v1vy9cHmfsmY6BZjDetwa" type="speaker">Anf. 26 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-8a7yoBQMxCpHajY3LNwUc7" type="speaker">Anf. 27 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-HsGhryVRCC4MM51duEY6HC" type="speaker">Anf. 28 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-DXNr2ENXxarzxHcYC4KQTc">§ 11 Svar på interpellation 2019/20:408 om Campus Grythyttans framtid</note>
-        <note xml:id="i-BmMFkZmKPSc6RgPkbanVZg" type="speaker">Anf. 29 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-EUYkuLN9eJofUZMSSgWMWp" type="speaker">Anf. 30 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-9BZ5mwUDr6Ld53QpSvQgkd" type="speaker">Anf. 31 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-8WhHDyXAZv9CeH5SDMmHzS" type="speaker">Anf. 32 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-Gp5EwsW1VxxqZqsz5bTGHd" type="speaker">Anf. 33 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-C7Jgif7q32XS4XoNBUJfWV" type="speaker">Anf. 34 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-L63fjFfaDt8aqtgZp8fQzt" type="speaker">Anf. 35 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-MaPb62QctxQHsUo9S2bDjZ">§ 12 Bordläggning</note>
-        <note xml:id="i-2eaHiT992qgwtUhFKcvqC7">§ 13 Anmälan om interpellationer</note>
-        <note xml:id="i-Vyz2zrWxXJYL3kbkj78Lp6">§ 14 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-8LndAH2M4DdCDqnFM1Jj9h">§ 15 Anmälan om skriftligt svar på fråga</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-UaGgPZKfACiRzGjp6Feova">§ 16 Kammaren åtskildes kl. 12.58.</head>
-        <note xml:id="i-VXReNG8ya9vi3FWB6cWc3r">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

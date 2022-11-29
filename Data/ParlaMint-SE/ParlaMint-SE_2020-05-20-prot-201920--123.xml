@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 123 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 123 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--123">2019/20--123</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MAEnQKKX95GzoVhdJqvuAR">§ 1 Meddelande om särskild debatt om åtgärder för att hindra smittspridning inom äldreomsorgen</head>
         <note xml:id="i-6p6pRPy3tEF2TLozDbyW7Z">Tredje vice talmannen meddelade att på begäran av Sverigedemokraternas riksdagsgrupp respektive Vänsterpartiets riksdagsgrupp skulle en särskild debatt om åtgärder för att hindra smittspridning inom äldreomsorgen anordnas fredagen den 29 maj kl. 9.00 .</note>
         <note xml:id="i-NBHsYSS47iiJKyME1bkbpx">Från regeringen skulle socialminister Lena Hallengren (S) delta.</note>
@@ -97,7 +98,7 @@
         <note xml:id="i-RNwBNmpBPnBGCrAMESoKg1">Stockholm den 6 maj 2020</note>
         <note xml:id="i-Jm6mdWGJPeoqrMVhAChQ1X">Jonas Sjöstedt</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Q2jra4keZ7qb4nbGkAmVAx">§ 2 Anmälan och beslut om omedelbar hänvisning av ärende till utskott samt beslut om förkortad motionstid</head>
         <note xml:id="i-RMG5ARyb8EM2QXt6w2kqQt">Följande dokument anmäldes:</note>
         <note xml:id="i-BJmushK6QtuQesxeEbrAgp">Proposition</note>
@@ -105,13 +106,13 @@
         <note xml:id="i-GdhQ1EPLfCHiadwexXt56j">Kammaren biföll talmannens förslag att ovanstående proposition omedelbart skulle hänvisas till finansutskottet.</note>
         <note xml:id="i-GoTs3yLvb4gsSbk1HTtu5">Kammaren biföll regeringens förslag att motionstiden för ovanstående proposition skulle förkortas till sex dagar.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5CHqK8kuhzHWgnU1iyhPbt">§ 3 Bordläggning</head>
         <note xml:id="i-MrMoEDNRkWxdnh6TdksTjL">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-K6FnXaHTyaTDRYSZLeWYwc">Redogörelse</note>
         <note xml:id="i-DZvfMMe1Jn1KsiJNhr4rFR">2019/20:RR5 Riksrevisorns årliga rapport 2020</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AnfvDMHM3mZQxTgXYzDeKA">§ 4 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-GeKVh5wPpht71hEsui9adr">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-7vZkiFo4QBCWKBd2rfa7W2">den 19 maj</note>
@@ -137,7 +138,7 @@
         <note xml:id="i-RGcQ2HJB3XbVwcAsxegRhL">av Alexandra Anstrell (M)</note>
         <note xml:id="i-3zCwSQpbUSCcXZ3Gox5Vc4">till statsrådet Mikael Damberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-C1fYTtaFtmmgcHay2xpJyE">§ 5 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-SxezbNyrq8gxMB9Lw5oNRr">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-KedE4TdCC6w96Q6Z4VgPLz">den 20 maj</note>
@@ -178,20 +179,11 @@
         <note xml:id="i-P5h8K3ZiPrLTXvvEPvjGMg">av Mikael Larsson (C)</note>
         <note xml:id="i-3VvDshGxo7CZTT8U8sgZje">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JWXZJQRh5KGknoH9F2sN7e">§ 6 Kammaren åtskildes kl. 14.01.</head>
         <note xml:id="i-Q4vvGccyCu2R7xxXTfugS4">Sammanträdet leddes av tredje vice talmannen.</note>
         <note xml:id="i-XtJhje1m5oacaEQv6Vw5Ny">Vid protokollet</note>
         <note xml:id="i-XvWHy1CVfrzqZiZfcAyVDN">ANNA ASPEGREN</note>
-        <note xml:id="i-NKnZwuQq3x3YMpQ2T2dXEB">/Olof Pilo</note>
-        <note xml:id="i-LUN5BfZCGrnzKGFGC6SYkw">Innehållsförteckning</note>
-        <note xml:id="i-F1HkvdVhWYzqtpUcQnjDZF">§ 1 Meddelande om särskild debatt om åtgärder för att hindra smittspridning inom äldreomsorgen</note>
-        <note xml:id="i-F9BGvwnLoy933WECFTZXzN">§ 2 Anmälan och beslut om omedelbar hänvisning av ärende till utskott samt beslut om förkortad motionstid</note>
-        <note xml:id="i-8i2nfxc1ThK499JXjMnKze">§ 3 Bordläggning</note>
-        <note xml:id="i-KaLHoa9vXpMMa5Tw1xJCm2">§ 4 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-LQYwDZSVMg1KBsCWvbEsty">§ 5 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-2uoJ7QMve1rpiBuveb7BHk">§ 6 Kammaren åtskildes kl. 14.01.</note>
-        <note xml:id="i-MjcgMLey7F9aYjkDU7vzyH">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

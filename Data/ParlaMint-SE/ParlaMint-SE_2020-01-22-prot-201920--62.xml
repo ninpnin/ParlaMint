@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 62 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 62 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--62">2019/20--62</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2MzrJKfyqZy6tBcwBkoCVc">§ 1 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-NNcxye3dpt1cAXT3y7uJzN">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-SQVnDrNAm7vWWFP5Q3bioA">Interpellation 2019/20:221</note>
@@ -108,7 +109,7 @@
         <note xml:id="i-Ekc5sJNBH9GRGM4hKQFE1X">Egon Abresparr</note>
         <note xml:id="i-R9h76Yw4erS76aGQhT4aZG">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QzhxvPJxQbRZAQcT4oHabb">§ 2 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-W97ukjTCaSzqsyu1CeYyVF">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-17p4Qv8EjTZrxUjYNFYiKX">Proposition</note>
@@ -592,7 +593,7 @@
         <note xml:id="i-TMSzbu5DYYH6FYN29KXCYx">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-F8qMMrcC1DbDu7qdg94Lqh">(Beslut fattades under § 12.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JmFSxnqqZokWxZY9FoMvDG">§ 7 Ändrad kompensationsrätt för riksdagens myndigheter för ingående mervärdesskatt vid representation</head>
         <note xml:id="i-PhK1AhgAhqRxtuZKguqZ37">Konstitutionsutskottets betänkande 2019/20:KU7</note>
         <note xml:id="i-NT74zHfCzqmfAaFhJHjfAw">Ändrad kompensationsrätt för riksdagens myndigheter för ingående mervärdesskatt vid representation (framst. 2019/20:RS6)</note>
@@ -1289,7 +1290,7 @@
         <note xml:id="i-9HNkBf8e1xczhCKBMdnwdc">Återupptaget sammanträde</note>
         <note xml:id="i-CNjPxukDhdWdwch3qvc6kr">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QzU4izZEAQw8UF5W376x3V">§ 11 Beslut om ärende som slutdebatterats den 15 januari</head>
         <note xml:id="i-RB1xH8VGssQdY8UGhsF8PT">NU4 Statliga företag</note>
         <note xml:id="i-9Y7YasUnbBWCp8i9wbhRxy">Punkt 2 (Statens långsiktiga ägande och förvaltning av företag)</note>
@@ -1340,7 +1341,7 @@
         <note xml:id="i-8DJFCkJ5FGbYudYf1YxydT">Övriga punkter</note>
         <note xml:id="i-PjU4Nu6Wtx1s3Zy1xrb8yN">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HZ4ExmLRadN7tgKuNeEPMe">§ 12 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-8kwy74D9bWgNfrZboJpCxs">KU11 Justitieombudsmännens ämbetsberättelse</note>
         <note xml:id="i-KwxjquuMFxdixwUZKdXBZf">Kammaren biföll utskottets förslag.</note>
@@ -1474,7 +1475,7 @@
         <note xml:id="i-Bsg5zLYDb7kMbeRRHyufdy">Övriga punkter</note>
         <note xml:id="i-5YWW6AKiVnUqXb1hPW4eHK">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-W3hzxFyTY1BkhrFLHNxctY">§ 13 Bordläggning</head>
         <note xml:id="i-KwZ5EMJKgtAVocYjhd44De">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-5fyo7kEuBmFjk35inkDVrM">EU-dokument</note>
@@ -1490,7 +1491,7 @@
         <note xml:id="i-EJaV42HU9nDXFyumhTMST3">2019/20:3467 av Johan Pehrson m.fl. (L)</note>
         <note xml:id="i-83kNEtKKETrexM5BPSdcSi">2019/20:3476 av Adam Marttinen m.fl. (SD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VgwE7xwqNohCLpuNwtdC4D">§ 14 Anmälan om interpellationer</head>
         <note xml:id="i-8mkaTpYFMfAqi2qpatVHR6">Följande interpellationer hade framställts:</note>
         <note xml:id="i-4zBAqBEfymLYa6sTgBpJjE">den 21 januari</note>
@@ -1501,7 +1502,7 @@
         <note xml:id="i-6fcJmTj54o4xQ933aQbjMh">av Ingemar Kihlström (KD)</note>
         <note xml:id="i-VUHFtCANuaLqcQpLQm5eVY">till finansminister Magdalena Andersson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CRPNuVRtjsnDojnEULw21W">§ 15 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-KsLXvLs5z63BW1zmW3Loy1">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-UvJf5T5U4n9acCXTLgTEXv">den 21 januari</note>
@@ -1515,7 +1516,7 @@
         <note xml:id="i-LjGDhdk3yW1WLKBQUqRoRQ">av Camilla Waltersson Grönvall (M)</note>
         <note xml:id="i-Woikbe5c3cgz4thuUiTH3g">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DJhbZwepwWeKfgsdNNgau8">§ 16 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-GW3KqhYe8xwNPcm76ra2V">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-HKb7FRUPbaWamY6Z1o4wY5">den 22 januari</note>
@@ -1532,7 +1533,7 @@
         <note xml:id="i-UaBsf53ycHVDpf6jwfujB5">av Sten Bergheden (M)</note>
         <note xml:id="i-VtJvadtjtHQBJ4rbbNQjuJ">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WfMPEvyUfStseAuNu3Mtgk">§ 17 Kammaren åtskildes kl. 16.13.</head>
         <note xml:id="i-U9YsWCcNTtjYG9CcsZgpR5">Sammanträdet leddes</note>
         <note xml:id="i-BqXqbcG4B77U6HiYUoiXvT">av andre vice talmannen från dess början till och med § 4 anf. 11 (delvis),</note>
@@ -1543,132 +1544,6 @@
         <note xml:id="i-EuzZzJhGNpqy71oUseLH1W">av andre vice talmannen därefter till dess slut.</note>
         <note xml:id="i-TgHNDUFjgdgKZzXz2mXr75">Vid protokollet</note>
         <note xml:id="i-RrEMStixBAHuLko2xxsCbz">ANNA ASPEGREN</note>
-        <note xml:id="i-XzAeTuE57DupE8rYoiAMDY">/Olof Pilo</note>
-        <note xml:id="i-2ojbcJWTAWgXsyRRwuHH7m">Innehållsförteckning</note>
-        <note xml:id="i-FWqbi2MBKVzW8E8znoX9T1">§ 1 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-NQ67h3oWhogpv6uPdftDrh">§ 2 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-JxdPbK8gajsRU8ZXudK9T9">§ 3 Granskning av statsrådens tjänsteutövning och regeringsärendenas handläggning</note>
-        <note xml:id="i-L6tP9XyJXqDFrJBLCkrgMv">Konstitutionsutskottets betänkande 2019/20:KU10</note>
-        <note xml:id="i-DtujNAHgnnh92chQCsYJRi" type="speaker">Anf. 1 KARIN ENSTRÖM (M)</note>
-        <note xml:id="i-QhPCB9s5BkePoY8pgVEhGo" type="speaker">Anf. 2 HANS EKSTRÖM (S)</note>
-        <note xml:id="i-JrEm261B8jqRGziQscDxqU" type="speaker">Anf. 3 PER SÖDERLUND (SD)</note>
-        <note xml:id="i-6ZGcCKcNmMMSX6SPYV8wZt" type="speaker">Anf. 4 LINDA MODIG (C)</note>
-        <note xml:id="i-661rBpJHRKmpwnNHTke5Zj" type="speaker">Anf. 5 JESSICA WETTERLING (V)</note>
-        <note xml:id="i-BoxR7y6i4MF8m3WgktySz4" type="speaker">Anf. 6 TUVE SKÅNBERG (KD)</note>
-        <note xml:id="i-H52mUMjDAmmeZsBFYHjpHQ" type="speaker">Anf. 7 TINA ACKETOFT (L)</note>
-        <note xml:id="i-12XkaDQjHDUH5befpaEnL2" type="speaker">Anf. 8 CAMILLA HANSÉN (MP)</note>
-        <note xml:id="i-WLWSkyFKCZYFTWwcgYS32c" type="speaker">Anf. 9 IDA DROUGGE (M)</note>
-        <note xml:id="i-HJFkRXsnKn2DFQ3i36fg1p">§ 4 Justitieombudsmännens ämbetsberättelse</note>
-        <note xml:id="i-DcYSYfFJzVFddpTXy6VqXG">Konstitutionsutskottets betänkande 2019/20:KU11</note>
-        <note xml:id="i-KJ2zBu2qxE9ZcvTL8Qynn5" type="speaker">Anf. 10 PER-ARNE HÅKANSSON (S)</note>
-        <note xml:id="i-HzGKV79GeW6f8mG7Vwjas8" type="speaker">Anf. 11 LARS JILMSTAD (M)</note>
-        <note xml:id="i-MS9SpSqHoxJPhVW2mu4cvk" type="speaker">Anf. 12 MIKAEL STRANDMAN (SD)</note>
-        <note xml:id="i-SCHeuV5BJHh4DkM6bX1BhH" type="speaker">Anf. 13 LINDA MODIG (C)</note>
-        <note xml:id="i-C43PwFU9MR7h8DF7zWbW84" type="speaker">Anf. 14 MIA SYDOW MÖLLEBY (V)</note>
-        <note xml:id="i-RCsJnaSJX2RiEDk95zixCh" type="speaker">Anf. 15 TUVE SKÅNBERG (KD)</note>
-        <note xml:id="i-N4dhSAZFLbDyuSqr2Z6rQv" type="speaker">Anf. 16 TINA ACKETOFT (L)</note>
-        <note xml:id="i-3pRhJwp4LkjP16ReCmiiDg" type="speaker">Anf. 17 CAMILLA HANSÉN (MP)</note>
-        <note xml:id="i-Vzmz9ZdswRBdqwuSFKLpCx">(Beslut fattades under § 12.)</note>
-        <note xml:id="i-5c5NaMz8PeTAMqrynSUa7q">§ 5 Uppföljning av riksdagens tillämpning av subsidiaritetsprincipen</note>
-        <note xml:id="i-B7fyRJtLJVT6XLT3qCUWye">Konstitutionsutskottets betänkande 2019/20:KU5</note>
-        <note xml:id="i-Ar69CJo3AcUawZCPMYjPCR" type="speaker">Anf. 18 DANIEL ANDERSSON (S)</note>
-        <note xml:id="i-NXg1rVZ28vHk2oqUuzWkTe" type="speaker">Anf. 19 ERIK OTTOSON (M)</note>
-        <note xml:id="i-QSwu5cHRgRS3vafWKEySBe" type="speaker">Anf. 20 PATRICK RESLOW (SD)</note>
-        <note xml:id="i-Xumi3iuvnSs3aWK8Uo9qop">§ 6 Riksrevisionens rapport om regeringens styrning av länsstyrelserna</note>
-        <note xml:id="i-VQUmXiHgaLEwNxHQJLnKLi">Konstitutionsutskottets betänkande 2019/20:KU2</note>
-        <note xml:id="i-L6qMthKRMHfr8Mqe4fdHgh" type="speaker">Anf. 21 KARIN ENSTRÖM (M)</note>
-        <note xml:id="i-D99C93eHTKy8FMGAv7rTRa" type="speaker">Anf. 22 PER-ARNE HÅKANSSON (S)</note>
-        <note xml:id="i-MzfHQqfJceoNUzMx8A3s7X" type="speaker">Anf. 23 FREDRIK LINDAHL (SD)</note>
-        <note xml:id="i-T5MhUPNjUd8r6RtKH9hKsA" type="speaker">Anf. 24 LINDA MODIG (C)</note>
-        <note xml:id="i-5bKvep942yXdpyxxREBU23" type="speaker">Anf. 25 CAMILLA HANSÉN (MP)</note>
-        <note xml:id="i-QV9oiNAPpc5Utt8HCUDkS9">(Beslut fattades under § 12.)</note>
-        <note xml:id="i-5GNcfdyoMCn2QdiGC7XDsD">§ 7 Ändrad kompensationsrätt för riksdagens myndigheter för ingående mervärdesskatt vid representation</note>
-        <note xml:id="i-SupJ3bARTHxSFaYS1gkCvQ">Konstitutionsutskottets betänkande 2019/20:KU7</note>
-        <note xml:id="i-Lq7n32ePz4d2P5yKfPBn2S">(Beslut fattades under § 12.)</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-KPx5DWCvGrsGF6XBMDJyux">§ 8 Ett särskilt straffansvar för samröre med en terroristorganisation</head>
-        <note xml:id="i-2Vb7vVrk6bkxaE38LyuFfm">Justitieutskottets betänkande 2019/20:JuU13</note>
-        <note xml:id="i-Ssy8BExthKsLL1uLPCDLmE" type="speaker">Anf. 26 JOAKIM SANDELL (S)</note>
-        <note xml:id="i-CUprPjRrJu13qsPgvN2vJ4" type="speaker">Anf. 27 MIKAEL DAMSGAARD (M)</note>
-        <note xml:id="i-Wh6VKD4PFiBNDLGHBXdkwZ" type="speaker">Anf. 28 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-NHyuMQKHczEqZjgQwfh75Z" type="speaker">Anf. 29 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-B7btmy6VHPwNkUWG3LXeMj" type="speaker">Anf. 30 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-Tv6rpqa9FkqyAX4Y5KrFgo" type="speaker">Anf. 31 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-P8pnmrePUsnJWHrgRtdLCR" type="speaker">Anf. 32 RASMUS LING (MP)</note>
-        <note xml:id="i-RmFSEsS79RcJvwwjK8qTAs" type="speaker">Anf. 33 ADAM MARTTINEN (SD) replik</note>
-        <note xml:id="i-G9r6VevhXPcr4rg27aEPrz" type="speaker">Anf. 34 RASMUS LING (MP) replik</note>
-        <note xml:id="i-LmXiVKQ8iBC8GoVE77726j" type="speaker">Anf. 35 ADAM MARTTINEN (SD) replik</note>
-        <note xml:id="i-PBHiLXaAzFh1CJWEAgY6D7" type="speaker">Anf. 36 RASMUS LING (MP) replik</note>
-        <note xml:id="i-Pu2T1MsQ3ULamvaH6LztHU" type="speaker">Anf. 37 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-CSj4F5Etx5SDL5Wri6GAHt" type="speaker">Anf. 38 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-RbtUQMY9Nm3fo4zhm51SVq">(Beslut fattades under § 12.)</note>
-        <note xml:id="i-Mt2P9N6YS9QfY8kf6bteyz">§ 9 Riksrevisionens rapport om myndighetsgemensamt arbete mot organiserad brottslighet</note>
-        <note xml:id="i-HPhRbi1M9fqgpfTSc9fdPn">Justitieutskottets betänkande 2019/20:JuU12</note>
-        <note xml:id="i-Qe8XGQZbwykwwcjj5yjc5f" type="speaker">Anf. 39 JOAKIM SANDELL (S)</note>
-        <note xml:id="i-4b3EPaxZxryknQzaA8sScu" type="speaker">Anf. 40 ELLEN JUNTTI (M)</note>
-        <note xml:id="i-J7VtYpsZSb4rLp6cEXRoRY" type="speaker">Anf. 41 RASMUS LING (MP)</note>
-        <note xml:id="i-Ujohydy9vANci7RwkuSo9d" type="speaker">Anf. 42 ELLEN JUNTTI (M) replik</note>
-        <note xml:id="i-2ouNaWQs4X36huFpwViLPH" type="speaker">Anf. 43 RASMUS LING (MP) replik</note>
-        <note xml:id="i-AVPAEaEbgMZ9wpzHUFEcZX" type="speaker">Anf. 44 ELLEN JUNTTI (M) replik</note>
-        <note xml:id="i-DhtAUXXDfoEWa39yYg43Pr" type="speaker">Anf. 45 RASMUS LING (MP) replik</note>
-        <note xml:id="i-Mx7YBwEcxoy837Kxn76roN" type="speaker">Anf. 46 BO BROMAN (SD)</note>
-        <note xml:id="i-LTY9N1erGjQhFXfy38NyAz" type="speaker">Anf. 47 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-QfUg9epZ9arGsZoFaaNpPE" type="speaker">Anf. 48 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-WhRYnkkTEEbJ3qRRkKKeJQ">(Beslut fattades under § 12.)</note>
-        <note xml:id="i-SKSWy1ELScbkmCJmTWG7gq">§ 10 Sveriges feministiska utrikespolitik</note>
-        <note xml:id="i-2hx1Eu5mQrezga66E84PYz">Utrikesutskottets betänkande 2019/20:UU6</note>
-        <note xml:id="i-XV7JgYNhqL3qbtRYFkUfv4" type="speaker">Anf. 49 MARGARETA CEDERFELT (M)</note>
-        <note xml:id="i-Nkmi6akXsYAkfrD4UdfNjH" type="speaker">Anf. 50 SARA GILLE (SD)</note>
-        <note xml:id="i-TuKuo5uHCwSvnqQjS5tQTk" type="speaker">Anf. 51 KERSTIN LUNDGREN (C)</note>
-        <note xml:id="i-DE4cdRjeqwZCYPfy3j4o5f" type="speaker">Anf. 52 YASMINE POSIO (V)</note>
-        <note xml:id="i-KpbbMRzM7LkkkXzif83bY7" type="speaker">Anf. 53 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-D93T9vqFBFDBgAGvVByFj3" type="speaker">Anf. 54 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-2wwEs2gFUzvSqDeyQqkY1p" type="speaker">Anf. 55 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-BKZaHx719xRpCcmWSB7C8n" type="speaker">Anf. 56 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-Cx87WxaFf9oe8Bf4rocLvX" type="speaker">Anf. 57 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-PVCbYweQR8j6JdrwGyJmXS" type="speaker">Anf. 58 SARA HEIKKINEN BREITHOLTZ (S)</note>
-        <note xml:id="i-WRambK6fxo6JaGnWVLvsj5" type="speaker">Anf. 59 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-2Fy8qAoB5j3ZLyjArbnzvK" type="speaker">Anf. 60 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-BEYzVgWE9wwNBJ4FJsSdfC" type="speaker">Anf. 61 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-J7uChQxydzUE9DWwWY7MC7" type="speaker">Anf. 62 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-TgLcAXQLoyupu9XyDZajuW" type="speaker">Anf. 63 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-J5DyR8X5h7m5HQ3Sf3CmQn" type="speaker">Anf. 64 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-N7mtwsQY59Ce2RnxP4p6rd" type="speaker">Anf. 65 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-R3a4yfBkAsKbYb4qGQ23we" type="speaker">Anf. 66 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-SP8RuEjjFAkCFosVq1yrJq" type="speaker">Anf. 67 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-NAmogD7Qui5dkyz8X2xQL8" type="speaker">Anf. 68 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-MxNGit5HdzkRZ4qzosPQS1" type="speaker">Anf. 69 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-QRpipjnDATVUoPWqSXDZKh" type="speaker">Anf. 70 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-ECW4C6Tf4dpHXddfPgW11V" type="speaker">Anf. 71 JOAR FORSSELL (L)</note>
-        <note xml:id="i-mh27pMfBEx8Xm54TDKYE7" type="speaker">Anf. 72 JANINE ALM ERICSON (MP)</note>
-        <note xml:id="i-GB8HFKwmkxiRy8ugVEdgc" type="speaker">Anf. 73 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-CBH9fbMCrNjpLtfYPxryM" type="speaker">Anf. 74 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-EC5tsKq5kXjtRkzpm46t6T" type="speaker">Anf. 75 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-KdqBHEmQpbvr9Aj7KjAK5T" type="speaker">Anf. 76 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-DjJAbqcACKAP1TmcFqLL6t" type="speaker">Anf. 77 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-JYQwFhSdot6RMR3CYtd28U" type="speaker">Anf. 78 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-UaN7uVE7rnBKG6Pdw15Znm" type="speaker">Anf. 79 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-WtTvwFpAs67rzZKyd4qkrr" type="speaker">Anf. 80 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-7Js9j8gUnyE8cSLohJRo2G" type="speaker">Anf. 81 MARCUS JONSSON (KD)</note>
-        <note xml:id="i-K9EaUaWzzeui1Y3XamwPKE">(Beslut fattades under § 12.)</note>
-        <note xml:id="i-8iEah41m4SJXzTq8LAAdAz">Ajournering</note>
-        <note xml:id="i-C2n5XWxxSN9Cx66StNQHNr">Återupptaget sammanträde</note>
-        <note xml:id="i-GE42JkWpQdhQ4sETXVYgyB">§ 11 Beslut om ärende som slutdebatterats den 15 januari</note>
-        <note xml:id="i-X9Q2W3VUpaTPMhREB3jf3F">NU4 Statliga företag</note>
-        <note xml:id="i-72fALEHQMyZV2MT31prV9z">§ 12 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-AReRYgrxmozqz2vwoJzMXY">KU11 Justitieombudsmännens ämbetsberättelse</note>
-        <note xml:id="i-LR6tYZHC1ftxN4fCLRPX82">KU2 Riksrevisionens rapport om regeringens styrning av länsstyrelserna</note>
-        <note xml:id="i-6HiV9jUgU3NC9DaaBQoQZ3">KU7 Ändrad kompensationsrätt för riksdagens myndigheter för ingående mervärdesskatt vid representation</note>
-        <note xml:id="i-Ri7dx2XPAqCE6fU7fCmG61">JuU13 Ett särskilt straffansvar för samröre med en terroristorganisation</note>
-        <note xml:id="i-JSYKG1ssQJpUAowCsdmUsd">JuU12 Riksrevisionens rapport om myndighetsgemensamt arbete mot organiserad brottslighet</note>
-        <note xml:id="i-PHQXnqEfqyxCbnFkG8LLYo">UU6 Sveriges feministiska utrikespolitik</note>
-        <note xml:id="i-XhF2b2j5dJmgaKeFCNAq7Z">§ 13 Bordläggning</note>
-        <note xml:id="i-PFs46pGHCqAAr11K3kBkfP">§ 14 Anmälan om interpellationer</note>
-        <note xml:id="i-K6sfKHHBtdPXSiuGwr95Hb">§ 15 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-N8k4Vd994UWqN28GPbjKxD">§ 16 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-2P5onYVBghZmgrJpmk56fQ">§ 17 Kammaren åtskildes kl. 16.13.</note>
-        <note xml:id="i-LcNkocTZZhmQARHzfNzRhk">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

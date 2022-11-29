@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 21 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 21 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--21">2019/20--21</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,19 +75,19 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8yUCYVH2BajRx4NHAbx3E4">§ 1 Avsägelse</head>
         <note xml:id="i-6rrYVdtaX1mbo9NCxZquuF">Talmannen meddelade att Pål Jonson (M) avsagt sig uppdraget som suppleant i utrikesutskottet.</note>
         <note xml:id="i-Fe8wce6N3T2kYWHNxua7Wo">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7bKuuvW6zezCFv9Y3ECGry">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-A7f7dikd4kgLGfx8J1EkrW">Talmannen meddelade att Moderaternas riksdagsgrupp anmält Magdalena Schröder som suppleant i utrikesutskottet.</note>
         <note xml:id="i-AtvTtVYY9ZXvH1q12rEEi8">Talmannen förklarade vald till</note>
         <note xml:id="i-QN2cPQeMzkFfD8Fzzw5bCd">suppleant i utrikesutskottet</note>
         <note xml:id="i-PJCkd4MgdWxX6SzNwPoFGD">Magdalena Schröder (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4DhtXovBrKxRerVBB7n57L">§ 3 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-BVTBPVQpPY6fUk113a8Yat">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-Y7YuZSAGrKnMGD2mXs9SUk">Interpellation 2019/20: 44</note>
@@ -102,7 +103,7 @@
         <note xml:id="i-48ka542NvxHHBi11mVjXPs">Marianne Jenryd</note>
         <note xml:id="i-8HufEvG5K3qeZtJXeVi7qA">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Wj4nytJWENgAGQSSQ2LPSy">§ 4 Ärende för hänvisning till utskott</head>
         <note xml:id="i-Ne5mmAr6kBYAP3Up9yxDhf">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-8z5mLd6vcZ9eaaFnFyYZ6U">Proposition</note>
@@ -197,7 +198,7 @@
       <div type="debateSection">
         <head xml:id="i-8qhx24j64RxFakyiRG75mZ">§ 6 Frågestund</head>
         <note type="speaker" xml:id="i-QhYHaqmugnbPAbDuisrRAa">Anf. 8 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-2oop1cAVy85B2Di7bJfscx" who="#unknown" ana="#regular">
+        <u xml:id="i-2oop1cAVy85B2Di7bJfscx" ana="#regular">
           <seg xml:id="i-Bbt6SZ7zPGDmLqkjtnxP9G">Jag vill hälsa statsråden välkomna. Frågor besvaras i dag av infrastrukturminister Tomas Eneroth, socialminister Lena Hallengren, statsrådet Anders Ygeman och statsrådet Åsa Lindhagen.</seg>
           <seg xml:id="i-D9wmDeVfEhfVUbFdrv5YwU">En fråga ska vara av övergripande och allmänpolitiskt slag eller avse ett ämne som faller inom statsrådets ansvarsområde och rör dennes tjänste ­ utövning. Infrastrukturminister Tomas Eneroth besvarar såväl allmänpoli ­ tiska frågor som frågor inom sitt eget ansvarsområde.</seg>
         </u>
@@ -350,7 +351,7 @@
         </u>
         <note xml:id="i-9etFZF8fRQBzhTR4gmYHi8">Jag skulle vilja höra hur socialministern reagerar på det. Är det en bra idé att ta bort den avgiftsfria mammografin?</note>
         <note type="speaker" xml:id="i-Tz1zLcvZS3WfQAnVXxKser">Anf. 34 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-b8e6be858a93c5e1-130" who="#unknown" ana="#regular">
+        <u xml:id="i-b8e6be858a93c5e1-130" ana="#regular">
           <seg xml:id="i-C2MuJuhc1u94DHgRdF5s46">Jag vill påminna om att frågor ska röra statsråds tjänsteutövning och inte annat.</seg>
         </u>
         <note type="speaker" xml:id="i-JLNohn1ZyyY5q3X49rwx3L">Anf. 35 Socialminister LENA HALLENGREN (S):</note>
@@ -414,7 +415,7 @@
           <seg xml:id="i-QGYPG6WbqKtY5wgThxsox6">I samband med det ska vi se till att företagen i Skåne och överallt annars i Sverige har gott om el för att kunna expandera. Vi har nämligen historiskt stora elöverskott i Sverige.</seg>
         </u>
         <note type="speaker" xml:id="i-3Pn1oSn7ESSYHMA161Wjj6">Anf. 46 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-b8e6be858a93c5e1-157" who="#unknown" ana="#regular">
+        <u xml:id="i-b8e6be858a93c5e1-157" ana="#regular">
           <seg xml:id="i-WjSPy1DszhLde4KQDmQ1VW">Jag vill påminna alla, såväl statsråd som ledamöter, om att vi här i kammaren talar via talmannen och inte direkt till den som ställer frågan.</seg>
         </u>
         <note xml:id="i-QxkChdpCeNGq9t2egeSvkD">Lagförslag om könskorrigering</note>
@@ -677,7 +678,7 @@
         </u>
         <note xml:id="i-L6KK7bko4rj4NAWvPYFV3T">Frågestunden var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DFUn2mxpRZ7qDATLcVz33C">§ 7 Bordläggning</head>
         <note xml:id="i-bgQetF22a9iYTh81KgMLR">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-BXGPJB4DDQxyEzyadgoqcj">Proposition</note>
@@ -685,7 +686,7 @@
         <note xml:id="i-UwvBfSuy7GprKFoaJR9wD4">Skrivelse</note>
         <note xml:id="i-ECgVtJh8idbHNkkNHKPRDe">2019/20:35 Riksrevisionens rapport om Tullverkets kontroll</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-J68jcLGiU7YMWpCtUr6XhJ">§ 8 Anmälan om interpellationer</head>
         <note xml:id="i-Uxt1h74NbHpMVPnyhfcACC">Följande interpellationer hade framställts:</note>
         <note xml:id="i-Xx6syxt1rHK8GYmH6TVWST">den 16 oktober</note>
@@ -705,7 +706,7 @@
         <note xml:id="i-Fokev8ENjp1eT5ohT282NE">av Sara Gille (SD)</note>
         <note xml:id="i-MDQv48znRjY7bC9epCbLyc">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ULScpUPZqYoig52ZWVH2ZN">§ 9 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-VQr7hLKQFfmdL23zJXHaDd">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-JmRTbwVANvvEqE6c26G8gi">den 16 oktober</note>
@@ -764,7 +765,7 @@
         <note xml:id="i-P5m7t9PapWu3GQNFknVUG1">av Mattias Karlsson i Luleå (M)</note>
         <note xml:id="i-DYvx7pekdmymR6RH7kZt8w">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XFvyLvKCq2agEWshb4NVGi">§ 10 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-4B9yuxCBFdyjdMppWD5HTP">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-TjagEomiz165Hdgetvsuqr">den 16 oktober</note>
@@ -889,139 +890,13 @@
         <note xml:id="i-HymhGryaQqYxXRViCz3wKE">av Angelica Lundberg (SD)</note>
         <note xml:id="i-Kft8DbobKnHpXQW5yFRfjM">till statsrådet Anders Ygeman (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-A9HuxEVo94f6JM2M6bm9Qv">§ 11 Kammaren åtskildes kl. 15.07.</head>
         <note xml:id="i-CYjLmze1N29dGVWdFCf8zJ">Sammanträdet leddes</note>
         <note xml:id="i-FcxsJntiFPqCkVkwJgc2FB">av talmannen från dess början till ajourneringen kl. 12.20 och</note>
         <note xml:id="i-Ut8t3uQ6pMpDVHK8osu9Pp">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-4FZMwkD8uB8Ldcg1r6EwvN">Vid protokollet</note>
         <note xml:id="i-88mUH8iAbNjvUgRWcEH7tN">ANNA ASPEGREN</note>
-        <note xml:id="i-XoPT1EBdaSQ21G7zWyL5nA">/Olof Pilo</note>
-        <note xml:id="i-68xp43wUMcrrDNmVCpSU4N">Innehållsförteckning</note>
-        <note xml:id="i-CzuyP3jDjRVb156MNV9RQe">§ 1 Avsägelse</note>
-        <note xml:id="i-7JxVQpVd1cWXP8UUWAxdkX">§ 2 Anmälan om kompletteringsval</note>
-        <note xml:id="i-QZCiZH2LQ2AXCn9M7UhBRt">§ 3 Anmälan om fördröjt svar på interpellation</note>
-        <note xml:id="i-Bs5w1mwjVNnYVNYaxQJtRX">§ 4 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-DMXQg6WLiHVGgye9jLUqGT">§ 5 Svar på interpellation 2019/20:26 om snöröjning av enskilda vägar</note>
-        <note xml:id="i-41n5CKMuf65EvZxBGFEs5i" type="speaker">Anf. 1 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-JGX8aNgv8d33rFYbKjocD5" type="speaker">Anf. 2 HELENA LINDAHL (C)</note>
-        <note xml:id="i-C6FZ3AkXw1cogyUp4Gy6X" type="speaker">Anf. 3 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-TvJs7Z7vansvJneJ5Ji9Hh" type="speaker">Anf. 4 HELENA LINDAHL (C)</note>
-        <note xml:id="i-TPYiAnP6zk1WL9AtQcfkUk" type="speaker">Anf. 5 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-17E4qVmmvy2aDkLcCbfAnC" type="speaker">Anf. 6 HELENA LINDAHL (C)</note>
-        <note xml:id="i-Cnug4s2nYCtxQ3ubMSwqMz" type="speaker">Anf. 7 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-MKDUvsTtPdApnFtXJfuk3s">Ajournering</note>
-        <note xml:id="i-2nyTmWSzDkbMy1GBSuhjdi">Återupptaget sammanträde</note>
-        <note xml:id="i-W13g4gEmT2J97ad7oAUVhm">§ 6 Frågestund</note>
-        <note xml:id="i-44NmHX2rWSftW8LSnx2Jyn" type="speaker">Anf. 8 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-7ZdfPnL1CtritXGfKvyebV">Slopad skatt på lokal elproduktion</note>
-        <note xml:id="i-3ox8uAo1qxNXQ4r9RKZVGa" type="speaker">Anf. 9 LARS HJÄLMERED (M)</note>
-        <note xml:id="i-XnA4rbCBu6QxUjdjgvFVNC" type="speaker">Anf. 10 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-TqwSEmgUYnPzXNuTbTvtCW" type="speaker">Anf. 11 LARS HJÄLMERED (M)</note>
-        <note xml:id="i-FK1sgMM9jYDGXeLj8E98pJ" type="speaker">Anf. 12 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-KmA7CZ9xpFb2JLyLtdnhyq">Unga kvinnors trygghet</note>
-        <note xml:id="i-4smwM9SRAbd1qJAY9Akaks" type="speaker">Anf. 13 EBBA HERMANSSON (SD)</note>
-        <note xml:id="i-FcyqNv3YS7RaxruZuvBkxf" type="speaker">Anf. 14 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-5YDgQedP3jHJ247Qk1Jotu" type="speaker">Anf. 15 EBBA HERMANSSON (SD)</note>
-        <note xml:id="i-PQLprCEpycX56cPxMgExUR" type="speaker">Anf. 16 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-X3GPodNtbnXfNV4fkmrv58">Den svenska sexköpslagen</note>
-        <note xml:id="i-T7256N1NTRxcwJqKZHqMQs" type="speaker">Anf. 17 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-JNwVYHBf4FTHarkQw4CEmt" type="speaker">Anf. 18 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-ALX2x9CUySWDhTfm5qu5Yq" type="speaker">Anf. 19 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-RnDK7G1a2EDD9SFLn9dGga" type="speaker">Anf. 20 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-P5abYCGrwmMdJJqSorRw2h">Besparingar i äldreomsorgen</note>
-        <note xml:id="i-6AmPihFbk9Js4paDKGuocm" type="speaker">Anf. 21 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-8THH6L9BKVPGKDcfDAnfpf" type="speaker">Anf. 22 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-Myp1LgVkLbkTKjMtVPDEaj" type="speaker">Anf. 23 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-QfKtRKYpk2xhMzTYpPkhPX" type="speaker">Anf. 24 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-EAedXn7XYTdzkyxhVHWVoU">Skatten på kraft- och fjärrvärmeproduktion</note>
-        <note xml:id="i-4ZZtf8wpg5N8xY97Toa59F" type="speaker">Anf. 25 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-QNpBtUSSfjG1Afqk5Xw2NM" type="speaker">Anf. 26 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-VHEQRETQVGKZKobEKdVMHB" type="speaker">Anf. 27 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-YYhUfgMbXqNTrniu4EhnZT" type="speaker">Anf. 28 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-L5i34wHVSCxTSakFbwW2MD">Trafikverket och förbättrad säkerhet på det regionala vägnätet</note>
-        <note xml:id="i-MpiHfcGaJhgiKs5FmgzjuC" type="speaker">Anf. 29 HELENA GELLERMAN (L)</note>
-        <note xml:id="i-73pivyf86WauA3NJjRJQnN" type="speaker">Anf. 30 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-BtBa5LDRoSaETwxNnRAxVw" type="speaker">Anf. 31 HELENA GELLERMAN (L)</note>
-        <note xml:id="i-6TGwgwZ3bZUdLQq32u7eAn" type="speaker">Anf. 32 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-SjYMApbYbCmkTGTzQKcwaK">Den avgiftsfria mammografin</note>
-        <note xml:id="i-3FLiXxzD3N7rZCJ22BDVBY" type="speaker">Anf. 33 DAG LARSSON (S)</note>
-        <note xml:id="i-Ep3dcDwzo24GMDAJNM22qS" type="speaker">Anf. 34 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-9Xjq9NFRtDkBcQjD3Xrnz" type="speaker">Anf. 35 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-KzYxcYJzFFwF42j3UsRDeS" type="speaker">Anf. 36 DAG LARSSON (S)</note>
-        <note xml:id="i-AfRwjTsb5YA6abv6FqeV4V" type="speaker">Anf. 37 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-RK3sb8uq8cs3CRA7oN4USq">Färjetrafik för tåg till kontinenten</note>
-        <note xml:id="i-8iuPL8W28jqdfu4FXpeVhg" type="speaker">Anf. 38 EMMA BERGINGER (MP)</note>
-        <note xml:id="i-2kAKSUZp5S1eDhnsZJwhP5" type="speaker">Anf. 39 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-YBqtxd2Q6maEf8jYyprQhE" type="speaker">Anf. 40 EMMA BERGINGER (MP)</note>
-        <note xml:id="i-6hC884x9Pp1KJeWqiws3QB" type="speaker">Anf. 41 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-4Q2r5MLTP8KGSJQPmzkZqt">Elkapacitetsbristen</note>
-        <note xml:id="i-ACw7EHD9h6eSwxN1Am54GF" type="speaker">Anf. 42 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-DsPTwjkFoAe1pziLonoGZA" type="speaker">Anf. 43 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-BJ1epdyYkUtrETGPx6oiqc" type="speaker">Anf. 44 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-SaHMEqfotJnJaxDN27kPu7" type="speaker">Anf. 45 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-EtCD32YSjUZSnKafQgad5i" type="speaker">Anf. 46 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-LNrf571k3SAZcG2vpHsWe2">Lagförslag om könskorrigering</note>
-        <note xml:id="i-MEjxjm9JdB1b4AjjiPVFQn" type="speaker">Anf. 47 CLARA ARANDA (SD)</note>
-        <note xml:id="i-2tvDwUN6WNaTkF86zALXAa" type="speaker">Anf. 48 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-KnMybwYgU1g2dZap5zUC4b" type="speaker">Anf. 49 CLARA ARANDA (SD)</note>
-        <note xml:id="i-3YjR2WqZm2vcbpaGWByGYL" type="speaker">Anf. 50 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-4ySMdNEYnPpnosQBfQJJxs">En dynamisk hastighetsreglering</note>
-        <note xml:id="i-3z9FFLLZJjMbYAsiMJ4VkW" type="speaker">Anf. 51 ANDERS ÅKESSON (C)</note>
-        <note xml:id="i-KeVb1yEENmhrDSGNU8vHfX" type="speaker">Anf. 52 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-PVtyQQ1vnRydVCqMYbDW4n" type="speaker">Anf. 53 ANDERS ÅKESSON (C)</note>
-        <note xml:id="i-QddTWeuCo7YzQyauzjE2k1" type="speaker">Anf. 54 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-GACwo8FGo9uqyTM2cvCNee">Krisberedskapen inom vården</note>
-        <note xml:id="i-5q3taikW2BxHNm3JcvCKRF" type="speaker">Anf. 55 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-BMkcKryVWahh68qwaDUSUj" type="speaker">Anf. 56 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-UkgZB2vpdpY2CAPuk94QD4" type="speaker">Anf. 57 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-5f2XW3U5oYZX6cN5ZaB1FW" type="speaker">Anf. 58 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-R1vMhXotebwZz6wGim3GGK">Nya Ostkustbanan</note>
-        <note xml:id="i-ANJhZzfdsNXmcM7x6FenZ9" type="speaker">Anf. 59 MALIN LARSSON (S)</note>
-        <note xml:id="i-7Ci4EXoBYhaYqKvrXwjcUb" type="speaker">Anf. 60 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-XyYdmbgrqsziYrvYYW188z" type="speaker">Anf. 61 MALIN LARSSON (S)</note>
-        <note xml:id="i-HqbtC7reXDqdyiEN9f5LWP" type="speaker">Anf. 62 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-S4WyyvsC1FuGkZWzgaPiWa">Tiden för utbyggnaden av elnätet</note>
-        <note xml:id="i-AoLe8ZPuE4FFrZoGd5Kizs" type="speaker">Anf. 63 MARTIN ÅDAHL (C)</note>
-        <note xml:id="i-EHxovs4NCXejoFKhrrNEL5" type="speaker">Anf. 64 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-LzQqmuhCqcsym2uYkUSpum" type="speaker">Anf. 65 MARTIN ÅDAHL (C)</note>
-        <note xml:id="i-VHpkfaLv3mgGqGmSCiSVAw" type="speaker">Anf. 66 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-Fke3voLJXjVsRd3fUNR2T1">Stärkandet av flyget och Arlanda</note>
-        <note xml:id="i-Nhub2b7ec2jYDgQbk9DcwE" type="speaker">Anf. 67 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-DSvnF4NYPuMne8HvEj5AJ2" type="speaker">Anf. 68 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-TrDFsUN9JnjxdeKp533wTF" type="speaker">Anf. 69 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-6sWxSNwquCU8M8f6HcC9Gd" type="speaker">Anf. 70 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-CoZsTG6e5akSKS5ZN2Ucwy">Kommunernas ansvar för sina medborgare</note>
-        <note xml:id="i-7dgHhzrN8cE64bSQiUkDUZ" type="speaker">Anf. 71 JASENKO OMANOVIC (S)</note>
-        <note xml:id="i-RnmwXf7fztLbpp6YttEigs" type="speaker">Anf. 72 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-VtNoSJPqxPSN6KdZyu9Yxn" type="speaker">Anf. 73 JASENKO OMANOVIC (S)</note>
-        <note xml:id="i-KF7qcjZFiASMmdU1QMN2bJ" type="speaker">Anf. 74 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-MFDeFNPgGAPiRw8aDzuXSZ">Debatten om elkapaciteten</note>
-        <note xml:id="i-7HdMgBQhwYtBGHHEjFioFt" type="speaker">Anf. 75 MAGNUS MANHAMMAR (S)</note>
-        <note xml:id="i-B9RedNPUrnoazjG5UU9ogo" type="speaker">Anf. 76 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-SteFUk7prrpeqKQPqhL2w7" type="speaker">Anf. 77 MAGNUS MANHAMMAR (S)</note>
-        <note xml:id="i-EzGu6ptU1HBXr2KSVmJYeQ" type="speaker">Anf. 78 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-Ayy2oJQRUoV98SFWScrqof">Vård av människor med posttraumatiskt stressyndrom</note>
-        <note xml:id="i-8eMCUJBnMMiTLDDhPytXoH" type="speaker">Anf. 79 SULTAN KAYHAN (S)</note>
-        <note xml:id="i-2gjtXkqGNP1ec6rP51x5PR" type="speaker">Anf. 80 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-BfinHdr8jPL7CqR7X1CZrh" type="speaker">Anf. 81 SULTAN KAYHAN (S)</note>
-        <note xml:id="i-5jPvoQmZrqchCHCjdBqSVz" type="speaker">Anf. 82 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-RzBAegAVWyfY3tookV8aHp">Omställningen till ett fossilfritt samhälle</note>
-        <note xml:id="i-Cgvp15DcCWf4gLqt4AhQfb" type="speaker">Anf. 83 DENIS BEGIC (S)</note>
-        <note xml:id="i-SiNNFpAd1zXu5pyQUfiu59" type="speaker">Anf. 84 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-XcPLyYLsYzAKhjNqxuCqFx" type="speaker">Anf. 85 DENIS BEGIC (S)</note>
-        <note xml:id="i-KwU7ETo596SVdbrbXfsDL1" type="speaker">Anf. 86 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-3EvHXftHWT41wXyNKYvCKn">Reglerna för offentlig upphandling av sjukvårdsmateriel</note>
-        <note xml:id="i-9wEfWCxAwY45rEGUoqWvsd" type="speaker">Anf. 87 ILONA SZATMARI WALDAU (V)</note>
-        <note xml:id="i-CUYsdDH3VusmkgArSFmorK" type="speaker">Anf. 88 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-8f3aXyWBxFH4LgTNYTGnbt" type="speaker">Anf. 89 ILONA SZATMARI WALDAU (V)</note>
-        <note xml:id="i-CxNUjRboUmpSJLHjSHzaCj" type="speaker">Anf. 90 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-J8WmxrabYCjtEZmAV5Rk14">§ 7 Bordläggning</note>
-        <note xml:id="i-V6qu54EnmM8o9St4ka25a9">§ 8 Anmälan om interpellationer</note>
-        <note xml:id="i-WWqeg5SveZMjMbGatjfUCa">§ 9 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-DXbNFTUncn5xWmgVGqtnbq">§ 10 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-KbgPeF8GvDu4E89zh22mTr">§ 11 Kammaren åtskildes kl. 15.07.</note>
-        <note xml:id="i-QJZNZC83eWgKwsEfKtTsab">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 71 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 71 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--71">2019/20--71</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,18 +75,18 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RDQPDBktpEjJQ6RtUr2RB2">§ 1 Justering av protokoll</head>
         <note xml:id="i-Wu7stdyY3nqJyYg55KKPgZ">Protokollet för den 17 januari justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-51hkJoWhHPtG4skFWrmM4M">§ 2 Avsägelser</head>
         <note xml:id="i-B1AymCgnyYs8raooDWAoqW">T almannen meddelade</note>
         <note xml:id="i-Y3PDb3HvPG4a3RA7S8hu8b">att Joar Forssell ( L ) avsagt sig u ppdraget som suppleant i civilutskottet och</note>
         <note xml:id="i-WDzsWRyWrecSmbaZrVLoxq">att Maj Karlsson ( V ) avsagt sig uppdrage t som ersättare i riksdagsstyrelsen.</note>
         <note xml:id="i-Dg2YEuU1k8GPd72gwBz577">Kammaren biföll dessa avsägelser.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-H2HYxC2WvHT1WfgHinPwWZ">§ 3 Anmälan om kompletteringsval</head>
         <note xml:id="i-61PCi4AFVHMtyJuxPccMwq">Talmannen meddelade</note>
         <note xml:id="i-SxQSNRvAi1Py3CU6YSdxmn">att Vänsterpartiets riksdagsgrupp anmält Maj Karlsson som ledamot i riksdagsstyrelsen och Hanna Gunnarsson som ersättare i riksdagsstyrelsen samt</note>
@@ -102,7 +103,7 @@
         <note xml:id="i-Ej7sPcQxzEtTRgEWwGTcuL">ersättare i riksdagsstyrelsen</note>
         <note xml:id="i-JaUVPKt9MQ4BSeGs5XRhJj">Hanna Gunnarsson (V)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-X2Wt9KjeH3ai1M2MhFjhtk">§ 4 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-H8dvjEXLd6g3pWu2hbwSNX">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-muMVUTDGetdwLC2QuSab7">Interpellation 2019/20:293</note>
@@ -153,7 +154,7 @@
         <note xml:id="i-Vcboj65wF2w4b8EjWPMdbY">Johan Ndure</note>
         <note xml:id="i-CRrS4HWvH4uTjeSC8z22vV">Departementsråd</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RcQfffHEax2LC1t8YvpZJ9">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-3qzod9yzcMDZWz3XFmJG21">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Qf1q8gB4STJc26Pcvd41Xu">Motioner</note>
@@ -613,14 +614,14 @@
         </u>
         <note xml:id="i-VGqM65XU2HBg9ctDDB68q8">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-P6Xq5j3zB3mcx9LpSUfTdy">§ 12 Bordläggning</head>
         <note xml:id="i-nkAC5QSCg8uFCRydrBmUM">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-FjHEbVbsrEgbQL4LmitU3x">Skrivelser</note>
         <note xml:id="i-RAvckuM22371vUQmxQnfi6">2019/20:73 Riksrevisionens rapport om stöd till start av näringsverksamhet – långsiktiga effekter och Arbetsförmedlingens arbetssätt</note>
         <note xml:id="i-AL3fcN9NDbw6YewSphH7Te">2019/20:76 Riksrevisionens rapport om Konkurrensverkets tillsyn</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WA9cdUwfWengq53Q9HbeZa">§ 13 Anmälan om interpellation</head>
         <note xml:id="i-M4Xs23GMJYuCYoCT1BtZ1g">Följande interpellation hade framställts:</note>
         <note xml:id="i-Awfmtuatzzyk2crEFg7aVa">den 6 februari</note>
@@ -628,7 +629,7 @@
         <note xml:id="i-7Ea8YxNseNVX52ow2aPduw">av Tobias Andersson (SD)</note>
         <note xml:id="i-MJzRv83ufguE8h4fMV56M5">till näringsminister Ibrahim Baylan (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MN7Fmgc5ZrDWUegyaG1JJH">§ 14 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-HT91AnUFn3awzhG9ymKGqB">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-55JQE8VMnYHd87FYaN2iBg">den 6 februari</note>
@@ -663,7 +664,7 @@
         <note xml:id="i-WgPRoGzEYyS9bq3Pm8rgqw">av Åsa Coenraads (M)</note>
         <note xml:id="i-Eor33KBozwY1jQe4iiuFox">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GzuBBLZAxJfynxA6kHQdmH">§ 15 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-DjRfBk2c4BfHEXKuSBUC2h">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-HuGmdshQdJoFTGqbYig2qd">den 6 februari</note>
@@ -674,80 +675,13 @@
         <note xml:id="i-RsisDPGG2NBPoUBsp4et3e">av Tobias Andersson (SD)</note>
         <note xml:id="i-CQUnuKNQnWeJPQw89mQc5L">till statsrådet Lena Micko (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2XECX4Fd2Rp98pj1PiwPte">§ 16 Kammaren åtskildes kl. 11.1 4 .</head>
         <note xml:id="i-38U2sVEb3jMUQUg595Kb66">Sammanträdet leddes</note>
         <note xml:id="i-Hd6pKKL4r1FsadFVi9jjBW">av talmannen från dess början till och med § 11 anf. 42 (delvis) och</note>
         <note xml:id="i-99kaQxCjmFCvRmtmzfWSB5">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-FiicYiz89Jo9zqdvYg44X8">Vid protokollet</note>
         <note xml:id="i-39ELEWt7k5mt2NZoGxuCA6">CHARLOTTE RYDELL</note>
-        <note xml:id="i-4LoRLqGmfHFvnfQWyUd1Xd">/ Olof Pilo</note>
-        <note xml:id="i-eFBHj5Fh4f4bD2TCAfXwg">Innehållsförteckning</note>
-        <note xml:id="i-8SkFZrFrJx5UeVAujExxZa">§ 1 Justering av protokoll</note>
-        <note xml:id="i-XbUh1Zv7yA8SaYKWED1B4a">§ 2 Avsägelser</note>
-        <note xml:id="i-MjhE2LXzhddy9xCFVLTmrA">§ 3 Anmälan om kompletteringsval</note>
-        <note xml:id="i-PMpEwevhPqruyC7ePw6zkt">§ 4 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-5zfVxMvNmHohzo2NomzTNK">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-HEXJ2FBqyxUGU4GSL9bN7f">§ 6 Svar på interpellation 2019/20:195 om värnande av skatteundantag för förnybara drivmedel</note>
-        <note xml:id="i-LzE9efVPcn9LNCGs9kBvEj" type="speaker">Anf. 1 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Ge2Y1z9kmzAXFdWiKJnHLP" type="speaker">Anf. 2 JENS HOLM (V)</note>
-        <note xml:id="i-JwoF6bMgAgewBg76Sq6v7V" type="speaker">Anf. 3 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-3gmi5WaoTUEC5X3qEfX6qa" type="speaker">Anf. 4 JENS HOLM (V)</note>
-        <note xml:id="i-Bo7ZSMeuWC2pDUhsTKbLfH" type="speaker">Anf. 5 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-X8PXkznhwweLsDgVPwiF76" type="speaker">Anf. 6 JENS HOLM (V)</note>
-        <note xml:id="i-WBoLvRUutYsWdqpT3sjxbP" type="speaker">Anf. 7 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-4Sm8nTgvSxmJtApdjGEZn9">§ 7 Svar på interpellation 2019/20:216 om åtgärder mot missbruk av samordningsnummer</note>
-        <note xml:id="i-VJqpo4gb5wiyS8g5yDBAF1" type="speaker">Anf. 8 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-KjLqmnnU43bzArSWxDHp9B" type="speaker">Anf. 9 JAN ERICSON (M)</note>
-        <note xml:id="i-LZjQSvXL5Z8dvT7BTD9Nf4" type="speaker">Anf. 10 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-DRdWivip1oW2NLamHGiabv" type="speaker">Anf. 11 JAN ERICSON (M)</note>
-        <note xml:id="i-6tHVV4Jpb7yFoobJntwNpe" type="speaker">Anf. 12 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Y1cARTcrVLKS1nTCuywVv1" type="speaker">Anf. 13 JAN ERICSON (M)</note>
-        <note xml:id="i-94yDtb43myXXPgZsGmrHQp" type="speaker">Anf. 14 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-F2horswo8MierxQwGyJRnt">§ 8 Svar på interpellation 2019/20:237 om beskattning av husbilar</note>
-        <note xml:id="i-DE33wyBftmLMXAxcEFee7c" type="speaker">Anf. 15 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-X41yPL5hKnGyXtDrtPtGZN" type="speaker">Anf. 16 ERIC PALMQVIST (SD)</note>
-        <note xml:id="i-AdfXw9FQKvjToRPBin2XZ8" type="speaker">Anf. 17 THOMAS MORELL (SD)</note>
-        <note xml:id="i-C7PJyMAbyb8d16egWo6jc2" type="speaker">Anf. 18 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-6UhYmjB3hULBfs5sRMML3P" type="speaker">Anf. 19 ERIC PALMQVIST (SD)</note>
-        <note xml:id="i-6WJQ8Sqbau68xrrNoqpth5" type="speaker">Anf. 20 THOMAS MORELL (SD)</note>
-        <note xml:id="i-Cxi9zKKb5CKm8tDyDjiGkf" type="speaker">Anf. 21 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-RULRCF4ZEivtFNnWj5AeB6" type="speaker">Anf. 22 ERIC PALMQVIST (SD)</note>
-        <note xml:id="i-H4ocmKiigdCumkyL2mHHPj" type="speaker">Anf. 23 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-9hGM5oiAprsVDxRAUfVYQx">§ 9 Svar på interpellation 2019/20:273 om tullens befogenheter</note>
-        <note xml:id="i-QNA19jgr6ojiZMkutNMtfi" type="speaker">Anf. 24 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Vth296LoLy6fcGFvRijGWS" type="speaker">Anf. 25 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-MoZL9v8Z82EFWTydgvPnJy" type="speaker">Anf. 26 MARCUS JONSSON (KD)</note>
-        <note xml:id="i-PcgB3eyd8TNm3qYcuF5NQm" type="speaker">Anf. 27 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Yc7igtkmsvSX2YVc5HQpXP" type="speaker">Anf. 28 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-3YLDGxhue5WMi78R34ECLL" type="speaker">Anf. 29 MARCUS JONSSON (KD)</note>
-        <note xml:id="i-BfRBTGb45MsXuqSWvLz6m8" type="speaker">Anf. 30 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-Q7zZMoxZuPJa1aqiNErQ1n" type="speaker">Anf. 31 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-JCcVv6a2uXRKyiYGDFS7Ys" type="speaker">Anf. 32 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-UYsgPeKZHHU83JPsFv6CFk">§ 10 Svar på interpellation 2019/20:281 om Raoul Wallenbergs försvinnande</note>
-        <note xml:id="i-B6W3msw7HyULAj8YY8P9qd" type="speaker">Anf. 33 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-WdGGV8vTfCnzmBqH2KLxkT" type="speaker">Anf. 34 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-RBndxgPHUqXSskLM4Btubm" type="speaker">Anf. 35 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-DacF9av3dmuRsBJ9EproR7" type="speaker">Anf. 36 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-THCruEVm1fdc5r85RiiUGN" type="speaker">Anf. 37 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-VKvUcTTrm821CrnZgc2ox4" type="speaker">Anf. 38 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-K9VuUTQxYAHqubvtYwEQmV" type="speaker">Anf. 39 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-EzTU4voAmb5SvQxCdpVDYd">§ 11 Svar på interpellation 2019/20:286 om lärarnas arbetsmiljö</note>
-        <note xml:id="i-2RoK1oh5tZXMaKFh7X7weJ" type="speaker">Anf. 40 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-KbYnnyCQtKXj2MKXR6PG26" type="speaker">Anf. 41 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-U5Jsk7bWyE2V2TcdhpXSKn" type="speaker">Anf. 42 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-NZF6QAb1SHZuZ8kGXEKbia" type="speaker">Anf. 43 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-3BXDUzk6h1Tt9K45yyo64S" type="speaker">Anf. 44 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-7CY3cJ4pN5QTvLgPq7jv84" type="speaker">Anf. 45 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-Cbg7p3NjVoG4pts8DgbYYp" type="speaker">Anf. 46 Utbildningsminister ANNA EKSTRÖM (S)</note>
-        <note xml:id="i-C786FJ8faYSnWdk4e16o1E">§ 12 Bordläggning</note>
-        <note xml:id="i-YQb2o3dqTuWJJgegMc8BS2">§ 13 Anmälan om interpellation</note>
-        <note xml:id="i-AuwRVoPJLCK9bjpHa6j6kD">§ 14 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-94NTdVqFZCMSsJEGxPfS15">§ 15 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-6DnPNL2ZWvAYm41FoGSb29">§ 16 Kammaren åtskildes kl. 11.14.</head>
-        <note xml:id="i-VMuegxvVGQv4L7AZ4v87rH">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

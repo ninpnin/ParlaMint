@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 129 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 129 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--129">2019/20--129</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,22 +75,22 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BjrqGgCfXha4UC534A7M7q">§ 1 Meddelande om frågestund</head>
         <note xml:id="i-NzHxRntNnUAnmL3QRTDuZA">Andre vice talmannen meddelade att frågestund skulle äga rum torsdagen den 4 juni kl. 14.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ubg42etpp8HztVC7AqAZYU">§ 2 Anmälan om subsidiaritetsprövningar</head>
         <note xml:id="i-UsEJ98WWtU7RNfsdV7csCP">Andre vice talmannen anmälde att utdrag ur följande protokoll i ärenden om subsidiaritetsprövning av EU-förslag hade kommit in:</note>
         <note xml:id="i-WuMJb8L1F23EhzCtgU2u3x">prot. 2019/20:24 för tisdagen 26 maj från skatteutskottet och</note>
         <note xml:id="i-PLhPfEZNSicUvnHouCAz1i">prot. 2019/20:40 för torsdagen den 28 maj från miljö ‑ och jordbruksutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ADxU989SAzpXhHPdYzVbte">§ 3 Anmälan om faktapromemoria</head>
         <note xml:id="i-V9XvMSQn75Hcy82n8KWExb">Andre vice talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-LtmtUyxF9XR7WjtCB2DBYK">2019/20:FPM39 Förslag till ändring av kapitaltäckningsregler med anledning av covid-19-utbrottet COM(2020) 310 till finansutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3M5f66jge9jEB7yx65gA1j">§ 4 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-GH7uHaqHPvEqcVbJYZ6Kci">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Lkp3ComSjjPuyVBTGNE31r">Propositioner</note>
@@ -99,7 +100,7 @@
         <note xml:id="i-C61hziZiTVgauaVc8FhUuD">Skrivelse</note>
         <note xml:id="i-QD4FcADpEt1zYgtuW2hUBx">2019/20:130 till finansutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EXQ7eAHYCJu54pNERhshY3">§ 5 Ärenden för bordläggning</head>
         <note xml:id="i-ApvU7hz9pQcu3ZijZh9MKN">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-BjsEcLkpQfGfJrdLsYY1n7">Socialutskottets betänkanden</note>
@@ -283,13 +284,13 @@
         </u>
         <note xml:id="i-BfeHfS213VHQFyY64fhe59">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SRCe6AMcbJNJ9yQN1mYP9C">§ 8 Bordläggning</head>
         <note xml:id="i-UDKHXdUWZ7TrLBiJiC2WMp">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-4MSQeySmsXzVgLUkBy2NZz">EU-dokument</note>
         <note xml:id="i-7ZGeFmBnkn5YqZf9FPCsR8">COM(2020) 445 Ändrat förslag till rådets beslut om systemet för Europeiska unionens egna medel</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LTd28Yn5QLieT2BNJN58MH">§ 9 Anmälan om interpellationer</head>
         <note xml:id="i-KkDhyNYBkAfnNbDotVZYvN">Följande interpellationer hade framställts:</note>
         <note xml:id="i-SQukpCyVaATjQSxhJVuJZ1">den 29 maj</note>
@@ -300,7 +301,7 @@
         <note xml:id="i-LhNftLtadtp3GCJVMAXeR7">av Tobias Andersson (SD)</note>
         <note xml:id="i-2ns6C1squJjivkB2rAEKpN">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JCZnZscRUyx8ykLLWPhKHD">§ 10 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-HMd8LkrbeZrHCtnfs5jRFs">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-CD1vfQFkPwbe7igMq5MX52">den 29 maj</note>
@@ -350,7 +351,7 @@
         <note xml:id="i-Wk1d7piqLG6R9YboJiedwU">av Markus Wiechel (SD)</note>
         <note xml:id="i-25DJVsKQ35mcAzBQxfcFHC">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Bvevjv7Fu64GAkSK22tBJu">§ 11 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-RLFXNUTS1FEt2tmRagmFgp">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-X43vuWE7nscikA9eKzporN">den 29 maj</note>
@@ -361,45 +362,11 @@
         <note xml:id="i-2F3kbgmX5eGd9mBsGEenV2">av Hans Wallmark (M)</note>
         <note xml:id="i-BRiRUfQ8Nd2ihZoccujhad">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EougLvXdMz8Pkft1iC5xHa">§ 12 Kammaren åtskildes kl. 11.52.</head>
         <note xml:id="i-WwoZmoS1TUiQ4ZyG7vLn8s">Sammanträdet leddes av andre vice talmannen.</note>
         <note xml:id="i-SNAuAtCNvCf1ViitqX9Jv8">Vid protokollet</note>
         <note xml:id="i-MvtmfX21wdARD49GqJAQ19">ANNA ASPEGREN</note>
-        <note xml:id="i-J3MYNxBBz2TDJggDmXWZee">/ Olof Pilo</note>
-        <note xml:id="i-USFXmHsvsr16vZy4WyvxLs">Innehållsförteckning</note>
-        <note xml:id="i-Vk8Q4Y6e9wmWupuKVHmgvC">§ 1 Meddelande om frågestund</note>
-        <note xml:id="i-AKN2euPn1nr5BAJJ6Z2hje">§ 2 Anmälan om subsidiaritetsprövningar</note>
-        <note xml:id="i-8kWNpdX4fjYeCnpLiFmEor">§ 3 Anmälan om faktapromemoria</note>
-        <note xml:id="i-VAUrA1fWUcBxrPjnH6JqQ9">§ 4 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-HZRMKga1MFpiSNH2HzeVs1">§ 5 Ärenden för bordläggning</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-EPjEDE13JV7YKH6uwhxRjd">§ 6 Svar på interpellationerna 2019/20:398 och 399 om stöd till regionala flygplatser</head>
-        <note xml:id="i-Lg5Ccgtke837TpdcvKPQ6E" type="speaker">Anf. 1 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-AcwrNUnzdUqHwN6fDBtYBo" type="speaker">Anf. 2 SVEN-OLOF SÄLLSTRÖM (SD)</note>
-        <note xml:id="i-JQCTeTD3SPoytaAJ1ikSxB" type="speaker">Anf. 3 LARS THOMSSON (C)</note>
-        <note xml:id="i-DfBAsNYrXGirVduQsB3AYp" type="speaker">Anf. 4 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-441Yt3WneKieesVKdvjq15" type="speaker">Anf. 5 SVEN-OLOF SÄLLSTRÖM (SD)</note>
-        <note xml:id="i-F7JKrAAoCz7QyFG2SEEbMB" type="speaker">Anf. 6 LARS THOMSSON (C)</note>
-        <note xml:id="i-NiYXSerSacRP1MJ3pCRiPU" type="speaker">Anf. 7 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-Pp1HripabG1yoXq8WEZyNP" type="speaker">Anf. 8 SVEN-OLOF SÄLLSTRÖM (SD)</note>
-        <note xml:id="i-RhZsLv32NHkocaAm2x8FHJ" type="speaker">Anf. 9 LARS THOMSSON (C)</note>
-        <note xml:id="i-EgXYUSGgdDDxAQs4yeL3Rz" type="speaker">Anf. 10 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-Q7ujnLRt2fQCJHPNAqTCYr">§ 7 Svar på interpellation 2019/20:400 om den nationella infrastrukturplanen</note>
-        <note xml:id="i-5n4w276ZyaYwrfVpHcreS3" type="speaker">Anf. 11 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-U9XjUFkoK817qmjkS2FUHX" type="speaker">Anf. 12 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-7QzA9oN7VKSogBnQEXCZ4W" type="speaker">Anf. 13 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-8Q6k5wbdnzMusBnRnRnGhb" type="speaker">Anf. 14 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-WpJGGFe5syNt2PQ47VzRT" type="speaker">Anf. 15 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-KgJbAq8rqeJmvUCuuAAxNs" type="speaker">Anf. 16 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-Pz3XjGaRsfi2t32YKV9ojM" type="speaker">Anf. 17 Infrastrukturminister TOMAS ENEROTH (S)</note>
-        <note xml:id="i-GndRJKqVsiHsbvhJyxKtFG">§ 8 Bordläggning</note>
-        <note xml:id="i-MJVzenTJ3NBhYtoCgmBC3K">§ 9 Anmälan om interpellationer</note>
-        <note xml:id="i-GvPF9TeffPM29LirMXhrtS">§ 10 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-R4m2r6zANNPE4A8hXEHKVM">§ 11 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-4CY1dfiipNCJDiLMbipKXN">§ 12 Kammaren åtskildes kl. 11.52.</note>
-        <note xml:id="i-Y2AQnEBxU52Gmh7AdvFFN7">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

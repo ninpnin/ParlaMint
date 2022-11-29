@@ -25,7 +25,7 @@
           <licence>http://creativecommons.org/licenses/by/4.0/</licence>
           <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
         </availability>
-        <date when="2022-11-24">2022-11-24</date>
+        <date when="2022-11-29">2022-11-29</date>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -75,6 +75,10 @@
   </teiHeader>
   <text ana="#covid">
     <body>
+      <div type="commentSection">
+        <head xml:id="i-RuYdNRDD75cQKqoKQrCUqr">§ 1 Justering av protokoll</head>
+        <note xml:id="i-3YcWJ6JEmwZTqyst7zNivX">Protokollet för den 27 oktober justerades.</note>
+      </div>
       <div type="commentSection">
         <head xml:id="i-E1h66Zn99fqvEoetH3TKdA">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-MvCYtRGji3gGeubu9h368d">Talmannen meddelade att Kristdemokraternas partigrupp anmält Ulf Lönnberg som suppleant i kulturutskottet och i utbildningsutskottet under Christian Carlssons ledighet.</note>
@@ -1737,10 +1741,6 @@
         <note xml:id="i-4fFKb3pw4b8P4hFUrcKF9G">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-BMhvwcvF1dNJrCUNR9Qbbe">Vid protokollet</note>
         <note xml:id="i-PuQ97kDBFqG4NetFxSF7zN">LENA LINDBÄCK</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-RuYdNRDD75cQKqoKQrCUqr">§ 1 Justering av protokoll</head>
-        <note xml:id="i-3YcWJ6JEmwZTqyst7zNivX">Protokollet för den 27 oktober justerades.</note>
       </div>
     </body>
   </text>

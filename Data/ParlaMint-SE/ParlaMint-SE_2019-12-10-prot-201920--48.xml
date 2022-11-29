@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 48 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 48 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--48">2019/20--48</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,11 +75,11 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FGP9HfGCYJ79dqXw2eHkzs">§ 1 Justering av protokoll</head>
         <note xml:id="i-Qc34b9YNMKFtTqcrM62EPr">Protokollen för den 19 och 20 november justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CtRmQgTERiBvohaRcky24e">§ 2 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-UCqN6zihsbvbxFsyGdhNmp">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-HKPB9i7daFCxdWyD5e5RG6">Interpellation 2019/20:162</note>
@@ -178,13 +179,13 @@
         <note xml:id="i-3RTqP7imFuH74JSUuVxTQ1">Egon Abresparr</note>
         <note xml:id="i-RD8Qjxt1BLRDdBFEuHGvZi">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YXQkjwZVyVyotxtFZbGj6">§ 3 Ärende för hänvisning till utskott</head>
         <note xml:id="i-7GRDUd7qLD5Nz51xATxkUw">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-UhbNjPL2zbB4oete2mX68j">Motion</note>
         <note xml:id="i-6PKFa95k1jNmV3aXB9Y6pG">2019/20:3445 till arbetsmarknadsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Qp7nahqrJD7zwHRKYEzTCp">§ 4 Ärenden för bordläggning</head>
         <note xml:id="i-NCs1NQ9DRubRHGXEvqDhdK">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-3qczRLX7hzmDxJQKNn9b3w">Konstitutionsutskottets betänkande</note>
@@ -550,7 +551,7 @@
         </u>
         <note xml:id="i-AVoAjH3c4Gs4DC71AWudxW">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DuGeKqwdANnjJyAxUs3XKk">§ 9 Bordläggning och beslut om förlängd motionstid</head>
         <note xml:id="i-Yc83TQa4EKvmMfCKCyPwdT">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-QFb1qbDX8cYU9hEQbmokmg">Proposition</note>
@@ -566,7 +567,7 @@
         <note xml:id="i-2eRFQYzyEj3HJgmB7myb1q">2019/20:3442 av Ali Esbati m.fl. (V)</note>
         <note xml:id="i-3EGvuEm4KLqLRZDBYQPNJf">2019/20:3444 av Mats Green m.fl. (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-N8B5gwnB3nXCfG9jjYgNH1">§ 10 Anmälan om interpellationer</head>
         <note xml:id="i-4dLfT4dC863MAWE18QwE3B">Följande interpellationer hade framställts:</note>
         <note xml:id="i-5b5de8D7cERsu8wDNn7UgX">den 9 december</note>
@@ -583,7 +584,7 @@
         <note xml:id="i-Q9x7tCZNVxbCXdG7G6HjLn">av Gudrun Brunegård (KD)</note>
         <note xml:id="i-A7ZYUQAdQJMAbXvLPFTsb6">till utbildningsminister Anna Ekström (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8j4BK8qXTn5iJu5HKyABET">§ 11 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-6GDU7WesPXysijv7WK6o4u">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-3H1bvdGBg1yLoV3XWUE56k">den 9 december</note>
@@ -636,7 +637,7 @@
         <note xml:id="i-CZzx6PKP7r5g7WQyCDmWf9">av Ann-Sofie Alm (M)</note>
         <note xml:id="i-WRDQLppLLQHryvoHzHScRz">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7L2LAaqgMJkB6QdptWPU1e">§ 12 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-2Ecym7u5YQ7r5oLa7ZntpX">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-XsR6ii9MsiYTdbDfy7YxSo">den 11 december</note>
@@ -650,57 +651,11 @@
         <note xml:id="i-F919SzyQuhqzMxfhypSRff">av Thomas Morell (SD)</note>
         <note xml:id="i-FBSMtQCv9NqAQcKfQsXtif">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QjKvTBeCmfevBsp8WkbADQ">§ 13 Kammaren åtskildes kl. 14.32.</head>
         <note xml:id="i-Mbynu7u84LeNGqRNRrdWSx">Sammanträdet leddes av andre vice talmannen.</note>
         <note xml:id="i-JPikK9Fdtkech5y77Pn4yi">Vid protokollet</note>
         <note xml:id="i-PGvDLhQ9hmccH54Fp4uNw">ANDERS NORIN</note>
-        <note xml:id="i-NRmGNcm4CE8J6YbjyQZuDQ">/Olof Pilo</note>
-        <note xml:id="i-GbmigSNz81ST79qa6Epj1G">Innehållsförteckning</note>
-        <note xml:id="i-5AMwdK6J2STG9o3hxiCxpd">§ 1 Justering av protokoll</note>
-        <note xml:id="i-74FsM8Dtt1rPhneBY7RfCB">§ 2 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-3ZnfxAmBnMTW2f1SZQBDLZ">§ 3 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-DmGZ6r3p6QocjNAPjfD8R6">§ 4 Ärenden för bordläggning</note>
-        <note xml:id="i-7zY3FCwBVxpWGWbdzuRajb">§ 5 Svar på interpellation 2019/20:124 om särskilda köer till svensk sjukvård</note>
-        <note xml:id="i-VcmyLB5ux6MQNGkztbA9ez" type="speaker">Anf. 1 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-5dpdKkEtnQoWmmWfHKL9T1" type="speaker">Anf. 2 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-M2mExe8QkZ5GSDGkqyKCzJ" type="speaker">Anf. 3 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-D9yWJDzLRU95XNDq6o92YQ" type="speaker">Anf. 4 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-An6TZ55kZoEH68KDFzLghR" type="speaker">Anf. 5 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-8xhMP22vh79zX23KSCSaBj" type="speaker">Anf. 6 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-VxFW2gJNZez19oDwZuAaPc" type="speaker">Anf. 7 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-XgKeCR8pK46T7ePeUsQeyC">§ 6 Svar på interpellation 2019/20:128 om nedskärningar i sjukvården</note>
-        <note xml:id="i-UVn9LG7uaW7TTahe8Fo6nQ" type="speaker">Anf. 8 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-L4WRqQNoUrmsqqTGsz7aUg" type="speaker">Anf. 9 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-A5imYVgdN9Lh8KK7hXYJ6" type="speaker">Anf. 10 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-K7djXhjNkjSuFqynZy3uUs" type="speaker">Anf. 11 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-8XbtX7zeLbrvXw9sTJipKD" type="speaker">Anf. 12 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-2dDGRpDCauE6GREvcUck5L" type="speaker">Anf. 13 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-CKq12L9aLhefXo5i6cvrzL" type="speaker">Anf. 14 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-HJFovDHEKZ1r6qDybqfvSC">§ 7 Svar på interpellation 2019/20:135 om sjukvårdens ekonomi</note>
-        <note xml:id="i-SwJpQk55xs52fj34HW9Kx8" type="speaker">Anf. 15 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-KwixUN8zBmkxtQzA4KUQ6F" type="speaker">Anf. 16 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-Qj7LcepxTWDxzB4ZiEW7Ke" type="speaker">Anf. 17 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-6xTVMXwFuSAjV8x1FSCVSL" type="speaker">Anf. 18 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-f6484rUA6yY9xzCcpN4rq" type="speaker">Anf. 19 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-N8abDeDCiY19HJgFpGgiP3" type="speaker">Anf. 20 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-eDvMzk5RHMR6wWmpgHhur" type="speaker">Anf. 21 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-UKWtS3kW65S6otCBU5mCvi">§ 8 Svar på interpellation 2019/20:182 om kommunsektorns ekonomiska problem</note>
-        <note xml:id="i-AfBanNLYq881xtUVLuKLxe" type="speaker">Anf. 22 Statsrådet LENA MICKO (S)</note>
-        <note xml:id="i-Ac5sCE7jvD64SpDuv9c1Bv" type="speaker">Anf. 23 JAN ERICSON (M)</note>
-        <note xml:id="i-2XC3vivFVr9bu7QKzDGhho" type="speaker">Anf. 24 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-FRhywzKNGAjSfa8Gqvbxad" type="speaker">Anf. 25 Statsrådet LENA MICKO (S)</note>
-        <note xml:id="i-AKiE1NVseq5Xu6qAtoWhJR" type="speaker">Anf. 26 JAN ERICSON (M)</note>
-        <note xml:id="i-QTQWho6ViBGRaa9PkDcmrt" type="speaker">Anf. 27 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-6P1ArzGLVMsr1FxooCf8mx" type="speaker">Anf. 28 Statsrådet LENA MICKO (S)</note>
-        <note xml:id="i-Juk42h7AWcc2yiFn6dbndd" type="speaker">Anf. 29 JAN ERICSON (M)</note>
-        <note xml:id="i-RdTdBwcEwUL54qRNR2quPq" type="speaker">Anf. 30 Statsrådet LENA MICKO (S)</note>
-        <note xml:id="i-FS5H8qT4pWCwrfR3qiYwHC">§ 9 Bordläggning och beslut om förlängd motionstid</note>
-        <note xml:id="i-KSpvNVVXtHtUJheDrovMVc">§ 10 Anmälan om interpellationer</note>
-        <note xml:id="i-H5XivyccTLapfeJ3N5Qbnq">§ 11 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-7yFBSEzRaD5cwN86oaEqxZ">§ 12 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-5HhE8rjxmc41d5xDmMZxDC">§ 13 Kammaren åtskildes kl. 14.32.</note>
-        <note xml:id="i-9d3CGj3PfeEAnYfknsZrGb">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

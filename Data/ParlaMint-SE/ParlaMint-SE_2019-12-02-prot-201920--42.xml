@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 42 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 42 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--42">2019/20--42</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,11 +75,11 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BWLkSQtSMnL5Tbi1Y88jES">§ 1 Meddelande om frågestund</head>
         <note xml:id="i-9dj2Hy3yu6NcKDa6szrzFp">Tredje vice talmannen meddelade att frågestund skulle äga rum torsdagen den 5 december kl. 14.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-513H4ipYqSbw6E3mYprpAo">§ 2 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-2zDmD2qemmidBMgKUDkBCT">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-6XjumT6KZ1HGsUJHL5EGY7">Interpellation 2019/20:171</note>
@@ -94,7 +95,7 @@
         <note xml:id="i-BCoF8bUKbPxrvRzbT7Ln5G">Johan Ndure</note>
         <note xml:id="i-CnYXaNxztStjdUBfhE8rXn">Departementsråd</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Mr63TdqDmczjKNim7iiNJV">§ 3 Anmälan om faktapromemoria</head>
         <note xml:id="i-MBBt3gqeNfmE3G2MXie5Ds">Tredje vice talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-LAXcJ8pKvjAJucB6VuDidn">2019/20:FPM7 Förordning om fiskemöjligheter i Västerhavet 2020 COM(2019) 483 till miljö- och jordbruksutskottet</note>
@@ -248,14 +249,14 @@
         </u>
         <note xml:id="i-DWnBhEBcnKbHJgRtuchUF6">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VVVGaDXp6PBXZz2UHgVTPA">§ 6 Bordläggning</head>
         <note xml:id="i-Spsomk5pDkfej3378WDi1W">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-WcfVwwKLUjTLcQzLc3e72L">Motion</note>
         <note xml:id="i-AfextxYpSdv6HSRQNNthrY">med anledning av framst. 2019/20:RS5 Riksrevisionens ledningsstruktur</note>
         <note xml:id="i-BsHTc8nf7WJtKo6QZgD8FB">2019/20:3436 av Mia Sydow Mölleby m.fl. (V)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Xsae7E2GUH2u5m6jorfem5">§ 7 Anmälan om interpellationer</head>
         <note xml:id="i-WcBToxJ5k12geByaNacjuo">Följande interpellationer hade framställts:</note>
         <note xml:id="i-2H5MnG2TUViWE1SqL5H3js">den 29 november</note>
@@ -272,7 +273,7 @@
         <note xml:id="i-Vafxm4qNjVjn8B71vLY1Fb">av Jonas Andersson i Skellefteå (SD)</note>
         <note xml:id="i-6DRTxqstK5r82PvFZVCfM2">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GB89VoxQmB9rK9fC22RCna">§ 8 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-9eq1MV5e8vNJVjaf3zigfU">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-8Dd3ZaHijBBdtG11EbtWs1">den 29 november</note>
@@ -304,7 +305,7 @@
         <note xml:id="i-2E1Qs7mMKaTX5pwGeAi5nK">av Per Schöldberg (C)</note>
         <note xml:id="i-Mb8h5CeWTsRd62mAezvtrY">till finansminister Magdalena Andersson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-THBCvjbHhVcnDea6sBQxyh">§ 9 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-kJimQR9NLzX3VGF1yx8y8">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-E7PQSja88mppjxnfv5AFjS">den 29 november</note>
@@ -316,38 +317,11 @@
         <note xml:id="i-SE5iJ2BQRtnwdmBLaE94oC">av Helena Antoni (M)</note>
         <note xml:id="i-LMibhchc8UjsRJ8TBEP8p5">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DU9WH5vow7Jczpcg12Mi6q">§ 10 Kammaren åtskildes kl. 11.42.</head>
         <note xml:id="i-WKnhAwT4CZPRoyEptAtFVL">Sammanträdet leddes av tredje vice talmannen.</note>
         <note xml:id="i-D3CmpHJtnDPWapRvAVwzYN">Vid protokollet</note>
         <note xml:id="i-D2sbzxE2seLzYMdofJWjE6">JOHAN WELANDER</note>
-        <note xml:id="i-SfYZ9Krz6cGkwiw4wRZWpM">/Olof Pilo</note>
-        <note xml:id="i-GZhiASm1Y5WkNsFhzfV4hj">Innehållsförteckning</note>
-        <note xml:id="i-YGeyFig5nL4mX4gm7yNBoh">§ 1 Meddelande om frågestund</note>
-        <note xml:id="i-BPwCH3eiy9L2kecopz1Mue">§ 2 Anmälan om fördröjt svar på interpellation</note>
-        <note xml:id="i-4d3D6xKzBuiXjF8ir25JhC">§ 3 Anmälan om faktapromemoria</note>
-        <note xml:id="i-MEwr5WQWhtma1L7XoB5bWi">§ 4 Svar på interpellation 2019/20:150 om medinflytande för totalförsvarspliktiga</note>
-        <note xml:id="i-G785j6jq9X9MHkzrZ7wVdn" type="speaker">Anf. 1 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-VFiDXs5MFt1oGtquhcXiiC" type="speaker">Anf. 2 HANNA GUNNARSSON (V)</note>
-        <note xml:id="i-S32nZ9LRYroGWK3aV8tTmq" type="speaker">Anf. 3 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-BEcdQn1xV4YA5VHgzR2JP" type="speaker">Anf. 4 HANNA GUNNARSSON (V)</note>
-        <note xml:id="i-6sBT9kg9RrZbjMZx545oYU" type="speaker">Anf. 5 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-PNYV2P6ShufEaQ2tYiuenf" type="speaker">Anf. 6 HANNA GUNNARSSON (V)</note>
-        <note xml:id="i-MJ4uUgLj3CgDoECjTKnc6R" type="speaker">Anf. 7 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-TGdopvpnWFM42qixdKDixm">§ 5 Svar på interpellation 2019/20:136 om en nationell handlingsplan mot bortförande och bortgifte av barn</note>
-        <note xml:id="i-R2peSbybvXrUANnPyxUmh4" type="speaker">Anf. 8 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-5kASSgS3u9hJgTtdJLcw5p" type="speaker">Anf. 9 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-AgqBsf1DaLLNYzfuH9vqyP" type="speaker">Anf. 10 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-DowxDnXf4BRG7yxJ5TfedZ" type="speaker">Anf. 11 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-WMKBcY6dUU6ZqvTKHpBbWS" type="speaker">Anf. 12 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-2wY3bKuicvqooV5rCU91yV" type="speaker">Anf. 13 ANN-SOFIE ALM (M)</note>
-        <note xml:id="i-M8UMNYWRJuY2hvuYeFwFte" type="speaker">Anf. 14 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-9QxfYs6fHzMC2dQVAbZ1Q2">§ 6 Bordläggning</note>
-        <note xml:id="i-WfeFot54V6sJZ5H2x4zjwe">§ 7 Anmälan om interpellationer</note>
-        <note xml:id="i-RSppAitRZLhYSqF24SCRXt">§ 8 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-YGdiFVFAh8jFaVYK4wv1hv">§ 9 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-FKK3oYv8kiK74LgAWcf3qu">§ 10 Kammaren åtskildes kl. 11.42.</note>
-        <note xml:id="i-9F4JrEMDKveokX2WBAwxZw">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

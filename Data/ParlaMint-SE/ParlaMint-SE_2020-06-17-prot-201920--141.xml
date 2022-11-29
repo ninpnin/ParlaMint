@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 141 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 141 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--141">2019/20--141</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -115,7 +116,7 @@
         <note xml:id="i-JTi8X1yHkdTYUkydue29Ea">Återupptaget sammanträde</note>
         <note xml:id="i-Uk4iECL3qeNZ2P4sFrE3PS">Sammanträdet återupptogs kl. 9.30.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-D64q71eJQbwGhhd1KAP47H">§ 2 Medgivande för utskotten att besluta om deltagande på distans vid utskottssammanträden</head>
         <note xml:id="i-6KFZjsiRz51vqKbg7oqawG">Talmannen meddelade att enligt tilläggsbestämmelse 7.16.1 i riksdagsordningen , som skulle träda i kraft denna dag, fick riksdagen eller talmannen, om det fanns synnerliga skäl, besluta att deltagande på distans vid utskottssammanträden skulle få medges.</note>
         <note xml:id="i-BXgA1ifNvUNtDAyD4UAnDb">Om ett sådant beslut hade fattats kunde ett utskott därefter medge att en ledamot eller en suppleant deltog på distans vid ett utskottssammanträde. Bestämmelsen var avsedd att tillämpas under extraordinära förhållanden, såsom under en pandemi.</note>
@@ -123,24 +124,24 @@
         <note xml:id="i-87XxKZRfcNiAM9i9nDS5PF">Talmannen föreslog därför att riksdagen tills vidare skulle medge att utskotten skulle få besluta om deltagande på distans vid utskottssammanträden.</note>
         <note xml:id="i-BqBhGMM7iEhGdyGRhHTkro">Kammaren biföll detta förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DoRM2Awu4MJs5ePkkahFt8">§ 3 Justering av protokoll</head>
         <note xml:id="i-HeRNeqRVR3QqUn1k54Jzrz">Protokollet för den 27 maj justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-73gDd8BWToQBxucPjWwvtu">§ 4 Anmälan om subsidiaritetsprövningar</head>
         <note xml:id="i-KRXuKwuMDqdEatDLpcXCVE">Talmannen anmälde att utdrag ur följande protokoll i ärenden om subsidiaritetsprövning av EU-förslag hade kommit in:</note>
         <note xml:id="i-H3eJMFkSAJfYNyqLyN4Pi9">prot. 2019/20:36 för torsdagen den 11 juni från försvarsutskottet,</note>
         <note xml:id="i-QMUAxsoKDYVLYiezLrAzpt">prot. 2019/20:44 för torsdagen den 11 juni från utrikesutskottet samt</note>
         <note xml:id="i-PGmMKTTmhJqjSe4VTtvxaw">prot. 2019/20:57 för tisdagen den 16 juni från socialutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-X4qHiRWkifpHGVZUjF38Rd">§ 5 Anmälan om faktapromemorior</head>
         <note xml:id="i-7TtqqQ9NR4dQUJ38ggfkpa">Talmannen anmälde att följande faktapromemorior om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-APZ36oHruUKW9CrJY3wFZt">2019/20:FPM41 Kommissionens utvärdering av EU:s förordning om växtskyddsmedel och EU:s förordning om bekämpningsmedelsrester COM(2020) 208 till miljö- och jordbruksutskottet</note>
         <note xml:id="i-U4crujaNWidSaWB5Z2hcFh">2019/20:FPM42 Rapport om EU:s direktiv om en hållbar användning av bekämpningsmedel COM(2020) 204 till miljö- och jordbruksutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7d1UrwLG4bifGeWkBAVePT">§ 6 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-UDGX6bZFEhKz52GWYochoe">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-7Hv7JoW3Yam1xE4k2RShBR">Propositioner</note>
@@ -346,7 +347,7 @@
         <note xml:id="i-4h7C1nM6jUUQbhRE23YBdr">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-D4nVpaywwJLZzMf3zLEXo6">(Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-REyaufjjdAx6ZnzFx8zyTv">§ 8 Årsredovisning för staten 2019</head>
         <note xml:id="i-7ADDNbkGrPref27WxvbvcF">Finansutskottets betänkande 2019/20:FiU30</note>
         <note xml:id="i-Q5mctByd8GrznKx6BwNbZT">Årsredovisning för staten 2019 (skr. 2019/20:101 och redog. 2019/20:RR4)</note>
@@ -354,7 +355,7 @@
         <note xml:id="i-LW5ETKuTJPfi22WGJ5JyGo">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-KiaEhgGj3f5QNB7HEhFDE">(Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VTvyjq2LFQe4XFaetxiZTH">§ 9 Redovisning av skatteutgifter 2020</head>
         <note xml:id="i-9z3ZyC48q7PJ8WUk5JjBn8">Skatteutskottets betänkande 2019/20:SkU19</note>
         <note xml:id="i-Qp6Vpn7qvT7cUMTcmqnaxf">Redovisning av skatteutgifter 2020 (skr. 2019/20:98)</note>
@@ -792,7 +793,7 @@
         <note xml:id="i-5HLRqBozihFjY7zQBqmjXy">Återupptaget sammanträde</note>
         <note xml:id="i-N2KQPoy7B58nGrr6SPZkax">Sammanträdet återupptogs kl. 1 3 . 00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7GFSLSmKgub2TVUo4vgRjf">§ 15 Beslut om ärenden som slutdebatterats den 16 juni</head>
         <note xml:id="i-GukXg7DpuNk28KYDoWnW7J">2019/20:UbU23 Fjärrundervisning, distansundervisning och vissa frågor om entreprenad</note>
         <note xml:id="i-8gkCg7Bh5EzSgvW1XBJetr">Punkt 1 (Fjärrundervisning, distansundervisning och vissa frågor om entreprenad)</note>
@@ -864,7 +865,7 @@
         <note xml:id="i-T85NJKx4rpPHewYEUtcFBp">2019/20:CU22 Större komplementbyggnader</note>
         <note xml:id="i-FfgmjBSMuranf8N8v5izaA">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BtnpNyoPjAa1LknRz9XrNs">§ 16 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-LouHXgc3AEvjt6z5JHjpqW">2019/20:FiU61 Extra ändringsbudget för 2020 – Förstärkt stöd till välfärd och företag, insatser mot smittspridning och andra åtgärder med anledning av coronaviruset</note>
         <note xml:id="i-BqDox3cR5RcCvdZKdGBU8c">Punkt 1 (Extra ändringsbudget för 2020 – Förstärkt stöd till välfärd och företag, insatser mot smittspridning och andra åtgärder med anledning av coronaviruset)</note>
@@ -1056,7 +1057,7 @@
       <div type="debateSection">
         <head xml:id="i-249j4apxqocWLveQf3kCAF">§ 17 Avslutning</head>
         <note type="speaker" xml:id="i-Tg7MnJCQNMyuxBTiPz1scT">Anf. 43 TALMANNEN:</note>
-        <u xml:id="i-79e40cf1720a5bb0-435" who="#unknown" ana="#regular">
+        <u xml:id="i-79e40cf1720a5bb0-435" ana="#regular">
           <seg xml:id="i-HNUy5dYaise8Lpocx3Rtqn">Ärade ledamöter, både här i kammaren och runt om i Sverige! Vi har en vår som inte liknar någon annan bakom oss. De senaste månaderna har varit så dramatiska och händelsefyllda att det är lätt att glömma att när vi samlades här i januari var allting tämligen normalt. Utskottens arbete fort ­ skred i planerad takt, och sammanträdena i kammaren gick planenligt. I februari kunde riksdagen stå värd för Ungdomens riksdag, och i början av mars genomförde vi en beredskapsövning inom ramen för Totalför ­ svarsövning 2020 där kammarens ledamöter ställdes inför ett fiktivt kris ­ scenario.</seg>
           <seg xml:id="i-GsHvSVGXyV4y8EY6nvvTXX">Kort därefter slog den verkliga coronakrisen till med full kraft. Plötsligt ekade R iksdagshuset, som normalt sjuder av liv, tomt och ödsligt. Nästan lika plötsligt blev Skype en omistlig följeslagare i vår arbetsvardag. Sedan länge planerade resor avbokades med kort varsel, och besök från när och fjärran ställdes in. Partiernas gruppledare kom överens om att högst 55 ledamöter skulle vara på plats i kammaren vid votering, men alla riksdagens ledamöter har självklart fortsatt att vara i tjänst under hela denna period.</seg>
           <seg xml:id="i-LsjnJtWhimB4Z4tDNorCkd">Utskotten ändrade arbetssätt, och många ledamöter började koppla upp sig till sammanträdena via telefon eller Skype. För att maximera det fysiska avståndet flyttade vi utskottens justeringssammanträden till först Skandiasalen och därefter Förstakammarsalen. Vissa av er har på torsdagsförmiddagarna tjänstgjort i kanske sex eller sju utskott i tät följd, med allt vad det innebär av planering, struktur och förberedelser.</seg>
@@ -1097,7 +1098,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note type="speaker" xml:id="i-PJmsJ4KJM38QcoLeMEg2a8">Anf. 44 Ålderspresident TUVE SKÅNBERG (KD):</note>
-        <u xml:id="i-79e40cf1720a5bb0-470" who="#unknown" ana="#regular">
+        <u xml:id="i-79e40cf1720a5bb0-470" ana="#regular">
           <seg xml:id="i-S9opkVGWzSBXVw3sYJDSri">Herr talman! Som ålderspresident faller det på min lott att tacka herr talmannen. Vi andra har redan tackats och är tacksamma för det, men jag vill för en kort stund fokusera på herr talmannens arbete och den börda som herr talmannen har burit under det gångna riksmötet.</seg>
           <seg xml:id="i-5kQisV4NuEdNNjgLvzbaHJ">Inte sedan slutet av andra världskriget har Sverige och Sveriges riksdag mött större kris och påfrestning än denna vår under coronapandemin. Krisläget har ställt stora krav på riksdagen att snabbt anpassa sitt arbete till de krav som pandemin ställt – med ett samarbete över alla partigränser. Antalet ledamöter vid voteringar har koncentrerats till 55 stycken, utskotten har anpassat sina sammanträden så att riksdagen har förmått att optimera sin beslutsprocess och i lagstiftningsarbetet har tiden för lagstiftning kunnat komprimeras till ett par dygn, precis som herr talmannen berättade.</seg>
           <seg xml:id="i-GHouPwmDRKnARLgdSryPsV">Riksdagens arbete har utförts med stor uppslutning och endräkt i en svår situation. Detta arbete hade dock inte gjorts lika bra utan herr talmannens klara och tydliga ledarskap. För detta är vi tacksamma.</seg>
@@ -1115,7 +1116,7 @@
         <note xml:id="i-5AUJhTRhBoNXtrDCXE92E1">Återupptaget sammanträde</note>
         <note xml:id="i-3ovL4bPiyWBFW9Re5znaQB">Sammanträdet återupptogs kl. 17.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CoPiQPGsaviJDaXPxxRaZ7">§ 18 Bordläggning och beslut om ändrade motionstider</head>
         <note xml:id="i-JdDa1ZwBW55xpkzfuED8p6">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-P4VAXKV9kTG9iUde2C3SQt">Propositioner</note>
@@ -1128,7 +1129,7 @@
         <note xml:id="i-Vo5A9koofNtthUvri3Wr6P">Kammaren biföll regeringens förslag att motionstiden för prop. 2019/20:184 skulle förkortas till fem dagar.</note>
         <note xml:id="i-YD3zq2FYzpxS1XPXrUXb2r">Kammaren biföll talmannens förslag att motionstiden för prop. 2019/20:188, skr. 2019/20:185 och framst. 2019/20:RS2 skulle för längas till och med onsdagen den 23 september .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-F1jNBHwDkXC1ZCNrfXe86x">§ 19 Motioner för omedelbar hänvisning</head>
         <note xml:id="i-XEkgR7o1Q4gsXZswSMMN8X">Följande dokument anmäldes:</note>
         <note xml:id="i-Lr3xhtc3qYvURsHoNZzyXa">Motioner</note>
@@ -1139,7 +1140,7 @@
         <note xml:id="i-J375uoD9jWvR8Y2i4u9JoL">2019/20:3648 av Elisabeth Svantesson m.fl. (M)</note>
         <note xml:id="i-BUVjXyob78QLG7Lcueuqrz">Kammaren biföll talmannens förslag att ovanstående motioner omedelbart skulle hänvisas till finansutskottet .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JM7zk9GWUggpjY68WLc3YC">§ 20 Anmälan om interpellation</head>
         <note xml:id="i-LFNGSfGfUSspshTbuGCYJm">Följande interpellation hade framställts:</note>
         <note xml:id="i-6vgRiCVFDA9KWrfaf5dgWj">den 16 juni</note>
@@ -1147,7 +1148,7 @@
         <note xml:id="i-UnXnpG2aBTbjHS8FKznKBd">av Yasmine Posio (V)</note>
         <note xml:id="i-9RuKHoVb7BvK6bEtrDwUXv">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5vxE3eFoxs6iCc52Ui8bLn">§ 21 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-5tFG75tGwuzXTHuqVE75ac">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-KB3ozFb3Sf9s1gGkXnp5sE">den 16 juni</note>
@@ -1179,7 +1180,7 @@
         <note xml:id="i-DYSBV685DR2ZBZrj6xDHHr">av Markus Wiechel (SD)</note>
         <note xml:id="i-ALznwigZLifEgRd4E2V7WM">till statsrådet Jennie Nilsson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-G9d5qwAfKQQqccfBhjji1w">§ 22 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-Gg4QHJ4GKGZUrjo55oueGH">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-9BqLh8UAfoMTy7SvbbHhUt">den 17 juni</note>
@@ -1199,7 +1200,7 @@
         <note xml:id="i-MWBAJeyoHv49MMUJXfhiy7">av Betty Malmberg (M)</note>
         <note xml:id="i-7se2qKJP4peZxhTvtwNF1u">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XYxZEYGYbncmPipCcDzjkV">§ 23 Kammaren åtskildes kl. 17 . 01 .</head>
         <note xml:id="i-DwCkeqcdYScmJ9QCh5REkn">Sammanträdet leddes</note>
         <note xml:id="i-QuQvwXRP92nDfwWoUeaS1E">av talmannen från dess början till och med § 10 anf. 18 (delvis),</note>
@@ -1208,111 +1209,6 @@
         <note xml:id="i-HVmdRBPDkn6J6xAjBuwjQv">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-HuPWKgAZ58jEZFTcCJRCt8">Vid protokollet</note>
         <note xml:id="i-DyW85Wr9sAu8kezWjGVFTf">INGVAR MATTSON</note>
-        <note xml:id="i-LGkZ9uLLpYHPzPrgtE2NpK">/ Olof Pilo</note>
-        <note xml:id="i-HdwcxDuuwD5w7CfDCQFAVW">Innehållsförteckning</note>
-        <note xml:id="i-CVhZvgXSqJ8wv3HW1WHpef">§ 1 Minnesceremoni för coronapandemins offer</note>
-        <note xml:id="i-7ud716uXY63vgLEGHzymJn" type="speaker">Anf. 1 TALMANNEN</note>
-        <note xml:id="i-3nn1kCJkkMq7U7iMtuqBQP">Ajournering</note>
-        <note xml:id="i-4gc6fk2PK8HfhscAq2JQJ3">Återupptaget sammanträde</note>
-        <note xml:id="i-FtJ6ntAsf8osFZeVkGM1n4">§ 2 Medgivande för utskotten att besluta om deltagande på distans vid utskottssammanträden</note>
-        <note xml:id="i-WdNWbmb9saeVe2RsqKM2N">§ 3 Justering av protokoll</note>
-        <note xml:id="i-9G37gWK2tLNcb2HXAKQHHt">§ 4 Anmälan om subsidiaritetsprövningar</note>
-        <note xml:id="i-U8w91DTxENXc9DtzrQcMU9">§ 5 Anmälan om faktapromemorior</note>
-        <note xml:id="i-4AbB3qbrZYCjt6VicFyci4">§ 6 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-3CXKRPYFGYSM3KJ35TGaRZ">§ 7 Extra ändringsbudget för 2020 – Förstärkt stöd till välfärd och företag, insatser mot smittspridning och andra åtgärder med anledning av coronaviruset</note>
-        <note xml:id="i-QA56jMFjMn5mNdUc2nPMSS">Finansutskottets betänkande 2019/20:FiU61</note>
-        <note xml:id="i-4qyYXcHvtNix3fGSbZGFJf" type="speaker">Anf. 2 OSCAR SJÖSTEDT (SD)</note>
-        <note xml:id="i-7M3pWWx689JVnZKguLWf16" type="speaker">Anf. 3 IDA GABRIELSSON (V)</note>
-        <note xml:id="i-SDTpbDDhiaqfun9wWXCQMc" type="speaker">Anf. 4 JAKOB FORSSMED (KD)</note>
-        <note xml:id="i-EScDQ5LpxobxUYfkPpE1dJ" type="speaker">Anf. 5 FREDRIK OLOVSSON (S)</note>
-        <note xml:id="i-F8JagwHEKYdBfQSpYYZUVB" type="speaker">Anf. 6 EDWARD RIEDL (M)</note>
-        <note xml:id="i-QEBW2FV4p7DtHbFA4GGvBf" type="speaker">Anf. 7 EMIL KÄLLSTRÖM (C)</note>
-        <note xml:id="i-9edX5yCw4eqH1ewiBxvijz" type="speaker">Anf. 8 MATS PERSSON (L)</note>
-        <note xml:id="i-2i5mrr4DUWYBo584Ahh4GG" type="speaker">Anf. 9 IDA GABRIELSSON (V) replik</note>
-        <note xml:id="i-CyTmX4eoGTTAwPTamcNFvm" type="speaker">Anf. 10 MATS PERSSON (L) replik</note>
-        <note xml:id="i-6Nvi7HWCJ1XhTEN2hLy6hs" type="speaker">Anf. 11 IDA GABRIELSSON (V) replik</note>
-        <note xml:id="i-AczQcCTnDnV3VqG9NYvFwE" type="speaker">Anf. 12 MATS PERSSON (L) replik</note>
-        <note xml:id="i-AHKj8AEh6ZbRTbHqnGhkmY" type="speaker">Anf. 13 KAROLINA SKOG (MP)</note>
-        <note xml:id="i-9zgzdx4gCpguduzJAVBYGY" type="speaker">Anf. 14 EMIL KÄLLSTRÖM (C) replik</note>
-        <note xml:id="i-AHuhf9kz4ShNBQvsS4rdXD" type="speaker">Anf. 15 KAROLINA SKOG (MP) replik</note>
-        <note xml:id="i-4bu7XxrizqKrK8DT6H236M">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-9qihYYhLqpUjkTmREux4Em">§ 8 Årsredovisning för staten 2019</note>
-        <note xml:id="i-5J3oZMZHwccrQZoUH1G6Vw">Finansutskottets betänkande 2019/20:FiU30</note>
-        <note xml:id="i-CAdL3okA9ub6fNRQQYSSg7">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-X9DrypRPARwjV2SgGuxbqF">§ 9 Redovisning av skatteutgifter 2020</note>
-        <note xml:id="i-TQXiQDpGax1xBazWNojHLT">Skatteutskottets betänkande 2019/20:SkU19</note>
-        <note xml:id="i-CtppctfdMgu4WF2Zc6gXiQ">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-JUJ8NtyqM9ydZYMVvUbMJ">§ 10 Skatteförfarande och folkbokföring</note>
-        <note xml:id="i-WfLrkhu61iRncABNggm6d8">Skatteutskottets betänkande 2019/20:SkU24</note>
-        <note xml:id="i-QCd8Ctnwf2Yqndouk4CwN3" type="speaker">Anf. 16 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-Jdn1qK7Mk5LnM49Ss8Z5DD" type="speaker">Anf. 17 DAVID LÅNG (SD)</note>
-        <note xml:id="i-FBbnMKNcNhLtXvuYDX5ZY4" type="speaker">Anf. 18 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-9cBGema3mv2ndfNBNYw6C7" type="speaker">Anf. 19 TONY HADDOU (V)</note>
-        <note xml:id="i-4hSSsrGByvgXYhDNEN9Gwv" type="speaker">Anf. 20 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-NaTwUjBVJK9MKdHWuWPRvF" type="speaker">Anf. 21 JOAR FORSSELL (L)</note>
-        <note xml:id="i-EnfqXsB1GTmERrPD3toyPh" type="speaker">Anf. 22 ANNA VIKSTRÖM (S)</note>
-        <note xml:id="i-Bge5x31nCstvHUb36wyjbA">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-5osRWBXKNWnHcT5sCiKFbo">§ 11 Vissa ändringar i avfallsskattelagen</note>
-        <note xml:id="i-GtjKCJt2pfLc1M1vr6EG5t">Skatteutskottets betänkande 2019/20:SkU25</note>
-        <note xml:id="i-S7ygTurBNsWg5k7nwcCzUj" type="speaker">Anf. 23 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-Py12Dypnfd3k281zkM8iCf" type="speaker">Anf. 24 SULTAN KAYHAN (S)</note>
-        <note xml:id="i-RX8dc2fkhVFr2C9TrwNwQZ" type="speaker">Anf. 25 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-NHqVtjBfHKmLgbkTBHMpT5" type="speaker">Anf. 26 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-Ecgf7tTqLQ8vomdSw3FRnf" type="speaker">Anf. 27 REBECKA LE MOINE (MP)</note>
-        <note xml:id="i-6iezHMuKv21xJJshbcVZFa">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-2ZqAzLssRuoKQedahvJoNK">§ 12 Riksrevisionens rapport om konsumentskyddet på det finansiella området</note>
-        <note xml:id="i-R6dJeUbZsPzXX4nZBxyyfm">Civilutskottets betänkande 2019/20:CU24</note>
-        <note xml:id="i-WEDXVsU1UiP7UTGf8GSJkG" type="speaker">Anf. 28 ROGER HEDLUND (SD)</note>
-        <note xml:id="i-WT2T4AqzVVEkQSFCfU4Edg" type="speaker">Anf. 29 SANNE LENNSTRÖM (S)</note>
-        <note xml:id="i-FLkxEYkEpjgv8Jg3Up4PGk">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-H9Peb4XxjkWTzmJ7MMuHb4">§ 13 Riksrevisionens rapporter om stödet till kommuner för ökat bostadsbyggande och om stöd till renovering och energieffektivisering</note>
-        <note xml:id="i-TXrCsjySP4aX4rsnm3aET5">Civilutskottets betänkande 2019/20:CU25</note>
-        <note xml:id="i-RVnDt3gwXEPF1BQ9eHfzLD" type="speaker">Anf. 30 ROGER HEDLUND (SD)</note>
-        <note xml:id="i-6ViboJSTgGrUxEFudYxQ6U" type="speaker">Anf. 31 JOHAN LÖFSTRAND (S)</note>
-        <note xml:id="i-LjKoNdAaAhq3gE3sWXv1At" type="speaker">Anf. 32 ROGER HEDLUND (SD) replik</note>
-        <note xml:id="i-YLvksEDtd67PcHM9jGF6dF" type="speaker">Anf. 33 JOHAN LÖFSTRAND (S) replik</note>
-        <note xml:id="i-HqkezYDoSu25HtBTMb1bRv" type="speaker">Anf. 34 ROGER HEDLUND (SD) replik</note>
-        <note xml:id="i-BZ8ZnQQRot4RYeT6YK7rVb" type="speaker">Anf. 35 JOHAN LÖFSTRAND (S) replik</note>
-        <note xml:id="i-7AncUV3gxQ5dCmx3Bvszqn">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-K37FisGpNuyMcKU8DSHBTW">§ 14 En ny lag om tillfälliga smittskyddsåtgärder på serveringsställen</note>
-        <note xml:id="i-QW4TsD84ZZFqpPHqyaFPt5">Socialutskottets betänkande 2019/20:SoU25</note>
-        <note xml:id="i-FHJzwpReMDBhoqEKvUH1ES" type="speaker">Anf. 36 ACKO ANKARBERG JOHANSSON (KD)</note>
-        <note xml:id="i-PnkK8G6fX9eMB7iXwXinj9" type="speaker">Anf. 37 CAMILLA WALTERSSON GRÖNVALL (M)</note>
-        <note xml:id="i-VdfwXjL6bSDDgLgCKuywbR" type="speaker">Anf. 38 ROGER HEDLUND (SD)</note>
-        <note xml:id="i-FToGzV9ZPND9oy4qxuPRn3" type="speaker">Anf. 39 DAG LARSSON (S)</note>
-        <note xml:id="i-TnwqqeJXd88QbsFE1Ymk3f" type="speaker">Anf. 40 SOFIA NILSSON (C)</note>
-        <note xml:id="i-X6ZUwnW2CvpH4EW5NiY5tT" type="speaker">Anf. 41 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-VTYdbeowz7FByBc2i9Gt6g" type="speaker">Anf. 42 PERNILLA STÅLHAMMAR (MP)</note>
-        <note xml:id="i-KUXkVRxPs8WoC13wFiT8WM">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-Rf4NptuQC63d4599YUrooY">Ajournering</note>
-        <note xml:id="i-KUYa3MnVqsdKTVpWTfYZCA">Återupptaget sammanträde</note>
-        <note xml:id="i-2G7rv4DLCuAMqyFguPnzZU">§ 15 Beslut om ärenden som slutdebatterats den 16 juni</note>
-        <note xml:id="i-9JRBVgFnZC2qSyZZcdNvEY">2019/20:UbU23 Fjärrundervisning, distansundervisning och vissa frågor om entreprenad</note>
-        <note xml:id="i-9GpTgtBCgxbdaqh9VurRTr">2019/20:UbU21 Riksrevisionens rapport om resurseffektivitet och produktivitet vid Sveriges lärosäten i nordisk jämförelse</note>
-        <note xml:id="i-Vdv4dYjbhV1T8UsptcX9cv">2019/20:CU22 Större komplementbyggnader</note>
-        <note xml:id="i-EfKfT582A9YYuwgRcASdP1">§ 16 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-V5DwoSCcsrqKSPziTRiipJ">2019/20:FiU61 Extra ändringsbudget för 2020 – Förstärkt stöd till välfärd och företag, insatser mot smittspridning och andra åtgärder med anledning av coronaviruset</note>
-        <note xml:id="i-8sB8tpkAbBp3g95YhaBtR7">2019/20:FiU30 Årsredovisning för staten 2019</note>
-        <note xml:id="i-Uvzf4EWyZS9xMHBeeQq1oy">2019/20:SkU19 Redovisning av skatteutgifter 2020</note>
-        <note xml:id="i-66pESj2uHEGTBbCVEewJdo">2019/20:SkU24 Skatteförfarande och folkbokföring</note>
-        <note xml:id="i-5kkod4yR8Brhjh1RUtLGTy">2019/20:SkU25 Vissa ändringar i avfallsskattelagen</note>
-        <note xml:id="i-4rTLwBGDu68SS7ZnUUg9ix">2019/20:CU24 Riksrevisionens rapport om konsumentskyddet på det finansiella området</note>
-        <note xml:id="i-NjsEJh4a6BRik5Co8UGkGn">2019/20:CU25 Riksrevisionens rapporter om stödet till kommuner för ökat bostadsbyggande och om stöd till renovering och energieffektivisering</note>
-        <note xml:id="i-Vn7RtBaq8R4cj2uF7Yw68C">2019/20:SoU25 En ny lag om tillfälliga smittskyddsåtgärder på serveringsställen</note>
-        <note xml:id="i-S56gsYJnT1KRcTiZvQjdM7">§ 17 Avslutning</note>
-        <note xml:id="i-BHskzm57jfmWYTEfX8FdsZ" type="speaker">Anf. 43 TALMANNEN</note>
-        <note xml:id="i-T5D58pMYW11Z5sB8dH9FrG" type="speaker">Anf. 44 Ålderspresident TUVE SKÅNBERG (KD)</note>
-        <note xml:id="i-YPLmw5CHAiZrpPZAaLWwq3">Ajournering</note>
-        <note xml:id="i-MLRxTSzv7TPX9LQphkJVfA">Återupptaget sammanträde</note>
-        <note xml:id="i-59HY9XUniVhoJEUDNxrYfP">§ 18 Bordläggning och beslut om ändrade motionstider</note>
-        <note xml:id="i-AeWH6HAV9owdSDeyaaVMHS">§ 19 Motioner för omedelbar hänvisning</note>
-        <note xml:id="i-Jiw5bD6mnTFeMX3oHkD1WE">§ 20 Anmälan om interpellation</note>
-        <note xml:id="i-94LtJ4EZiyciaDUW8uu28Z">§ 21 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-7m75KpuKBwiwvYYhKd19Qw">§ 22 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-MzgvXFFhXUKnmGyJS2Y7uT">§ 23 Kammaren åtskildes kl. 17.01.</head>
-        <note xml:id="i-G2mZtrKJU1LjEvXrqZFLhi">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

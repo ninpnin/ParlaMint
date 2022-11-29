@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 5 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 5 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--5">2019/20--5</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,15 +75,15 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-89bmXoq1CyusPBTeNXny2i">§ 1 Meddelande om frågestund</head>
         <note xml:id="i-79m43WpksNaqRckt8nqbpH">Förste vice talmannen meddelade att frågestund skulle äga rum torsdagen den 19 september kl. 14.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7fmC4bq5e7vfofFgCrEAn5">§ 2 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-S2GA2tHoorruqpsbsWfkKv">Förste vice talmannen anmälde att utdrag ur prot. 2019/20:1 för torsdagen den 12 september i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från utbildningsutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-jR1a7ju67Fq5qwjxJK89Y">§ 3 Ärende för hänvisning till utskott</head>
         <note xml:id="i-NcSZBNQzovU5k6LsRVmJSF">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Kf8ywZRtT9RN6z1fZvbpxY">EU-dokument</note>
@@ -238,7 +239,7 @@
         </u>
         <note xml:id="i-MiCZX9VTeYWb1fPQqFhNKS">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-gZ8J2wVc6cusfZBJc7UcN">§ 6 Bordläggning</head>
         <note xml:id="i-B9Xz2BpgvTmo333WhosTMW">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-MtPhtcbPrtW1BifBHRaw2g">Proposition</note>
@@ -248,7 +249,7 @@
         <note xml:id="i-JrAusd2XTfX75mjbNdbUbq">EU-dokument</note>
         <note xml:id="i-92MmsCGeiSbHwSmo7AeP4y">COM(2019) 461 Förslag till rådets förordning om åtgärder för genomförande och finansiering av unionens allmänna budget under 2020 i samband med Förenade kungarikets utträde ur unionen</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MJQasrXQGUkZ7utuQF2qBa">§ 7 Anmälan om interpellationer</head>
         <note xml:id="i-5F4WrhekXLbBrdU6v4ysSJ">Följande interpellationer hade framställts:</note>
         <note xml:id="i-83LTcVF7Pko4VykAWJEtgC">den 13 september</note>
@@ -269,7 +270,7 @@
         <note xml:id="i-QMs2WVzwLupxmsNvEx2iG6">av Alexandra Anstrell (M)</note>
         <note xml:id="i-7gztGuwn9hHWBHbjYqkB4S">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LtqfiR2YAL3bKEM2qLE37y">§ 8 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-TmiiS9N4KEnDA6FFfYyzFL">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-Mwaop9wEEXszfVgYnRNX9E">den 13 september</note>
@@ -323,7 +324,7 @@
         <note xml:id="i-RBDDn6QooZW4sfforFrFv6">av Mattias Bäckström Johansson (SD)</note>
         <note xml:id="i-7jVEg3zCR4zRMWxursQFRZ">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9rhPcfKV5wCSJDGpa1uksW">§ 9 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-5Hg8Qp6jDNR2dxP4GvGmH5">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-DGrKnLTpLxF5cbK4ApFcCy">den 13 september</note>
@@ -347,40 +348,11 @@
         <note xml:id="i-CPCfqiPVQHJ5gofRqGqd6k">av Kristina Yngwe (C)</note>
         <note xml:id="i-J1wJeg5TGPS7nhXKsCSEQy">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MYjfnzyuW33itjobRH9jbm">§ 10 Kammaren åtskildes kl. 13.40 .</head>
         <note xml:id="i-HumhYkkSwvR9MLtQmLo9W">Sammanträdet leddes av förste vice talmannen .</note>
         <note xml:id="i-DT4EsTGP3Eedo4MfJuJx1b">Vid protokollet</note>
         <note xml:id="i-Eq3P3fK4PBy49snX4AgBP4">ANNA ASPEGREN</note>
-        <note xml:id="i-WhW3cUSvAEt4fzEBLEfaeE">/ Olof Pilo</note>
-        <note xml:id="i-3NxvK6ypFizi5vCpkqNSnz">Innehållsförteckning</note>
-        <note xml:id="i-FNN8eRnikUsu1uB24nNKnn">§ 1 Meddelande om frågestund</note>
-        <note xml:id="i-DyRxLDGzRUuFDQBuLBWRkb">§ 2 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-5sYnx6h5aW6gVFwFVCHb9C">§ 3 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-EVCHjRmFMdY8ic4gozMk6">§ 4 Svar på interpellation 2018/19:311 om ändamålsenligt materiel för kvinnor i försvaret</note>
-        <note xml:id="i-V9Bd1m2gYyRwBTcSX7XEYQ" type="speaker">Anf. 1 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-LxVE4j4AX9rH9TuDP12KmS" type="speaker">Anf. 2 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-PdkxifgpEDKLxas1SwgUQC" type="speaker">Anf. 3 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-9jNgb8T4oP3MgNb3r9DaXN" type="speaker">Anf. 4 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-9nYtKyQZGnaVjWf4sxxh5W" type="speaker">Anf. 5 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-4UgcnCduVWKdhENfDesEUD" type="speaker">Anf. 6 ALEXANDRA ANSTRELL (M)</note>
-        <note xml:id="i-B8tEXRZTr5pqRtsWPuCgyD" type="speaker">Anf. 7 Försvarsminister PETER HULTQVIST (S)</note>
-        <note xml:id="i-Qxnq6Eyzs8Gi1t25T2UHi">§ 5 Svar på interpellation 2018/19:316 om Kostnadsutjämningsutredningen</note>
-        <note xml:id="i-C1mV2N2ie7uFKSXQV9LHn5" type="speaker">Anf. 8 Statsrådet ARDALAN SHEKARABI (S)</note>
-        <note xml:id="i-QpRVk7Bs9xoBZxRZT2UWwg" type="speaker">Anf. 9 MIKAEL DAMSGAARD (M)</note>
-        <note xml:id="i-XSFVFNk8GHJLc7eTaJSkJU" type="speaker">Anf. 10 Statsrådet ARDALAN SHEKARABI (S)</note>
-        <note xml:id="i-XTqMntsskLjk4Asx1DBQWk" type="speaker">Anf. 11 MIKAEL DAMSGAARD (M)</note>
-        <note xml:id="i-2NSbqPiaFWrLWf9UURMTFx" type="speaker">Anf. 12 Statsrådet ARDALAN SHEKARABI (S)</note>
-        <note xml:id="i-Vembqm9RYzW8XXjvgHW7u6" type="speaker">Anf. 13 MIKAEL DAMSGAARD (M)</note>
-        <note xml:id="i-B4M8pn2PyxQwxPyW72K6rH" type="speaker">Anf. 14 Statsrådet ARDALAN SHEKARABI (S)</note>
-        <note xml:id="i-QTCxp3ZQG7tQAQjfZfui9w">§ 6 Bordläggning</note>
-        <note xml:id="i-WQJfovRJxBztHsKDXK9NLi">§ 7 Anmälan om interpellationer</note>
-        <note xml:id="i-HDaFmgFDULos6ixPu4f7i5">§ 8 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-B7Yfo5mZbfx2q47YKcY9jj">§ 9 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-G6V7Z7119fCCDnMrpvVsqf">§ 10 Kammaren åtskildes kl. 13.40.</head>
-        <note xml:id="i-B4PWnnDxYUwUgzTyzRm38R">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

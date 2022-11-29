@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 92 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 92 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--92">2019/20--92</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,20 +75,20 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PXD8r4VXSQ6pKm7pJh4Q4n">§ 1 Justering av protokoll</head>
         <note xml:id="i-MwVr52GUYeu8W62WwM9VUn">Protokollet för den 3 mars justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Uf18qhjQZ9zHNk6N3mViLb">§ 2 Meddelande om frågestund</head>
         <note xml:id="i-46YwdhbbdNheQH7ECXU6QQ">Andre vice talmannen meddelade att frågestund skulle äga rum torsdagen den 26 mars kl. 14.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-La2WB4t1RC1fewHyuqGcfS">§ 3 Anmälan om faktapromemoria</head>
         <note xml:id="i-WcPkbCD8RktRPxECSoPZmC">Andre vice talmannen anmälde att följande faktapromemoria om förslag från Europeiska kommissio ­ nen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-9ooGiduUsm2wXF1QwtaJpn">2019/20:FPM23 Digital strategi, AI-vitbok och datastrategi COM(2020) 65, COM(2020) 66, COM(2020) 67 till utbildningsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8gjq7MgWPzVm9MmGPFakmt">§ 4 Ärenden för bordläggning</head>
         <note xml:id="i-SbcJZZRXMMbUpfyDRmVhB5">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-QV32nZvFqPfYcoC23samM8">Finansutskottets betänkanden</note>
@@ -102,7 +103,7 @@
         <note xml:id="i-GsiDfCu165Jug1GAPUxVDR">2019/20:NU12 Näringspolitik</note>
         <note xml:id="i-NyaZhQ2iCc4aocQkVsn2Jt">2019/20:NU13 Regional tillväxtpolitik</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-N1FxQqune8do5NmUMLHGEg">§ 5 Bordläggning</head>
         <note xml:id="i-SjCKj9vJ3YQSuTSVfzcdEy">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-F8YmcqV3U3sHpbVjerS5pj">Propositioner</note>
@@ -123,7 +124,7 @@
         <note xml:id="i-NPb5CE89PKqkqTgN9j77xm">med anledning av prop. 2019/20:87 Inget grundavdrag vid bestämmande av brottsskadeersättning</note>
         <note xml:id="i-2T5FiSjFa4QYFwejPcY2KS">2019/20:3508 av Johan Forssell m.fl. (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Kkth77oQsHhnKprmX77abj">§ 6 Anmälan om interpellation</head>
         <note xml:id="i-4m2iHTmS6hdqxSy2Hvcr6a">Följande interpellation hade framställts:</note>
         <note xml:id="i-Ce7ccvQX4EJ6PcX4srfDbY">den 20 mars</note>
@@ -131,7 +132,7 @@
         <note xml:id="i-HAQyBr9ApuftUyJ3CJDbDi">av Amineh Kakabaveh (-)</note>
         <note xml:id="i-JtaMcv5SzVqwVWYn4LzzWz">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EZeYTjwfU6xFeTcb54iV3c">§ 7 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-U61nMZUXLATwPczywNxHF6">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-7kXLkPDRNMiA5ohXKRV5Jo">den 20 mars</note>
@@ -155,24 +156,11 @@
         <note xml:id="i-TeZTPz8ep3i6BZHxtATLfL">av Lars Beckman (M)</note>
         <note xml:id="i-4fyvcG2adjsyQWh5H7nZ23">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QgXV8Z8u3oRi7yLNcJ2Bch">§ 8 Kammaren åtskildes kl. 13 . 01 .</head>
         <note xml:id="i-RRhDgWTmUAKBcf24TwVmyV">Sammanträdet leddes av andre vice talmannen .</note>
         <note xml:id="i-QdG3kzp4hPb5Ku2z5fy4ur">Vid protokollet</note>
         <note xml:id="i-KxDXY8tmZQcHwVre2Ns7xz">ANDERS NORIN</note>
-        <note xml:id="i-2LqhzCXbkQCYC6ijwQxUS2">/Olof Pilo</note>
-        <note xml:id="i-JUwsn2rhwjHW2EFV4CBh6U">Innehållsförteckning</note>
-        <note xml:id="i-SPju3L1nFpiVGXKnuAw8QG">§ 1 Justering av protokoll</note>
-        <note xml:id="i-Y42LG3hCJxqfwXK6CeHcog">§ 2 Meddelande om frågestund</note>
-        <note xml:id="i-HCQ2bLx2erAVmBb3883L1C">§ 3 Anmälan om faktapromemoria</note>
-        <note xml:id="i-AP5ZZzAtrFdGXfFzRmSJvi">§ 4 Ärenden för bordläggning</note>
-        <note xml:id="i-pNZ62vVCyp4QMpP6Uk1Gy">§ 5 Bordläggning</note>
-        <note xml:id="i-WXFv55Uk3gKUWArziJKMVr">§ 6 Anmälan om interpellation</note>
-        <note xml:id="i-VFgNhp1o84cYh8qbg177mG">§ 7 Anmälan om frågor för skriftliga svar</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-M29SebjwcNwMRSpu8kYGdX">§ 8 Kammaren åtskildes kl. 13.01.</head>
-        <note xml:id="i-GTGwXgFQ7a4QnfaiXHSmPF">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

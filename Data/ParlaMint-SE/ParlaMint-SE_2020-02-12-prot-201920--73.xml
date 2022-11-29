@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 73 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 73 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--73">2019/20--73</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -1658,16 +1659,16 @@
         </u>
         <note xml:id="i-Ls3kx8HA2DQN9zvhayDW7w">Den utrikespolitiska debatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Y4GZ4SqBfAazn8xqWUYL8x">§ 2 Justering av protokoll</head>
         <note xml:id="i-Fdc35Ci1XgKU9fC3Pkuch5">Protokollet för den 22 januari justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-531zxvGPi25d69sxAv5Lb5">§ 3 Avsägelse</head>
         <note xml:id="i-A41RKp5iEwCiMCQtYbgtpy">Ålderspresidenten meddelade att Paula Bieler (SD) avsagt sig uppdraget som ledamot av riksdagen från och med den 29 februari.</note>
         <note xml:id="i-VEQ31LmdK9zgEyVaNubdhF">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-V4Vh6MJtKtUHAQkz9vteB">§ 4 Anmälan om kompletteringsval</head>
         <note xml:id="i-XkSdxHRzunsaNXuvfUyJ6j">Ålderspresidenten meddelade</note>
         <note xml:id="i-MqxgKTvjLCzFEnynncqNVf">att Moderaternas riksdagsgrupp anmält Elisabeth Svantesson som personlig suppleant i styrelsen för Stiftelsen Riksbankens Jubileumsfond under återstoden av Hans Rothenbergs mandatperiod och</note>
@@ -1679,7 +1680,7 @@
         <note xml:id="i-P7G1D3nxfqr7VkRc2XJPrs">personlig suppleant i styrelsen för Stiftelsen Riksbankens Jubileumsfond</note>
         <note xml:id="i-8vkNi11Bb9NuQmdCayLxqH">Elisabeth Svantesson (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ban2AbTEcRFpEZLT9xppX7">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-52P6v29yC1oJUpftZ1AXgh">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-EYWSnpHg2YzFm5GZgadeAX">Propositioner</note>
@@ -1690,7 +1691,7 @@
         <note xml:id="i-H817o7MK3jFKB2Ap8SiNZh">Motioner</note>
         <note xml:id="i-LoqCoJSDeg2mUEF8sGjY26">2019/20:3487 och 3488 till trafikutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-oRSP4UzSBnAqekZasBU26">§ 6 Ärenden för bordläggning</head>
         <note xml:id="i-8S1GCS14kRZXk4AbavXMtL">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-Hkxg5xyZJ8BgS8BoSVVWFf">Finansutskottets betänkande</note>
@@ -1703,13 +1704,13 @@
         <note xml:id="i-5mmDst7sRNMh25VmTdSyKS">Socialutskottets betänkande</note>
         <note xml:id="i-DeNDiwUm1kNMx2j6Dxc79p">2019/20:SoU4 Äldrefrågor</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LfaQDFHgZ5h8iju15WNHa5">§ 7 Bordläggning</head>
         <note xml:id="i-QtQXu18jMEWFTukCPHLssa">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-Cdvub1P54JkNCLykgDvuk5">Redogörelse</note>
         <note xml:id="i-YRHQb1rTB1gPzqrZg5mxJw">2019/20:RAR1 Verksamhetsredogörelse för Riksdagens arvodesnämnd 2019</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XgvCWEJswYA7vCExhuxRZn">§ 8 Anmälan om interpellationer</head>
         <note xml:id="i-Le8yVEJYs9MzvHHA6sAhWw">Följande interpellationer hade framställts:</note>
         <note xml:id="i-6nM5L55hkF4bDccM4ftrQb">den 11 februari</note>
@@ -1720,7 +1721,7 @@
         <note xml:id="i-KmeoGyPaZghDhbNquD5HoY">av Cecilie Tenfjord Toftby (M)</note>
         <note xml:id="i-GiB1TwiCmqyMjTMf6wBuVz">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5PGCXR9rU3aNsCfj1Si5GP">§ 9 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-CdQiq1VCPd9cUpcjhNCQJy">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-4DjZziW6dNKqvgR6rGd8yr">den 11 februari</note>
@@ -1740,7 +1741,7 @@
         <note xml:id="i-UCfYdUEjynnX6ueT5k1tro">av Caroline Nordengrip (SD)</note>
         <note xml:id="i-NHHAbZBn6VK5SRq9muCesF">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-REQR7h9jddDEB1VzHdc99E">§ 10 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-RPwFUpyTof1czJc1bbNUo1">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-6w45UNecSSm2dnpMMcHEeR">den 11 februari</note>
@@ -1803,7 +1804,7 @@
         <note xml:id="i-VpC8fF7mr5nAd3cR4o2mvt">av Åsa Coenraads (M)</note>
         <note xml:id="i-Y7kNswEKbmaxcnZ8f2EYX6">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QZD9mwdRapTA3RLL55UXre">§ 11 Kammaren åtskildes kl. 15 . 40 .</head>
         <note xml:id="i-7CcBRJtsj1iMamUdK1WHzo">Sammanträdet leddes</note>
         <note xml:id="i-CNsCcbhy9KXuqtvWNVpmAp">av talmannen från dess början till och med § 1 anf. 57 (delvis),</note>
@@ -1812,203 +1813,6 @@
         <note xml:id="i-A3TXU6WHxBVHU5aibDFn4s">av ålderspresidenten därefter till dess slut.</note>
         <note xml:id="i-LddMNWsPfcuuwUGSNCjyzb">Vid protokollet</note>
         <note xml:id="i-RD8R3tQWCHCeoybRWndcG3">INGVAR MATTSON</note>
-        <note xml:id="i-Q7H3xZDyrweo6ZdzMtspDF">/Olof Pilo</note>
-        <note xml:id="i-BA25s7uZeG9bCCBLDUXRoo">Innehållsförteckning</note>
-        <note xml:id="i-3XtYeWdrjyXznfxtogf3gd">Välkomsthälsning</note>
-        <note xml:id="i-PsjKLPRNqr9m2FZFM6Kftf" type="speaker">Anf. 1 TALMANNEN</note>
-        <note xml:id="i-CgJoN7ybSVN1NodSzWTzP5">§ 1 Utrikespolitisk debatt</note>
-        <note xml:id="i-9MjDz4Ki5bmMRP7uDLvZJA" type="speaker">Anf. 2 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-TsQ7CWGnkauN1XJhPkWkg5" type="speaker">Anf. 3 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-CYr5uuLo3NnxUWqja9JGtU" type="speaker">Anf. 4 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-PFgTkztXQEeczmNnjagVYM" type="speaker">Anf. 5 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-WFQmV39rE3tA4WSK3MyKa6" type="speaker">Anf. 6 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-XpNng9K5KLDrUvVmVJgdzN" type="speaker">Anf. 7 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-8no8BZeWSiSqe7dhyRnCBB" type="speaker">Anf. 8 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-TdBh7EsBGTskSgctSpGNar" type="speaker">Anf. 9 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-KzLELFe3LXfQvEX8cqDMRu" type="speaker">Anf. 10 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-Axo2DEvHZX3DqEmdd9zHEW" type="speaker">Anf. 11 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-SDpHsVgkE9VFNHuvj6jWtT" type="speaker">Anf. 12 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-FkdefoGjsqQnuvqikLaFMW" type="speaker">Anf. 13 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-PWUYw6JUhTwP8T6SA7iPfD" type="speaker">Anf. 14 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-VpgvkNXSkb1WhxXeHEGS35" type="speaker">Anf. 15 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-WA42sSbvxJK41FqBKULn2v" type="speaker">Anf. 16 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-827JHQR2vXn1J1xL24YfBF" type="speaker">Anf. 17 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-PvQcEP2sEHhLra6xwjJWW6" type="speaker">Anf. 18 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-3i4m3AjcX3SYsvnPQd2eV7" type="speaker">Anf. 19 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-Ay7MSEY2Q7jSJvVt1ZU4WZ" type="speaker">Anf. 20 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-5L8BTfdgfAtNzqhzsC3pxu" type="speaker">Anf. 21 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-HwmnFLMK8fusvq8ZUkGQKJ" type="speaker">Anf. 22 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-2YNepCPiH9eGbzBrTktb6H" type="speaker">Anf. 23 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-7Hc5YLDUYuWUrDom6PPeiH" type="speaker">Anf. 24 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-6Zviecf7cPar4zL3uiAizL" type="speaker">Anf. 25 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-RQZuiJsDdbDgEnprdFeQXc" type="speaker">Anf. 26 Utrikesminister ANN LINDE (S) replik</note>
-        <note xml:id="i-3d63WQJnX8bMFhm4ut52jJ" type="speaker">Anf. 27 HANS WALLMARK (M)</note>
-        <note xml:id="i-SBt2up9rueptfexsW2bDbf" type="speaker">Anf. 28 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-CfvVvEM51beN6KTpKDAN8C" type="speaker">Anf. 29 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-BB1UCbGRcCrEaWd3Fc4Kh4" type="speaker">Anf. 30 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-2Nokw2zLot94XgfvGV1mnd" type="speaker">Anf. 31 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-6V9AuFXVZC2MGcr6xGAb6S" type="speaker">Anf. 32 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-QFaV8xMgiHURhNU42BZ3bD" type="speaker">Anf. 33 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-NVMYDRDiXAu48z4HnzWi37" type="speaker">Anf. 34 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-TABMxw3MaxHd7TcYwzy5Ff" type="speaker">Anf. 35 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-TD8Z45iGeCSYkaxSyFfVLn" type="speaker">Anf. 36 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-3krfdcjE16Aa6oqJ1hoymK" type="speaker">Anf. 37 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-AZTm4B58AhggPtAUcum2Gc" type="speaker">Anf. 38 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-Ha8VFA8QV54ppyRqciiUBq" type="speaker">Anf. 39 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-7prtC9Q1LqU8pM9LwxMg8C" type="speaker">Anf. 40 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-BLLvE7oHqWa6HYd54ZicbW" type="speaker">Anf. 41 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-6ZZtPs2LN72qnJ7jtnq4wy" type="speaker">Anf. 42 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-YDr5ccL2DjUx288nt7ux3T" type="speaker">Anf. 43 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-TQ9Phh8bUHWWYgtwqJbJDV" type="speaker">Anf. 44 MARKUS WIECHEL (SD)</note>
-        <note xml:id="i-4zFNPDCgdBVJpLE4cgPXkc" type="speaker">Anf. 45 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-DPMeiSrutRY27BobzE2cTk" type="speaker">Anf. 46 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-88KmGoNN2uudn1AbPYJkn1" type="speaker">Anf. 47 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-6Wechb6VJURUyw4jTBh9Hd" type="speaker">Anf. 48 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-9m8MUd4gGXD3oMJDnStcZX" type="speaker">Anf. 49 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-JBcG2nYtwySET5WMn7tPpm" type="speaker">Anf. 50 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-EEHsWqsZtG7YKFun84piK8" type="speaker">Anf. 51 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-CpeMns8fnxMHgwevf9ikTo" type="speaker">Anf. 52 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-Gvb7r3qKLiUYq5KXXyqXaX" type="speaker">Anf. 53 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-J1TjRCcVTqFAtBuEnS7g5y" type="speaker">Anf. 54 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-3ecSCiirUbgQXmPyf9ynr5" type="speaker">Anf. 55 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-W88Mx4npguvhvTLhqZ5zjG" type="speaker">Anf. 56 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-KUZza2KBfpaqURC85Wo1fN" type="speaker">Anf. 57 KERSTIN LUNDGREN (C)</note>
-        <note xml:id="i-KjgyqfCh1n8SJAAw2RWUi1" type="speaker">Anf. 58 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-83dMrpYn9qSKxwDFQS8Vek" type="speaker">Anf. 59 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-CMTCQN8XSgB1XFXsEUxeos" type="speaker">Anf. 60 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-LMik7rLBkDkWcfyK1h84xR" type="speaker">Anf. 61 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-3LbuXyJur9ptEHGKNrkocD" type="speaker">Anf. 62 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-CpY1st1wxEnqEMuQAjB1p6" type="speaker">Anf. 63 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-XKGZcTGBDZx2Jcb17HBfty" type="speaker">Anf. 64 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-TUyqX2ohuZD7s3E5W6GJcJ" type="speaker">Anf. 65 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-T9GU57JhfAKF9Yge9LJo2z" type="speaker">Anf. 66 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-AJTvSWP6aStSDRftAfw6RG" type="speaker">Anf. 67 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-rwJHJiqvz3g7XDgv9cfdB" type="speaker">Anf. 68 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-WdXHr21ZoFYZUYaPMKPMSk" type="speaker">Anf. 69 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-2hHQBES6ra15H9fzG5NZik" type="speaker">Anf. 70 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-PkZR8kqFDPYG73XEL6PKW1" type="speaker">Anf. 71 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-ALuCwHPDtG9Lh2C3dcFg1E" type="speaker">Anf. 72 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-AcBVeQUCX4VcGx4dAZC2m7" type="speaker">Anf. 73 HANS WALLMARK (M) replik</note>
-        <note xml:id="i-Avj8wYQhpz2BqdqctRaG48" type="speaker">Anf. 74 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-4CWF64eUbiv5WY8mhJRmLm" type="speaker">Anf. 75 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-7w7BmGcbA61NMHi2wsnBPt" type="speaker">Anf. 76 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-HRR54m5jxsLDKCMuVdeihe" type="speaker">Anf. 77 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-QYKfE9myp6ocyu77A1GPrq" type="speaker">Anf. 78 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-8jcRk8K3ewAmNKS71NCVnB" type="speaker">Anf. 79 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-FnGuFN7UUri1sHvd5uNFMG" type="speaker">Anf. 80 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-44AxWiZXhWLbA7zvWEdr67" type="speaker">Anf. 81 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-CV2s3T2krsZHTnXHMrCdW1" type="speaker">Anf. 82 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-JzCZD6gB4fkpNXtXAqpYdJ" type="speaker">Anf. 83 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-T1zd8j2TdTfaza3uzMds2N" type="speaker">Anf. 84 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-EazS7d1H8i8fCta1t6nLup" type="speaker">Anf. 85 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-NnWy2z6cpWVw5iWciWeEUx" type="speaker">Anf. 86 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-KEAfAQvYBYaBFf6DnprTwM" type="speaker">Anf. 87 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-Ds3psA9oQ7PrzMERjhK5Ly" type="speaker">Anf. 88 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-PDJDu7i1awwAgBkiCHhMv8" type="speaker">Anf. 89 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-WMJroZexQXvfaCGZiQmm9N" type="speaker">Anf. 90 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-E1eEPxK8BtwXcMVJwuqT6a" type="speaker">Anf. 91 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-K7rZyJNAzrE5DyCThVfvyD" type="speaker">Anf. 92 FREDRIK MALM (L)</note>
-        <note xml:id="i-EdZsWjY7VsDRQxmHGr7wGT" type="speaker">Anf. 93 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-4wjeCQXipgx6LkUU4S2TcN" type="speaker">Anf. 94 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-74ypNYuWNeA4eLGDstLgHy" type="speaker">Anf. 95 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-8QZfhD7jTGQYgLANSB21tT" type="speaker">Anf. 96 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-9g86bv5EBENHdA3J98vYd7" type="speaker">Anf. 97 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-w7mg3L6KQh7Q2XthfbMxA" type="speaker">Anf. 98 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-Ugv2A5bwCkgUyqXahLdS7b" type="speaker">Anf. 99 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-PXVCj74cHsZ3tuSpH4SSmE" type="speaker">Anf. 100 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-MAoRHkuDjz5orUJ7rfNpad" type="speaker">Anf. 101 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-8VHoW2U6JU8Lumym6gt1Yt" type="speaker">Anf. 102 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-P12kLJx5q63s3mU3gjrcmy" type="speaker">Anf. 103 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-QpyerwWi5igY8YwRo1Nvp5" type="speaker">Anf. 104 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-SAiEngLUvtQjRbsknUWZLs" type="speaker">Anf. 105 JANINE ALM ERICSON (MP)</note>
-        <note xml:id="i-Hewn6nHxdCyS3xxQPYDbyd" type="speaker">Anf. 106 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-EkqmBDks16WjzyRd7KKjP3" type="speaker">Anf. 107 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-BXDRHPgBzc61tfsEynfYye" type="speaker">Anf. 108 MARKUS WIECHEL (SD) replik</note>
-        <note xml:id="i-Ujr2UJasaMTnvWkRBZZ7PQ" type="speaker">Anf. 109 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-341BwqB3JCdMpMBXz66VkL" type="speaker">Anf. 110 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-Sr4f6FYdpcAvyQ8pqrsdAm" type="speaker">Anf. 111 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-QWE8p6Ci2PoTJL9pTxauv" type="speaker">Anf. 112 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-39PbZEWLcpSSPKHNFhnVPG" type="speaker">Anf. 113 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-MGXFkNt9YnuJnycJowqij9" type="speaker">Anf. 114 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-AXxZRhTywUUkvVXTsZYGjS" type="speaker">Anf. 115 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-MU4qUjDj4bFhVym9gGHSeX" type="speaker">Anf. 116 HÅKAN SVENNELING (V) replik</note>
-        <note xml:id="i-VEzuhmdoFioserSVpo5uW" type="speaker">Anf. 117 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-BHTajULQiERYt1aceGr4WR" type="speaker">Anf. 118 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-P9ASJWGUUxNuNJqqMrjJip" type="speaker">Anf. 119 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-AAqgZoUDtHgW5o67K8M6sR" type="speaker">Anf. 120 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-WjhnWzFhyLyBxQ8uXuokU3" type="speaker">Anf. 121 JANINE ALM ERICSON (MP) replik</note>
-        <note xml:id="i-VqGhanAS8piFMsDYpYK8SY" type="speaker">Anf. 122 KENNETH G FORSLUND (S)</note>
-        <note xml:id="i-PkF3NRB2sGT9huaSCRpdWz" type="speaker">Anf. 123 HANS ROTHENBERG (M) replik</note>
-        <note xml:id="i-FkUx3V4cWk6UEmSZBbtp9W" type="speaker">Anf. 124 KENNETH G FORSLUND (S) replik</note>
-        <note xml:id="i-RfiH2XS24EFrxHszZFfnse" type="speaker">Anf. 125 HANS ROTHENBERG (M) replik</note>
-        <note xml:id="i-NarZUxbqMD6jfc5thKDQoA" type="speaker">Anf. 126 KENNETH G FORSLUND (S) replik</note>
-        <note xml:id="i-Kq5kDwsv1VY8XmWpe6wQMg" type="speaker">Anf. 127 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-QVxAEwbJtQMc3w6q6T3Nfp" type="speaker">Anf. 128 KENNETH G FORSLUND (S) replik</note>
-        <note xml:id="i-5MQRyZoc8Nv3uGgkEY487V" type="speaker">Anf. 129 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-YKTPREDwn2dnQjxRrjzy58" type="speaker">Anf. 130 KENNETH G FORSLUND (S) replik</note>
-        <note xml:id="i-NT1mXTn4UWV6WeSjuR949q" type="speaker">Anf. 131 HANS ROTHENBERG (M)</note>
-        <note xml:id="i-WZnzw84bkrKVNohhskLwya" type="speaker">Anf. 132 MAGNUS EK (C)</note>
-        <note xml:id="i-85p5PpvhkPeZJtcWrchGr7" type="speaker">Anf. 133 YASMINE POSIO (V)</note>
-        <note xml:id="i-8UKmof7tYYujSN1Ah9kx55" type="speaker">Anf. 134 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-FazjDY2rH3jq17QFbDuikp" type="speaker">Anf. 135 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-7mW25RkoVixbvkWe5BVLgY" type="speaker">Anf. 136 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-WKgnhaURX7o9SBZwhCFPpM" type="speaker">Anf. 137 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-uCtG7U1EydoGCn5iWkWwV" type="speaker">Anf. 138 ROBERT HALEF (KD)</note>
-        <note xml:id="i-FS2B5yABWsQSGiYAnqPp1H" type="speaker">Anf. 139 OLLE THORELL (S)</note>
-        <note xml:id="i-Uwdvtu1mGufhA6RaFtf185" type="speaker">Anf. 140 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-92a6cUoF9A6gPRzrSVQrkb" type="speaker">Anf. 141 OLLE THORELL (S) replik</note>
-        <note xml:id="i-5XcP6ZvTxX2GdmzTi84j3t" type="speaker">Anf. 142 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-GpqcmwENdCFeFUpCzji9Sa" type="speaker">Anf. 143 OLLE THORELL (S) replik</note>
-        <note xml:id="i-12fHqpFJdrVyZyRxYNyoYs" type="speaker">Anf. 144 MARCUS JONSSON (KD) replik</note>
-        <note xml:id="i-WQUZ9bC2TRB6DMfwy9LK7A" type="speaker">Anf. 145 OLLE THORELL (S) replik</note>
-        <note xml:id="i-2qbMzvWCobx3cWJ6zVUmVv" type="speaker">Anf. 146 MARCUS JONSSON (KD) replik</note>
-        <note xml:id="i-51NxwfeotGxDBweRKqBP6x" type="speaker">Anf. 147 OLLE THORELL (S) replik</note>
-        <note xml:id="i-Vdjph52f3oisTgZNruNwK9" type="speaker">Anf. 148 MARGARETA CEDERFELT (M)</note>
-        <note xml:id="i-8o9HLzftTkPPbWAjUQ1Sj9" type="speaker">Anf. 149 SARA GILLE (SD)</note>
-        <note xml:id="i-Jxp9ZULg3h3JULQRZWYGgU" type="speaker">Anf. 150 LOTTA JOHNSSON FORNARVE (V)</note>
-        <note xml:id="i-4qUNKAMzf7gai8uDydcDbs" type="speaker">Anf. 151 MARCUS JONSSON (KD)</note>
-        <note xml:id="i-TH1JHEmusb2pyQvDA1CrFT" type="speaker">Anf. 152 SARA HEIKKINEN BREITHOLTZ (S)</note>
-        <note xml:id="i-Ctux3zoc38W6SdLsnzwmn9" type="speaker">Anf. 153 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-BnHStqHW87dGojbPLPZM7E" type="speaker">Anf. 154 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-U4n5WbiAhpSBrNxWjWM4Pw" type="speaker">Anf. 155 MARGARETA CEDERFELT (M) replik</note>
-        <note xml:id="i-VYiq1XjheMcih6um9ZkMX2" type="speaker">Anf. 156 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-1oaGiwUemU6LsW9SnQtVv" type="speaker">Anf. 157 MAGNUS EK (C) replik</note>
-        <note xml:id="i-WKQQdBhC1ttUsmiwSEegKV" type="speaker">Anf. 158 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-74fgo43avLUcRdkyTR25Tm" type="speaker">Anf. 159 MAGNUS EK (C) replik</note>
-        <note xml:id="i-U3o4akeNf5eWBsXzfaY1kH" type="speaker">Anf. 160 SARA HEIKKINEN BREITHOLTZ (S) replik</note>
-        <note xml:id="i-J9keHptZVeQkvApHhZFLHz" type="speaker">Anf. 161 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-RxVrVyCGvWVKPNsiirkZ1z" type="speaker">Anf. 162 KENNETH G FORSLUND (S) replik</note>
-        <note xml:id="i-RM7V4KH44b9Y73T2YWs14j" type="speaker">Anf. 163 MAGDALENA SCHRÖDER (M) replik</note>
-        <note xml:id="i-Si8VMtTZjvCTd65nbAsTMj" type="speaker">Anf. 164 KENNETH G FORSLUND (S) replik</note>
-        <note xml:id="i-2YkNAW97YdNpo9fDTNe4xz" type="speaker">Anf. 165 MAGDALENA SCHRÖDER (M) replik</note>
-        <note xml:id="i-AZM3QXxDNPwFaTUd8ewoez" type="speaker">Anf. 166 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-SV6wcTT2YSabRH1fbzbaZz" type="speaker">Anf. 167 MAGDALENA SCHRÖDER (M) replik</note>
-        <note xml:id="i-EVj7AjBMSDFdS6mHH3whqD" type="speaker">Anf. 168 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-BcnkZxmn2X7a1ir9Ff3vpA" type="speaker">Anf. 169 MAGDALENA SCHRÖDER (M) replik</note>
-        <note xml:id="i-7Aova9nuf7gQt3WmdiwhMe" type="speaker">Anf. 170 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-UbVxMDcnSShyNqT7SNzEe4" type="speaker">Anf. 171 ANNIKA STRANDHÄLL (S)</note>
-        <note xml:id="i-UbZBcqp5oXhoPS3J1K14Nn" type="speaker">Anf. 172 JAMAL EL-HAJ (S)</note>
-        <note xml:id="i-J1EDu9RPB63GPQ5gUwJjod" type="speaker">Anf. 173 MARCUS JONSSON (KD) replik</note>
-        <note xml:id="i-5EYjPmuhbLyKQH46jiBsSx" type="speaker">Anf. 174 JAMAL EL-HAJ (S) replik</note>
-        <note xml:id="i-QVQnqtTzBhncbL97rZ3PUz" type="speaker">Anf. 175 MARCUS JONSSON (KD) replik</note>
-        <note xml:id="i-AJ2YWYHfb5qzPaJ3LRipg2" type="speaker">Anf. 176 JAMAL EL-HAJ (S) replik</note>
-        <note xml:id="i-AADcQTZByt9y9nVbt17nGD" type="speaker">Anf. 177 JOHAN BÜSER (S)</note>
-        <note xml:id="i-RAuPnitSYS4riZkS2fbvah" type="speaker">Anf. 178 KADIR KASIRGA (S)</note>
-        <note xml:id="i-2RMTgdkVqiiXqwVm33Yvm5" type="speaker">Anf. 179 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-LD9rzoser8TjiB3hqDDyMr" type="speaker">Anf. 180 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-Wx7sgFbYFM19xhd6tvyCyT">§ 2 Justering av protokoll</note>
-        <note xml:id="i-TvJ8RKQ7iWMGqszhxJ6mp8">§ 3 Avsägelse</note>
-        <note xml:id="i-MBUMGzZnHHQvJevjJ6WRCS">§ 4 Anmälan om kompletteringsval</note>
-        <note xml:id="i-X2JGtSHiUtrMnc2NT7FnC8">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-MFSv9WjhE1QgHyVM4FoKa4">§ 6 Ärenden för bordläggning</note>
-        <note xml:id="i-5VGQ1bnLMnVMFH9321MUv1">§ 7 Bordläggning</note>
-        <note xml:id="i-G7PfHiFftb5f4uVhoCvz1H">§ 8 Anmälan om interpellationer</note>
-        <note xml:id="i-QFML8XijAK4p1qgDmHyQQx">§ 9 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-GUa82PRLrXedF43D1gKL9H">§ 10 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-2jHUQ4w1CQi4UxaRAvUwiD">§ 11 Kammaren åtskildes kl. 15.40.</head>
-        <note xml:id="i-9f3f7AG4pcBedz3NPRbpco">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

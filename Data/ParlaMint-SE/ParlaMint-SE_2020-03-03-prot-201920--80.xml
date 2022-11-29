@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 80 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 80 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--80">2019/20--80</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -293,20 +294,20 @@
         </u>
         <note xml:id="i-GSLRRuGqN1eW4M4KzQFaAg">Återrapporteringen var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WgHTBU8ecockPPWJLazits">§ 2 Justering av protokoll</head>
         <note xml:id="i-DUa6XSCU7eYUHrjwndD5hm">Protokollen för den 31 januari samt för den 4–7 och 11 februari justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5oKiKiDqkEQ2RyGzB9GZdG">§ 3 Avsägelse</head>
         <note xml:id="i-Mu914foEHfYM8WLysEsfVs">Andre vice talmannen meddelade att Kadir Kasirga ( S ) avsagt sig uppdraget som ledamot av riksdagen från och med den 9 mars.</note>
         <note xml:id="i-3DU6JKSxQ4wsVvWN95GMB3">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4iTfcPBbgvAYpaBcHprqiQ">§ 4 Meddelande om frågestund</head>
         <note xml:id="i-4yAR6D7H7Pbrs6viCv24MF">Andre vice talmannen meddelade att frågestund skulle äga rum torsdagen den 5 mars kl. 14.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MaYAMVmzuhULHCzXr56FRd">§ 5 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-9YmJtamPuyv3Na4JKYBdsD">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-8kh8XhRUaL9yeQ821qAFNA">Interpellation 2019/20:340</note>
@@ -355,12 +356,12 @@
         <note xml:id="i-2dUaaBe6BDTAy2edQZevr9">Johan Ndure</note>
         <note xml:id="i-QixY1Rvwzgrv9Xk2qbqvCZ">Departementsråd</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WZU5tqMyesdk66rcLsCmGr">§ 6 Anmälan om faktapromemoria</head>
         <note xml:id="i-GMoVuQpirTRKjFsW3dVjKH">Andre vice talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-KuwimxLpYb3MJKvBTmzHcU">2019/20:FPM19 Kommissionens arbetsprogram 2020 COM(2020) 37 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VhKBmqSVLZP4bszSecSER9">§ 7 Ärenden för bordläggning</head>
         <note xml:id="i-HRNjPLJuEE3XknHMgJGH23">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-EK7j8ympc48isUwLp3A6Ae">Skatteutskottets betänkande</note>
@@ -1350,7 +1351,7 @@
         </u>
         <note xml:id="i-R2W7E5Fiwn6iYEt3hgeyZF">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JwF5AkqiX1QFhvAdsERZ3Z">§ 20 Bordläggning</head>
         <note xml:id="i-Tq4W16a9VMrgUer6q6v3iX">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-XoGj7gteqte8xyNNRVHb3P">Propositioner</note>
@@ -1372,7 +1373,7 @@
         <note xml:id="i-6dNpmz4QzyXz5UKgzk2cdh">med anledning av framst. 2019/20:RB4 Medgivande för Riksbanken att delta i Internationella Valutafondens (IMF) finansieringslösning</note>
         <note xml:id="i-AFmjghCjpGMNmYnRgTKCqB">2019/20:3495 av Oscar Sjöstedt m.fl. (SD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Q62qJfBpF7JLi5DA465Bkv">§ 21 Anmälan om interpellationer</head>
         <note xml:id="i-B6iTmS5rALJyMaKVdiv2to">Följande interpellationer hade framställts:</note>
         <note xml:id="i-KHScMqqSd9UrdHuGrhYDLH">den 21 februari</note>
@@ -1419,7 +1420,7 @@
         <note xml:id="i-AFE8EozXoqSJseGZDJtCx9">av Lars Beckman (M)</note>
         <note xml:id="i-WJA7UjuJxgS283usVoBZxw">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Lwpo4onGEpMbN1KiGfhMiK">§ 22 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-CuWZDnDbLhVszmLCUKNwvd">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-RZGu5RguHG6s64QdEZDDPz">den 24 februari</note>
@@ -1507,7 +1508,7 @@
         <note xml:id="i-RaCrTZbksmcQdtoyhVkbZN">av Yasmine Posio (V)</note>
         <note xml:id="i-SBrUHKWrNiBNLRaeGh27Hj">till statsrådet Peter Eriksson (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VLiGFvES15vKKxqtgnxNKk">§ 23 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-7bpJjdZdgfHaEj9RyAm9bC">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-AjnuJJ7vko3Q5WnvN8DWgv">den 24 februari</note>
@@ -1639,7 +1640,7 @@
         <note xml:id="i-Q9macNsWmMyCM1b39UXTAi">av Niels Paarup-Petersen (C)</note>
         <note xml:id="i-RbmUkNa7mWzp4SbF1zd4p8">till utbildningsminister Anna Ekström (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VycCSdqjEwSNqUmKZsAK6h">§ 24 Kammaren åtskildes kl. 20.22.</head>
         <note xml:id="i-Ab6ZGKR4DLJYjmpYQ8YpQk">Sammanträdet leddes</note>
         <note xml:id="i-P1PV2og9QjCr3Xz1vH7Uz8">av andre vice talmannen från dess början till och med § 10 anf. 55 (delvis),</note>
@@ -1709,7 +1710,7 @@
         <note xml:id="i-GyGT5sQrhzyM8xBHh7p1da" type="speaker">Anf. 48 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
         <note xml:id="i-UgH3iyvePJn5fLnVuA5iGr" type="speaker">Anf. 49 Socialminister LENA HALLENGREN (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EVqm9sgNWkCYd8Y9V8Cws9">§ 10 Svar på interpellationerna 2019/20:323 och 325 om skönhetsoperationer</head>
         <note xml:id="i-XpDfU4MuRbmaNvSwWovNF3" type="speaker">Anf. 50 Socialminister LENA HALLENGREN (S)</note>
         <note xml:id="i-TqxmTh2geiVzxGwtHijwUA" type="speaker">Anf. 51 LARS BECKMAN (M)</note>
@@ -1722,7 +1723,7 @@
         <note xml:id="i-4Gdba5oJt2ELSi3hue8KjR" type="speaker">Anf. 58 CECILIE TENFJORD TOFTBY (M)</note>
         <note xml:id="i-2aa1xk9xdcr7pYjqgPZq3h" type="speaker">Anf. 59 Socialminister LENA HALLENGREN (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VSj84q5gjm32xLt7AssSGr">§ 11 Svar på interpellation 2019/20:334 om bristande konkurrensneutralitet</head>
         <note xml:id="i-MkewNK5iDFT3wU2MpDwRAf" type="speaker">Anf. 60 Socialminister LENA HALLENGREN (S)</note>
         <note xml:id="i-HLFMnXMkvcEhEwy75TywUc" type="speaker">Anf. 61 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
@@ -1732,7 +1733,7 @@
         <note xml:id="i-AvP34KvFceUScr6v4r5Au1" type="speaker">Anf. 65 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
         <note xml:id="i-W9e498J3zwhe4B3edxFKYU" type="speaker">Anf. 66 Socialminister LENA HALLENGREN (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6N5b1wRR7m9MhLwz6pcskh">§ 12 Svar på interpellation 2019/20:341 om skadereduktionsperspektiv på tobaksområdet</head>
         <note xml:id="i-YiPWsBvgKUQ5PKkmcj6t1" type="speaker">Anf. 67 Socialminister LENA HALLENGREN (S)</note>
         <note xml:id="i-KK6TViPoqWbNPG56Q2SU8F" type="speaker">Anf. 68 CECILIE TENFJORD TOFTBY (M)</note>

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2021-11-26-prot-202122--35" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2021/22 nr. 35 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2021/22 nr. 35 [ParlaMint SAMPLE]</title>
+        <meeting n="202122" ana="#parla.uni #parla.term">2021/22</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="202122--35">2021/22--35</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="559">559 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="42"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="4"/>
+          <tagUsage gi="seg" occurs="4"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2021-11-26" ana="#parla.sitting">2021-11-26</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="commentSection">
+        <head xml:id="i-K6tcThhWvPB6zBHPY8fzai">§ 1 Förnyad bordläggning av förslag till statsminister</head>
+        <note xml:id="i-4ujmHC3mJoYi9aMUv3GKpH">Förslaget om att riksdagen till statsminister skulle utse Magdalena Andersson föredrogs och bordlades åter.</note>
+      </div>
+      <div type="commentSection">
+        <head xml:id="i-SV1etxH2GwiiobnHaMozxo">§ 2 Avsägelser</head>
+        <note xml:id="i-BVMQhqhBmmbDHEa7RyrdqX">Andre vice talmannen meddelade</note>
+        <note xml:id="i-Fh6d6rzBNXEYAgmcbRcFpW">att Sven-Olof Sällström (SD) avsagt sig u ppdraget som ledamot i försvarsutskottet och</note>
+        <note xml:id="i-GmHAeevdac5cKTbqhGnQMQ">att Caroline Nordengrip (SD) avsagt sig uppdrage t som suppleant i försvarsutskottet.</note>
+        <note xml:id="i-U77Etuyr5LPoTzmQvihBf3">Kammaren biföll dessa avsägelser.</note>
+      </div>
+      <div type="commentSection">
+        <head xml:id="i-LteJvBfjYCTsMWi6RYwKJP">§ 3 Anmälan om kompletteringsval</head>
+        <note xml:id="i-5pAdjNZj5rAPPCG6mVdbpt">Andre vice talmannen meddelade</note>
+        <note xml:id="i-3Dh2ozTw1DEe57V6fsB1xU">att Sverigedemokraternas partigrupp anmält Caroline Nordengrip som ledamot i försvarsutskottet och Sven-Olof Sällström som suppleant i försvarsutskottet samt</note>
+        <note xml:id="i-C3eBwThgf2PMC4A3APocZw">att Liberalernas partigrupp anmält Jakob Olofsgård som suppleant i EU-nämnden.</note>
+        <note xml:id="i-3u65Bd6BccDvWFoBaYbzMg">Andre vice talmannen förklarade valda till</note>
+        <note xml:id="i-BoBWHBk38MMufLse3QiJbR">ledamot i försvarsutskottet</note>
+        <note xml:id="i-VCNcmKUTT5odPf9hGSw2YV">Caroline Nordengrip (SD)</note>
+        <note xml:id="i-NSuxj5GtnsRFt4kFqDbA8w">suppleant i försvarsutskottet</note>
+        <note xml:id="i-GQergM8PkEyC5D3D9rFa1x">Sven-Olof Sällström (SD)</note>
+        <note xml:id="i-NptCKTzBiDNbu8dFosWNSF">suppleant i EU-nämnden</note>
+        <note xml:id="i-2uW7hh5RbdEVqJsYWDw6Q3">Jakob Olofsgård (L)</note>
+        <note xml:id="i-J8SpXAFJXeoTjHWrqLUYw9">Andre vice talmannen meddelade att följande skrivelse hade kommit in från finansutskottet:</note>
+        <note xml:id="i-FK7xXd8QWCgriif5CR4dYH">Till riksdagen</note>
+        <note xml:id="i-P6b3ubRiXzb8obPpLgr4S">Riksdagen väljer för valperioden riksdagens råd för Riksrevisionen som enligt 13 kap. 8 § riksdagsordningen består av en riksdagsledamot från varje parti ­ grupp som avses i 3 kap. 5 § riksdagsordningen samt suppleanter. Val bereds av konstitutionsutskottet och finansutskottet (till ­ l äggsbestämmelse 13.8.1). Om en plats under pågående valperiod blir ledig ska kompletteringsval genomföras enligt samma förfarande som vid det ursprungliga valet (12 kap. 15 §).</note>
+        <note xml:id="i-8ePEPHqrfE3zYiR1a1j4Qs">Linda Modig (C) har begärt att bli entledigad från sin plats som supple ­ ant i riksdagens råd för Riksrevisionen, och begäran bifölls av kamma ­ ren den 27 oktober 2021.</note>
+        <note xml:id="i-NptUjygyoaoreDpgw8nY9c">Finansutskottet har därför berett frågan om kompletteringsval av en suppleant till rådet.</note>
+        <note xml:id="i-2qGCy4PJ6y3WpzmJRpwYmr">Finansutskottet föreslår enhälligt att riksdagen, för perioden fr.o.m. det att beslut har fattats av riksdagen till dess att nya val har förrättats vid början av nästa valperiod, till suppleant i riksdagens råd för Riksrevisionen väljer Lars Thomsson (C).</note>
+        <note xml:id="i-AtGUFeUtDBVPZq2i4KerWs">Stockholm den 25 november 2021</note>
+        <note xml:id="i-WPpW4VmbSdbZ3y1pnxswav">Åsa Westlund</note>
+        <note xml:id="i-MWnvJ1fpQ9senNie2ES8J9">Ordförande i finansutskottet</note>
+        <note xml:id="i-68TVAViAdYp6n8cQF7dLfF">Kammaren biföll finansutskottets förslag och utsåg därmed för tiden från och med den 26 november till dess att nytt val förrättats under början av nästa valperiod till</note>
+        <note xml:id="i-VU62E6pQaiX8JnkCBnx9iw">suppleant i riksdagens råd för Riksrevisionen</note>
+        <note xml:id="i-5543imtsXCqugun5F61Nu8">Lars Thomsson (C)</note>
+      </div>
+      <div type="commentSection">
+        <head xml:id="i-6DA4fas7e3WjANuyb6Pyi9">§ 4 Ärende för hänvisning till utskott</head>
+        <note xml:id="i-6djVZLxbPL6rvnMFYtEgeE">Följande dokument hänvisades till utskott:</note>
+        <note xml:id="i-Boi3vuFcXoM2ALPCxRwJDj">Proposition</note>
+        <note xml:id="i-K84BPJPViXQ9jxeJ5XkTA6">2021/22:64 till utbildningsutskottet</note>
+      </div>
+      <div type="commentSection">
+        <head xml:id="i-YLLgGrjpdUDfqBH1rQpvot">§ 5 Kammaren åtskildes kl. 9.01.</head>
+        <note xml:id="i-U44niBkGb84G4qqwwGqUCz">Sammanträdet leddes av andre vice talmannen .</note>
+        <note xml:id="i-SDqqbahzGJi4xFxKoR7dsF">Vid protokollet</note>
+        <note xml:id="i-FudyuN22DrXZYFDi44PhdH">ANNALENA HANELL</note>
+      </div>
+    </body>
+  </text>
+</TEI>

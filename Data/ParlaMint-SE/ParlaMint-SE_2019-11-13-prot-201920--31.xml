@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 31 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 31 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--31">2019/20--31</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -302,7 +303,7 @@
           <seg xml:id="i-K4vtjeQnMgFJQJHHKWopaA">Jag har nu träffat Danmarks statsminister för att vi ska se till att förstärka vårt samarbete med informationsutbyte med mera. Här gäller det både det vi gör inom EU och det vi ska göra bilateralt. Det handlar om allt vi kan göra för att se till att knäcka den organiserade brottsligheten.</seg>
         </u>
         <note type="speaker" xml:id="i-J8nMySEXfwqJWJorbMJfki">Anf. 26 TALMANNEN:</note>
-        <u xml:id="i-789d595e82d72703-115" who="#unknown" ana="#regular">
+        <u xml:id="i-789d595e82d72703-115" ana="#regular">
           <seg xml:id="i-8fTjViFTLn569UUQkMwFf3">Jag vill passa på att hälsa de många företrädarna för den diplomatiska kåren som finns här på läktaren varmt välkomna till Sveriges riksdag. Vi är glada att ni följer den EU-politiska partiledardebatten. Alla andra åhörare är naturligtvis också varmt välkomna till Sveriges riksdag.</seg>
         </u>
         <note type="speaker" xml:id="i-Msq16afZHvqMYLBM2ScXXQ">Anf. 27 ULF KRISTERSSON (M):</note>
@@ -607,7 +608,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note type="speaker" xml:id="i-54BjUtoMPPF8DzvqYt2ZWM">Anf. 60 TALMANNEN:</note>
-        <u xml:id="i-789d595e82d72703-253" who="#unknown" ana="#regular">
+        <u xml:id="i-789d595e82d72703-253" ana="#regular">
           <seg xml:id="i-R8tfYXpp9tqaCwdNTXPtx">Jag påminner stillsamt om att vi i kammaren brukar tala via talmannen och inte säga ”du” rakt över golvet.</seg>
         </u>
         <note type="speaker" xml:id="i-RjEsidvXucCLozbjRs2czD">Anf. 61 JIMMIE ÅKESSON (SD) replik:</note>
@@ -651,7 +652,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note type="speaker" xml:id="i-HzpsFCQaaGoEESkJUiNMsh">Anf. 66 TALMANNEN:</note>
-        <u xml:id="i-6nmjbEGJ9ncAWuqn2XSahZ" who="#unknown" ana="#regular">
+        <u xml:id="i-6nmjbEGJ9ncAWuqn2XSahZ" ana="#regular">
           <seg xml:id="i-Npk3gSdLDHjuVGhgUbsmmx">Under kammarens sammanträde har Jimmie Åkesson, Sverigedemo ­ kraterna, framställt ett yrkande om misstroendeförklaring mot justi ­ tie ‑ och migrationsminister Morgan Johansson, Socialdemokraterna. Enligt 13 kap. 4 § regeringsformen ska ett sådant yrkande väckas av minst en tiondel av riksdagens ledamöter för att tas upp till prövning. Det innebär alltså att minst 35 ledamöter ska stå bakom yrkandet.</seg>
           <seg xml:id="i-Cxdzo7ReRkTddUaRkyFuU8">Av den skrift som Jimmie Åkesson har överlämnat framgår att reger ­ ingsformens krav är uppfyllt. Yrkandet bordläggs nu en första gång.</seg>
           <seg xml:id="i-EhBPvRMrGVUu92fRvfqWzY">Min uppfattning är att när riksdagens förtroende för ett statsråd ifrågasätts bör den frågan prövas så snart det kan ske. Det är en viktig princip att en sådan fråga inte står obesvarad under en längre tid än nödvändigt. Prövningen av yrkandet kommer därför att äga rum redan nu på fredag den 15 november kl. 9.00.</seg>
@@ -1027,7 +1028,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note type="speaker" xml:id="i-PxKujL733NH1ECMoSJEftU">Anf. 106 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-789d595e82d72703-466" who="#unknown" ana="#regular">
+        <u xml:id="i-789d595e82d72703-466" ana="#regular">
           <seg xml:id="i-Pzai5MbiLojLnZw7eMj6ZG">Jag vill erinra om att det är en EU-politisk partiledardebatt, så att vi kommer ihåg det i fortsättningen.</seg>
         </u>
         <note type="speaker" xml:id="i-X5pqqA6ewFnjnr6ib3WEgn">Anf. 107 ULF KRISTERSSON (M) replik:</note>
@@ -1076,7 +1077,7 @@
         </kinesic>
         <note xml:id="i-SPGSWv25AvN9FZaNQgNBem">Den EU-politiska partiledardebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Jy84PQqNMw8ZebUhLTcerL">§ 2 Yrkande om misstroendeförklaring</head>
         <note xml:id="i-Bab4FYmyKrURU79cwb2Gcz">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-9Ec4YJng1KWGujhC5zevT8">Till Talmannen</note>
@@ -1116,15 +1117,15 @@
         <note xml:id="i-Ams7fES7BqjAbMzMUdvRuT">Roger Richthoff (SD) Caroline Nordengrip (SD)</note>
         <note xml:id="i-C7Gsdmt6Vo9tgj1XGp4kZR">Sven-Olof Sällström (SD) Runar Filper (SD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-e9SN476Yt6i7NaJa5tjUK">§ 3 Justering av protokoll</head>
         <note xml:id="i-DDMK4MQrDhDDrvGB9Hp9CJ">Protokollen för den 24 och 25 oktober justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Wcrg4yA2DZYibChRpecrPh">§ 4 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-Uksv79SBRn25SMiGVe2LTt">Tredje vice talmannen anmälde att utdrag ur prot. 2019/20:6 för torsdagen den 10 oktober i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från utrikesutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-V9P7iGPbeAf9fyG3KLn6bZ">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-AmxSd6LofRGDCTietpKc9e">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-KxLArEfnSVnjQ1HZmUuQvE">Proposition</note>
@@ -1138,7 +1139,7 @@
         <note xml:id="i-J9vnewjbriqARyqAx7zdBd">COM(2019) 580 till miljö- och jordbruksutskottet</note>
         <note xml:id="i-7otSh5Tw5zAxBZ4ENkLxSN">Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 29 januari 2020 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-SjXiwFp5pqcfHiWSC4xQ9M">§ 6 Ärenden för bordläggning</head>
         <note xml:id="i-Foono5EH5oeytzTpMRVqjt">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-MLswrdFYMcmQSutssuYFvB">Finansutskottets betänkande</note>
@@ -1148,7 +1149,7 @@
         <note xml:id="i-FQcSEMumfk4wEp4ni4P2CX">Utbildningsutskottets betänkande</note>
         <note xml:id="i-LrebCqFrZs1SC8cNuyYBkS">2019/20:UbU3 Skolinspektionens uppföljning av brister i skolor</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-VhWsPY2Q3daTjNaiLvdVng">§ 7 Nya regler för pensionsstiftelser med anledning av andra tjänstepensionsdirektivet</head>
         <note xml:id="i-6j8LQv33zQtwVRRBWEXwec">Finansutskottets betänkande 2019/20:FiU13</note>
         <note xml:id="i-LFpWC7AYsQG53BB71RMJAS">Nya regler för pensionsstiftelser med anledning av andra tjänstepensionsdirektivet (prop. 2018/19:159)</note>
@@ -1181,7 +1182,7 @@
           <seg xml:id="i-Du7GuiNEfmJD255QCHaX44">Därför, fru talman, yrkar jag än en gång bifall till förslaget i betänkandet.</seg>
         </u>
         <note xml:id="i-WGJHHeazEXHD5DmUEgXJ3L" type="speaker">Anf. 114 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-789d595e82d72703-511" who="#unknown" ana="#regular">
+        <u xml:id="i-789d595e82d72703-511" ana="#regular">
           <seg xml:id="i-Uyf9NPyemhqLjmQKyHFTqj">Fru talman! Jag vill börja med att yrka bifall till förslaget i utskottets betänkande.</seg>
           <seg xml:id="i-AxKv9qWDzqkqz9rj1VhShm">Med all rätt har kritiken varit hård mot regeringens förslag till en ny reglering för tjänstepensionsföretag. Regeringens proposition bygger i grunden på ett EU-direktiv med syftet att skapa en inre marknad för tjänstepensionsföretag. Direktivet ska nu införlivas i svensk lagstiftning. Men det är inte EU-direktivet som det har varit fel på, utan det är genomförandet i svensk lag som har uppvisat stora brister.</seg>
           <seg xml:id="i-3wHk6aKyzxAopq9FDQEHJW">Regeringens proposition står i strid med EU-direktivets syfte och skul ­ le innebära en omotiverad och kostsam överreglering. Genomförandet är kraftigt försenat, och den fleråriga lagstiftningsprocessen har varit en minst sagt vinglig resa. Problemet är att regeringen hade önskemål om att genomföra direktivet på ett mer omfattande sätt än vad direktivet kräver. Förslaget skulle öka kostnaderna för tjänstepensionsföretagen, vilket i sin tur skulle leda till sämre pensioner för flera miljoner svenska arbetstagare.</seg>
@@ -1251,7 +1252,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note xml:id="i-3rmMQ78LcXrrZErD5R7DT9" type="speaker">Anf. 118 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-789d595e82d72703-552" who="#unknown" ana="#regular">
+        <u xml:id="i-789d595e82d72703-552" ana="#regular">
           <seg xml:id="i-FBaLMAYNwBr3SDFbTpCs2T">Fru talman! Jag vill börja med att yrka bifall till utskottets förslag i betänkandet.</seg>
           <seg xml:id="i-CTBXCksVw843Jc2nJL4PMH">Möjligheterna att flytta sitt pensionssparande från ett bolag till ett annat har diskuterats i många år. De t finns en flytträtt i Sverige, men den är inte obegränsad. Det är uppenbart att det behövs skarpa och kraftfulla förbättringar av flytträtten för pensioner, och i det avseendet var regeringens för ­ slag alldeles för otillräckligt. Det är spararna som ska värnas, inte försäkringsbolagen.</seg>
           <seg xml:id="i-JjgjydEzyPFF3uH2JAb4Zb">Det privata pensionssparandet blir allt viktigare för den slutgiltiga pensionen, och därmed ökar behovet av ett konsumentskydd som gör det möjligt för en sparare att välja bort dyra och dåliga pensionslösningar som över tid innebär lägre pensioner för den enskilde och stora intäkter för pensionsbolagen. Ett viktigt steg i detta är en förbättrad möjlighet att flytta pensionssparandet.</seg>
@@ -1307,7 +1308,7 @@
         <note xml:id="i-CuKdFLAzvFCjzdzcRU8HYb">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-NcUpBUcKN36o6GzJTLQgdE">(Beslut fattades under § 18 . )</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9S7tvCCGQyqCzVjv8uF7DV">§ 10 Köp på saklig grund</head>
         <note xml:id="i-L5Vv8LyL9Q8oU9RQtWcwUd">Finansutskottets betänkande 2019/20:FiU17</note>
         <note xml:id="i-V7ERVzqAzMd9RKngX2rdBv">Köp på saklig grund (skr. 2018/19:148)</note>
@@ -1315,7 +1316,7 @@
         <note xml:id="i-EYr5bNLncqJ5sQR3eY1E3f">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-LGZtAFZvLXhnGUejaWRa1F">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8tPddxT4SNtcNMuKP4cU5W">§ 11 Transmissionsledningar för naturgas mellan EU och tredjeland</head>
         <note xml:id="i-J1nQfQAJwDQ5tbCat252my">Näringsutskottets betänkande 2019/20:NU8</note>
         <note xml:id="i-Bxz4n3QKEd24MVHkLV5Zx8">Transmissionsledningar för naturgas mellan EU och tredjeland (prop. 2019/20:16)</note>
@@ -1323,7 +1324,7 @@
         <note xml:id="i-24ffKXgwtavBQwbXdVGne5">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-VWtaJ6q9UM3xQvdf3HjefA">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LGTTTEFdnrr45TT1ZV3jvn">§ 12 Byggnaders energiprestanda</head>
         <note xml:id="i-DsKvDczbP8681YoQnpABRD">Civilutskottets betänkande 2019/20:CU3</note>
         <note xml:id="i-66AwT6p2Xam1Y1FN6d3Jk6">Byggnaders energiprestanda (skr. 2018/19:152)</note>
@@ -1331,7 +1332,7 @@
         <note xml:id="i-Je6RYYxG2BZ3vxNpXnwScu">Talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-JaRZXoUbKyhRD2KxxSx1QK">(Beslut fattades under § 18.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-G9RaZTrXksPy55WDGgf7U3">§ 13 Ändrade mervärdesskatteregler vid gränsöverskridande handel mellan företag</head>
         <note xml:id="i-JqdS8BPAH39tY5zMC4TbBK">Skatteutskottets betänkande 2019/20:SkU4</note>
         <note xml:id="i-PVxdzASfw5TEkqU1od8aJC">Ändrade mervärdesskatteregler vid gränsöverskridande handel mellan företag (prop. 2018/19:160)</note>
@@ -1477,7 +1478,7 @@
           <seg xml:id="i-V45HGCADM2qQ3MD5aKYDQ7">Då kan du i den här talarstolen prata om personer i stället för män. Återkommande säger du personer utan att komma till pudelns kärna, nämligen mäns våld mot kvinnor. Det är anledningen till att kvinnor är rädda för det du pratar om, det vill säga att bli våldtagen eller mördad. 80 procent av de kvinnor som mördas, mördas i hemmet av en person som de har en nära relation till. Men detta vill du inte prata om. Du och ditt parti vill skylla på asylinvandring och invandrare som det stora problemet och anledningen till otryggheten i Sverige. Det är falskt!</seg>
         </u>
         <note type="speaker" xml:id="i-BBAXwKbuvszJS4HApTsqmG">Anf. 132 TALMANNEN:</note>
-        <u xml:id="i-789d595e82d72703-670" who="#unknown" ana="#regular">
+        <u xml:id="i-789d595e82d72703-670" ana="#regular">
           <seg xml:id="i-YFBqd7QnsyC4A3xmJjBiFa">Jag påminner stillsamt om att vi i kammaren inte brukar säga du rakt över golvet utan talar via talmannen.</seg>
         </u>
         <note type="speaker" xml:id="i-EH9mFoWRMWRLj1oEGV5usL">Anf. 133 RASMUS LING (MP):</note>
@@ -1880,7 +1881,7 @@
         <note xml:id="i-6CtVsbXPUyJZCjG1WomjG3">Återupptaget sammanträde</note>
         <note xml:id="i-MXxZ2mkjaKuRP44fMG2LpX">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-C9MVrpYJGd8efVoNhVgiFB">§ 18 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-JBNU6BYteCVXCkPxmWHD4x">FiU13 Nya regler för pensionsstiftelser med anledning av andra tjänstepensionsdirektivet</note>
         <note xml:id="i-G6hvabSnAh3msNayjs6i5Z">Kammaren biföll utskottets förslag.</note>
@@ -2049,7 +2050,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note type="speaker" xml:id="i-PdEn2xUT1boRYWjYkGnAJN">Anf. 177 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-789d595e82d72703-971" who="#unknown" ana="#regular">
+        <u xml:id="i-789d595e82d72703-971" ana="#regular">
           <seg xml:id="i-UnX7E5SRDjyk6hasXa46XX">Jag påminner om att alla talar via talmannen.</seg>
         </u>
         <note type="speaker" xml:id="i-CoMkVWCuK1zG25KG7iXAkZ">Anf. 178 ADAM MARTTINEN (SD):</note>
@@ -2106,7 +2107,7 @@
         <note xml:id="i-PjgCHXT2PqSv5wvnHBPSGB">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-SLXhFAadbhccoH7Q3nJWir">(Beslut skulle fattas den 14 november.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PQS7vjdT1Yj9JhJyphWAAZ">§ 20 Förlängda möjligheter för migrationsdomstolarna att överlämna mål</head>
         <note xml:id="i-QDGrzKsFrHNdAnxdiAuKFZ">Justitieutskottets betänkande 2019/20:JuU11</note>
         <note xml:id="i-2uMKKKLSt2FYMAj4ZWXdW3">Förlängda möjligheter för migrationsdomstolarna att överlämna mål (prop. 2019/20:19)</note>
@@ -2114,7 +2115,7 @@
         <note xml:id="i-PEeaoi4qTu6sRZRg32dnbx">Tredje vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-2Pj1S87Ve45RjdE612G5cQ">(Beslut skulle fattas den 14 november.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-vdcZWfQfChgJRBETBGTrp">§ 21 Bordläggning</head>
         <note xml:id="i-VNRzVuzwDjS3A8XJ3dBMyM">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-8TxYCCSbSUBo8KiHayYpHV">Framställning ar</note>
@@ -2123,7 +2124,7 @@
         <note xml:id="i-VkhK3A4yiPWKTcoTujXXn7">Redogörelse</note>
         <note xml:id="i-6d971yjLA1SwQf1X9SXyPh">2019/20:JO1 Justitieombudsmännens ämbetsberättelse</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RPfPF4xPqo7k24oyuSqEHD">§ 22 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-7CgJv9RJaJg5GeEt7KoFdD">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-SvNixXXQhQa6FUeVQeuor4">den 12 november</note>
@@ -2146,7 +2147,7 @@
         <note xml:id="i-M6hQkDVJyGGCJXTB1masDd">av Jonas Andersson i Skellefteå (SD)</note>
         <note xml:id="i-NsNehVa1ov7UGw7UxUtjVR">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2CmuyeGSqfFpjcj13iFnkv">§ 23 Kammaren åtskildes kl. 16 . 43 .</head>
         <note xml:id="i-UsXsxrmXoCfNE1DiNqdaSK">Sammanträdet leddes</note>
         <note xml:id="i-PSjyPUBp5cUp3NbcFfGVKD">av talmannen från dess början till och med § 1 anf. 67 (delvis),</note>
@@ -2155,252 +2156,6 @@
         <note xml:id="i-TDZvzMRxBdbpp6RYPutsn1">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-CRb28SJTWSPi8H6ujmbmxG">Vid protokollet</note>
         <note xml:id="i-BvTSjH7SzrW9dXRzBCGQHB">INGVAR MATTSON</note>
-        <note xml:id="i-J8itwLLvyhgPosQtKUgtQy">/Olof Pilo</note>
-        <note xml:id="i-SyRFPFM7PW6VHxBrJhTuHQ">Innehållsförteckning</note>
-        <note xml:id="i-BV7EttQY9U2yiSUvKSsNa7">§ 1 EU-politisk partiledardebatt</note>
-        <note xml:id="i-Pmo3VajDFEmzxkZK6CeNA7" type="speaker">Anf. 1 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-XNGivzWes8qwcoPsXfJoJ" type="speaker">Anf. 2 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-SKi9Ux66wmVp5f243K6C9H" type="speaker">Anf. 3 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-WVoCfoeFYFw7PEQ42MPD8q" type="speaker">Anf. 4 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-JHJ1tvGyLg2KoRqdBvsH1Z" type="speaker">Anf. 5 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-BrdQqwXuJdYMAShNsUBekU" type="speaker">Anf. 6 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-KbARmJKD3SgApiCmgZMtxY" type="speaker">Anf. 7 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-HkkuCRUkJUNDy4SmQ6oQzf" type="speaker">Anf. 8 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-KKcTGiNkBYtncTMu3G9mRj" type="speaker">Anf. 9 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-6Bem8o6nvpzzbyjvTRehNc" type="speaker">Anf. 10 ANNIE LÖÖF (C) replik</note>
-        <note xml:id="i-FqJLGapeHpXBKnVKqfgiHf" type="speaker">Anf. 11 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-NjfDU5J8hGTumB1jH5zv4N" type="speaker">Anf. 12 ANNIE LÖÖF (C) replik</note>
-        <note xml:id="i-PKJ6DGNaSKeiUVivpsqqyq" type="speaker">Anf. 13 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-DjBDyvcyEVMsbocsGeY3xn" type="speaker">Anf. 14 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-2Cfz39oqpoKWA3PhWCUgov" type="speaker">Anf. 15 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-9dn5PqnGXRXN6RW1eBVZVw" type="speaker">Anf. 16 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-2vTBDZpLusifrKDPHND71o" type="speaker">Anf. 17 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-XMMBQAisFJCmK6jgEWjLUR" type="speaker">Anf. 18 EBBA BUSCH THOR (KD) replik</note>
-        <note xml:id="i-Fv1z7HArPJD21g63gJbeNk" type="speaker">Anf. 19 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-JYKw6KoyhHZxfiHsTXhxai" type="speaker">Anf. 20 EBBA BUSCH THOR (KD) replik</note>
-        <note xml:id="i-F3FNeTWheTcc9hc3wmwYSv" type="speaker">Anf. 21 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-BuYLRBgwRrMLCVAiJahvcE" type="speaker">Anf. 22 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-D4aDPcixz5uNdHjCSfkYLK" type="speaker">Anf. 23 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-QN4ARSFSjBJt4o4DENd28R" type="speaker">Anf. 24 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-UVe1U8HLGh6EQsudjErhzM" type="speaker">Anf. 25 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-E2D2eVTg6UboGpqqWUmZ7d" type="speaker">Anf. 26 TALMANNEN</note>
-        <note xml:id="i-A6FBXwE9QATn9jrhaepPH6" type="speaker">Anf. 27 ULF KRISTERSSON (M)</note>
-        <note xml:id="i-LAiYV7mKkzQUd1WnD8stzY" type="speaker">Anf. 28 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-HSSfEvYFgvgoTkgFr9jYgm" type="speaker">Anf. 29 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-Mbk6AYLdsD7Uj5eq4KMF9i" type="speaker">Anf. 30 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-B4HoxEEJegRZwUeTuQUChN" type="speaker">Anf. 31 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-X4s4oBcPdAv656adBXxeLk" type="speaker">Anf. 32 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-NpDyiSTzFdknZFmGXmAJVY" type="speaker">Anf. 33 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-TvXLLT3MbSY3H3oVxy5pzC" type="speaker">Anf. 34 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-DncXEF8oqZZji1AK7WoqmG" type="speaker">Anf. 35 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-RPa6Epn4RTb65XBobrCfA6" type="speaker">Anf. 36 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-BV3MWnw8KY98nnX7u3x9fG" type="speaker">Anf. 37 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-3XofWtaSTzEGmsFMFAgWnb" type="speaker">Anf. 38 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-LoTCPbe5d97udbZo5EXjjt" type="speaker">Anf. 39 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-L4U43R4TpCELY87oNQPSKq" type="speaker">Anf. 40 JIMMIE ÅKESSON (SD)</note>
-        <note xml:id="i-UHNnHnuX9pygh6zXHfy9cT" type="speaker">Anf. 41 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-RHfP4DNXGMg1KSX8yfZtL2" type="speaker">Anf. 42 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-VXDpwYc4SHunRjJ8vqtic9" type="speaker">Anf. 43 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-RCTAvpraXpxDAkrsYYGHua" type="speaker">Anf. 44 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-VeSZktYWY5WaxK3P19Jdqv" type="speaker">Anf. 45 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-WvLzYdEieMVJ3JaKtKXysS" type="speaker">Anf. 46 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-9wYASddiGLgB36FMWyM2UZ" type="speaker">Anf. 47 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-VmSpo1SoZhqMgsJfcphKQx" type="speaker">Anf. 48 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-DFYvsWTR3mLKCcxHNkbEAj" type="speaker">Anf. 49 ANNIE LÖÖF (C) replik</note>
-        <note xml:id="i-95mC1NstvkbrvNd4LXs53P" type="speaker">Anf. 50 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-TVZreSdKJPGCWzrppyQebN" type="speaker">Anf. 51 ANNIE LÖÖF (C) replik</note>
-        <note xml:id="i-QFxzwCikwP2vF5vhWQKJ8c" type="speaker">Anf. 52 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-VY8fTYZNpkrQ2gpuqKe6tP" type="speaker">Anf. 53 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-GLqz2ZCv9rTExHz6D39LVp" type="speaker">Anf. 54 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-Q2MDC4WaB4eTDBfpGKHkKo" type="speaker">Anf. 55 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-XnhHy8FPZhtTiCfpEzLv8b" type="speaker">Anf. 56 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-Qve3BAAmVuh5CXJXfYogHq" type="speaker">Anf. 57 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-9w6k4WD3LzoQm8TownYDzE" type="speaker">Anf. 58 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-8GuRD34ctC1znrw4eeLDsc" type="speaker">Anf. 59 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-GpJKgVYeXNNc9aJtQaF4Ln" type="speaker">Anf. 60 TALMANNEN</note>
-        <note xml:id="i-6tinmU4tXznZskWGp3gdt1" type="speaker">Anf. 61 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-DgHAcniYC6Bb7PNtehpEyN" type="speaker">Anf. 62 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-WLKvqvBukiAuaFgJwRLxWM" type="speaker">Anf. 63 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-SU82HVJn1oTWcr5bBP3cEP" type="speaker">Anf. 64 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-3pqz4B79DHWMMvuLVZ4xQN" type="speaker">Anf. 65 JIMMIE ÅKESSON (SD) replik</note>
-        <note xml:id="i-GU5J6Qk7reCjCPPEuFPpPi" type="speaker">Anf. 66 TALMANNEN</note>
-        <note xml:id="i-EJG62fKb9R2AQKpUcxaHS4" type="speaker">Anf. 67 ANNIE LÖÖF (C)</note>
-        <note xml:id="i-E2fyp526syZsyLzEHgDd1f" type="speaker">Anf. 68 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-6g6n5skpXfBmq62pJ45jWi" type="speaker">Anf. 69 ANNIE LÖÖF (C) replik</note>
-        <note xml:id="i-ESNGzvKQPrwiBnXEFzoAuU" type="speaker">Anf. 70 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-R5t7PNwXzk6dydZb4ZP5mb" type="speaker">Anf. 71 ANNIE LÖÖF (C) replik</note>
-        <note xml:id="i-3h3AQV7sZ8cHpcuyytvMfQ" type="speaker">Anf. 72 JONAS SJÖSTEDT (V)</note>
-        <note xml:id="i-294M3CEAiqWowKMbTijACH" type="speaker">Anf. 73 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-BmwkEhbVs9dWY3rWq6MUGV" type="speaker">Anf. 74 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-LyPmMALF2V25XZzw1PAJTy" type="speaker">Anf. 75 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-3mdYJbsB88zpffHLSo659y" type="speaker">Anf. 76 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-VxYGoebjE2r9ZYi9wCP6x6" type="speaker">Anf. 77 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-FpqwVM4nu8fwKUKpsXFsVA" type="speaker">Anf. 78 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-WRgpN2MmemJMRuf3kbZqQa" type="speaker">Anf. 79 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-FRud71M3bq69e91UvTqnN5" type="speaker">Anf. 80 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-A1uVrEd9SRTdW7rP5CiBUm" type="speaker">Anf. 81 ANNIE LÖÖF (C) replik</note>
-        <note xml:id="i-H5koJBRxu6GXzWWHY3goLh" type="speaker">Anf. 82 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-CFdEM195dCuYjTpAMhiWh8" type="speaker">Anf. 83 ANNIE LÖÖF (C) replik</note>
-        <note xml:id="i-BZQfoiTu5NLuka2T7VszTn" type="speaker">Anf. 84 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-PK6ozUvrFT6gyZqLkyuQjy" type="speaker">Anf. 85 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-KjX2MTyXz8izvjCQ4MobmH" type="speaker">Anf. 86 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-H13cbZWp5MLhQgsAQk7Hqz" type="speaker">Anf. 87 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-P5BUKWydnj3kK1kHTWR8Jg" type="speaker">Anf. 88 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-CDSLvyu4mPXkHZx3TND2xL" type="speaker">Anf. 89 EBBA BUSCH THOR (KD)</note>
-        <note xml:id="i-G2imY7mXev2HtnMTU1s1zJ" type="speaker">Anf. 90 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-2ZjECeVkyk2uQBcRA6sjMf" type="speaker">Anf. 91 EBBA BUSCH THOR (KD) replik</note>
-        <note xml:id="i-TNLVyrssFjuJkLKQB5d9bF" type="speaker">Anf. 92 Statsminister STEFAN LÖFVEN (S) replik</note>
-        <note xml:id="i-KCTdra7z7myWKBHa5oThi3" type="speaker">Anf. 93 EBBA BUSCH THOR (KD) replik</note>
-        <note xml:id="i-PB11brRdPqZaW6HSXFCdsJ" type="speaker">Anf. 94 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-6obiSt34EWJE5rhNPoeZ8R" type="speaker">Anf. 95 EBBA BUSCH THOR (KD) replik</note>
-        <note xml:id="i-KCmxEvUV4pK8cJyvWDGKLQ" type="speaker">Anf. 96 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-58enG7gqZvUJav54cjUVLS" type="speaker">Anf. 97 EBBA BUSCH THOR (KD) replik</note>
-        <note xml:id="i-NsVB6fwosqgNRr7X8rNFUU" type="speaker">Anf. 98 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-9SmV9tszEiUD7pdD9Vpttw" type="speaker">Anf. 99 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-VHDx31SDmkr8N4fW4nZzoD" type="speaker">Anf. 100 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-CboV5BeE14W8699Gdkvf4m" type="speaker">Anf. 101 JONAS SJÖSTEDT (V) replik</note>
-        <note xml:id="i-F5gVYb1Q7h5RxMeFwijBLd" type="speaker">Anf. 102 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-7ouw9Uir1cXrYoRhkst1KN" type="speaker">Anf. 103 Miljö- och klimatminister ISABELLA LÖVIN (MP)</note>
-        <note xml:id="i-DCzgm8EaSt5p9e1ka379Kj" type="speaker">Anf. 104 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-4KFaLCLemB5YRHpetcTHM1" type="speaker">Anf. 105 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-Hxd3H6QY38DA877GFL3KSg" type="speaker">Anf. 106 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-GjqtdAdFqtVx6U98Aoot9u" type="speaker">Anf. 107 ULF KRISTERSSON (M) replik</note>
-        <note xml:id="i-WoY5JaJdBeE6xzCo3Mv2z1" type="speaker">Anf. 108 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-6vcRi9eeYeYX5R5hm7uwGy" type="speaker">Anf. 109 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-UJW9X6B9d3m1TwyEG8ypJR" type="speaker">Anf. 110 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-BzyZhYZLbo7W5MHD2bGKNc" type="speaker">Anf. 111 JOHAN PEHRSON (L) replik</note>
-        <note xml:id="i-UDLTkUgLUQtrcNQ2qjeAje" type="speaker">Anf. 112 Miljö- och klimatminister ISABELLA LÖVIN (MP) replik</note>
-        <note xml:id="i-Q55VKBj7atUtwwTLCWEwAp">§ 2 Yrkande om misstroendeförklaring</note>
-        <note xml:id="i-5NEabZvG1suTypCdDHjcag">§ 3 Justering av protokoll</note>
-        <note xml:id="i-AzoVhfjSHREL41YV6aUiqC">§ 4 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-WCxvCsYcqowmhU2ZcsZzHk">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-VBcMZffqy9hEH3CXCoJW7T">§ 6 Ärenden för bordläggning</note>
-        <note xml:id="i-MDmvZEs9x42WeWEjLpgNx1">§ 7 Nya regler för pensionsstiftelser med anledning av andra tjänstepensionsdirektivet</note>
-        <note xml:id="i-N6NGTbgwtRmjrGV2o67Lpy">Finansutskottets betänkande 2019/20:FiU13</note>
-        <note xml:id="i-LVjeDLwf6dCsdUbJU8XXvt">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-41vs2Ev6J4S2VRbSYztgSm">§ 8 En ny reglering för tjänstepensionsföretag</note>
-        <note xml:id="i-7UtaDUGJFkGe1KinfuZnWL">Finansutskottets betänkande 2019/20:FiU12</note>
-        <note xml:id="i-NnzqDNZgQdJJytxZxodHXa" type="speaker">Anf. 113 INGEMAR NILSSON (S)</note>
-        <note xml:id="i-7LD17Lb3tmw9UurR4eyWmV" type="speaker">Anf. 114 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-FpkQL4Cme2Eek3n1geysog" type="speaker">Anf. 115 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-RVs4shkkETtDBefM9LCLsr" type="speaker">Anf. 116 KAROLINA SKOG (MP)</note>
-        <note xml:id="i-SaGvHXQdqExhpPqnAViT1r">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-W8EiNKEPeR4GtRi6HmS64R">§ 9 En effektivare flytträtt av försäkringssparande</note>
-        <note xml:id="i-RBDgFBWErfxVwakR1aBa2z">Finansutskottets betänkande 2019/20:FiU14</note>
-        <note xml:id="i-N7XmsS6BzuF7pMGzz5HpWU" type="speaker">Anf. 117 INGEMAR NILSSON (S)</note>
-        <note xml:id="i-SbKC8XKWyY7jJCtGv6KgU5" type="speaker">Anf. 118 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-UsEsB4TmSg3EmchnzmKQCF" type="speaker">Anf. 119 DENNIS DIOUKAREV (SD)</note>
-        <note xml:id="i-HZ8dGQfP5XqU3uq5aHQHRq" type="speaker">Anf. 120 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-SkUyLbpZjmZrRzSURRaY7q" type="speaker">Anf. 121 KAROLINA SKOG (MP)</note>
-        <note xml:id="i-95RTwfUsVvDmD8gYouUVjb">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-4NRgxH9VPmL9MMCKBSud4k">§ 10 Köp på saklig grund</note>
-        <note xml:id="i-WdTSoaFmWix2vXe8uX8ERs">Finansutskottets betänkande 2019/20:FiU17</note>
-        <note xml:id="i-MUTQ1WxcD9uuZxZUH4yJH">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-MXDBfaW6NyZmTKGAQaLDm">§ 11 Transmissionsledningar för naturgas mellan EU och tredjeland</note>
-        <note xml:id="i-LnxXXKT3myzFnuh1urFV9n">Näringsutskottets betänkande 2019/20:NU8</note>
-        <note xml:id="i-FDUjA8YKfWVqkUzLscYxpL">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-AMFZGaoACRdqd6GAXX8gjp">§ 12 Byggnaders energiprestanda</note>
-        <note xml:id="i-BBLAj8zHjy5mwpmA8zXiTV">Civilutskottets betänkande 2019/20:CU3</note>
-        <note xml:id="i-FsqfzvKXTAsgu6mzng8nS3">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-Fo7k5qnw8i2n6RcwhNDUGQ">§ 13 Ändrade mervärdesskatteregler vid gränsöverskridande handel mellan företag</note>
-        <note xml:id="i-PUyM3cdGtEF9SHjhjGCoYz">Skatteutskottets betänkande 2019/20:SkU4</note>
-        <note xml:id="i-WE9E7XEbmEtDtd1xXEmQ8M">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-9TLrgz75sr2bh69hz71JcK">§ 14 Ändring i skatteavtalet mellan Sverige och Portugal</note>
-        <note xml:id="i-KQw1K7fJbiNAhs2Fr942Jh">Skatteutskottets betänkande 2019/20:SkU6</note>
-        <note xml:id="i-XdA1PThDeMKA15djRiS6uD" type="speaker">Anf. 122 ANNA VIKSTRÖM (S)</note>
-        <note xml:id="i-RyKrwxtDa8WrQ8UPHFoxcn" type="speaker">Anf. 123 BORIANA ÅBERG (M)</note>
-        <note xml:id="i-7ezQjY2hxRvU9QkvhWrFrp" type="speaker">Anf. 124 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-GqRjUtsU17oSuGWxAV6RQY">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-Va8KBFuZsfoAUSf2T2ocmW">§ 15 Straffet för mord</note>
-        <note xml:id="i-MyD5BSVNPyQnsJuYZqrJ4A">Justitieutskottets betänkande 2019/20:JuU4</note>
-        <note xml:id="i-M16qp4WtWUatHqnM9hX6Yp" type="speaker">Anf. 125 GUSTAF LANTZ (S)</note>
-        <note xml:id="i-AZmV2ixMC8PXpqYaM6b5G4" type="speaker">Anf. 126 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-TwA5v7V3Aff7tM7AMTLZyD" type="speaker">Anf. 127 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-MrdYhChFeo6tudhsC9CEXa" type="speaker">Anf. 128 ADAM MARTTINEN (SD) replik</note>
-        <note xml:id="i-QnNiM8wxE2Znv8UGiUWu8P" type="speaker">Anf. 129 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-Bmijq95dan6kmaxJnKyJiH" type="speaker">Anf. 130 ADAM MARTTINEN (SD) replik</note>
-        <note xml:id="i-1mKi5mBnSxeneNu5eDFtj" type="speaker">Anf. 131 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-GM5tCtF6d15ncxLqqrH5kr" type="speaker">Anf. 132 TALMANNEN</note>
-        <note xml:id="i-Qk6ymYw8qgZ9mRY5B79AYN" type="speaker">Anf. 133 RASMUS LING (MP)</note>
-        <note xml:id="i-UshzbLUxaoqeT1XKEx6cqt" type="speaker">Anf. 134 JOHAN FORSSELL (M)</note>
-        <note xml:id="i-PSoTsxMnRDn59dYUi2hCuM" type="speaker">Anf. 135 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-NDTpWiDKakma6BXvnHwjN5" type="speaker">Anf. 136 JOHAN FORSSELL (M) replik</note>
-        <note xml:id="i-E2oj4362ohW3LZYTGartQV" type="speaker">Anf. 137 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-3eDe2Ebguyi2nSqBFz1X9H" type="speaker">Anf. 138 JOHAN FORSSELL (M) replik</note>
-        <note xml:id="i-DCehNj4MgW5u5L42nsz5oY" type="speaker">Anf. 139 GUSTAF LANTZ (S) replik</note>
-        <note xml:id="i-4bGgNTJNCZRPEExhthBre3" type="speaker">Anf. 140 JOHAN FORSSELL (M) replik</note>
-        <note xml:id="i-Uo7BZkFNzhSME4Pirc8Be2" type="speaker">Anf. 141 GUSTAF LANTZ (S) replik</note>
-        <note xml:id="i-FVxtbDi6jurseA4EZeBqDV" type="speaker">Anf. 142 JOHAN FORSSELL (M) replik</note>
-        <note xml:id="i-GdV8JLhPJa37Pg7rGdThYr" type="speaker">Anf. 143 JOHAN HEDIN (C)</note>
-        <note xml:id="i-GJkWiL11MnoPXvBEWpHYcg" type="speaker">Anf. 144 ANDREAS CARLSON (KD)</note>
-        <note xml:id="i-pE9jZpuRsrSCuXMVFDi47" type="speaker">Anf. 145 GUSTAF LANTZ (S) replik</note>
-        <note xml:id="i-VAQjbjoEVWucNF3uJuzGGx" type="speaker">Anf. 146 ANDREAS CARLSON (KD) replik</note>
-        <note xml:id="i-84B6pHryQq1ZsiE5uC1213" type="speaker">Anf. 147 GUSTAF LANTZ (S) replik</note>
-        <note xml:id="i-9TEeXYGP5iw75wK2ggENaQ" type="speaker">Anf. 148 ANDREAS CARLSON (KD) replik</note>
-        <note xml:id="i-2dw1ttxbDhjyffW9GYb1Ep" type="speaker">Anf. 149 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-97u3cVu9MoF3tZUsmrbtUz">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-9JYPnLQwEtsYLe4eS44Qwy">§ 16 Kamerabevakning i brottsbekämpningen – ett enklare förfarande</note>
-        <note xml:id="i-E2R3JKuJzhoNPRkaVkysRz">Justitieutskottets betänkande 2019/20:JuU5</note>
-        <note xml:id="i-Thu5SB1AzFWe4rYtkmRrs9" type="speaker">Anf. 150 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-MEc6tupLRpjQ4vQuKQbMh7" type="speaker">Anf. 151 PETTER LÖBERG (S)</note>
-        <note xml:id="i-2XW2AGApgNbGwTQznL2UrT" type="speaker">Anf. 152 ELLEN JUNTTI (M)</note>
-        <note xml:id="i-WcgSYQ2wAKpZHt2SkByvDe" type="speaker">Anf. 153 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-RhBLJaMVcjPQmKHnefHWM8" type="speaker">Anf. 154 ELLEN JUNTTI (M) replik</note>
-        <note xml:id="i-5YnGSFnWVUgw4rJSNXRDS3" type="speaker">Anf. 155 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-4V5w64LgAXUj9HsFZD4Fhv" type="speaker">Anf. 156 ELLEN JUNTTI (M) replik</note>
-        <note xml:id="i-AmZ4hXAEh3gp1FNNQNgLUr" type="speaker">Anf. 157 PETTER LÖBERG (S) replik</note>
-        <note xml:id="i-9X1oursU15MUkBvxyQSDYY" type="speaker">Anf. 158 ELLEN JUNTTI (M) replik</note>
-        <note xml:id="i-RXXFBxdTbmwtaJWFQ1cevP" type="speaker">Anf. 159 PETTER LÖBERG (S) replik</note>
-        <note xml:id="i-R3w6KtZSCgjo4d39m9c7sR" type="speaker">Anf. 160 ELLEN JUNTTI (M) replik</note>
-        <note xml:id="i-zmqn7CcLuvhn9Wp7zwsPG" type="speaker">Anf. 161 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-3CnKrZze1cemnKaN9Jxo7C" type="speaker">Anf. 162 JOHAN HEDIN (C)</note>
-        <note xml:id="i-THVUzPUZ5Fs4RG7fz6yqqh" type="speaker">Anf. 163 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-PPybumG9Cu19awkZ15wrBX" type="speaker">Anf. 164 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-AhX9ZKiXQ5n9M1tUJJ3o7A" type="speaker">Anf. 165 RASMUS LING (MP)</note>
-        <note xml:id="i-RiQiQRJB6HJgmHCqCQjAvr">(Beslut fattades under § 18.)</note>
-        <note xml:id="i-PFi1kPJryMQc1Y898GKo5k">§ 17 Straffrättsliga åtgärder mot utnyttjande av barn genom köp av sexuell handling</note>
-        <note xml:id="i-4ta19a83JRZ5y2f7ETzPVB">Justitieutskottets betänkande 2019/20:JuU7</note>
-        <note xml:id="i-4h9JLDmwURV2W9beNYib5D" type="speaker">Anf. 166 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-SBzzDmfyhHk2Zc5Qcp9izJ">(forts. § 19)</note>
-        <note xml:id="i-AE1TBCh5BzoqZ51PyUhExg">Ajournering</note>
-        <note xml:id="i-H5v9aB6xKLpAeAPL9R4bCS">Återupptaget sammanträde</note>
-        <note xml:id="i-8vzhUr9srYtjNbT1Q92eh2">§ 18 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-Xgwg9xrjuZk6SnyMEWokmL">FiU13 Nya regler för pensionsstiftelser med anledning av andra tjänstepensionsdirektivet</note>
-        <note xml:id="i-8bNmn12PjMqa68UXeTL6Yz">FiU12 En ny reglering för tjänstepensionsföretag</note>
-        <note xml:id="i-KBrBMx6gRCuWNGvvsdkKTk">FiU14 En effektivare flytträtt av försäkringssparande</note>
-        <note xml:id="i-8Znyx3kGfe3WDzyk3Dei5u">FiU17 Köp på saklig grund</note>
-        <note xml:id="i-VEa4J8kCqBJJ95yjdtg61y">NU8 Transmissionsledningar för naturgas mellan EU och tredjeland</note>
-        <note xml:id="i-EMjwuAjC1n9Bg9L691aaBE">CU3 Byggnaders energiprestanda</note>
-        <note xml:id="i-AN9gvJwMmgghetqSes3zEX">SkU4 Ändrade mervärdesskatteregler vid gränsöverskridande handel mellan företag</note>
-        <note xml:id="i-E9VAnqTEgWzqntZhC4kXzE">SkU6 Ändring i skatteavtalet mellan Sverige och Portugal</note>
-        <note xml:id="i-NFg4cPWjxrM7VRU9H1T9tA">JuU4 Straffet för mord</note>
-        <note xml:id="i-EDdpVRpHmgv1E1QuvdFWF9">JuU5 Kamerabevakning i brottsbekämpningen – ett enklare förfarande</note>
-        <note xml:id="i-ECuFfxdtNRsAywczZsArRm">§ 19 (forts. från § 17) Straffrättsliga åtgärder mot utnyttjande av barn genom köp av sexuell handling (forts. JuU7)</note>
-        <note xml:id="i-SA4ijCVkAJsQ2xRX5mCR5n" type="speaker">Anf. 167 MARIA STRÖMKVIST (S)</note>
-        <note xml:id="i-41cd9o9thk4ZiGVSFeinEH" type="speaker">Anf. 168 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-SRzJAKJTqi7UhQpHtn4359" type="speaker">Anf. 169 MARIA STRÖMKVIST (S) replik</note>
-        <note xml:id="i-6qpQPSkysYGYajHDw164uA" type="speaker">Anf. 170 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-YN3RBdCmd19BVMiLc5oH3s" type="speaker">Anf. 171 MARIA STRÖMKVIST (S) replik</note>
-        <note xml:id="i-RVnTnxjW9MdQ1ByXUkYKqF" type="speaker">Anf. 172 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-Q1cHyR8osjza4spC8zm91h" type="speaker">Anf. 173 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-JAcLV3Whg1TLBLshecsmVg" type="speaker">Anf. 174 MAGDALENA SCHRÖDER (M) replik</note>
-        <note xml:id="i-8GJgwq1PSBAxkPFnAthiKV" type="speaker">Anf. 175 LINDA WESTERLUND SNECKER (V) replik</note>
-        <note xml:id="i-Cc6YZ1FvoKtSn828Gum2Md" type="speaker">Anf. 176 MAGDALENA SCHRÖDER (M) replik</note>
-        <note xml:id="i-3yYC91h78pJ6428XiFPfKg" type="speaker">Anf. 177 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-FdMPSKbwZbR2N85hYa4sKJ" type="speaker">Anf. 178 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-Lf9Quf81TnqAEDWpV2Mjbo" type="speaker">Anf. 179 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-6pabsS32CkmoiB6oxqYETu" type="speaker">Anf. 180 INGEMAR KIHLSTRÖM (KD)</note>
-        <note xml:id="i-CMaNt8LHpBNCndZ4fxEVPe" type="speaker">Anf. 181 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-BfNvYVGgjW9KUe9GAfHJtU">(Beslut skulle fattas den 14 november.)</note>
-        <note xml:id="i-Az6rFfM2RUaSSeRp6z8onj">§ 20 Förlängda möjligheter för migrationsdomstolarna att överlämna mål</note>
-        <note xml:id="i-8ESsGVnn7YcYe3fprA5zkG">Justitieutskottets betänkande 2019/20:JuU11</note>
-        <note xml:id="i-UkaE5AV1zL2Z5h7WsWaFX1">(Beslut skulle fattas den 14 november.)</note>
-        <note xml:id="i-6kZyLfsb25jtAVXcRizcSn">§ 21 Bordläggning</note>
-        <note xml:id="i-K4oq3a1bWVPjHK9qdqb9Ai">§ 22 Anmälan om frågor för skriftliga svar</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-Y5GZaACHCFys6DAwZPwYoq">§ 23 Kammaren åtskildes kl. 16.43.</head>
-        <note xml:id="i-7wrMpPEpm2PRz3tSkckTxg">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

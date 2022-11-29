@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 95 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 95 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--95">2019/20--95</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -392,11 +393,11 @@
         </u>
         <note xml:id="i-WXS6SLv5AJrFCXJk124uax">Den särskilda debatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KqjHkKLuZmKyd7MZypq2Ne">§ 2 Justering av protokoll</head>
         <note xml:id="i-EG4J8wFXr6yyi5PEjDmgxG">Protokollet för den 6 mars justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ZwBryJqELFMrzrUsXqdCR">§ 3 Anmälan om sammansatt utrikes- och försvarsutskott</head>
         <note xml:id="i-LFymfzHzCxsEsLM783CFEP">Från sammansatta utrikes- och försvarsutskottet hade följande skrivelse kommit in:</note>
         <note xml:id="i-M8L9xv2GR2wawAnQAC2aCp">Sammansatt utrikes- och försvarsutskott</note>
@@ -442,16 +443,16 @@
         <note xml:id="i-xBmwkMmZrEmtDttQPRMvv">42. Maria Gardfjell (MP)</note>
         <note xml:id="i-FDzodDmutCn3tM3NJj34Wa">Skrivelsen lades till handlingarna.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-997YZdDEegFdfda4hUtAM5">§ 4 Anmälan om subsidiaritetsprövning</head>
         <note xml:id="i-Kw5iR7QjmELoD33ZaZbfZC">Andre vice talmannen anmälde att utdrag ur prot. 2019/20:24 för torsdagen den 26 mars i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från försvarsutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QGJvwGJXQauRqTGgxB2A3b">§ 5 Anmälan om granskningsrapport</head>
         <note xml:id="i-SmznKw4kFs66GfftS5nc4D">Andre vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till näringsutskottet:</note>
         <note xml:id="i-BK7GRGEFznM71DgpFUz17R">RiR 2020:8 Kommerskollegiums arbete mot handelshinder – informa ­ tionsinhämtningens avgörande betydelse</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CTxN7cC3S93wMC2kZZgVkw">§ 6 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-S8WcFJwdDrj6z62XkgE6Pz">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Lq4WiFDEafZ7LBR3uwV1pK">Propositioner</note>
@@ -463,7 +464,7 @@
         <note xml:id="i-HMYeTYowfKNocNyzLHexz4">2019/20:3513 och 3514 till utrikesutskottet</note>
         <note xml:id="i-CiRtkcbZqcgTi5iFyssNVV">2019/20:3512 och 3517 till försvarsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9RCTe5Ln4LzeQ886FmLjkm">§ 7 Anmälan om fråga för skriftligt svar</head>
         <note xml:id="i-66dXZDxHMytd1LeYqUC2MQ">Följande fråga för skriftligt svar hade framställts:</note>
         <note xml:id="i-9oGtXs4FrnCm6vjFm9yBdt">den 26 mars</note>
@@ -471,68 +472,11 @@
         <note xml:id="i-8aKM6iS4jBMw3HX9vzoJUt">av Angelica Lundberg (SD)</note>
         <note xml:id="i-CzLspmqb1vpLnYeBSKzu1C">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-7cMoqxgmxXEXSE3tskEXwa">§ 8 Kammaren åtskildes kl. 10.10.</head>
         <note xml:id="i-N1ZxDZv6j8DFWy4TpEXVp9">Sammanträdet leddes av andre vice talmannen.</note>
         <note xml:id="i-5QyNYKbeXvnxioyFLqss9s">Vid protokollet</note>
         <note xml:id="i-Rq4E6qRH9FHKRPxY9k1bih">INGVAR MATTSON</note>
-        <note xml:id="i-JqvtCVB4pS55NVen7fnErg">/Olof Pilo</note>
-        <note xml:id="i-7tEMifh1e5HtWZTXNbWNKK">Innehållsförteckning</note>
-        <note xml:id="i-2Ku5DU5czjmmmxCGZpEm4P">§ 1 Särskild debatt om mediernas och kulturens oberoende</note>
-        <note xml:id="i-PcfrURNB9HW6wysrPU6nRM" type="speaker">Anf. 1 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-wxAowsAXGLidq5Sd6mEkh" type="speaker">Anf. 2 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-6gMTN4Vd7wW5yidU4WEWJK" type="speaker">Anf. 3 LAWEN REDAR (S)</note>
-        <note xml:id="i-KsoGp5kKwwLKcGNcNs1Utu" type="speaker">Anf. 4 LOTTA FINSTORP (M)</note>
-        <note xml:id="i-EwpjoUaBqGCQi3FQtsWDyt" type="speaker">Anf. 5 ARON EMILSSON (SD)</note>
-        <note xml:id="i-MoxaT8oDFMpBZ8o51ByyiN" type="speaker">Anf. 6 ALIREZA AKHONDI (C)</note>
-        <note xml:id="i-9VsuZdiFvqKpQPyJB94RL1" type="speaker">Anf. 7 HANNA GUNNARSSON (V)</note>
-        <note xml:id="i-N6Y7dHTJvgZiaqkiyeHXBa" type="speaker">Anf. 8 HANS EKLIND (KD)</note>
-        <note xml:id="i-G7v9GnKAgAJc9MrukbU3KZ" type="speaker">Anf. 9 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-NsoJriNVMt2GBNJUw7nqZw" type="speaker">Anf. 10 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-F98PV2w2gVgb87ogBj7XnR" type="speaker">Anf. 11 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-HfkBYRHZhjKuBySn3zRiuz" type="speaker">Anf. 12 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-VkEwkNTd3B7AhZhy5kjfNG" type="speaker">Anf. 13 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-BA82Q8JK3NXYh4dw6m9HjB" type="speaker">Anf. 14 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-TBQhdPzPNToAwDae7LYMae" type="speaker">Anf. 15 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-QM5RhtNxGrjrMAziDB6esV" type="speaker">Anf. 16 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-SF7XhGa3BRhuLweTNP3epq" type="speaker">Anf. 17 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-VicCv6rfVSmja8j9SrRmWm" type="speaker">Anf. 18 Kultur- och demokratiminister AMANDA LIND (MP) replik</note>
-        <note xml:id="i-2jo57pimzvksofmLGSBaMb" type="speaker">Anf. 19 LAWEN REDAR (S)</note>
-        <note xml:id="i-Pxfg6yH2PRctFhqGM83BF1" type="speaker">Anf. 20 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-rwPwP4frB1fwQuRDLhRns" type="speaker">Anf. 21 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-41f5dBrNKUchAPLpD8P3P1" type="speaker">Anf. 22 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-7eEfpSLNP7AZpnssU3Ao6w" type="speaker">Anf. 23 LAWEN REDAR (S) replik</note>
-        <note xml:id="i-45itq3osKxFpr12EfNrZ9Q" type="speaker">Anf. 24 LOTTA FINSTORP (M)</note>
-        <note xml:id="i-WDChyyhfkD9XzfwrtK7kQf" type="speaker">Anf. 25 ARON EMILSSON (SD)</note>
-        <note xml:id="i-5kGLPbwiekL4LxcXWdv5TR" type="speaker">Anf. 26 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-KyKYrbs4JzS9jxJ3p8HArG" type="speaker">Anf. 27 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-3nMqu4HCEXTghs5rarzpVv" type="speaker">Anf. 28 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-PoaCJ9jFCSmasynXEoEMrr" type="speaker">Anf. 29 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-CewmzgsoAJ1xn39Efx8VRt" type="speaker">Anf. 30 ALIREZA AKHONDI (C)</note>
-        <note xml:id="i-3sXkjbsc94EyFSDseyb7FQ" type="speaker">Anf. 31 HANNA GUNNARSSON (V)</note>
-        <note xml:id="i-7DTbKw53M6dBnZhsQ9SXXE" type="speaker">Anf. 32 HANS EKLIND (KD)</note>
-        <note xml:id="i-VG8KjeK2rxP8UhsdjUc52M" type="speaker">Anf. 33 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-3SKvyLoZqTEaNNDR45vY2W" type="speaker">Anf. 34 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-W3YKiAm8CGzaHeWxX7bgp" type="speaker">Anf. 35 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-V93aJLg4MJaNG6qSpPiiNc" type="speaker">Anf. 36 LOTTA FINSTORP (M) replik</note>
-        <note xml:id="i-ACBWYgLnE71ZwMDDoksSXc" type="speaker">Anf. 37 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-AouZdk5wuhsnEG3zhV6EJt" type="speaker">Anf. 38 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-Fj2ABihxxF8TmNfxJqU1Kv" type="speaker">Anf. 39 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-S737621FfYizDJ1jPhjRJE" type="speaker">Anf. 40 ARON EMILSSON (SD) replik</note>
-        <note xml:id="i-NmoeDUDdMUudcaqJKZLroP" type="speaker">Anf. 41 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-95xddZvhsBuKDdUatj9z3u" type="speaker">Anf. 42 HANS EKLIND (KD) replik</note>
-        <note xml:id="i-UE7G9Ygscn5dcxE2GuyHPH" type="speaker">Anf. 43 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-Y3725ssVkjsh5CGPFFPze5" type="speaker">Anf. 44 HANS EKLIND (KD) replik</note>
-        <note xml:id="i-2a7pD42Tohm3idPgD4TXZD" type="speaker">Anf. 45 CHRISTER NYLANDER (L) replik</note>
-        <note xml:id="i-Qz2vAo9XKmtNKwutjXvXiV" type="speaker">Anf. 46 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-4AV39pa8hdja67vsnYc6aR">§ 2 Justering av protokoll</note>
-        <note xml:id="i-Aw6MtAy2UrEmUDQaeQXHWn">§ 3 Anmälan om sammansatt utrikes- och försvarsutskott</note>
-        <note xml:id="i-JB6dFaUxDfZqHkwCmg6i5p">§ 4 Anmälan om subsidiaritetsprövning</note>
-        <note xml:id="i-XoZ3cvBrGMxf5f8M6Um8UT">§ 5 Anmälan om granskningsrapport</note>
-        <note xml:id="i-R3q4idqCBK2QYTd86WYB93">§ 6 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-9W6UTAgP91Kbr7id1g7eqU">§ 7 Anmälan om fråga för skriftligt svar</note>
-        <note xml:id="i-BdHD5ht4dMHLg11qMQv9uw">§ 8 Kammaren åtskildes kl. 10.10.</note>
-        <note xml:id="i-MUXHCEq1kXccg5RHoc8GED">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

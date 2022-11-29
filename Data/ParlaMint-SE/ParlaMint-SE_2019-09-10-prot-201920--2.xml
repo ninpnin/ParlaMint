@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 2 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 2 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--2">2019/20--2</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -82,7 +83,7 @@
           <seg xml:id="i-Dc9pLWMcNqMJ3q9BR5QDZa">Jag hemställer att Ers Majestät förklarar riksmötet öppnat .</seg>
         </u>
         <note type="speaker" xml:id="i-77RopAEQouQqTnQ2XkJELS">Anf. 2 HANS MAJESTÄT KONUNGEN:</note>
-        <u xml:id="i-10f45ba5c67bdb2e-1" who="#unknown" ana="#regular">
+        <u xml:id="i-10f45ba5c67bdb2e-1" ana="#regular">
           <seg xml:id="i-VTQSmZjCChJ3RbidVpHXE2">Herr talman! Ära de ledamöter ! För 30 år sedan stod jag här i riksdagens plenisal för att förklara riksmötet 1989/90 öppnat. Det var den 3 oktober, och vi visste ännu inte vad som skulle ske bara en dryg månad senare. Berlinmurens fall i november 1989 blev kulmen på en utveckling som förändrade Europa och världen i grunden. Det var en tid av avspänning mellan supermakterna och av närmare europeiskt samarbete.</seg>
           <seg xml:id="i-UZcmosqTkpsQpNBZo2PLxk">På den svenska politiska agendan stod vid denna tid bland annat försvarets inriktning och omfattning, Sveriges framtida energiförsörjning och miljöproblem såsom markförsurning, drivhuseffekten och påverkan på ozonlagret. I dag, tre årtionden senare, har utvecklingen i många avseenden gått framåt. Men på andra områden har utmaningarna snarare vuxit.</seg>
           <seg xml:id="i-KQunsCGjPWih3bRb8Go47o">Herr talman! Ärade ledamöter! Riksdagsprotokollen berättar om vår tid för kommande generationer – om våra ideal och värderingar och om våra utmaningar och vår förmåga att möta dem.</seg>
@@ -219,7 +220,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <note xml:id="i-ESRmMVKvQRHdJveY4k92hQ">§ 2 Ceremonin avslutades kl. 14.58.</note>
       </div>
     </body>

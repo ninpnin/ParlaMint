@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 20 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 20 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--20">2019/20--20</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -369,7 +370,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note type="speaker" xml:id="i-Y2Tqwbp8o8er9HzyPH65a9">Anf. 26 TALMANNEN:</note>
-        <u xml:id="i-0fa63402d782d892-141" who="#unknown" ana="#regular">
+        <u xml:id="i-0fa63402d782d892-141" ana="#regular">
           <seg xml:id="i-VMx9gR4aLfKL9xcFFUTdgf">Jag vill gärna särskilt välkomna alla er som sitter på åhörarläktaren. Jag tycker att det är fantastiskt att vi har i princip helt fullsatta läktare och att vi till och med har fått ta en del av pressens läktare i anspråk för att så många vill lyssna på den här debatten. Välkomna!</seg>
         </u>
         <note type="speaker" xml:id="i-V6CkEmH3xUWiVR7Gk41Cnp">Anf. 27 EBBA BUSCH THOR (KD) replik:</note>
@@ -1259,16 +1260,16 @@
         </u>
         <note xml:id="i-RYqUKpxTb3D1wvr3CtNMPF">Partiledardebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8zRSRUHxYwCtzyAoFtu7ix">§ 2 Justering av protokoll</head>
         <note xml:id="i-QCftvWtEmoLToboYBxV8AV">Protokollet för den 27 september justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HfMzzHmEn1DsdXcgTC2jb6">§ 3 Anmälan om återkallelse av motion</head>
         <note xml:id="i-YKNi1ywJZh3aAKSqkHZHeU">Andre vice talmannen anmälde Johan Pehrson m.fl. (L) den 14 oktober återkallat den av dem väckta motionen 2019/20:3076.</note>
         <note xml:id="i-SGx3kvxLUH9xtiQdqU1jmF">Andre vice talmannen meddelade att talmannen avskrivit denna mo ­ tion.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QVWTPUhjycFe3Nmw2D8Rbi">§ 4 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-SRhJPoiQZGZTYPeG9ZSera">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-4TPCg5AMomheHt8r6sS9oJ">Interpellation 2019/20:33</note>
@@ -1284,18 +1285,18 @@
         <note xml:id="i-Lq61iiqyGmX2y8wUhkaqQ3">Marianne Jenryd</note>
         <note xml:id="i-NSniEnFk1g8Gr98XJLDhn8">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-E4Pq7sv8UctjRSSN3sDC3N">§ 5 Anmälan om granskningsrapport</head>
         <note xml:id="i-C184GRVMVpJgBhQa1xCPxo">Andre vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till finansutskottet:</note>
         <note xml:id="i-9K4JCzeHqnr56LqqtePJMN">RiR 2019:28 Föråldrade it-system – hinder för en effektiv digitalisering</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ln4FjgAT7Tmnt7obtAu4gb">§ 6 Ärende för hänvisning till utskott</head>
         <note xml:id="i-KWA7NPrwLYJWMCRA8qUn1s">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-UzffS6QqRfgMF9DruVn1pE">Proposition</note>
         <note xml:id="i-HKjfTbNPjwcbNGFgRMgnNn">2019/20:26 till socialförsäkringsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-TRnVdYUCPrTWsL8h9pgdcN">§ 7 Riksrevisionens rapport om scenarier inom miljö-, energi-, transport- och bostadspolitiken</head>
         <note xml:id="i-53vDkyu6zsQeeFy6AmvRBR">Finansutskottets betänkande 2019/20:FiU7</note>
         <note xml:id="i-CJcfKsPphmLuRzyzRY5MKE">Riksrevisionens rapport om scenarier inom miljö-, energi-, transport- och bostadspolitiken (skr. 2018/19:120)</note>
@@ -1303,7 +1304,7 @@
         <note xml:id="i-6wQas6fCuHpwAUZJwyZ55W">Andre vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-49BgxEYpWJ22Z9QuQGyxXd">(Beslut fattades under § 14.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PZjqKzEUFE3CKXyrkhUgAP">§ 8 Riksrevisorernas årliga rapport 2019</head>
         <note xml:id="i-6aHojnJhGiLeUGkCMc2cxX">Finansutskottets betänkande 2019/20:FiU9</note>
         <note xml:id="i-QRxuamVL8AFuLSr8UvCaEb">Riksrevisorernas årliga rapport 2019 (redog. 2018/19:RR5)</note>
@@ -1578,7 +1579,7 @@
         <note xml:id="i-5YiDCvwKdUQQHSJFQPuDRS">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-5uVnHR5kfiAvXKHMP3HitY">(Beslut fattades under § 14.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Xps6bCvCA4zfRQqykUf4WL">§ 10 Ytterligare fortsatt utbetalning av garantipension</head>
         <note xml:id="i-Aw33HjnjTgdAE8n9K2Y9T6">Socialförsäkringsutskottets betänkande 2019/20:SfU6</note>
         <note xml:id="i-JVi49iSbeVQu4JTDiSmoH5">Ytterligare fortsatt utbetalning av garantipension (prop. 2018/19:131)</note>
@@ -1931,7 +1932,7 @@
         <note xml:id="i-WgRxfnwXHumybAio1mXqqL">Återupptaget sammanträde</note>
         <note xml:id="i-RQycbMTAzpzJ3895qxzHWY">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-NRVaCPqW7mYybjSCEHoGZu">§ 13 Beslut om ärende som slutdebatterats den 15 oktober</head>
         <note xml:id="i-LAVGFLHvJJQMZG91TUFEN7">SoU3 Personlig assistans för hjälp med andning</note>
         <note xml:id="i-GgK3joiy35n6ERvjntb6CA">Punkt 1</note>
@@ -1971,7 +1972,7 @@
         <note xml:id="i-15LLcbzqFz9gs57jUoQXiJ">För res. 3: 25 V, 1 -</note>
         <note xml:id="i-XrGGW9VY3CcwzMhtXEC9TP">Frånvarande: 12 S, 10 M, 4 SD, 4 C, 2 V, 2 KD, 1 L, 2 MP</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WbyYqXMwq1MfnSWBqPvgYK">§ 14 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-K3kAvKtrgJeeeeAbph3p1J">FiU7 Riksrevisionens rapport om scenarier inom miljö-, energi-, transport- och bostadspolitiken</note>
         <note xml:id="i-WGYuFR5W4yS6jwfmMxNJiV">Kammaren biföll utskottets förslag.</note>
@@ -2073,13 +2074,13 @@
         <note xml:id="i-16dPt4sH6YxJaKcw3eVSs5">Avstod: 25 V, 1 -</note>
         <note xml:id="i-LBUS5fvH25PMMbMYtK86cx">Frånvarande: 12 S, 10 M, 4 SD, 4 C, 2 V, 2 KD, 1 L, 2 MP</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5wL9xqAJ8YTDkuEbgWNk2C">§ 15 Bordläggning</head>
         <note xml:id="i-Czb4BcsmPs8WnAr2gpU1F">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-JmCSKJqwXACAeJKfeqFQqi">Proposition</note>
         <note xml:id="i-76wNScLEwuJfLcW73Atrwm">2019/20:29 Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XrDvbrRTBnZ7kcbpSYnuvz">§ 16 Anmälan om interpellationer</head>
         <note xml:id="i-Pff6Z3gVKMnePvuC5C2GEH">Följande interpellationer hade framställts:</note>
         <note xml:id="i-Bm6679QUgzsBjNgRh6rn8q">den 15 oktober</note>
@@ -2093,7 +2094,7 @@
         <note xml:id="i-UWT2DER6N3ywwCmqZqestQ">av Ludvig Aspling (SD)</note>
         <note xml:id="i-QkpzW5PqQfhT5G8UivN8qF">till justitie- och migrationsminister Morgan Johansson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LMhj8Q6GqJrJPVjHXY5Hh">§ 17 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-MFMtrQD2zuzpFMnNTo8fii">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-NrqmDXGHCtrx3ChXLw5jw2">den 15 oktober</note>
@@ -2107,7 +2108,7 @@
         <note xml:id="i-92gyYsoD6hbuBsYbPumN9P">av Markus Wiechel (SD)</note>
         <note xml:id="i-RTkJnNQc97j1pzGdhDZjvX">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8RPmjHChXYtzXqBJTTfdRm">§ 18 Kammaren åtskildes kl . 16.09.</head>
         <note xml:id="i-V1uiVLkKJ431UghfnNUDiF">Sammanträdet leddes</note>
         <note xml:id="i-56j1qoH9QoZ4DRk75YT1Kq">av talmannen från dess början till och med § 1 anf. 72 (delvis),</note>
@@ -2270,7 +2271,7 @@
         <note xml:id="i-Efwdtimu5RZgnkTRjjehK9">§ 5 Anmälan om granskningsrapport</note>
         <note xml:id="i-eqay2sXMyRPGNMkYW8nKV">§ 6 Ärende för hänvisning till utskott</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6DuLDNDRu911rtGxQNdmmt">§ 7 Riksrevisionens rapport om scenarier inom miljö-, energi ‑ , transport- och bostadspolitiken</head>
         <note xml:id="i-4ZjEptUGYSFphiXZ4vz7i9">Finansutskottets betänkande 2019/20:FiU7</note>
         <note xml:id="i-BqLssJ8cQ1qGsM9C2tLcbS">(Beslut fattades under § 14.)</note>
@@ -2350,7 +2351,7 @@
         <note xml:id="i-3x1unfzqfSKTBUtHAaEwRf">§ 16 Anmälan om interpellationer</note>
         <note xml:id="i-AHEPDUriCJJ6uRD5NRb5ci">§ 17 Anmälan om frågor för skriftliga svar</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QWRrQo5YXWg8VzUWEcx4GZ">§ 18 Kammaren åtskildes kl. 16.09.</head>
         <note xml:id="i-5THDXDuLK8kQ9QDiuW1qdf">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>

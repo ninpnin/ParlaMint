@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 74 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 74 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--74">2019/20--74</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,11 +75,11 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-UFXpcyKNp5STAYCzjc54GE">§ 1 Justering av protokoll</head>
         <note xml:id="i-Hb3RACg2NrSy3aot9Uj4xT">Protokollet för den 23 januari justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QWmeWnjmhNTWu1tV4zXd4F">§ 2 Anmälan om fördröjt svar på interpellation</head>
         <note xml:id="i-SeTnN8jhSTYnLGdP8EHCyN">Följande skrivelse hade kommit in:</note>
         <note xml:id="i-V5oPmBg3LnzawaNwzVeJ1H">Interpellation 2019/20:324</note>
@@ -94,7 +95,7 @@
         <note xml:id="i-UeQeNcb9qsx2J2AqWvoarp">Susanne Södersten</note>
         <note xml:id="i-7Krh3zk7DpBuhkum5CXDfj">Expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-AqsBogP1dHdwP3Hc986UBx">§ 3 Ärende för hänvisning till utskott</head>
         <note xml:id="i-MUPrz69LHVDq929kG1C1LP">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-DJy77Ei2fgd2iTYxiMZ6b3">Redogörelse</note>
@@ -507,7 +508,7 @@
       <div type="debateSection">
         <head xml:id="i-TVmJNktKcBSi3ju9EFGxbF">§ 9 Frågestund</head>
         <note type="speaker" xml:id="i-J4St5EvEP1bFMuD4uoqFoA">Anf. 29 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-FDc993PZgxu3ALyrhXX8oY" who="#unknown" ana="#regular">
+        <u xml:id="i-FDc993PZgxu3ALyrhXX8oY" ana="#regular">
           <seg xml:id="i-LKBUyNg4TMXuUJ7V7yuHyF">En fråga ska vara av övergripande och allmänpolitiskt slag eller avse ett ämne som faller inom statsrådets ansvarsområde och rör dennes tjänste ­ utövning .</seg>
           <seg xml:id="i-PuJrpXqkRWBBjdmt7MZhf2">Jag vill hälsa statsråden välkomna. Frågor besvaras i dag av statsrådet Per Bolund, näringsminister Ibrahim Baylan, statsrådet Matilda Ernkrans och statsrådet Åsa Lindhagen. Statsrådet Per Bolund besvarar såväl allmänpolitiska frågor som frågor inom sitt eget ansvarsområde.</seg>
         </u>
@@ -1123,7 +1124,7 @@
         <note xml:id="i-Lr242Aya24dzGovZ2in448">Återupptaget sammanträde</note>
         <note xml:id="i-JYRbUX7LqbGSWvkGexFVVG">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Pu1YRMBUnpQSzUYHJXabKr">§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-NwY2ePQKzvwERkQevzc7Ki">FiU32 Återkoppling vid rapportering om misstänkt penningtvätt och finansiering av terrorism och vissa andra frågor</note>
         <note xml:id="i-Sixn3LAB7zLKAL8EweUBGT">Kammaren biföll utskottets förslag.</note>
@@ -1289,7 +1290,7 @@
         <note xml:id="i-NgwLp7u5XfHctx9BxejWTb">Övriga punkter</note>
         <note xml:id="i-S6QXEQAQq6phDYaeMsY7H7">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ts4KM8EhKgbAU8c3yT6okX">§ 12 Bordläggning</head>
         <note xml:id="i-Pn8yVQKrQygVjZyf95bpdB">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-JXgKzcrx3XfQVyD7wqaBTg">Framställning</note>
@@ -1299,7 +1300,7 @@
         <note xml:id="i-Rv7AKThDSn9XDZCVwXDAPS">2019/20:SN1 Verksamhetsredogörelse för Statsrådsarvodesnämnden 2019</note>
         <note xml:id="i-8UegKBSW6b4mZz23oARNcZ">2019/20:ÖN1 Verksamhetsredogörelse för Riksdagens överklagandenämnd 2019</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-82tp7UDFj3YKSipVYnxynx">§ 13 Anmälan om interpellationer</head>
         <note xml:id="i-SHNyySkLNWdiv2oMX2dm4i">Följande interpellationer hade framställts:</note>
         <note xml:id="i-WUFzu6zkg7sV8aVco1SGZZ">den 12 februari</note>
@@ -1310,7 +1311,7 @@
         <note xml:id="i-C3HUCns2SimMMSnunLwHg1">av Maria Stockhaus (M)</note>
         <note xml:id="i-VFtcnVU898Tk2MxpGWj6DN">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-R6mpkhDHMnrW6FENBXjV2w">§ 14 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-KAHUvrAaYSziEavAk8A51U">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-Sx4dg5cjtERCL9rvrDEeK2">den 12 februari</note>
@@ -1333,7 +1334,7 @@
         <note xml:id="i-Q4WMH8LpHJfLrFQkUEqJnS">av Hans Rothenberg (M)</note>
         <note xml:id="i-AtuDZBExUxFwaDvVjmBrDD">till statsrådet Anna Hallberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-56N9cHQYTSNMxq1M4U41fs">§ 15 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-4qg1xWu3djgKqkhTMiXSYW">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-5TRFC285kLGD5f2Z6hz9SX">den 12 februari</note>
@@ -1467,7 +1468,7 @@
         <note xml:id="i-LKZ159b2uZksVn5J6gBHf8">av Åsa Coenraads (M)</note>
         <note xml:id="i-HpoGacCpnh1xib6CoeD1gQ">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-25UaZj6z2HWfh8w1Ag4UFM">§ 1 6 Kammaren åtskildes kl. 16.12.</head>
         <note xml:id="i-NeMyEDt8KSFfSDS47mg8ah">Sammanträdet leddes</note>
         <note xml:id="i-PV2bhq97j4DDDJ71HDwron">av andre vice talmannen från dess början till ajourneringen kl. 13.49,</note>
@@ -1475,183 +1476,6 @@
         <note xml:id="i-5BPJxHotYTjc3bo5mL3bFq">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-2AacAKs2hNtffqNLZuMueD">Vid protokollet</note>
         <note xml:id="i-Tn3nDJBENuPNZswzmzP6cN">ANDERS NORIN</note>
-        <note xml:id="i-4ioN4koAn8myJnNy8N2jz8">/Olof Pilo</note>
-        <note xml:id="i-4gbyMBxNCRMMFFpdM4u2wn">Innehållsförteckning</note>
-        <note xml:id="i-N78E8YuwcCLTK8YMCkVR98">§ 1 Justering av protokoll</note>
-        <note xml:id="i-9XasZTSdKmNsdVUs9Kvkz9">§ 2 Anmälan om fördröjt svar på interpellation</note>
-        <note xml:id="i-MB7JJ87RUqQiBpSEwhYnyX">§ 3 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-2edN1da3RvvtWiTNeJC1Yz">§ 4 Återkoppling vid rapportering om misstänkt penningtvätt och finansiering av terrorism och vissa andra frågor</note>
-        <note xml:id="i-7FmE4f8ywCkaH6jfNoeVpg">Finansutskottets betänkande 2019/20:FiU32</note>
-        <note xml:id="i-KcvSQEYpVMUfXbi3Kfp9ZQ" type="speaker">Anf. 1 FREDRIK STENBERG (S)</note>
-        <note xml:id="i-XnxqyN1xjP4pu5t4KszQ7R">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-BNKpaQu3wTiZR2Je3V9wsM">§ 5 Riksrevisionens rapport om styrningen av rättskedjan</note>
-        <note xml:id="i-Fz6xEmfrQAfNRLBa9YD18V">Justitieutskottets betänkande 2019/20:JuU14</note>
-        <note xml:id="i-NTLTCCq7mJpfDbMs9AJkVE" type="speaker">Anf. 2 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-C478CFfr8F6pwYnX2ZYuDY" type="speaker">Anf. 3 HELENA VILHELMSSON (C)</note>
-        <note xml:id="i-Q8bfPnRfxTzfHVbb2b6JJM" type="speaker">Anf. 4 MATTIAS INGESON (KD)</note>
-        <note xml:id="i-LXrtyck62ZyRgXTXQd6exc" type="speaker">Anf. 5 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-pTL49gS8TfnPB5m7VfeAq" type="speaker">Anf. 6 FREDRIK LUNDH SAMMELI (S)</note>
-        <note xml:id="i-5VyXf5aGDTfJypa3Cb8HUH">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-K2B71tTSw2wwNZucWB7jAU">§ 6 Samarbete mellan svenska och norska särskilda insatsgrupper i krissituationer</note>
-        <note xml:id="i-Tx7zexx3BeZGg1w82exizd">Justitieutskottets betänkande 2019/20:JuU18</note>
-        <note xml:id="i-WQCduNtPqwN9dL55q2TQCZ" type="speaker">Anf. 7 LINDA WESTERLUND SNECKER (V)</note>
-        <note xml:id="i-PMSjfjb9gy6zdA4tegaC9V" type="speaker">Anf. 8 PETTER LÖBERG (S)</note>
-        <note xml:id="i-NqvWnWUggCwG2osHg8cMTP" type="speaker">Anf. 9 MIKAEL DAMSGAARD (M)</note>
-        <note xml:id="i-Tr28FinmdcvynrsrfUs9Kh" type="speaker">Anf. 10 MATTIAS INGESON (KD)</note>
-        <note xml:id="i-AzqmqhSy4bR5NF2ych3yuR" type="speaker">Anf. 11 JOHAN PEHRSON (L)</note>
-        <note xml:id="i-EWgv39rnn9qZQhfXE4eq3U">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-P7YVnieCP2DbfMobrehFyo">§ 7 Vissa frågor om Försvarsmaktens personal</note>
-        <note xml:id="i-721AJY5bN7CW4orbdheJPg">Försvarsutskottets betänkande 2019/20:FöU8</note>
-        <note xml:id="i-L1e2XdJKVqvqb4QGzzFLM9" type="speaker">Anf. 12 JAN R ANDERSSON (M)</note>
-        <note xml:id="i-GduN5ckpwsSrkmgVFRp56p" type="speaker">Anf. 13 SVEN-OLOF SÄLLSTRÖM (SD)</note>
-        <note xml:id="i-Km14ktzaYJRKGic47kye8w" type="speaker">Anf. 14 DANIEL BÄCKSTRÖM (C)</note>
-        <note xml:id="i-3Q48m247GPAY1CH9mQpTsT" type="speaker">Anf. 15 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-AJepnfG593UBVg43H943su" type="speaker">Anf. 16 ALLAN WIDMAN (L)</note>
-        <note xml:id="i-B4TWs6nQ2n9SN8nC1BNHkp" type="speaker">Anf. 17 ALEXANDRA VÖLKER (S)</note>
-        <note xml:id="i-TLxh4oEepGvf6ZTAHc7G3o" type="speaker">Anf. 18 JAN R ANDERSSON (M) replik</note>
-        <note xml:id="i-Xc43vqeMtfw7xX5TtWyXQj" type="speaker">Anf. 19 ALEXANDRA VÖLKER (S) replik</note>
-        <note xml:id="i-EP8aTuhuoH5UM78NodbZuV" type="speaker">Anf. 20 JAN R ANDERSSON (M) replik</note>
-        <note xml:id="i-Gwvd21XyTzZ5JqBgjSdMew" type="speaker">Anf. 21 ALEXANDRA VÖLKER (S) replik</note>
-        <note xml:id="i-SD7vkU2LT3Hj5MVZLJ6fTg" type="speaker">Anf. 22 ALLAN WIDMAN (L) replik</note>
-        <note xml:id="i-UGcQnQaszFNe6Jx43xtMCg" type="speaker">Anf. 23 ALEXANDRA VÖLKER (S) replik</note>
-        <note xml:id="i-KSAFMmAUj3JFkoEo2e5s2H" type="speaker">Anf. 24 ALLAN WIDMAN (L) replik</note>
-        <note xml:id="i-YCVYjL6WxMAJDBgW8oCuZU" type="speaker">Anf. 25 ALEXANDRA VÖLKER (S) replik</note>
-        <note xml:id="i-YNyfiGaXmwFmtvidecNbNY" type="speaker">Anf. 26 HANNA GUNNARSSON (V)</note>
-        <note xml:id="i-8j7ZSSCZXcUVQRtn4f4oFJ">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-RcEaSr3PU1f4xrcXxWFjdB">§ 8 Äldrefrågor</note>
-        <note xml:id="i-DzM7VqoKocBMFYRUtV5gwS">Socialutskottets betänkande 2019/20:SoU4</note>
-        <note xml:id="i-2ZrHsWWew7ue1wFVkcRvW1" type="speaker">Anf. 27 ACKO ANKARBERG JOHANSSON (KD)</note>
-        <note xml:id="i-Dv9Ji27L3ybABnrkLmaErc" type="speaker">Anf. 28 ULRIKA HEINDORFF (M)</note>
-        <note xml:id="i-41rfHGeQLyVqDeWTVzXyuS">(forts. § 10)</note>
-        <note xml:id="i-875dpKYyacTp9CAZ4wrp8S">Ajournering</note>
-        <note xml:id="i-ByAw8EPYrzXqo2soVm7AjQ">Återupptaget sammanträde</note>
-        <note xml:id="i-NsdHSkEsm8o4CHgnht3MAt">§ 9 Frågestund</note>
-        <note xml:id="i-Rq4GhUYAsegax8c3MFydyK" type="speaker">Anf. 29 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-BTiXGrTSXCZkM9pkzqMk27">Återinförande av investeringsstödet</note>
-        <note xml:id="i-PHwtzxseKVpLwajXxoRUZ9" type="speaker">Anf. 30 CARL-OSKAR BOHLIN (M)</note>
-        <note xml:id="i-LYMH9VyLTdRmrHwQ1TXFFW" type="speaker">Anf. 31 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-56aHUCZgyP9pb3LA3rFap9" type="speaker">Anf. 32 CARL-OSKAR BOHLIN (M)</note>
-        <note xml:id="i-CLxTfkTRH8Fwe8jRa9tJXq" type="speaker">Anf. 33 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-L9Vv1fiX2sZnYHc6fKeC1">Regeringens migrationspolitik</note>
-        <note xml:id="i-Qg6vTN2kiKWzUGBVWXYCFZ" type="speaker">Anf. 34 JONAS ANDERSSON i Skellefteå (SD)</note>
-        <note xml:id="i-KdZSuvw4LJGBizh59ibjMJ" type="speaker">Anf. 35 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-TVryshJZPnDpgE6JwnpeEE" type="speaker">Anf. 36 JONAS ANDERSSON i Skellefteå (SD)</note>
-        <note xml:id="i-5mQkW7DcFTPrF1JoontPJZ" type="speaker">Anf. 37 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-HAceNfRMTSo9HG3nKp5dFK">Livsmedelsforskningen i forsknings- och innovationspropositionen</note>
-        <note xml:id="i-9S8U6p7KYirpc9TXVwVKit" type="speaker">Anf. 38 ULRIKA HEIE (C)</note>
-        <note xml:id="i-7Kx36mjoGvGqEdxCHAgHrP" type="speaker">Anf. 39 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-4WM3ecbd2bqtEhemawPWJe" type="speaker">Anf. 40 ULRIKA HEIE (C)</note>
-        <note xml:id="i-3D8ucDCTEH2F3QuN4uNZar" type="speaker">Anf. 41 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-RkuPpj9wP82ZRGBFXfjo2D">Flygskatten och ett utökat RUT-avdrag</note>
-        <note xml:id="i-BSrWFhqAbfBouFcFwvtVgN" type="speaker">Anf. 42 TONY HADDOU (V)</note>
-        <note xml:id="i-CmhLb1XXf5b7L3yiqwVZDq" type="speaker">Anf. 43 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-FCiG5KG1q2LGADYcbS7juv" type="speaker">Anf. 44 TONY HADDOU (V)</note>
-        <note xml:id="i-SR5Wpr7DbQ53GqiMHqnRA3" type="speaker">Anf. 45 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-4KucP5cot4HRkHNJTWLvvd">Segregationen och kommunernas situation</note>
-        <note xml:id="i-HeZJHJ5DDGDaJVhtuaWQfz" type="speaker">Anf. 46 SOFIA DAMM (KD)</note>
-        <note xml:id="i-BREU1hcxovjkaPt24vBTcY" type="speaker">Anf. 47 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-NdzkqewJvShCtBTNf4HW5k" type="speaker">Anf. 48 SOFIA DAMM (KD)</note>
-        <note xml:id="i-RWu5TCnVVtYENy1xxNTCpS" type="speaker">Anf. 49 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-CZQYEnnodcsqiX1SXbSSAy">Hot och hat mot forskare</note>
-        <note xml:id="i-VaZGcMx4GHWGhwBEMLpSGA" type="speaker">Anf. 50 MARIA NILSSON (L)</note>
-        <note xml:id="i-3HJt5dzJa9rwBRpYw6gfdB" type="speaker">Anf. 51 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-6gS6SWR8i9NpdN33YYqhoY" type="speaker">Anf. 52 MARIA NILSSON (L)</note>
-        <note xml:id="i-ScRgFbzvg7XGS5qnJCwkvo" type="speaker">Anf. 53 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-ARjKGFShHAYkXFzzhdx74K">Samverkan mellan forskning och samhälle</note>
-        <note xml:id="i-Vnf9SRbLEPWbe2RNSXrU5f" type="speaker">Anf. 54 LINUS SKÖLD (S)</note>
-        <note xml:id="i-FtY183AMvd8k3FFaqH47Xu" type="speaker">Anf. 55 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-NhE2GWFY9kH28K1FsxZJrT" type="speaker">Anf. 56 LINUS SKÖLD (S)</note>
-        <note xml:id="i-PrC93MSZ8KKBqZzqEKhn8U" type="speaker">Anf. 57 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-EbhYCQX6GbrKkts7tmnxK3">Strukturell hemlöshet</note>
-        <note xml:id="i-UCApDk9qNtUC2zAPk86scy" type="speaker">Anf. 58 EMMA HULT (MP)</note>
-        <note xml:id="i-LhxebFYAfiFSZowpkfCr6j" type="speaker">Anf. 59 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-HABYCn9TFJfFCNGBZ1nJcD" type="speaker">Anf. 60 EMMA HULT (MP)</note>
-        <note xml:id="i-981HxkKfq8YpavyD7XoZA3" type="speaker">Anf. 61 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-GfRQtqm7G2mvyojScu9MQu">Beviljandet av stöd till arbetsintegrerad lärarutbildning</note>
-        <note xml:id="i-GJqXXawifFq4y9PT2TCkQZ" type="speaker">Anf. 62 KRISTINA AXÉN OLIN (M)</note>
-        <note xml:id="i-75rSapcCZaCv4EtiF1f5Dk" type="speaker">Anf. 63 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-R7F6ueWK16n3YcqjSySbCa">Brott mot unga svenskar</note>
-        <note xml:id="i-7gdvcEEoSDpzyX5VUcnrkT" type="speaker">Anf. 64 HENRIK VINGE (SD)</note>
-        <note xml:id="i-EiBo3r6hoB5UZgZjAiwo2R" type="speaker">Anf. 65 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-7UY4Wv2FLpD6LC5uy9x5Bh">Konsumentskydd för bostadsrätter</note>
-        <note xml:id="i-F2bscdGk3ysiUK73hsdA3N" type="speaker">Anf. 66 NIELS PAARUP-PETERSEN (C)</note>
-        <note xml:id="i-TAVW8Z78LrbpNnCgEm9nwc" type="speaker">Anf. 67 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-G3b8D2vbbAjcZbn1iKpsBm">Barnfamiljer i hemlöshet</note>
-        <note xml:id="i-G28gHevPp2BzetMDJysdYu" type="speaker">Anf. 68 MOMODOU MALCOLM JALLOW (V)</note>
-        <note xml:id="i-8JFmfyN1v5SaCgFuKAFGw2" type="speaker">Anf. 69 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-D9T7kZHa7iykAPg2PxP2DU">Bostad först</note>
-        <note xml:id="i-61C8mdVTESJwodCg1jKX2M" type="speaker">Anf. 70 CECILIA ENGSTRÖM (KD)</note>
-        <note xml:id="i-HT9MUkcA979VXmqb2pBYaK" type="speaker">Anf. 71 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-8h2tbkmvyPr6tyGCdwnmTi">Lämplighetstest för lärarutbildning</note>
-        <note xml:id="i-5z33Rmqmjagd2QEYbVGz7m" type="speaker">Anf. 72 ROGER HADDAD (L)</note>
-        <note xml:id="i-GuEFsns2jdcsK6jiHrSczd" type="speaker">Anf. 73 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-8LR4LqpGcunkMzzcUeJ8cX">Åtgärder för främjande av besöksnäringen</note>
-        <note xml:id="i-YAsUWChm56njBQsrfwMzk5" type="speaker">Anf. 74 ÅSA ERIKSSON (S)</note>
-        <note xml:id="i-65iCfnLo43TuvyqFkwHbbg" type="speaker">Anf. 75 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-KKAwXfTJop2QZrsPwxitox">Regeringens arbete mot den strukturella hemlösheten</note>
-        <note xml:id="i-4nekCYQv4yKKrK6DRx3xP6" type="speaker">Anf. 76 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-AGxHeQzaDrRBZQmo284HXT" type="speaker">Anf. 77 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-XioP1VMQpQ7snE26AU81Br">Svenskfientlighet</note>
-        <note xml:id="i-GauFvvVc3RhJc5QQk9tPZ3" type="speaker">Anf. 78 ADAM MARTTINEN (SD)</note>
-        <note xml:id="i-RntUA8jxC8ysKaw61i471X" type="speaker">Anf. 79 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-3buHSnwvCmp2zfCazFyAsp">Studentkårernas finansiering och oberoende</note>
-        <note xml:id="i-CsXNvU51L84gJ7wtmrhBzr" type="speaker">Anf. 80 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-MCYLrzy2dB7LWYeHbyQYRL" type="speaker">Anf. 81 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-XF2oN5Gu4RySEEZEReETSu">Samverkansprogram för näringslivets klimatomställning</note>
-        <note xml:id="i-TWx6UsqL45gXZiwfbRWnWy" type="speaker">Anf. 82 MARLENE BURWICK (S)</note>
-        <note xml:id="i-Lvr57kGCkew8RviMEV3cFz" type="speaker">Anf. 83 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-7qAUrZsigiE1FcuxRLXxA7">Medel till Örebro universitets läkarutbildning</note>
-        <note xml:id="i-Gj6bZRH7ZKmzuS5VUXMRS7" type="speaker">Anf. 84 LOTTA OLSSON (M)</note>
-        <note xml:id="i-G8cmWAVCW3j3ZLDNpxZawU" type="speaker">Anf. 85 Statsrådet MATILDA ERNKRANS (S)</note>
-        <note xml:id="i-DUKZvvKtMoeGuYzVj1zEB3">Regional samverkan mot bostadsbristen</note>
-        <note xml:id="i-GjavBarD3wdgHnzYjbMecN" type="speaker">Anf. 86 LARRY SÖDER (KD)</note>
-        <note xml:id="i-59mBPJtsugGndrMbpNc7JK" type="speaker">Anf. 87 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-JTcfXrbCPUVFTnLqzxaiq4">Jobb till utrikes födda kvinnor</note>
-        <note xml:id="i-MdMtvkpLLdkzNNTnjAFiUJ" type="speaker">Anf. 88 AMINEH KAKABAVEH (-)</note>
-        <note xml:id="i-GjH8Qs3iQ7tGsQaMqQosE5" type="speaker">Anf. 89 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-8gwywkv5851jrAE5Azb65e">Effekterna av investeringsstödet</note>
-        <note xml:id="i-E45VZYHBwVDyHHQPMBz5MS" type="speaker">Anf. 90 ELIN LUNDGREN (S)</note>
-        <note xml:id="i-4vNXx6PnYg1gHauRHTsPGf" type="speaker">Anf. 91 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-LPLa2o97D7tUqtYUgLqU6s">Översyn av gymnasielagen</note>
-        <note xml:id="i-8Ku8CzLPYspKALr7xLe487" type="speaker">Anf. 92 ELISABETH BJÖRNSDOTTER RAHM (M)</note>
-        <note xml:id="i-jA9DJevHdy9g72zYBULCC" type="speaker">Anf. 93 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-7GC8pDycHkkcQ3fNBAboDb">Regeringens bostadspolitik</note>
-        <note xml:id="i-5K6j6ne87jXW94EjhG6vtz" type="speaker">Anf. 94 JOAKIM JÄRREBRING (S)</note>
-        <note xml:id="i-GNZCJRbcNWcf3NXA8qhBiC" type="speaker">Anf. 95 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-73QNuXFDjAGipdXtimxHui">Osund priskonkurrens mellan offentliga och privata bolag</note>
-        <note xml:id="i-2Rxskm3APzhftNofgCuqqn" type="speaker">Anf. 96 ANN-CHARLOTTE HAMMAR JOHNSSON (M)</note>
-        <note xml:id="i-SgXqgCE9K6ZZasGW32tzgx" type="speaker">Anf. 97 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-FRSBvPZ2EAK6sS5GPDTxLX">§ 10 (forts. från § 8) Äldrefrågor (forts. SoU4)</note>
-        <note xml:id="i-VUQB2Dp2ZUmZvXs8tRhT7B" type="speaker">Anf. 98 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-56oKCmkkQwezDphn7RjVxy" type="speaker">Anf. 99 SOFIA NILSSON (C)</note>
-        <note xml:id="i-N9JZnY1yCg1SEGMYdgqcHw" type="speaker">Anf. 100 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-Xj5MHWrMG1LqVkCBVdd2cd" type="speaker">Anf. 101 ANN-CHRISTINE FROM UTTERSTEDT (SD) replik</note>
-        <note xml:id="i-KYPpXnB2EGXKq1UB89EuH6" type="speaker">Anf. 102 KARIN RÅGSJÖ (V) replik</note>
-        <note xml:id="i-Ppyfsn37kfHjWZsdqv5uNm" type="speaker">Anf. 103 ANN-CHRISTINE FROM UTTERSTEDT (SD) replik</note>
-        <note xml:id="i-TXgtjSdEzugDroMgSDKjz9" type="speaker">Anf. 104 KARIN RÅGSJÖ (V) replik</note>
-        <note xml:id="i-NKwVH1cikWo1ExmvGfXqtr" type="speaker">Anf. 105 BARBRO WESTERHOLM (L)</note>
-        <note xml:id="i-3AArPxD6zzBWyDYTxwQsGn" type="speaker">Anf. 106 MATS WIKING (S)</note>
-        <note xml:id="i-Cy65HLm2MsyBrMrU4qMiau" type="speaker">Anf. 107 KARIN RÅGSJÖ (V) replik</note>
-        <note xml:id="i-UW5XFKuTpmJDBPjmHebb1Z" type="speaker">Anf. 108 MATS WIKING (S) replik</note>
-        <note xml:id="i-7wcxamswTKPynJ2VhC5V57" type="speaker">Anf. 109 KARIN RÅGSJÖ (V) replik</note>
-        <note xml:id="i-So9arQaS9aiTrvY96qhK9L" type="speaker">Anf. 110 MATS WIKING (S) replik</note>
-        <note xml:id="i-US7x25Nvd7WNzbjeAbKXd9">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-RNnCHrKcWFrdjD3LHteTvj">Ajournering</note>
-        <note xml:id="i-GLtDvWJk6kQTARUdvyEN9M">Återupptaget sammanträde</note>
-        <note xml:id="i-PoU7e5QSEozWh1KEGDTdbp">§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-P81Cx8dUKFGJLsmrVEqBXL">FiU32 Återkoppling vid rapportering om misstänkt penningtvätt och finansiering av terrorism och vissa andra frågor</note>
-        <note xml:id="i-BwWZ2cyEchoLXhUt3Cciky">JuU14 Riksrevisionens rapport om styrningen av rättskedjan</note>
-        <note xml:id="i-R2udaRw2Q96Pxxx1uPAE33">JuU18 Samarbete mellan svenska och norska särskilda insatsgrupper i krissituationer</note>
-        <note xml:id="i-9kGh1jtAdjcQByRqbqKxFW">FöU8 Vissa frågor om Försvarsmaktens personal</note>
-        <note xml:id="i-MNAz6KugBLwtynwC6jk2EA">SoU4 Äldrefrågor</note>
-        <note xml:id="i-Y9imjB9eb5nV8o8ejpRYiz">§ 12 Bordläggning</note>
-        <note xml:id="i-8hNSDhgDM4zrVEg4CUaA1u">§ 13 Anmälan om interpellationer</note>
-        <note xml:id="i-D9gQPjDov5dwCTDvtiovLu">§ 14 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-6sp59NZ9CPNo1QKqyJW9H1">§ 15 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-DVvuqUKuLrE1THzB7aCErT">§ 16 Kammaren åtskildes kl. 16.12.</head>
-        <note xml:id="i-L6ryMsWxf2Pdnz2E69g88t">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

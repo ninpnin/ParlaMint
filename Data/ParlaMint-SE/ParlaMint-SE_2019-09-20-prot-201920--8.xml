@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 8 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 8 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--8">2019/20--8</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4TrArGyFzKRruMkSczr6to">§ 1 Anmälan om ny riksdagsledamot</head>
         <note xml:id="i-C2EZ9CCnckbdpQt7nMScYt">Följande berättelse hade kommit in från Valprövningsnämnden:</note>
         <note xml:id="i-S2c3WmvZLuddHKx5WQVJFU">Berättelse om granskning av bevis för ny ledamot av riksdagen</note>
@@ -85,23 +86,23 @@
         <note xml:id="i-6it17hRKBtnzjCd1WdBaFP">ordförande / Sofia Ekstrand</note>
         <note xml:id="i-YQFUhQ4Jh74oVaUyxPpgag">sekreterare</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JH7yV2gM4766XZ6VP9tXz">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-GKfuEkp1FkhZ8vrpusLWLT">T almannen meddelade att Moderater nas riksdagsgrupp anmält Alexandra Anstrell som suppleant i utrikesutskottet .</note>
         <note xml:id="i-DoBHzgU31BibQKVZQ3qRRQ">T almannen förklarade vald till</note>
         <note xml:id="i-K6jmQRHT5gZsH7NUQmMkJa">suppleant i utrikesutskottet</note>
         <note xml:id="i-F1sFsBfsVPraPqfZsaVEnL">Alexandra Anstrell (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4i6QyHuUguoP3bP7RjvofE">§ 3 Meddelande om namnändring</head>
         <note xml:id="i-HYHPAWXE5pCtWJ1BAP2K2L">Talmannen meddelade att Sara Seppälä (SD) ändrat namn till Sara Gille .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-9KDXoCBPuRJtHEyWbHSdMM">§ 4 Anmälan om faktapromemoria</head>
         <note xml:id="i-6PyMojfyPueJ5MHS2Apf9g">Talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-HEpdXfSokbg7KtMYdxFPQP">2019/20:FPM2 Ändring av Europeiska fonden för justering för globaliseringseffekter (2014–2020) med anledning av brexit COM(2019) 397 till arbetsmarknadsutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-8qwGYH7i7NVWVGuP2u4p6y">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-3L9jBUuwc1mACVW7x2mzXi">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-cZdiGXs37HmBXk9u9WmN6">Motioner</note>
@@ -408,7 +409,7 @@
         </u>
         <note xml:id="i-R77pAxjDHuqCS9hza68sZh">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-R2QNBBz4wtjCHopZHBjRFJ">§ 10 Bordläggning</head>
         <note xml:id="i-27XtVA7JUin14AjCuAMEuE">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-NfjWzM5p6nXWHhWeZmpbEW">Motioner</note>
@@ -428,7 +429,7 @@
         <note xml:id="i-7tm4jKS6WenxKy7BUkLn2p">2019/20:54 av Camilla Brodin m.fl. (KD)</note>
         <note xml:id="i-E2hJrwqqhRsvDC886h9qhx">2019/20:55 av Lars Hjälmered m.fl. (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WUyhnKuNDQbhGSHkNZDnWz">§ 11 Anmälan om interpellationer</head>
         <note xml:id="i-53ivQ4FBfjKUyjVb2adSU5">Följande interpellationer hade framställts:</note>
         <note xml:id="i-8NMfzwJoT1YJwPEJMK9okZ">den 19 september</note>
@@ -439,7 +440,7 @@
         <note xml:id="i-HdPT2bv7qh2dkPDKPhyvEN">av Kjell-Arne Ottosson (KD)</note>
         <note xml:id="i-SHjxDTAEnvh2nBh4FtzaS6">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5U6NecjtcpekEZUYTjExtw">§ 12 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-D9b8teL8F5HndWqhy9pdp3">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-GkirwVQqKawUMZwmSoCcff">den 19 september</note>
@@ -456,7 +457,7 @@
         <note xml:id="i-MJo22VFB7JEqN4bHLCnEoQ">av Margareta Cederfelt (M)</note>
         <note xml:id="i-XbQ9vfag4pWBpVQjTcWoU">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-2CknU9DgijkoKmFV3dqRRy">§ 13 Anmälan om skriftligt svar på fråga</head>
         <note xml:id="i-Tz2Kjorh55Y6briF5htQkq">Skriftligt svar på följande fråga hade kommit in:</note>
         <note xml:id="i-Aa76UnWoFKwreKR1DAoTeZ">den 19 september</note>
@@ -464,56 +465,11 @@
         <note xml:id="i-CKoSztc5NGxLFvXFRsTY2G">av Ann-Sofie Alm (M)</note>
         <note xml:id="i-FodJJgbGRarkHYzFCB526j">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YCPEGGjQ5bXxGz5Lvnv1Xv">§ 14 Kammaren åtskildes kl. 10.25.</head>
         <note xml:id="i-RRgyJdEPP3EpKLeV3dVAnQ">Sammanträdet leddes av talmannen.</note>
         <note xml:id="i-LZA775k5Q47HJCdd5fkhm2">Vid protokollet</note>
         <note xml:id="i-4csXgDjVCCAfV1g2QHX1fS">TUULA ZETTERMAN</note>
-        <note xml:id="i-WWUBxHgXgRsaTfte1ZmEnH">/Olof Pilo</note>
-        <note xml:id="i-W49k7sTctg9nrJuCEBSdD5">Innehållsförteckning</note>
-        <note xml:id="i-JBV3Ck5c8hrc5Wa9DD5F5f">§ 1 Anmälan om ny riksdagsledamot</note>
-        <note xml:id="i-W8A9iMiK4HoKgBLgRAqqX3">§ 2 Anmälan om kompletteringsval</note>
-        <note xml:id="i-QGoVFt1eYPRoiBUzShyYjw">§ 3 Meddelande om namnändring</note>
-        <note xml:id="i-PEp8FiEciH541dkdSNQoP9">§ 4 Anmälan om faktapromemoria</note>
-        <note xml:id="i-6Hc8fjY7vvLno1b63riB3j">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-KUen8R36U6bASg2VKWjxew">§ 6 Svar på interpellation 2018/19:309 om diplomatiska garantier</note>
-        <note xml:id="i-5uPnPkH4xbtBhhEGzhsTTn" type="speaker">Anf. 1 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-5QPPd2mbCt5VLX1pZsWEhU" type="speaker">Anf. 2 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-JNqTWp3aBrA3FWEjABVNyR" type="speaker">Anf. 3 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-NpEwvGigNpMVRGECdmZEMP" type="speaker">Anf. 4 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-5974qQUr741h3zhKFWHqys" type="speaker">Anf. 5 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-CdRjwDghhQgJbf9gcUQKnc" type="speaker">Anf. 6 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-NGnh56SCWwLJhL6iaUcngR" type="speaker">Anf. 7 Statsrådet MIKAEL DAMBERG (S)</note>
-        <note xml:id="i-5pHeaxTZgxnMibhfRKDyxi">§ 7 Svar på interpellation 2018/19:308 om lagstiftningen kring könsdysfori</note>
-        <note xml:id="i-TSjQwCP7BhQi3s7TNvqFyC" type="speaker">Anf. 8 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-E3pREUKu1XJ3z27HD8SxNe" type="speaker">Anf. 9 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-8wnRzY1Mhi51XiJwfHervQ" type="speaker">Anf. 10 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-3nhNGKaM2KWX9H7rTa1jku" type="speaker">Anf. 11 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-EESMNRx9Ea73A5JGJGfxMo" type="speaker">Anf. 12 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-2f2Nvx9z62pkHJFEYgsYHx" type="speaker">Anf. 13 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-CjAWRFQk3Vx2UbfCDfcFnY" type="speaker">Anf. 14 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-MjmDLQL9eKFqbN5CM1p8yu">§ 8 Svar på interpellation 2018/19:319 om statens stöd till trossamfund</note>
-        <note xml:id="i-XZMNsGV3ZBpJ7upWPX6yXH" type="speaker">Anf. 15 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-EBRqhKcn41ndDzeeHgVMAM" type="speaker">Anf. 16 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-H1Au2Yi6DQe73aKiJLthMM" type="speaker">Anf. 17 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-7JiK4nn6DAsHcpDgjpFCw6" type="speaker">Anf. 18 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-7EQ2xN9Wr4XHaJUrusZ6AV" type="speaker">Anf. 19 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-EN7NzYdRf4sjtyFDoswnBS" type="speaker">Anf. 20 CHRISTER NYLANDER (L)</note>
-        <note xml:id="i-TosWhDacCSuAfmwYVHXMFs" type="speaker">Anf. 21 Kultur- och demokratiminister AMANDA LIND (MP)</note>
-        <note xml:id="i-CcdVVHZWWMeDZCNBxvwc61">§ 9 Svar på interpellation 2018/19:313 om handelsavtalet med Mercosur</note>
-        <note xml:id="i-8pGq3HbPuCWttxAK33XBcv" type="speaker">Anf. 22 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-EF9nA2nqyDVbK62UJRy2BT" type="speaker">Anf. 23 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-PRVhQX8iqXJm6vAPEcwYuq" type="speaker">Anf. 24 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-LwUKkW35NYi1qngTRWq4cX" type="speaker">Anf. 25 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-PNGjfzxNdUGTRbvRXh1b5F" type="speaker">Anf. 26 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-5vCJzfpdwFA3wYWJG3GL1R" type="speaker">Anf. 27 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-SQj8Av7a7giwETShxPyc1b" type="speaker">Anf. 28 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-Y7fcHpwLjP1S9GdBTPZTDZ">§ 10 Bordläggning</note>
-        <note xml:id="i-8Dkzdbkkf3Wowvxn38qCe7">§ 11 Anmälan om interpellationer</note>
-        <note xml:id="i-3mRjvFCsooLKvn3cS4vMuu">§ 12 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-9T48SJJa287bujAWv8h37p">§ 13 Anmälan om skriftligt svar på fråga</note>
-        <note xml:id="i-3cFg5zeaHWWefg5vYCgvGZ">§ 14 Kammaren åtskildes kl. 10.25.</note>
-        <note xml:id="i-8nCF6jYNsFQMEBJrqGvFvu">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

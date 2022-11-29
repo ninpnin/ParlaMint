@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 130 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 130 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--130">2019/20--130</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,24 +75,24 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XDedfwj5ePjZ1yzMvkbM2s">§ 1 Justering av protokoll</head>
         <note xml:id="i-MUHGYPrQ5SdFFnCgf74iHk">Protokollet för den 12 maj justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CUn9nrm2kfH7bZnK6McQcQ">§ 2 Anmälan om subsidiaritetsprövningar</head>
         <note xml:id="i-EpSs6YVo756QrSdxpSZQv1">Andre vice talmannen anmälde att utdrag ur följande protokoll i ärenden om subsidiaritetsprövning av EU-förslag hade kommit in:</note>
         <note xml:id="i-FF5isRqGqtDYhj4voF1V3k">prot. 2019/20:37 för torsdagen den 14 maj från trafikutskottet och</note>
         <note xml:id="i-MJJGtnzFvSZty2QSZib7P7">prot. 2019/20:52 för tisdagen den 19 maj från finansutskottet.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MZydxdgkXeX2z6sFxjkN7H">§ 3 Ärende för hänvisning till utskott</head>
         <note xml:id="i-CuadDqxxmYfyeNS2nYHaUj">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Ci8Cb8VNJ9MwCek4F4EqPK">EU-dokument</note>
         <note xml:id="i-UDZqsKAvB5XrwdymoQHjWq">COM(2020) 445 till finansutskottet</note>
         <note xml:id="i-EgcTB8UinAqK5FzUndEtxL">Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 24 juli .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DPABnM7eBHfA8Jn6cb9hz1">§ 4 Ärenden för bordläggning</head>
         <note xml:id="i-P6z69tYbNLKaN94Yfw3aBF">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-8G7EAE6yKKNxtUeuHemEiV">Utbildningsutskottets utlåtande och betänkanden</note>
@@ -269,7 +270,7 @@
         <note xml:id="i-4k2csowdWNaZeih9BuE8d7">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-JMB3eLjPWq5686ophiCuko">(Beslut skulle fattas den 3 juni.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GHtVc8aA7xMfrQcpbKDNwC">§ 6 Covid-19 och ändringar i smittskyddslagen</head>
         <note xml:id="i-RiqVCz9FJASLeJD1nyNP9N">Socialutskottets betänkande 2019/20:SoU19</note>
         <note xml:id="i-F1coB5Nhic7a2iwYdyDxo">Covid-19 och ändringar i smittskyddslagen (prop. 2019/20:144)</note>
@@ -539,7 +540,7 @@
         </u>
         <note xml:id="i-PAqXqpikjatvJgG36Y7Fi">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BDcSMpGKXz1efJFeEMRsYs">§ 10 Bordläggning och beslut om förlängd motionstid</head>
         <note xml:id="i-RiovR3Qum7YFxnJCsWCUg2">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-SLgQqjCUPXxBM6A6g4y8sq">Skrivelse</note>
@@ -548,7 +549,7 @@
         <note xml:id="i-Sy63fLf59a72TQyU1axL1L">Finansutskottets betänkande</note>
         <note xml:id="i-BtHuCAmouCKFKL3HDYVBDR">2019/20:FiU60 Extra ändringsbudget för 2020 – Stöd till hälso- och sjukvården, utbildningsinsatser och andra åtgärder med anledning av coronaviruset</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MrZrGoX4V9EDVo2LhxRT4U">§ 11 Anmälan om interpellation</head>
         <note xml:id="i-TppAiidfxBVNYWAWRjGnek">Följande interpellation hade framställts:</note>
         <note xml:id="i-KESTRpLHdUXnYrN3k1FJo">den 1 juni</note>
@@ -556,7 +557,7 @@
         <note xml:id="i-U4djGXsXRunpyZw6oSUKkn">av Jonas Andersson i Linköping (SD)</note>
         <note xml:id="i-AYEpyvFAB9sWyUhmKMAEXR">till kultur- och demokratiminister Amanda Lind (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6daJtKApDhwKiGM3GYdMV3">§ 12 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-L7YksU44WCCZWfrhTTJQpb">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-AgjW9ge3Xf23j1SEX5zRwS">den 1 juni</note>
@@ -591,73 +592,11 @@
         <note xml:id="i-9aS6zDwH8q9WsUNNoJZ4Vd">av Hans Rothenberg (M)</note>
         <note xml:id="i-P46KyPjoR3t4xcTDyfFAmn">till näringsminister Ibrahim Baylan (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Vw8qou5WnWQF77dd8anjoH">§ 13 Kammaren åtskildes kl. 14.59.</head>
         <note xml:id="i-CjGvWEXMNsK43rixGDHhiE">Sammanträdet leddes av andre vice talmannen .</note>
         <note xml:id="i-B96ejS9FyAA5ERyj9xTMcT">Vid protokollet</note>
         <note xml:id="i-VLwBaTJ8JuFTHG7bd2zwuW">EMMA PAAKKINEN</note>
-        <note xml:id="i-QXd8PWe9E8LVuhPPiKtpk4">/ Olof Pilo</note>
-        <note xml:id="i-3hXJwk57KhViYKafDMLao9">Innehållsförteckning</note>
-        <note xml:id="i-9nSwHYmnjw4UYtUjVqYn4G">§ 1 Justering av protokoll</note>
-        <note xml:id="i-SwvUFiEp6Xbke8fKzV8mCS">§ 2 Anmälan om subsidiaritetsprövningar</note>
-        <note xml:id="i-NHtEAuut2enR9Q35YDQ3Gx">§ 3 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-D4ZL1YNaWo5WPSiQ8W89yk">§ 4 Ärenden för bordläggning</note>
-        <note xml:id="i-GT9nEAHMK1iHjicgPA34b4">§ 5 Personlig assistans för samtliga hjälpmoment som avser andning och måltider i form av sondmatning</note>
-        <note xml:id="i-SVeTQPBvMzTdgRMUC1bRS8">Socialutskottets betänkande 2019/20:SoU16</note>
-        <note xml:id="i-KvCVgBMzA2ug4R4FR7xwYi" type="speaker">Anf. 1 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-CAsBH7WvE9k33wmpsHxA2Y" type="speaker">Anf. 2 MAJ KARLSSON (V)</note>
-        <note xml:id="i-SMDE8xktQKgjXouX9h4H3e" type="speaker">Anf. 3 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-GySWV6KSH6SRY8riagBsGk" type="speaker">Anf. 4 KRISTINA NILSSON (S)</note>
-        <note xml:id="i-59J6hxNL5TRdTFHsgJ8Ruu" type="speaker">Anf. 5 PIA STEENSLAND (KD) replik</note>
-        <note xml:id="i-5nKpMMTE4oj2qn21P5ahEe" type="speaker">Anf. 6 KRISTINA NILSSON (S) replik</note>
-        <note xml:id="i-7FQavpCEBJRypRDP9ZQZH9" type="speaker">Anf. 7 PIA STEENSLAND (KD) replik</note>
-        <note xml:id="i-2hDxVxNkStaAFi5wPExGgG" type="speaker">Anf. 8 KRISTINA NILSSON (S) replik</note>
-        <note xml:id="i-UsFMEDb6S5wJsvjg12Swyv" type="speaker">Anf. 9 MAJ KARLSSON (V) replik</note>
-        <note xml:id="i-SrYGHNPvkaxQxpkGRqffxV" type="speaker">Anf. 10 KRISTINA NILSSON (S) replik</note>
-        <note xml:id="i-U7ttQkGWSrvenK7gqjwhXx" type="speaker">Anf. 11 MAJ KARLSSON (V) replik</note>
-        <note xml:id="i-9ToEoheoFRhiyRrr9GYmG9" type="speaker">Anf. 12 KRISTINA NILSSON (S) replik</note>
-        <note xml:id="i-B7XAZpCYyprqMqrBjxim34" type="speaker">Anf. 13 JOHAN HULTBERG (M)</note>
-        <note xml:id="i-FTuQAUww9nPvh6LybikSCA" type="speaker">Anf. 14 SOFIA NILSSON (C)</note>
-        <note xml:id="i-YNRSqYS7vVFm4h9pfcp2Xt">(Beslut skulle fattas den 3 juni.)</note>
-        <note xml:id="i-MhtkN4eJbuUWa7kuh7eHRx">§ 6 Covid-19 och ändringar i smittskyddslagen</note>
-        <note xml:id="i-Bpe21gM6mtA9gpn7Uo33en">Socialutskottets betänkande 2019/20:SoU19</note>
-        <note xml:id="i-PVzP4JSNerL7gfYi8gRCtv">(Beslut skulle fattas den 3 juni.)</note>
-        <note xml:id="i-32ypLxLkVkkaMqHGTHxmpW">§ 7 Vistelsekommuners ansvar för socialtjänstinsatser</note>
-        <note xml:id="i-HzAmbXxp2edk9HEjPjdfHm">Socialutskottets betänkande 2019/20:SoU24</note>
-        <note xml:id="i-NGz3friuXURQHxvCEkwugQ" type="speaker">Anf. 15 KRISTINA NILSSON (S)</note>
-        <note xml:id="i-7UvpY2z1DxapkiGDSdTk6N" type="speaker">Anf. 16 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-YE5pKQuhE11uoCMqvxJyNs" type="speaker">Anf. 17 LINA NORDQUIST (L)</note>
-        <note xml:id="i-776CdaTyxSFeWwsWdsj3f1" type="speaker">Anf. 18 ACKO ANKARBERG JOHANSSON (KD)</note>
-        <note xml:id="i-SsLpcGukv1xN9PqJvEaxtf" type="speaker">Anf. 19 CAMILLA WALTERSSON GRÖNVALL (M)</note>
-        <note xml:id="i-G4NdyeUExQd1zrzf6Ga8pQ" type="speaker">Anf. 20 KRISTINA NILSSON (S) replik</note>
-        <note xml:id="i-AQPxsMruHCSbLg1fPbnEvj" type="speaker">Anf. 21 CAMILLA WALTERSSON GRÖNVALL (M) replik</note>
-        <note xml:id="i-DD3ATWiqNXZSsKEMY7xfrM" type="speaker">Anf. 22 KRISTINA NILSSON (S) replik</note>
-        <note xml:id="i-M4VReTdois6FY3qwqS83Cf" type="speaker">Anf. 23 CAMILLA WALTERSSON GRÖNVALL (M) replik</note>
-        <note xml:id="i-8Z9dkv2pbSa615m93a4jgj" type="speaker">Anf. 24 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-TDKBZbShp4dCHNuokFMKwH" type="speaker">Anf. 25 SOFIA NILSSON (C)</note>
-        <note xml:id="i-PhLH8t6tp5GkHzxUeiUUtC" type="speaker">Anf. 26 LINA NORDQUIST (L) replik</note>
-        <note xml:id="i-Q4HAqs9k3piGCD9LPuk2v7" type="speaker">Anf. 27 SOFIA NILSSON (C) replik</note>
-        <note xml:id="i-MJk4rCpdEaRD1cbiyX4eYY" type="speaker">Anf. 28 LINA NORDQUIST (L) replik</note>
-        <note xml:id="i-RRrRLPYXxhKztatbt8eWaf" type="speaker">Anf. 29 SOFIA NILSSON (C) replik</note>
-        <note xml:id="i-5UZy2gLpoKxnziLhfid8mq">(Beslut skulle fattas den 3 juni.)</note>
-        <note xml:id="i-UrCJvYehxqp946BFd9yNLM">§ 8 Genomförande av EU:s direktiv om automatiskt utbyte av upplysningar som rör rapporteringspliktiga gränsöverskridande arrangemang</note>
-        <note xml:id="i-7rB5oeQ1FTHNRWzNENRHnn">Skatteutskottets betänkande 2019/20:SkU14</note>
-        <note xml:id="i-PVz6yjGJUXstMJNuE2LreS" type="speaker">Anf. 30 KARIN RÅGSJÖ (V)</note>
-        <note xml:id="i-3zesG3THHEx2tbupuu81qJ" type="speaker">Anf. 31 KRISTINA NILSSON (S)</note>
-        <note xml:id="i-6gr29sSZepe1JdzpSpE4hB">(Beslut skulle fattas den 3 juni.)</note>
-        <note xml:id="i-H1FRUgDocxuyBekTx27HUB">§ 9 Svar på interpellation 2019/20:401 om den striktare bedömningen av grundläggande behov</note>
-        <note xml:id="i-DZCmDtwbCPSxVpPM1dEB7A" type="speaker">Anf. 32 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-FcR17cy5M6uFVZKGpjq3es" type="speaker">Anf. 33 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-QSM5rWS5votRwv9PS9M2B" type="speaker">Anf. 34 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-WpTQKR3PFbNStyPY9XY9s5" type="speaker">Anf. 35 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-RrUPPPNeiwDWD8n7HfakGR" type="speaker">Anf. 36 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-QMCYuuMxVRA4DYy1kwoh8M" type="speaker">Anf. 37 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-C2PeFpCgs3jhxn2KqF2WJM" type="speaker">Anf. 38 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-ReprvnyGAgY6xwej7gtVzS">§ 10 Bordläggning och beslut om förlängd motionstid</note>
-        <note xml:id="i-E7AavKedGs7apFt8DC4CPD">§ 11 Anmälan om interpellation</note>
-        <note xml:id="i-Ekc24xa6iMaSQ9fkPu86yU">§ 12 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-7S49fZgS3xJhZjwzHrRkmm">§ 13 Kammaren åtskildes kl. 14.59.</note>
-        <note xml:id="i-PTnj3WCdY4grChWkCWTZvK">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

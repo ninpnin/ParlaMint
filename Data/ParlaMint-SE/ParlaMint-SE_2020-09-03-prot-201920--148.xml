@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 148 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 148 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--148">2019/20--148</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,13 +75,13 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XvDBqNLVmDtUJhZygPkMFt">§ 1 Anmälan om återtagande av plats i riksdagen</head>
         <note xml:id="i-YFi7Gjo14vYk9ZX9zVPkfn">Tredje v ice talmannen m eddelade</note>
         <note xml:id="i-M8EB8QeYVCY8yG1oZZLeWd">att M ichael Anefur ( KD) återta git s in plats i riksdagen från och m ed den 31 augusti , v arigenom uppdraget s om ersättare upphört för Cecilia Engström (KD) och</note>
         <note xml:id="i-MPsi1w4qiQBhBmuHYwoSxa">a tt Annie Lööf ( C ) återta git s in plats i riksdagen från och med den 1 september, v arigenom uppdraget s om ersättare upphört för Göran Lindell ( C).</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Hi2z5igKEh6vTainzSSM9u">§ 2 Avsägelser</head>
         <note xml:id="i-N8BvLJxmcK6eiT2phafXtK">Tredje vice talmannen meddelade att följande ledamöter avsagt sig uppdraget som suppleant i utskott:</note>
         <note xml:id="i-2M1pxZszBDcCrfzVL47yxe">k onstitutionsutskottet</note>
@@ -953,7 +954,7 @@
         <note xml:id="i-LED46nmRvwdmPqKt4fiocR">att Anders W Jonsson ( C ) avsagt s ig uppdrage t s om ledamot i utrikesnämnden.</note>
         <note xml:id="i-6Qk7ee3eFvX3JTtAyNcmPf">Kammaren biföll dessa avsägelser.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-T9ZJJa8BNKD4QTuqxkeJQ4">§ 3 Anmälan om kompletteringsval</head>
         <note xml:id="i-SFRkwBm2yyVhXGLgQ7Xm8U">Tredje vice talmannen meddelade</note>
         <note xml:id="i-EgejgqqEpwG6WEuJHttTgq">att Socialdemokraternas riksdagsgrupp anmält Anna-Caren Sätherberg som ledamot i näringsutskottet, Lena Emilsson som suppleant i finansutskottet, i skatteutskottet, i justitieutskottet, i civilutskottet, i socialförsäkringsutskottet, i socialutskottet, i kulturutskottet, i utbildningsutskottet, i trafikutskottet, i miljö- och jordbruksutskottet, i näringsutskottet, i arbetsmarknadsutskottet och i EU-nämnden, Inga-Lill Sjöblom som suppleant i finansutskottet, i skatteutskottet, i justitieutskottet, i civilutskottet, i socialförsäkringsutskottet, i socialutskottet, i kulturutskottet, i utbildnings ­ utskottet, i trafikutskottet, i miljö- och jordbruksutskottet, i näringsutskottet, i arbetsmarknadsutskottet och i EU-nämnden och Nermina Mizimovic som suppleant i finansutskottet, i skatteutskottet, i justitieutskottet, i civilutskottet, i socialförsäkringsutskottet, i socialutskottet, i kulturutskottet, i utbildningsutskottet, i trafikutskottet, i miljö- och jordbruksutskottet, i näringsutskottet, i arbetsmarknadsutskottet och i EU-nämnden samt</note>
@@ -1032,7 +1033,7 @@
         <note xml:id="i-T5TbMBugiNstaDdQkA4ujA">suppleant i EU-nämnden</note>
         <note xml:id="i-DPFiZM4Subj7Arpv7KAkD5">Nermina Mizimovic (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6nhER3eWAcq1DRiEabUZqJ">§ 4 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-5MyezN5dsrFJs34SpyA5Mk">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-S2gry17FjA32Ye5tXxFsYF">Interpellation 2019/20:444</note>
@@ -1096,7 +1097,7 @@
         <note xml:id="i-NTXK9rakepGqvehDuEhZWA">Lena Nordström</note>
         <note xml:id="i-AovwKUC5WpRuhDrH1QBe2w">Tf. expeditionschef</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GKK1WFTszvo7VPeqNfNgxV">§ 5 Anmälan om faktapromemorior</head>
         <note xml:id="i-6WT7ThcMATTXGeG2a6LHcR">Tredje vice talmannen anmäl de att följande faktapromemori or om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-73WQUSkAnGxrcCZGWEmknq">2019/20:FPM62 Förberedelser inför att övergångsperioden efter Storbritanniens utträde ur EU löper ut C OM(2020) 324 till utrikesutskottet</note>
@@ -1105,12 +1106,12 @@
         <note xml:id="i-EtMo2YJkJxZnRnPNguC4oh">2019/20:FPM65 Handlingsplan för rättvis och enkel beskattning C OM(2020) 312 till skatteutskottet</note>
         <note xml:id="i-LE7QxyaFMRzVJb8AcAaYug">2019/20:FPM66 Ändringsdirektiv om administrativt samarbete i fråga om beskattning C OM(2020) 314 till skatteutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-JXVE9krM9Buy8NMSo8M2xK">§ 6 Anmälan om granskningsrapport</head>
         <note xml:id="i-6tQNMx5vykwB1EvHv4oKX2">Tredje vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till justitieutskottet:</note>
         <note xml:id="i-Y9jiv2VPDds7aZdSvdQqT7">RiR 2020:16 Effektiviteten vid Kriminalvårdens anstalter</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LS1bKvvvYauLHVRTapoXkA">§ 7 Ärenden för bordläggning</head>
         <note xml:id="i-YL6XLCbX6bPV21ovNuqiZQ">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-JXVr5hHK8wnHUXzVtTwqdE">Konstitutionsutskottets betänkande</note>
@@ -1440,7 +1441,7 @@
         </u>
         <note xml:id="i-ES17THg5JaizUyvqExEPJT">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DaQYHetc3T1cYEf4ZrrsfA">§ 12 Bordläggning och beslut om förlängd motionstid</head>
         <note xml:id="i-H69dAGBXDtD5SgupV3twax">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-6ceeqtS2nbhaFDjLwcgxXY">Proposition er</note>
@@ -1452,7 +1453,7 @@
         <note xml:id="i-4ExStVZGfbQFqgDEqjWD9q">2019/20:RB6 Medgivande för Riksbanken att ge kredit till IMF</note>
         <note xml:id="i-QnHmn81u9mrpKxMajh6mDa">Kammaren biföll talmannens förslag att motionstiden för ovanstående proposition er och framställning skulle förlängas till och med onsdagen den 23 september .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PfJqEaEfz8CkSNad9kNhbZ">§ 13 Anmälan om interpellationer</head>
         <note xml:id="i-UintKEF27kGrmfXhmmJynK">Följande interpellationer hade framställts:</note>
         <note xml:id="i-KqV2GAkXyoGsLmcKx2ATSy">den 27 augusti</note>
@@ -1507,7 +1508,7 @@
         <note xml:id="i-HaAdZsCfBTERvDgx73QUbX">av Amineh Kakabaveh (-)</note>
         <note xml:id="i-FURBVbKT8teM1yHoYWMPBi">till utbildningsminister Anna Ekström (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3cvWSLb96tjVtpt7NxVv9K">§ 14 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-U3UcnmHhKa179RCqP386iG">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-7vDsJUM1Be77MGbHoHAX9J">den 27 augusti</note>
@@ -1697,7 +1698,7 @@
         <note xml:id="i-2s1EocxN9Ub64UcS8iE6Ka">av Björn Söder (SD)</note>
         <note xml:id="i-QDiLQ3d3HLrK5W3zzn8Zgx">till statsrådet Mikael Damberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GwEew4UkTYsZnY4UcwYSq4">§ 15 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-3cHpiD3TxHqCbBysU6PZ86">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-LR8hD2M3zT416BLaB9BTrv">den 26 augusti</note>
@@ -1802,60 +1803,11 @@
         <note xml:id="i-7PXkV1vFjpf8eSHWh48AZE">av Alexandra Anstrell (M)</note>
         <note xml:id="i-WpzZZfD3oTKTkDDU7693aN">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-GHEb1XcL4bLdN5ZCQpYXqn">§ 16 Kammaren åtskildes kl. 13.41.</head>
         <note xml:id="i-MBWCtrWANGQM4WLPxMTSpT">Sammanträdet leddes av tredje vice talmannen .</note>
         <note xml:id="i-WWNkVVorhkWrXgQKM6UPdS">Vid protokollet</note>
         <note xml:id="i-Gmffeii6b86QR7j7GdYmjf">ANN LARSSON</note>
-        <note xml:id="i-SR8KuyKdMPgPqXydYSB8N9">/Olof Pilo</note>
-        <note xml:id="i-6Ark9riu9pjDbockfceCyf">Innehållsförteckning</note>
-        <note xml:id="i-LsdX7Z98kKH3vTHhUqSdmb">§ 1 Anmälan om återtagande av plats i riksdagen</note>
-        <note xml:id="i-SMWfVhXy8pUhvhXfXCY4dg">§ 2 Avsägelser</note>
-        <note xml:id="i-4XrmYpfb6KFgFjAWE34AEr">§ 3 Anmälan om kompletteringsval</note>
-        <note xml:id="i-JTrv9kFc5VJeUn3s8YSFWM">§ 4 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-3bBRHtES1LCGuTqeNszKYh">§ 5 Anmälan om faktapromemorior</note>
-        <note xml:id="i-utyy74n5ysh87VyeyXzcW">§ 6 Anmälan om granskningsrapport</note>
-        <note xml:id="i-BS9qTHGoToFvJeBuNoi1FU">§ 7 Ärenden för bordläggning</note>
-        <note xml:id="i-KcNLHx3hKKnh1ckhmZFL6p">§ 8 Svar på interpellation 2019/20:452 om fastighetsskatten</note>
-        <note xml:id="i-HPVZQQiwYt7gGVxXPzsJCU" type="speaker">Anf. 1 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-9rJhB2UxQwDmrTwsu8d7UK" type="speaker">Anf. 2 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-B4kVM5bNyDsKRFoyoch1Bp" type="speaker">Anf. 3 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-B9WonivvCRtpca9mVf29ss" type="speaker">Anf. 4 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-2btu8bsJPtYZeuwCtnWBNK" type="speaker">Anf. 5 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-BogAHoeBwoxPP7ZDT6tf7W" type="speaker">Anf. 6 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-QkVFRgfATH2ZPAv5u2YBCn" type="speaker">Anf. 7 Finansminister MAGDALENA ANDERSSON (S)</note>
-        <note xml:id="i-GWRUKo1bcyogmdhtoG63Up">§ 9 Svar på interpellation 2019/20:443 om hållbara investeringar</note>
-        <note xml:id="i-YVfXn5fxxmf2fkscHKiTB2" type="speaker">Anf. 8 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-VDiCuLpcw45zsEQu6tWTj3" type="speaker">Anf. 9 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-ATG5XaTLXraq6nJSeG4eC8" type="speaker">Anf. 10 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-WwEi2J1H82739MN3t51V34" type="speaker">Anf. 11 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-Gc9ZxDYoXSkmcccpvuZMtP" type="speaker">Anf. 12 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-8pcdBUcWDoigfLXJJUAwex" type="speaker">Anf. 13 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-VcbnTd2St8zo8aay1Eiasm" type="speaker">Anf. 14 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-8j5a2E4Ls1bEjf2RKTqoVs">§ 10 Svar på interpellation 2019/20:434 om bistånd till den palestinska myndigheten</note>
-        <note xml:id="i-151jHe5u7NKXubGCDb4R1P" type="speaker">Anf. 15 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-TLPANAumybeqE6NVxyj5YK" type="speaker">Anf. 16 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-AW88wUtSp4CA58N711V4sW" type="speaker">Anf. 17 MAGNUS OSCARSSON (KD)</note>
-        <note xml:id="i-UrXUBpyhPQ1GgeQYg7SMtB" type="speaker">Anf. 18 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-W14yTjUDsEtRTLVtSgJNdA" type="speaker">Anf. 19 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-AktgvaA991P2xtrvgiLUcy" type="speaker">Anf. 20 MAGNUS OSCARSSON (KD)</note>
-        <note xml:id="i-GLpwWE7t3CrbEkenpkUhta" type="speaker">Anf. 21 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-98eLcERmC36ZVsoJ3my1nv" type="speaker">Anf. 22 MIKAEL OSCARSSON (KD)</note>
-        <note xml:id="i-Qu7M1aasp3NuCxtxC6WJgU" type="speaker">Anf. 23 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-BnHt7o8ZuPJeADMMVzABZW">§ 11 Svar på interpellation 2019/20:445 om nordiskt samarbete under coronapandemin</note>
-        <note xml:id="i-2Vgp8JoQmwDNKxoDpBa6Ma" type="speaker">Anf. 24 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-ByDGU7mi22qFNRc73BsBFW" type="speaker">Anf. 25 HANS WALLMARK (M)</note>
-        <note xml:id="i-R6DUTGDwHsA9hDgMLJVRc" type="speaker">Anf. 26 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-Fx8pBFMZWd8CZgRneho21k" type="speaker">Anf. 27 HANS WALLMARK (M)</note>
-        <note xml:id="i-3wvDHvJihsjxe7dh4LPJWV" type="speaker">Anf. 28 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-NKA46tL3Yja5LD5oVS8cte" type="speaker">Anf. 29 HANS WALLMARK (M)</note>
-        <note xml:id="i-ATRRpMwzPfyTUQV6VeTZJg" type="speaker">Anf. 30 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-WkbxU7Nd2GDv5T7raZ7ArM">§ 12 Bordläggning och beslut om förlängd motionstid</note>
-        <note xml:id="i-CrbY3xY4Wjv3rTVMU3sHLu">§ 13 Anmälan om interpellationer</note>
-        <note xml:id="i-HQ1E53Xdt9wp6uwJtDGWdt">§ 14 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-YPEoMFKncdD2oMZppAEqmf">§ 15 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-EQKM3DwpgMzLNTFgctt6Qm">§ 16 Kammaren åtskildes kl. 13.41.</note>
-        <note xml:id="i-7vSHruhLDMMQ3GGM822zXF">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

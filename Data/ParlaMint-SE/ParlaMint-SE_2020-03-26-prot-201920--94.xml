@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 94 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 94 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--94">2019/20--94</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,11 +75,11 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Rti6h35UgGjsUNVveuBShM">§ 1 Justering av protokoll</head>
         <note xml:id="i-DaCeKwJTYeEFE9FPiJ8DB6">Protokollet för den 5 mars justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-F8L1P2UgWD8MYNdP5vJoLH">§ 2 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-5fxPCABcp7HVFGPrc3LZEH">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-2WKv5DGNA1YuVdSkuSYt5A">Skrivelse</note>
@@ -374,7 +375,7 @@
       <div type="debateSection">
         <head xml:id="i-AB5nw1uM72367z1Ko34zR5">§ 6 Frågestund</head>
         <note type="speaker" xml:id="i-VyUtKhr9UsgmPy3CYC3DrS">Anf. 21 TREDJE VICE TALMANNEN:</note>
-        <u xml:id="i-Xzp2uoKLhx56zJWsJpvioV" who="#unknown" ana="#regular">
+        <u xml:id="i-Xzp2uoKLhx56zJWsJpvioV" ana="#regular">
           <seg xml:id="i-KinwTZ8BU1JMymzWkTx6Ce">Jag vill hälsa statsråden välkomna. Frågor besvaras i dag av näringsminister Ibrahim Baylan, statsrådet Anders Ygeman, utrikesminister Ann Linde och statsrådet Jennie Nilsson.</seg>
           <seg xml:id="i-KjSd5dXRnzPAg7nfaEauBc">En fråga ska vara av övergripande och allmänpolitiskt slag eller avse ett ämne som faller inom statsrådets ansvarsområde och rör dennes tjänste ­ utövning. Näringsminister Ibrahim Baylan besvarar såväl allmänpolitiska frågor som frågor inom sitt eget ansvarsområde.</seg>
         </u>
@@ -797,7 +798,7 @@
         <note xml:id="i-JutXU5ETgScGbGmpoZaUTP">Återupptaget sammanträde</note>
         <note xml:id="i-8f9cMk1v91MDjef3UahrHr">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BZE3mE37UH76aEe6MbXU6u">§ 7 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-HY3HdnxCj8zitDZbFV6iec">FiU53 Ändringar i statens budget för 2020 – Anstånd med inbetalning av skatt i vissa fall, med anledning av coronaviruset</note>
         <note xml:id="i-JGmCuTG6az93TqowcxASNm">Kammaren biföll utskottets förslag.</note>
@@ -925,7 +926,7 @@
         <note xml:id="i-NdMkTU1MErL9y3f2h7Gijz">Avstod: 3 KD</note>
         <note xml:id="i-RQNdWPcZv1zhiCo2cmFtj">Frånvarande: 84 S, 59 M, 52 SD, 26 C, 23 V, 19 KD, 16 L, 13 MP, 2 -</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-DCVkWDmPPTSGHBw8bF9ujh">§ 8 Bordläggning och beslut om förkortad motionstid</head>
         <note xml:id="i-VAUBqphJLc7FPc6QHYVxK1">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-GPr6tZDk9fGi7ssDU8Kzd8">Propositioner</note>
@@ -944,13 +945,13 @@
         <note xml:id="i-4Xe2JXDfxu5hiYHgLhTFfE">2019/20:3512 av Daniel Bäckström m.fl. (C)</note>
         <note xml:id="i-Wsk8hAstPuzC8qtw3s8NAw">2019/20:3517 av Caroline Nordengrip m.fl. (SD)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XZ2ViwEhyxbvqBjK8c4sY3">§ 9 Beslut om förlängd motionstid</head>
         <note xml:id="i-UR7eTADgD4zu1caC2Fxy3e">Kammaren biföll talmannens förslag att motionstiden för följande propositioner skulle förlängas till och med onsdagen den 15 april :</note>
         <note xml:id="i-GVbaeqG1mUa5BZ72o4cMnv">2019/20:129 Effektivare hantering av häktningar och minskad isolering</note>
         <note xml:id="i-NsB82iQLB3qsafekwhX914">2019/20:131 Ökat skydd mot hedersrelaterad brottslighet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YHRabXiZSQG4BghFc26SVU">§ 10 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-KkTPHKSUUKv99Dsqs6kKRo">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-7ZvhFvKYi13yKDhR6cDJCi">den 25 mars</note>
@@ -970,7 +971,7 @@
         <note xml:id="i-UYzARweTTaotnAjEXoHi7A">av Niklas Wykman (M)</note>
         <note xml:id="i-PUQUFtXTFPbT7kqRwdpC1A">till finansminister Magdalena Andersson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LfNKtDi64uM79EZqNv8bS2">§ 11 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-9ERWouznvEhYZg3P2qtjre">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-7NGm41G18WFPJ1w1Nxhgxe">den 25 mars</note>
@@ -1014,7 +1015,7 @@
         <note xml:id="i-SWcbDvjXqRJGw6FqFLhoww">av Yasmine Posio (V)</note>
         <note xml:id="i-GRRDyz3M9raX8644bmmaTq">till statsrådet Peter Eriksson (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-49YTjuJ39eiYU7vMYfsiqd">§ 12 Kammaren åtskildes kl. 16.11.</head>
         <note xml:id="i-45woYeyCkD8WEBeKKiQPc9">Sammanträdet leddes</note>
         <note xml:id="i-SAuW8TvdCYBtpHdLz92VUj">av andre vice talmannen från dess början till ajourneringen kl. 13.29,</note>
@@ -1022,147 +1023,6 @@
         <note xml:id="i-FwSMo79kfYLxccYEMReSRM">av andre vice talmannen därefter till dess slut.</note>
         <note xml:id="i-QupW6sHwhKVtzk2YziZWre">Vid protokollet</note>
         <note xml:id="i-Dm8t9Xk5AFG7tuZXX5Q3Ln">ANN LARSSON</note>
-        <note xml:id="i-2np8Ck8NnEswf6MQ32EK2F">/ Olof Pilo</note>
-        <note xml:id="i-Ua869LQSGHsx8XJAc5tJTS">Innehållsförteckning</note>
-        <note xml:id="i-Rd5LCt9Dri4M321D4swV3k">§ 1 Justering av protokoll</note>
-        <note xml:id="i-7kz3JA7uyN5ci9n8VnQzMW">§ 2 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-EuqADzkVQMJ7EeJUTn7Mvx">Ajournering</note>
-        <note xml:id="i-KDTiuJcbFgkBukSzxzyJzh">Återupptaget sammanträde</note>
-        <note xml:id="i-KeApccCjBmgSRLNcZV3LmB">§ 3 Ändringar i statens budget för 2020 – Anstånd med inbetalning av skatt i vissa fall, med anledning av coronaviruset</note>
-        <note xml:id="i-Gj559nMGnddqPZ83ZvA92W">Finansutskottets betänkande 2019/20:FiU53</note>
-        <note xml:id="i-GhVaDi1jX6JpGUcQBRhyHe" type="speaker">Anf. 1 FREDRIK OLOVSSON (S)</note>
-        <note xml:id="i-EJ8kNvxgxPjr1iCZoLKPek" type="speaker">Anf. 2 ELISABETH SVANTESSON (M)</note>
-        <note xml:id="i-TqbQreBmUwzFEnPexgwWsd" type="speaker">Anf. 3 EMIL KÄLLSTRÖM (C)</note>
-        <note xml:id="i-4vDpgHooC1jfpD2uV686j2" type="speaker">Anf. 4 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-8UFEz9LZjkEvbkAnPM3Hr5" type="speaker">Anf. 5 JAKOB FORSSMED (KD)</note>
-        <note xml:id="i-FiZdzrCPFB72sRGGP7wA8" type="speaker">Anf. 6 MATS PERSSON (L)</note>
-        <note xml:id="i-DqHe1wnDrDchhmeAoLDZCg" type="speaker">Anf. 7 KAROLINA SKOG (MP)</note>
-        <note xml:id="i-U3FeEhGsXgjmQfma4vdZxX">(Beslut fattades under § 7.)</note>
-        <note xml:id="i-HGU86rMLzqZWUn8jw3NB6u">§ 4 Företag, kapital och fastighet</note>
-        <note xml:id="i-AzQMLc8Rz9suthZ9f345CV">Skatteutskottets betänkande 2019/20:SkU21</note>
-        <note xml:id="i-S6o7Jd6W8bCdKWi6HnF7t" type="speaker">Anf. 8 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-JW8ddZfRjUo1Gh7fobrhEW" type="speaker">Anf. 9 DAVID LÅNG (SD)</note>
-        <note xml:id="i-V5N4gZMoSgLt3Aq9eE9BRd" type="speaker">Anf. 10 ALIREZA AKHONDI (C)</note>
-        <note xml:id="i-Pq8cCiSH79E3L4VxVxrt2b" type="speaker">Anf. 11 TONY HADDOU (V)</note>
-        <note xml:id="i-SG8f9opu41dSK2EeCtVF1P" type="speaker">Anf. 12 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-5fmpAHwG2ZFrQMD5kMkFNE" type="speaker">Anf. 13 SULTAN KAYHAN (S)</note>
-        <note xml:id="i-5RJEwfdDR4kzwxDB1Pect6" type="speaker">Anf. 14 JOAR FORSSELL (L)</note>
-        <note xml:id="i-YAUNZ8QMDYcG3ge6kW7eLA">(Beslut fattades under § 7.)</note>
-        <note xml:id="i-Td8AcYKQRhDv4RLsdiPKBP">§ 5 Mervärdesskatt</note>
-        <note xml:id="i-XVhNDU2yRZRa9J3QCi9kdD">Skatteutskottets betänkande 2019/20:SkU23</note>
-        <note xml:id="i-FpS3njjBZYMoErJE2rH1QV" type="speaker">Anf. 15 NIKLAS WYKMAN (M)</note>
-        <note xml:id="i-L6i9zehWf3JShSKxjtQiFK" type="speaker">Anf. 16 DAVID LÅNG (SD)</note>
-        <note xml:id="i-17XHGzYdB16cSFT96ETVS9" type="speaker">Anf. 17 ALIREZA AKHONDI (C)</note>
-        <note xml:id="i-AQJNdQsicRvos5d1GYWZRt" type="speaker">Anf. 18 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-JeZ9Yf9p5zESpw5HXJFmFf" type="speaker">Anf. 19 SULTAN KAYHAN (S)</note>
-        <note xml:id="i-TK9P7e6HTK7Fjzv3up6dbE" type="speaker">Anf. 20 JOAR FORSSELL (L)</note>
-        <note xml:id="i-KbMS4F91wMFyyyPvf38Nwg">(Beslut fattades under § 7.)</note>
-        <note xml:id="i-JahNkYUTy2hRf1tGRvJzMS">Ajournering</note>
-        <note xml:id="i-BRKoHVwtJ5A9JLEoKXiSx3">Återupptaget sammanträde</note>
-        <note xml:id="i-Bh6t8vqEThcdCpUtsJRMR6">§ 6 Frågestund</note>
-        <note xml:id="i-K7ymi3M9ufWe6DoWvQFFnk" type="speaker">Anf. 21 TREDJE VICE TALMANNEN</note>
-        <note xml:id="i-JqX7USgVg9abAy9P3LBCGV">Hjälp till svenskar som strandsatts utomlands</note>
-        <note xml:id="i-2QfasrNHyi1WrRYT6Zkpyf" type="speaker">Anf. 22 HANS WALLMARK (M)</note>
-        <note xml:id="i-ST4rx5wBRxCrYAWHFK7Yse" type="speaker">Anf. 23 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-MC2QgByPtUKVgFKBtHsjei" type="speaker">Anf. 24 HANS WALLMARK (M)</note>
-        <note xml:id="i-WBqBv6gz3FgTkj7ZueaeL2" type="speaker">Anf. 25 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-D4FYR8e6pvsDX4sy5wbBb">Direkt statligt stöd till småföretag</note>
-        <note xml:id="i-NLG6DkYyrRTWpEwMihznSm" type="speaker">Anf. 26 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-Fh7jfp2ZzXVvHsNzhwvApi" type="speaker">Anf. 27 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-Nq9AHdegH6fHVt5uMpdBuz" type="speaker">Anf. 28 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-RpzZ4eo5DkpQGKN9YFELSW" type="speaker">Anf. 29 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-4vxrNuAH6dDqRbuCySUhZr">Samhällsservice på landsbygden</note>
-        <note xml:id="i-TcTGNoXhKd1zyJ9hDB7dQZ" type="speaker">Anf. 30 RICKARD NORDIN (C)</note>
-        <note xml:id="i-Uf8xFWZafdSTmYuTveD8dd" type="speaker">Anf. 31 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-Ar2bYzRjuHPP5nGe67kkMD" type="speaker">Anf. 32 RICKARD NORDIN (C)</note>
-        <note xml:id="i-FrkDYSq2iUUUdm76whJHYr" type="speaker">Anf. 33 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-EB4VYBKCQRebu3mbBWkrZe">Auktoritära staters agerande under coronakrisen</note>
-        <note xml:id="i-3aV7XKz6v8Ggr2i9Znsd6i" type="speaker">Anf. 34 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-X7JNvdnAdLvdTSPL7eqEzQ" type="speaker">Anf. 35 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-Vxkcds6vnKRYGHFSP9CjKX" type="speaker">Anf. 36 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-7T3WgD7GCbGsmLyqYYxJx3" type="speaker">Anf. 37 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-9ePEQDBCiziq4Hqq63hCU5">Utökade permitteringsmöjligheter</note>
-        <note xml:id="i-UDZuxX7SW26X3yat3R8bTX" type="speaker">Anf. 38 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-JeeKzFaCY5HJrj4SAnvJj3" type="speaker">Anf. 39 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-PsdPgwAusAhYuZhbaN3aJw" type="speaker">Anf. 40 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-5F36zrEvRWnNMKiuyjXgby" type="speaker">Anf. 41 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-YGfboexGrh6WctJh2v36U8">Ungern och pandemins effekter på demokratin</note>
-        <note xml:id="i-NZeYEPknfQh5CVuXdLaudu" type="speaker">Anf. 42 FREDRIK MALM (L)</note>
-        <note xml:id="i-oFWc7F3iJctrzcZHn9TUi" type="speaker">Anf. 43 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-GLTCJuLk7KQP3ihYTaC9Uj" type="speaker">Anf. 44 FREDRIK MALM (L)</note>
-        <note xml:id="i-34YyePZfcrhpzMSyomfvur" type="speaker">Anf. 45 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-Vpbxgg6LLwvvCTTzz1w18k">Insatser för Sveriges egenföretagare</note>
-        <note xml:id="i-WrcBWrJgwDacNU9gcCXVLy" type="speaker">Anf. 46 MATHIAS TEGNÉR (S)</note>
-        <note xml:id="i-WYQCUZUbfnMxZKgppX6kNz" type="speaker">Anf. 47 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-Q6zi1ov1oigcCttzvkvs3a" type="speaker">Anf. 48 MATHIAS TEGNÉR (S)</note>
-        <note xml:id="i-8AefHNTxVcFskxrWgHng3x" type="speaker">Anf. 49 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-LAevgmVnAXWc2fat1NdJCj">Stöd till produktion av biogas</note>
-        <note xml:id="i-Sk9xMo7JJ4R6Exu5QZNa4S" type="speaker">Anf. 50 LORENTZ TOVATT (MP)</note>
-        <note xml:id="i-UsmqchUqwk6v7MP751S5Dn" type="speaker">Anf. 51 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-RoaKBZHhTTijJaHNZ3VAdx" type="speaker">Anf. 52 LORENTZ TOVATT (MP)</note>
-        <note xml:id="i-XovZ65P74y5znchTjcFgbN" type="speaker">Anf. 53 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-JwMvGeB5rmkhuHG9DyBAcs">Bredbandsutbyggnad på landsbygden</note>
-        <note xml:id="i-ThZqjdgXKaS5H2aHB5hGND" type="speaker">Anf. 54 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-3NxgrQ2gBd4C3psL7ifUJP" type="speaker">Anf. 55 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-CQCQcfjzo9MkZYCqPibr4L" type="speaker">Anf. 56 SAILA QUICKLUND (M)</note>
-        <note xml:id="i-TsYEQKuLa1fghCMbV4noMu" type="speaker">Anf. 57 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-2vyQ6XBV9fysLeN7zoaQ7w">Covid-19 och beredskapen för ett förvärrat läge</note>
-        <note xml:id="i-MkUBwspaWY8AVpYTkptAiX" type="speaker">Anf. 58 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-NYxaDBLDYTfy6YAUefqSZP" type="speaker">Anf. 59 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-FHdS7QZjoqXE5P5znidveQ" type="speaker">Anf. 60 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-uhwAf2385gu3YvtPmVdhV" type="speaker">Anf. 61 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-GKK2nYx7TWq99qLWMD1T36">Bristen på arbetskraft i de gröna näringarna</note>
-        <note xml:id="i-KCrVXF4xLnsskzBZYGLe1J" type="speaker">Anf. 62 SOLVEIG ZANDER (C)</note>
-        <note xml:id="i-MyGMvZUgPmVb6Ep2Ehy2dy" type="speaker">Anf. 63 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-7Nmkbz9XHS57nj8h2dcDfY" type="speaker">Anf. 64 SOLVEIG ZANDER (C)</note>
-        <note xml:id="i-m5Pr7d2fbxrss51dS2syz" type="speaker">Anf. 65 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-AceZjm95wkkzxcaxrq7KQQ">Lokaliseringsprincipen och bredbandsutbyggnaden</note>
-        <note xml:id="i-HNfN2PYwM4FSwgeHktbD3W" type="speaker">Anf. 66 JENS HOLM (V)</note>
-        <note xml:id="i-QpbBycN1YUqniSmqg4XDdP" type="speaker">Anf. 67 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-9vNEhbqgq3h6v9KiamnNrY" type="speaker">Anf. 68 JENS HOLM (V)</note>
-        <note xml:id="i-6yTTKCvobwv82wzkXRkTNb" type="speaker">Anf. 69 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-5tGrc6Wz3mRuGicyzBQNS6">Den svenska bredbandskapaciteten</note>
-        <note xml:id="i-7bxDg56P6hzMJcmZtjhBh5" type="speaker">Anf. 70 JOHAN LÖFSTRAND (S)</note>
-        <note xml:id="i-FuX6KgAMJSa7Rjqb1nuJu5" type="speaker">Anf. 71 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-Nnyy32kXrykpXsWeRUZfsZ" type="speaker">Anf. 72 JOHAN LÖFSTRAND (S)</note>
-        <note xml:id="i-TimnnVuNW9qkRghmHqRkUK" type="speaker">Anf. 73 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-RMf6mWZzZwiuiHvexYnBrv">Villkoren för sänkta arbetsgivaravgifter</note>
-        <note xml:id="i-PpVhJu4ejT2UK7eZK2zMri" type="speaker">Anf. 74 MATS GREEN (M)</note>
-        <note xml:id="i-RH9B4JAaRP7XJnYp4roG6b" type="speaker">Anf. 75 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-28u36BdedU8x2shzbWTdGV" type="speaker">Anf. 76 MATS GREEN (M)</note>
-        <note xml:id="i-V3eVtjsa6srX495715zmG9" type="speaker">Anf. 77 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-Vo4Q1hw14kuyb2v5BowFw4">Resultatet av utrikesministerns besök i Jemen</note>
-        <note xml:id="i-WmvHQXkgpTdp1EBkQB6TYX" type="speaker">Anf. 78 KENNETH G FORSLUND (S)</note>
-        <note xml:id="i-7NuC75e2gF7gLnKx1t4Dkc" type="speaker">Anf. 79 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-L4o8o7KTHrDiYjbRrMvzri" type="speaker">Anf. 80 KENNETH G FORSLUND (S)</note>
-        <note xml:id="i-654XodwFNfRLkx2bXnRDCE" type="speaker">Anf. 81 Utrikesminister ANN LINDE (S)</note>
-        <note xml:id="i-2PEuHnDoEvE2SNGgVJLWHV">Postgången i coronatider</note>
-        <note xml:id="i-XX6H97dbmTbUpsrqoEL7Jh" type="speaker">Anf. 82 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-4nXAQGj6k1RJenXD28y4C1" type="speaker">Anf. 83 Statsrådet ANDERS YGEMAN (S)</note>
-        <note xml:id="i-Vk9tJx16uqrRGqZZM2y3BB">Stöd till lanthandeln</note>
-        <note xml:id="i-8hhKpZTnjE26rThjNQ7u32" type="speaker">Anf. 84 ANNA-CAREN SÄTHERBERG (S)</note>
-        <note xml:id="i-6iYDdQD7sxoPVJVvc2Kes9" type="speaker">Anf. 85 Statsrådet JENNIE NILSSON (S)</note>
-        <note xml:id="i-4RbvPnfKGzBYSPV7gAKpJh">Information till företag om statligt stöd</note>
-        <note xml:id="i-McgpDVpcAurUELmN9PofpG" type="speaker">Anf. 86 LARS HJÄLMERED (M)</note>
-        <note xml:id="i-HEKqJLgRRiJ7gi39F5Dddk" type="speaker">Anf. 87 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-7auxpL9zEDHaosY8M53UnQ">En omställning av arbetsmarknaden</note>
-        <note xml:id="i-8H5japCwQkwXPDN2eS13Bb" type="speaker">Anf. 88 JOSEFIN MALMQVIST (M)</note>
-        <note xml:id="i-HnivECUJj1bDs92FwL5bEt" type="speaker">Anf. 89 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-9SozSXyKv3CAyrpiasAXma">Ytterligare ekonomiska stödåtgärder</note>
-        <note xml:id="i-VAt8j1aoS4WJhcCFzeNSSp" type="speaker">Anf. 90 EDWARD RIEDL (M)</note>
-        <note xml:id="i-SKZxNhXBQ3XcW6zU61S4Xq" type="speaker">Anf. 91 Näringsminister IBRAHIM BAYLAN (S)</note>
-        <note xml:id="i-i1PAzRWivNK85CdHkGVDf">Ajournering</note>
-        <note xml:id="i-LBayt9eSLzWGRTKgAKCC3e">Återupptaget sammanträde</note>
-        <note xml:id="i-HjS8qH4R2DUntKX6NXc1Gw">§ 7 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-PLyGueM8H7y6c5u79JSGkF">FiU53 Ändringar i statens budget för 2020 – Anstånd med inbetalning av skatt i vissa fall, med anledning av coronaviruset</note>
-        <note xml:id="i-KCHTt4LrByjew4SAZxZzcA">SkU21 Företag, kapital och fastighet</note>
-        <note xml:id="i-AQxE7Md1b16zMFYRkhoftb">SkU23 Mervärdesskatt</note>
-        <note xml:id="i-HZQpqU1jvXKDvvN67ne9eH">§ 8 Bordläggning och beslut om förkortad motionstid</note>
-        <note xml:id="i-NeryFsp4oCFL3ek9bBkWj2">§ 9 Beslut om förlängd motionstid</note>
-        <note xml:id="i-3qbQ2AvcmBLvMFdt9z6th5">§ 10 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-XDFGvrn5gVrdjqrHJM2PrB">§ 11 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-84vnuYRkUihy7TtNVqD4mA">§ 12 Kammaren åtskildes kl. 16.11.</note>
-        <note xml:id="i-Ehfhaz1uGuYYf3Yvc1LzcZ">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

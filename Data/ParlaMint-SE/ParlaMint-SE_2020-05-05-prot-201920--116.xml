@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 116 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 116 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--116">2019/20--116</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,26 +75,26 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Lchmq2VFVAHHXVwaeMxRut">§ 1 Justering av protokoll</head>
         <note xml:id="i-14FTk3gryXiCNAuvyMfwLj">Protokollet för den 14 april justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-E1ymuBJkeuY7wFX2cSUxzE">§ 2 Meddelande om frågestund</head>
         <note xml:id="i-CdjkJ6qN3ZzMuZZBjMdJpL">Andre vice talmannen meddelade att frågestund skulle äga rum torsdagen den 7 maj kl. 14.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-ST6ScCB72eBz2e8GzMPemi">§ 3 Anmälan om faktapromemoria</head>
         <note xml:id="i-XiGsMGntFhqni4V4ngACVK">Andre vice talmannen anmälde att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott:</note>
         <note xml:id="i-P5LKj3pWbiS6Xc9SxdtMjK">2019/20:FPM34 Förslag till beslut om ianspråktagande av marginalen för oförutsedda utgifter under 2020 för att tillhandahålla krisstöd till medlemsstaterna och ytterligare stärka unionens civilskyddsmekan ­ ism/rescEU med anledning av covid-19-utbrottet COM(2020) 172 till finansutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-HMXWX4efzGEtZyG1xPDnjJ">§ 4 Ärende för hänvisning till utskott</head>
         <note xml:id="i-4jdEW2S5euwRcnTq66aWAN">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-FuckQjH8kchYtQVuyF8psD">Motion</note>
         <note xml:id="i-8xru9pWHUuDeGmYKMFYWEW">2019/20:3600 till utrikesutskottet</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Gx9xeA6GGNvEnFwukjDPtt">§ 5 Ärenden för bordläggning</head>
         <note xml:id="i-QmSxGr1SYzypV1mDa1nBQU">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-XE16Xcpqx6sfTgjyArdncw">Civilutskottets betänkanden</note>
@@ -182,7 +183,7 @@
         </u>
         <note xml:id="i-2aTaNR3urBoKACN9T9AhBv">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XRQW5BVRyQB5WMemv4omzB">§ 7 Bordläggning</head>
         <note xml:id="i-BFSd1P3Tio2tD8PPJkPxcj">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-3hpQmrAeUMeY5gjwzBPGaZ">EU-dokument</note>
@@ -197,31 +198,11 @@
         <note xml:id="i-WrD7XvT8Lap5D1jFwgYXHV">2019/20:3604 av Ebba Busch m.fl. (KD)</note>
         <note xml:id="i-U7pAGHVstii51CRrYbc5X2">2019/20:3605 av Jonas Sjöstedt m.fl. (V)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QPZsKpYqDEhsnzJ7ioKiSb">§ 8 Kammaren åtskildes kl. 13 . 24 .</head>
         <note xml:id="i-JKeGVjx6oc3QVXn4txEoLG">Sammanträdet leddes av andre vice talmannen .</note>
         <note xml:id="i-JSzJ9vVB3cCZYJYgBnq7M2">Vid protokollet</note>
         <note xml:id="i-VGt99JyEeiY6xiPv9nFiPd">ANN LARSSON</note>
-        <note xml:id="i-Pt25U9Zroiv7y7XRwZAd3r">/Olof Pilo</note>
-        <note xml:id="i-JsLmMBCd9DnddfbnTTWnET">Innehållsförteckning</note>
-        <note xml:id="i-Jfc4c2XpzzLWrXs5Bvd7F2">§ 1 Justering av protokoll</note>
-        <note xml:id="i-AHRpnWM78iKiG3wE5MkZUk">§ 2 Meddelande om frågestund</note>
-        <note xml:id="i-61FmAyd9cdynmneXCck2dH">§ 3 Anmälan om faktapromemoria</note>
-        <note xml:id="i-Gu6j8ci6HRQCdAMi8jLtnQ">§ 4 Ärende för hänvisning till utskott</note>
-        <note xml:id="i-KMcsUM5Det5Sy3bFPrErwa">§ 5 Ärenden för bordläggning</note>
-        <note xml:id="i-GUqDq3UYaYfMeAnenCQD9t">§ 6 Svar på interpellation 2019/20:394 om äldreomsorgens beredskap för spridningen av covid-19</note>
-        <note xml:id="i-8RLNzF6iJyXEokb3eEsHWX" type="speaker">Anf. 1 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-U89gUZnNiJmtXALeQCPhYd" type="speaker">Anf. 2 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-JyTSZRM7wzczF7r6W2TAr5" type="speaker">Anf. 3 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-3d14vrCYQBd8hgc1CpRf2Y" type="speaker">Anf. 4 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-TMU67c9s6poC8Xo91B9ZxZ" type="speaker">Anf. 5 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-HPKjrworwgjGwAg7zR7JCQ" type="speaker">Anf. 6 ANN-CHRISTINE FROM UTTERSTEDT (SD)</note>
-        <note xml:id="i-J5Z9K4TkfbiPbij9u6VrKB" type="speaker">Anf. 7 Socialminister LENA HALLENGREN (S)</note>
-        <note xml:id="i-27jYb4xJNVGvfjdswW4CZG">§ 7 Bordläggning</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-9cXwBrmqUgkkz5Y9ksJwjZ">§ 8 Kammaren åtskildes kl. 13.24.</head>
-        <note xml:id="i-QPjcScQuqar4P22iuvMvjn">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2018-09-25-prot-201819--3" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 3 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 3 [ParlaMint SAMPLE]</title>
+        <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201819--3">2018/19--3</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="2">2 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="3569">3569 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="4"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="12"/>
+          <tagUsage gi="seg" occurs="12"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2018-09-25" ana="#parla.sitting">2018-09-25</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="debateSection">
+        <head xml:id="i-5xWKGQfnJvXXqozQAE6KhF">§ 1 Riksmötets öppnande</head>
+        <note xml:id="i-N25rHqzXkZRa7iMdYK5qG">Program för öppnandet har fogats som bilaga till detta protokoll.</note>
+        <note type="speaker" xml:id="i-SvzUmHmuHfWAYYFxEX7Csx">Anf. 1 TALMANNEN:</note>
+        <u xml:id="i-93d23afe5f06de64-0" who="#Q4755577" ana="#regular">
+          <seg xml:id="i-5wp4FTc5gKatpWYjz8HkVX">Jag hemställer att Ers Majestät förklarar riksmötet öppnat.</seg>
+        </u>
+        <note type="speaker" xml:id="i-SbpU5pQyhi6BLJ8YPJervj">Anf. 2 HANS MAJESTÄT KONUNGEN:</note>
+        <u xml:id="i-7YMEG7mQ8wfXUnvpgsWZQE" ana="#regular">
+          <seg xml:id="i-T8BY6uZmKoS5t23Lt6Bf6j">Herr talman! Ärade ledamöter av Sveriges riksdag! År 1810 valde riksdagen Jean Baptiste Bernadotte till tronföljare. Då hade Sverige bara året innan fått en ny regeringsform, byggd på principen om maktdelning. Med den fick vi självständiga domstolar och myndigheter. Medborge rliga fri ‑ och rättigheter fastslogs, och riksdagens makt stärktes.</seg>
+          <seg xml:id="i-SJ3LMTKEnpwA7kaNxDnimi">Det var i detta nya Sverige som min anfader år 1818, alltså för 200 år sedan, tillträdde tronen som Karl XIV Johan.</seg>
+          <seg xml:id="i-t7uPmRMWsJRRhxtMAydLc">Ett sekel senare, 1918, befann sig världen och Sverige åter i förändring. Den 30 oktober öppnades ett urtima möte i R ikssalen på Stockholms slott. Min farfars far, kung Gustaf V, talade om den rättvisa och varaktiga fred varefter hela den lidande mänskligheten längtar.</seg>
+          <seg xml:id="i-6QwCFW7QWzuvgQg6LuxqDM">I november samma år lade de stridande parterna ned vapnen. I juni 1919 undertecknades ett fredsavtal i Versailles, och året därpå bildades Nationernas förbund med Sverige som medlem. Detta förbund skulle komma att bli en föregångare till Förenta nationerna, FN, i dag ett av flera viktiga forum för internationellt samarbete.</seg>
+          <seg xml:id="i-GdTCh1TGhyLXfi8Mo9hZo4">Vid årsskiftet avslutar Sverige sina två år som icke permanent medlem i FN:s säkerhetsråd. Det har varit en värdefull möjlighet för vårt land att bidra till att upprätthålla fred och säkerhet.</seg>
+          <seg xml:id="i-JAUtgaLW1uG345r9kQkjxP">Med första världskrigets slut tog en ny tid sin början. De kommande åren fattade Sveriges riksdag en rad avgörande beslut. Jag tänker då inte minst på de rösträttsreformer som lade grunden till den svenska demokratin som vi känner den i dag.</seg>
+          <seg xml:id="i-BJYS8JQYivweJ9qMb1LBn3">Ja, mycket har förändrats i Sverige under de gångna seklerna. Det demokratiska systemet och dess spelregler har fortsatt att utvecklas. I dag, liksom för hundra år sedan, är demokratin något som vi tillsammans har att vårda och värna. Inte bara på valdagen utan varje dag, och nu liksom då, vilar ett särskilt ansvar på er valda ombud som representerar svenska folket.</seg>
+          <seg xml:id="i-RqHwByxm4BpkbhBbAjLDyy">Ärade ledamöter! Var och en av er har fått medborgarnas förtroende att företräda dem här i Sveriges riksdag. De som lever i Sverige i dag, men också de generationer som kommer efter, är era uppdragsgivare. De förväntar sig att ni ska använda era kunskaper och erfarenheter till att verka för Sveriges bästa och för en god framtid för alla som lever här.</seg>
+          <seg xml:id="i-PaRtAyYmKk3BfTRPEw5ik9">Att som riksdagsledamot förvalta folkets förtroende är inte ett enkelt uppdrag men samtidigt ett av de viktigaste man kan ha. Det är också ett utsatt uppdrag. Många hundratals beslut ligger framför er, och vissa kommer att vara lätta att fatta, andra svårare och mer komplicerade. Landets intresse ligger i era händer. Jag önskar er kraft, mod och visdom i ert viktiga arbete.</seg>
+          <seg xml:id="i-D4UZfAQswaPXgSuX3GW46T">Jag förklarar härmed 2018/19 års riksmöte öppnat.</seg>
+        </u>
+      </div>
+      <div type="commentSection">
+        <note xml:id="i-QVMR8Z9hK793AgJtMAudC9">§ 2 Ceremonin avslutades kl. 14.25.</note>
+      </div>
+    </body>
+  </text>
+</TEI>

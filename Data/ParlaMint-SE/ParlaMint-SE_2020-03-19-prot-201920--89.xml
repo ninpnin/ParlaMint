@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 89 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 89 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--89">2019/20--89</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EqtX5XkgK5jojJmQGzdb3S">§ 1 Ärenden för bordläggning</head>
         <note xml:id="i-Ryn7h7cERaosrdVnEVupPt">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-A6P2qXw88mt812dbugVgDf">Finansutskottets betänkande</note>
@@ -82,16 +83,11 @@
         <note xml:id="i-Kivrp64Ly81yotqGN874HT">Utbildningsutskottets betänkande</note>
         <note xml:id="i-AEqBhN1pJxiL4QUSusjDZp">2019/20:UbU25 Lag om tillfällig stängning av verksamheter på skolområ ­ det vid extraordinära händelser i fredstid</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Wx4oHG12Wddzcz58YhHFxn">§ 2 Kammaren åtskildes kl. 11.00.</head>
         <note xml:id="i-NbtWimzHFCLNEtQHYNSB1M">Sammanträdet leddes av tredje vice talmannen .</note>
         <note xml:id="i-KTL2qVF5mh7Vks3LwtesdL">Vid protokollet</note>
         <note xml:id="i-PbFm8Wx65VHRnWhEZ8cJ9M">ANNA ASPEGREN</note>
-        <note xml:id="i-WnKWRCLt33wuuFiiXiRtmH">/Olof Pilo</note>
-        <note xml:id="i-LJoUNyVupo3N6y2Qf1SYxb">Innehållsförteckning</note>
-        <note xml:id="i-AU3sth6k1fasBa27UT3qaW">§ 1 Ärenden för bordläggning</note>
-        <note xml:id="i-EAj5rPd1FgRUxXaACBqQ5">§ 2 Kammaren åtskildes kl. 11.00.</note>
-        <note xml:id="i-TuJ9WED5saqpJz4953hsQH">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

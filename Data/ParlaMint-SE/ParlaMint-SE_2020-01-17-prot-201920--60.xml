@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 60 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 60 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--60">2019/20--60</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,19 +75,19 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CD1Cgf4uuj9VLMyrfQ8XM5">§ 1 Avsägelse</head>
         <note xml:id="i-SXyzqw5KsL12TnqWrppb9V">Förste vice t almannen meddelade att Sofia Damm (KD) avsagt sig uppdraget som suppleant i utrikesutskottet.</note>
         <note xml:id="i-U6TiL741JvpMS1RhbK8eF7">Kammaren biföll denna avsägelse.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-B366gchuUw5iW93PZH8doj">§ 2 Anmälan om kompletteringsval</head>
         <note xml:id="i-MLtjwLqw6H99p4Z1LqJBvu">Förste vice talmannen meddelade att Moderaternas riksdagsgrupp anmält Pål Jonson som ledamot i krigsdelegationen .</note>
         <note xml:id="i-Egn3mRaoCW7ZZUoxSNzDrX">Förste vice talmannen förklarade vald till</note>
         <note xml:id="i-9fkfBAjmBsMsxrPZFzVtgf">ledamot i krigsdelegationen</note>
         <note xml:id="i-GN9fhpgq3DSiLveDK6Nc75">Pål Jonson (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CjC7GKLK4Vn6Hy7V7bD2Mt">§ 3 Anmälan om vice ordförande i utskott</head>
         <note xml:id="i-9Rw6woC5i2iBFcRhUXBtWF">Förste vice t almannen anmälde att Ingemar Kihlström ( KD ) valts till vice ordförande i justitieutskottet under tiden för Andreas Carlsons ( KD ) ledighet den 16 januari – 18 mars.</note>
       </div>
@@ -338,7 +339,7 @@
         </u>
         <note xml:id="i-GG5TLmgEMJMBD3MVeuegD">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EoDeVjFvynDv1jxij7wJaa">§ 7 Anmälan om interpellationer</head>
         <note xml:id="i-DGuXnDskG1icEfxomigkRX">Följande interpellationer hade framställts:</note>
         <note xml:id="i-QQ4L94umB2Vfr898gfHyFK">den 16 januari</note>
@@ -361,7 +362,7 @@
         <note xml:id="i-9uqWcEFTs8naGVzoAGC2Hm">av Tobias Andersson (SD)</note>
         <note xml:id="i-4TtybpeoWEPUr1Lpy9zLmy">till statsrådet Anna Hallberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ehed5BBoBGEDBob376bPe6">§ 8 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-Xkh8ptacpi2UALE2NKMYKT">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-8y9woqhkzoovoefSo2wLwF">den 16 januari</note>
@@ -402,46 +403,11 @@
         <note xml:id="i-9neepPw42aVZiqm2oZkNmB">av Tobias Andersson (SD)</note>
         <note xml:id="i-FY3aRXd32ugA3mLpsfcVTG">till statsrådet Anna Hallberg (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-XY3wT4jUVdB11cJZgUkPmZ">§ 9 Kammaren åtskildes kl. 10.12.</head>
         <note xml:id="i-BwcQQfa7zQkJvYDpdHCbY4">Sammanträdet leddes av förste vice talmannen.</note>
         <note xml:id="i-ReydvW8Sn9redSXtSgykRy">Vid protokollet</note>
         <note xml:id="i-X2nZvqw58bnE7EqCzY3Bsa">JOHAN WELANDER</note>
-        <note xml:id="i-5xfdarDRB4kksG1KtwvXSH">/Olof Pilo</note>
-        <note xml:id="i-7J3cQTrAoncZkFwhWDFb4M">Innehållsförteckning</note>
-        <note xml:id="i-UcmBtcrPMzWLjGhWHEuaDc">§ 1 Avsägelse</note>
-        <note xml:id="i-Dv6wSnemWFzZwe3NcvrZ6d">§ 2 Anmälan om kompletteringsval</note>
-        <note xml:id="i-HQ3wgSyRV34FNnvunvVtoS">§ 3 Anmälan om vice ordförande i utskott</note>
-        <note xml:id="i-LDJXdyAUM8jAxak6ZmBWuU">§ 4 Svar på interpellation 2019/20:222 om övergivna hus</note>
-        <note xml:id="i-Vozxn3BsRkS2tTzDbxsJrD" type="speaker">Anf. 1 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-TkSBtpD2oNWjg4Act3JgHf" type="speaker">Anf. 2 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-S93coaiyUBKgXyew2GoUJ4" type="speaker">Anf. 3 LARRY SÖDER (KD)</note>
-        <note xml:id="i-QjHKJXF1CDxGz9BYdDx1Pw" type="speaker">Anf. 4 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-5TNFcL7gpt1R1Fr1wXnjdv" type="speaker">Anf. 5 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-LMWceEyFNGFbxzP7B2JWib" type="speaker">Anf. 6 LARRY SÖDER (KD)</note>
-        <note xml:id="i-LaBFgq9a4f24ZWcd3GLjqJ" type="speaker">Anf. 7 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-XtnCBEhiZKLUnd2w4PtqPe" type="speaker">Anf. 8 GUDRUN BRUNEGÅRD (KD)</note>
-        <note xml:id="i-AStG8tA3W1aoMohhQ8gLmB" type="speaker">Anf. 9 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-T6Rhc523qN5ZVBG7sHjuhc">§ 5 Svar på interpellation 2019/20:244 om fler reformer för att öka andelen ägt boende</note>
-        <note xml:id="i-RZiNLoGiCtKZgHSsWsdHXe" type="speaker">Anf. 10 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-JQDn3K7nRM5qnFvMJt9oP5" type="speaker">Anf. 11 LARRY SÖDER (KD)</note>
-        <note xml:id="i-DDCeMvU8tv7mkqHSsmVQDM" type="speaker">Anf. 12 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-TaNYFRxGTF3AVKG5mN4HoG" type="speaker">Anf. 13 LARRY SÖDER (KD)</note>
-        <note xml:id="i-4Ng3TuKUheXVjTEwPTA65y" type="speaker">Anf. 14 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-AM5gGJVTxZRmZLZXduigT3" type="speaker">Anf. 15 LARRY SÖDER (KD)</note>
-        <note xml:id="i-2A2U42JDVRkZZwWD4qrLJG" type="speaker">Anf. 16 Statsrådet PER BOLUND (MP)</note>
-        <note xml:id="i-2cSi8q1Bm3oQKWTpLCTHej">§ 6 Svar på interpellation 2019/20:218 om insatser mot hedersvåldet</note>
-        <note xml:id="i-D8d9EsKLjXMU9rxpsPgZho" type="speaker">Anf. 17 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-SGJkvK19bf1jTnoZ3MC531" type="speaker">Anf. 18 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-Ps9yhhc8NWcdV13MrvzGtM" type="speaker">Anf. 19 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-TRKpEB7qARRT8AJgz7Knna" type="speaker">Anf. 20 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-UEYGERGfin1vD552RJDN95" type="speaker">Anf. 21 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-RtuR3zVmXpA9YgG4nTFQbt" type="speaker">Anf. 22 DÉSIRÉE PETHRUS (KD)</note>
-        <note xml:id="i-5z6oQAkbBcbE1pLecK2qrp" type="speaker">Anf. 23 Statsrådet ÅSA LINDHAGEN (MP)</note>
-        <note xml:id="i-CmGRVNfY24KFVRXJPoxXZg">§ 7 Anmälan om interpellationer</note>
-        <note xml:id="i-AZqmsQ4pk87tB5VRqqY5gB">§ 8 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-HxaQiNYAhZoe8g4T73ca6o">§ 9 Kammaren åtskildes kl. 10.12.</note>
-        <note xml:id="i-VUMkbXV3cUFr7qokTJspq6">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

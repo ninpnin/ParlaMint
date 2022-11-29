@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 40 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 40 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--40">2019/20--40</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,11 +75,11 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-NojuaJy3QMfxJwe6yfjmj9">§ 1 Anmälan om vice gruppledare för partigrupp</head>
         <note xml:id="i-XJKjjwX9Ac55ebiwsWcmrV">Andre vice t almannen meddelade att Miljöpartiet s partigrupp anmält Annika Hirvonen Falk som vice gruppledare för partigrupp från och med den 26 november .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-LTGT9MeW2uuZjZvU1s74G5">§ 2 Anmälan om fördröjda svar på interpellationer</head>
         <note xml:id="i-2dbbyJ1QDzPnktEVAWKJss">Följande skrivelser hade kommit in:</note>
         <note xml:id="i-4jNSeGU42xNEJgwSfJGn2C">Interpellation 2019/20:127</note>
@@ -161,7 +162,7 @@
         </kinesic>
         <note xml:id="i-GNffMtwBdNNdsuANUrgrHX">I detta anförande instämde Björn Wiechel (S).</note>
         <note xml:id="i-Uqkj6ZZaTMKGBK4zY3CJRY" type="speaker">Anf. 3 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-39b7e06c9c472418-28" who="#unknown" ana="#regular">
+        <u xml:id="i-39b7e06c9c472418-28" ana="#regular">
           <seg xml:id="i-fRc1YeDUTeNaCLBVkSknf">Fru talman! Jag vill börja med att rätta föregående talare, ledamoten Ingemar Nilsson, som säger att det i det här betänkandet bara handlar om AP-fondernas verksamhet 2018. Vi har även i betänkandet ett yrkande från en av motionerna från den allmänna motionstiden. Det har också diskuterats tidigare i debatten.</seg>
           <seg xml:id="i-KjSJG7vM4hKwERzqZxo48Y">Fru talman! Jag yrkar bifall till utskottets förslag i dess helhet.</seg>
           <seg xml:id="i-Ftq4ERxyfc3cFeErGC9vp8">Vi har i denna kammare ganska nyligen antagit ett nytt regelverk för AP-fonderna, vilket innebär en ökad miljöhänsyn och ökad hänsyn till hållbarhet och kommande generationer. Alla partier som ingår i Pensionsgruppen står bakom detta. Det gör att vi kan upprätthålla en tillit och en trygghet inför viktiga beslut om pensionssystemet – en klok ordning.</seg>
@@ -174,7 +175,7 @@
         <note xml:id="i-FdarTJokXsPSguy4KnSBLj">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-SvhKB8MhmF8TbuiYLga7yB">(Beslut fattades under § 11 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-4zjoMDNpMh8vFvbvh3pNuz">§ 4 Ingripanden mot utländska kreditinstitut och vissa andra penningtvättsfrågor</head>
         <note xml:id="i-Uy1f6ATQP1cUn8yS293KAs">Finansutskottets betänkande 2019/20:FiU28</note>
         <note xml:id="i-VJx58ndGQccfHoHKwE9vxe">Ingripanden mot utländska kreditinstitut och vissa andra penningtvättsfrågor (prop. 2019/20:14)</note>
@@ -227,7 +228,7 @@
           <desc>(Applåder)</desc>
         </kinesic>
         <note xml:id="i-AevHRf95BW7dc4eDY3AvNg" type="speaker">Anf. 6 MATTIAS KARLSSON i Luleå (M):</note>
-        <u xml:id="i-39b7e06c9c472418-63" who="#unknown" ana="#regular">
+        <u xml:id="i-39b7e06c9c472418-63" ana="#regular">
           <seg xml:id="i-4TkNGJzGLdLEvDjjtsiuy7">Fru talman! Jag vill börja med att föreslå att riksdagen bifaller utskottets förslag i betänkandet.</seg>
           <seg xml:id="i-D4H53MHfhK82CY8yWMHR4K">Man måste börja med att konstatera att anpassningen till en minskad kontanthantering har gått mycket snabbt i Sverige. Det har fått vissa negativa konsekvenser för vissa grupper i samhället, som äldre och personer med funktionsnedsättning.</seg>
           <seg xml:id="i-4KnbTJvWHy8n3LnASF49RA">Som framhålls i propositionen är det viktigt att säkerställa att alla i samhället ska ha tillgång till grundläggande betaltjänster till rimliga priser, framför allt kontantuttag och dagskasseinsättningar.</seg>
@@ -418,7 +419,7 @@
         <note xml:id="i-Bwdwm9ovuUahGMGzAcoWQ9">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-SMMuyeD9JrcCSakJWxtmct">(Beslut fattades under § 11 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-3Uud96RG7HEWnjupaJvKec">§ 7 Genomförande av regler i EU:s direktiv mot skatteundandraganden för att neutralisera effekterna av hybrida missmatchningar</head>
         <note xml:id="i-jjadYHSkpizsRjSpaADH9">Skatteutskottets betänkande 2019/20:SkU8</note>
         <note xml:id="i-CGERCTSrsUfFsQ5jNspXTz">Genomförande av regler i EU:s direktiv mot skatteundandraganden för att neutralisera effekterna av hybrida missmatchningar (prop. 2019/20:13)</note>
@@ -426,7 +427,7 @@
         <note xml:id="i-2f9mpSqUidixRsiKnSt9vv">Andre vice t almannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-236Dw3m2Vmjsc4Nz87mrZN">(Beslut fattades under § 11 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-YEM5kGSuTpiDkGs8N5Dp1T">§ 8 Genomförande av regler om beskattning av inkomst från obeaktat fast driftställe i EU:s direktiv mot skatteundandraganden</head>
         <note xml:id="i-MDa8e6vbLHrKGyytGnpcbY">Skatteutskottets betänkande 2019/20:SkU9</note>
         <note xml:id="i-SNMj4xdR72wCsaCnj6aeqo">Genomförande av regler om beskattning av inkomst från obeaktat fast driftställe i EU:s direktiv mot skatteundandraganden (prop. 2019/20:12)</note>
@@ -828,7 +829,7 @@
         <note xml:id="i-Tmri7Q5GV84PArYNiCYvoo">Återupptaget sammanträde</note>
         <note xml:id="i-5Rh4g1BDTT8mGaixZGXPuA">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Hx7fyfA2mjZxPz39yFnADd">§ 10 Beslut om ärende som slutdebatterats den 27 november</head>
         <note xml:id="i-2ojiYifcYwQv2kdP386oiv">TU4 Skydd av Sveriges säkerhet vid radioanvändning</note>
         <note xml:id="i-TLZq2CSL3dHZ5SP9FAbzmK">Punkt 1</note>
@@ -873,7 +874,7 @@
         <note xml:id="i-79C9MUFApuJzouXERnNPuD">Avstod: 27 V, 1 -</note>
         <note xml:id="i-CbCADJhrPV5i9uYXLDZYTc">Frånvarande: 8 S, 7 M, 1 SD, 1 C, 1 KD, 1 L, 2 MP, 1 -</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FBvyRzfyBe2CpDwcW25FrA">§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-WRzzajGuFFFh1Ai4dZBVxT">FiU6 AP-fondernas verksamhet t.o.m. 2018</note>
         <note xml:id="i-A3YzwBec1NN7dfpaWAnab3">Punkt 1</note>
@@ -948,7 +949,7 @@
         <note xml:id="i-NHoQA1ybFVVF4BkDU16Pzb">SkU9 Genomförande av regler om beskattning av inkomst från obeaktat fast driftställe i EU:s direktiv mot skatteundandraganden</note>
         <note xml:id="i-p1mpVbRZFA8Q1kKvREE6x">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KCXjyPxr99bpDupWTsqcig">§ 12 Bordläggning</head>
         <note xml:id="i-M2x3LV9cNChVbzhtjgfhi6">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-9C8kJZEevvqL3Z5wMYrt7V">Skrivelse</note>
@@ -959,7 +960,7 @@
         <note xml:id="i-BaMPJsQ3KUweEoCvEMHnmy">med anledning av skr. 2019/20:39 Riksrevisionens rapport om grundsärskolans kunskapsuppdrag</note>
         <note xml:id="i-PvkUusNfnwERi4DVNJRoz9">2019/20:3437 av Kristina Axén Olin m.fl. (M)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-RovrVz24RMTrB7peu5x1s7">§ 13 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-2GN28aCPVyiuHM2y7j4Qr6">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-9JvA6rTgeXdXxfmuzsZeH3">den 27 november</note>
@@ -991,7 +992,7 @@
         <note xml:id="i-AsnPRPNM8SRr4KtvQB7ocB">av Sten Bergheden (M)</note>
         <note xml:id="i-6rMPQA5Mt6EkEapcYCy1Lt">till miljö- och klimatminister Isabella Lövin (MP)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-S3iLvyutwEXym2PHLTGYUC">§ 14 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-28zhsnS1rAVjvMrZj6yRQi">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-AU4amtqZNbhdfwtqYLvZXs">den 27 november</note>
@@ -1155,7 +1156,7 @@
         <note xml:id="i-Vjzb58uL2RpqXseFDDramd">av John Weinerhall (M)</note>
         <note xml:id="i-VgApwiTBNyLnVVdhPkbQk6">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Wx4yomWpjym8rite4UVV4Q">§ 15 Kammaren åtskildes kl. 16.08.</head>
         <note xml:id="i-22xJTQrD7ovvpu3mK19cEe">Sammanträdet leddes</note>
         <note xml:id="i-PrxnQ9wizeJJtmCCAWiuGi">av andre vice talmannen från dess början till ajourneringen kl. 13.24,</note>
@@ -1163,138 +1164,6 @@
         <note xml:id="i-2mRwu7xpvd8mbLAWKNU5yo">av förste vice talmannen därefter till dess slut.</note>
         <note xml:id="i-Wts5VXv2s1UKdKhKpc18rc">Vid protokollet</note>
         <note xml:id="i-TqeHu46DAT1BFcbyUMgvAL">ANDERS NORIN</note>
-        <note xml:id="i-SLK6utkKL7vRyRx7CuNs6s">/Olof Pilo</note>
-        <note xml:id="i-RFeUUJYXje79C4tVuHe18s">Innehållsförteckning</note>
-        <note xml:id="i-HUUP5jGxV6tuvwfPNadpeo">§ 1 Anmälan om vice gruppledare för partigrupp</note>
-        <note xml:id="i-D4pPH6ZkBUvCwM1M1W52Sx">§ 2 Anmälan om fördröjda svar på interpellationer</note>
-        <note xml:id="i-9qfHHSWTLeEjqaWVMUmVQv">§ 3 AP-fondernas verksamhet t.o.m. 2018</note>
-        <note xml:id="i-SA2z57JmA7Sj1b3GmMyc5U">Finansutskottets betänkande 2019/20:FiU6</note>
-        <note xml:id="i-9CUYJWsAuYHGBbRHqHyWzT" type="speaker">Anf. 1 ANDREAS LENNKVIST MANRIQUEZ (V)</note>
-        <note xml:id="i-7YeYGfeDVdzwycfDHCKTqo" type="speaker">Anf. 2 INGEMAR NILSSON (S)</note>
-        <note xml:id="i-UfDm24ZKcEWSnaDfRhK7z7" type="speaker">Anf. 3 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-NCQ8VUQZRpbzPG7qLb21bh">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-5gPeSTj45aciC4Py8E7htC">§ 4 Ingripanden mot utländska kreditinstitut och vissa andra penningtvättsfrågor</note>
-        <note xml:id="i-PoEP4v2nNyF3aVPNmzSHgc">Finansutskottets betänkande 2019/20:FiU28</note>
-        <note xml:id="i-TEu4ben98uyNbwYMmGwuz7">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-L757723wsMzQTyUkWy7CqG">§ 5 Skyldighet för kreditinstitut att tillhandahålla kontanttjänster</note>
-        <note xml:id="i-2uzGvJRApEoptHxUSwtm7o">Finansutskottets betänkande 2019/20:FiU29</note>
-        <note xml:id="i-XiQsQ3N4zhDHQGeFUEoVsY" type="speaker">Anf. 4 HÅKAN SVENNELING (V)</note>
-        <note xml:id="i-AdGigHSJriR5EAfgkaeVCz" type="speaker">Anf. 5 INGELA NYLUND WATZ (S)</note>
-        <note xml:id="i-LZk3qtSyutMnjCuk1F7zrL" type="speaker">Anf. 6 MATTIAS KARLSSON i Luleå (M)</note>
-        <note xml:id="i-5tbsryiZ3a32iuh7ACf62D" type="speaker">Anf. 7 DENNIS DIOUKAREV (SD)</note>
-        <note xml:id="i-S9ELtnxN95yy1DLTuZEUi8" type="speaker">Anf. 8 EMIL KÄLLSTRÖM (C)</note>
-        <note xml:id="i-2nsgPJzoVJfryUyUroG4R4" type="speaker">Anf. 9 PETER PERSSON (S)</note>
-        <note xml:id="i-Gw4m8DBj7PVqhBjUWCaDFw">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-BC2foo95GWRyw2vr9gbFcL">§ 6 Lägre kapitalkrav för privata aktiebolag</note>
-        <note xml:id="i-5M8dTUSUGzU1jmPq7Ls9oq">Civilutskottets betänkande 2019/20:CU5</note>
-        <note xml:id="i-94fteBLfJ98jQBfmmPDziV" type="speaker">Anf. 10 DAVID JOSEFSSON (M)</note>
-        <note xml:id="i-LUHrjkKbucHn1un29AkAuf" type="speaker">Anf. 11 MIKAEL ESKILANDERSSON (SD)</note>
-        <note xml:id="i-EoT5VwkZxTEvNVPXDigDzN" type="speaker">Anf. 12 JON THORBJÖRNSON (V)</note>
-        <note xml:id="i-TidoEDVVdwp8UnCyfS7AM6" type="speaker">Anf. 13 OLA MÖLLER (S)</note>
-        <note xml:id="i-VqE7Q5T5NrQ1Gnf9dFUjzW" type="speaker">Anf. 14 OLA JOHANSSON (C)</note>
-        <note xml:id="i-TvcVJSz6HsZSdmD42KcCHy" type="speaker">Anf. 15 DAVID JOSEFSSON (M) replik</note>
-        <note xml:id="i-UCfaGkjLS5rZKnNSxvW6Qb" type="speaker">Anf. 16 OLA JOHANSSON (C) replik</note>
-        <note xml:id="i-BAtySFYSuX5Whjsw2sKstr" type="speaker">Anf. 17 DAVID JOSEFSSON (M) replik</note>
-        <note xml:id="i-5Ks9VhARYj9yYtfkifoeyi" type="speaker">Anf. 18 OLA JOHANSSON (C) replik</note>
-        <note xml:id="i-6URvW1r1e54TeQookkW2wD" type="speaker">Anf. 19 MIKAEL ESKILANDERSSON (SD) replik</note>
-        <note xml:id="i-VoQmftcjC1g5MU1MFEjbnZ" type="speaker">Anf. 20 OLA JOHANSSON (C) replik</note>
-        <note xml:id="i-5fxxXpyeuRv9U9uqm3MWq9" type="speaker">Anf. 21 MIKAEL ESKILANDERSSON (SD) replik</note>
-        <note xml:id="i-8qRxLMPGzYYqF5mqnQZ6E8" type="speaker">Anf. 22 OLA JOHANSSON (C) replik</note>
-        <note xml:id="i-3BRudRPqWGdQkgqE5g4AdJ">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-RnkVm3jxrw1rjyhw5B9KUJ">§ 7 Genomförande av regler i EU:s direktiv mot skatteundandraganden för att neutralisera effekterna av hybrida missmatchningar</note>
-        <note xml:id="i-Q7x8UvAe7w5o1Lexd5XHNV">Skatteutskottets betänkande 2019/20:SkU8</note>
-        <note xml:id="i-MRHELLAYgvzmNn6dVEJnEU">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-Rzfsbs7HJH1cm6hf4w3Ngi">§ 8 Genomförande av regler om beskattning av inkomst från obeaktat fast driftställe i EU:s direktiv mot skatteundandraganden</note>
-        <note xml:id="i-8hN7EeG6Ug8p1zgNo7WJRn">Skatteutskottets betänkande 2019/20:SkU9</note>
-        <note xml:id="i-XaY3ouSWSWVQ3Ej9QaQfKF">(Beslut fattades under § 11.)</note>
-        <note xml:id="i-LLUAHQayTNiUwXZibhGigV">Ajournering</note>
-        <note xml:id="i-TmcgWHy7KXegGSHmR87D3y">Återupptaget sammanträde</note>
-        <note xml:id="i-X3FhykBNmswgZugUWWFJuB">§ 9 Statsministerns frågestund</note>
-        <note xml:id="i-HMTPuQNwu6GeTFD2mifR47">Kärnkraftens framtid och en uppdaterad energiöverenskommelse</note>
-        <note xml:id="i-PpVwq69DvFLuHBdjXbpGP4" type="speaker">Anf. 23 ULF KRISTERSSON (M)</note>
-        <note xml:id="i-4E1mXqZmGQAn2MsTcN9kMq" type="speaker">Anf. 24 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-G7wTuU9Ud6jpm1gTuGJZKT" type="speaker">Anf. 25 ULF KRISTERSSON (M)</note>
-        <note xml:id="i-SJ656qPp6Xz75i3NCGuGry" type="speaker">Anf. 26 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-DtsF8eCLBbSaGdZw1bCTua">Statsministerns syn på opinionsläget</note>
-        <note xml:id="i-B6Uy3fQVqTj7aFrsNxtALx" type="speaker">Anf. 27 HENRIK VINGE (SD)</note>
-        <note xml:id="i-DDmpaZ2T3dUwQHQkpKp74U" type="speaker">Anf. 28 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-UVfWKBmqPk4icsDd6rjkyB" type="speaker">Anf. 29 HENRIK VINGE (SD)</note>
-        <note xml:id="i-NV4joGftP4sAC7h5mKek32" type="speaker">Anf. 30 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-NgbBFf71DpVsLqmPo7r9b3">Vården av människor med narkotikaberoende</note>
-        <note xml:id="i-Ei4jTsuiJUZTXcbWEPL3aE" type="speaker">Anf. 31 ANDERS W JONSSON (C)</note>
-        <note xml:id="i-AtBFvWZHo1JBKZE2SFYLzs" type="speaker">Anf. 32 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-BLdjDHG6yQUp8QiVmxufr1" type="speaker">Anf. 33 ANDERS W JONSSON (C)</note>
-        <note xml:id="i-3W6cLx1ZwXT7ayPSphLyEY" type="speaker">Anf. 34 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-8PKBSB6u62vetTQJwUqjBe">Arbetsförmedlingen och lagen om valfrihet</note>
-        <note xml:id="i-XEDKDN4Rwcpevxp42RpDcE" type="speaker">Anf. 35 JONAS SJÖSTEDT (V)</note>
-        <note xml:id="i-4DUmfq6ivreTTXXvogxgcj" type="speaker">Anf. 36 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-HhvMhn9DJxcjoRSB4tN48c" type="speaker">Anf. 37 JONAS SJÖSTEDT (V)</note>
-        <note xml:id="i-Tmg7NyAJSRg1yuTTfzkQ7N" type="speaker">Anf. 38 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-6NufoNqRWMDWWnuf1t3k5x">Återanställning av pensionerade polisutredare</note>
-        <note xml:id="i-TmvMsibyrvVe5VnGnWP5Mc" type="speaker">Anf. 39 EBBA BUSCH THOR (KD)</note>
-        <note xml:id="i-Hn4fTNZj2guP1zD7kH9uNj" type="speaker">Anf. 40 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-UGREMpELGbWEFz85KugGz1" type="speaker">Anf. 41 EBBA BUSCH THOR (KD)</note>
-        <note xml:id="i-Xk2AmEgp9syuEv5GZhsYcv" type="speaker">Anf. 42 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-WFN2uXdpwZJ5zNdkLSNMAV">En ny energiöverenskommelse</note>
-        <note xml:id="i-61UkcK5VCMgqULZbZ5LixP" type="speaker">Anf. 43 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-XUo4HKCz8VmsUb5mcgSD9v" type="speaker">Anf. 44 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-ZErCUgnEKByopZZT7j1qa" type="speaker">Anf. 45 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-ELVPGmwEXLEDvus3jHkeBe" type="speaker">Anf. 46 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-UAZqj4iAyz8zMmMwWWS3Rw">Mäns våld mot kvinnor</note>
-        <note xml:id="i-cXwMjQp3x4HA9QB91RFf6" type="speaker">Anf. 47 OLLE THORELL (S)</note>
-        <note xml:id="i-SrKg9Q5oSQZmWFP3Yxjhg3" type="speaker">Anf. 48 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-3mmjvvAY9sCnFzhLTCx92q">Sveriges roll i det globala klimatarbetet</note>
-        <note xml:id="i-ED59kkrTqBpb4m9UrHyyTL" type="speaker">Anf. 49 ANNIKA HIRVONEN FALK (MP)</note>
-        <note xml:id="i-7N35LAaBcpX61vM8daszgW" type="speaker">Anf. 50 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-PyimXCgPRB87YK62VDaxbQ">Nationella verktyg för att säkra jordbrukets lönsamhet</note>
-        <note xml:id="i-EHMz98VAbT2oyPRThXydUs" type="speaker">Anf. 51 JOHN WIDEGREN (M)</note>
-        <note xml:id="i-4dX6nBjNeWU1hxNW7HmDyi" type="speaker">Anf. 52 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-4AZV9sF5HPG49k7Y7LjMhM">Väntetiderna i vården</note>
-        <note xml:id="i-3N1wMAim7xTQ53eDymj15s" type="speaker">Anf. 53 PER RAMHORN (SD)</note>
-        <note xml:id="i-3UcFhdgyw6okcsCRtcinZG" type="speaker">Anf. 54 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-TPDwzghogXKSAqTmcRLX7B">Tidsplanen för skattereformen</note>
-        <note xml:id="i-GPmg4UwLFp2Pf687tRcu63" type="speaker">Anf. 55 HAMPUS HAGMAN (KD)</note>
-        <note xml:id="i-GUxKiN1mncJReqjxgGeQLy" type="speaker">Anf. 56 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-JWWRwgNowf1rgASAB2iKmL">Manlig omskärelse och religionsfriheten</note>
-        <note xml:id="i-UtZNggzsgHkvoKBchxj1xC" type="speaker">Anf. 57 FREDRIK MALM (L)</note>
-        <note xml:id="i-7EjYJvCKmcvBfnEGrbmiJJ" type="speaker">Anf. 58 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-SNwn91KNSvrAA7z5EVLr1S">Mäns dödliga våld mot kvinnor</note>
-        <note xml:id="i-Q4YjLVC8Mi8ApQXm5T3M1w" type="speaker">Anf. 59 CARINA ÖDEBRINK (S)</note>
-        <note xml:id="i-E8HEq8ayLzSwPrazB7TUYL" type="speaker">Anf. 60 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-VMEoameSZLTU31VTKMMYUA">Regeringens politik för sänkt arbetslöshet</note>
-        <note xml:id="i-JsEb59Cc7y3V3xAramo6Ap" type="speaker">Anf. 61 MATS GREEN (M)</note>
-        <note xml:id="i-FZUAdbphCWvhgmNxWcQ1Tb" type="speaker">Anf. 62 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-SavJPrAq51bbY9DVCUxD5B">Ungdomars hälsa</note>
-        <note xml:id="i-BQus5MWrmTTAiBDH4XjJL1" type="speaker">Anf. 63 MARIE-LOUISE HÄNEL SANDSTRÖM (M)</note>
-        <note xml:id="i-WZkzhGfY7uzMt6FkfSQuhu" type="speaker">Anf. 64 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-YLBY374DuufsXuarR9GdFA">Åtgärder mot våld och ojämlikhet</note>
-        <note xml:id="i-SJDsySLXAvr8v77pHXgLnT" type="speaker">Anf. 65 ANDERS ÖSTERBERG (S)</note>
-        <note xml:id="i-QZYyczSJzVuScsnut49RtV" type="speaker">Anf. 66 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-Q4AaUj8ABtdmSZNGy4bTQZ">Sveriges agerande med anledning av situationen i Iran</note>
-        <note xml:id="i-AXKGASFmrAWn6xiChfPNMr" type="speaker">Anf. 67 LARS-ARNE STAXÄNG (M)</note>
-        <note xml:id="i-9CGs23PLf4PkCYHLu1LQcn" type="speaker">Anf. 68 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-4JRpZfEYAfNukVvJ6L7uBm">Ökat antal polisanställda</note>
-        <note xml:id="i-Ud44c34FtjwtvjiEWiUAzW" type="speaker">Anf. 69 LARS JILMSTAD (M)</note>
-        <note xml:id="i-4SBYVQ5LqyZZvoFKwuAKUb" type="speaker">Anf. 70 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-VapKs5tHQoWJoHhNNe87rV">Statliga åtgärder mot växande vårdköer</note>
-        <note xml:id="i-BbRA9hJSzZ5Dxq4uPAVXbr" type="speaker">Anf. 71 AYLIN FAZELIAN (S)</note>
-        <note xml:id="i-HMZUbhYZosQ3BEofDXBojS" type="speaker">Anf. 72 Statsminister STEFAN LÖFVEN (S)</note>
-        <note xml:id="i-4FpeuUZyhud6u2XevoivTU">Ajournering</note>
-        <note xml:id="i-FANUr82Payh9mCZ74AzYfQ">Återupptaget sammanträde</note>
-        <note xml:id="i-FZ6rcjEGvUUaAAhLVZMmW4">§ 10 Beslut om ärende som slutdebatterats den 27 november</note>
-        <note xml:id="i-ND6Adj7KkADnqCuhFrfNxz">TU4 Skydd av Sveriges säkerhet vid radioanvändning</note>
-        <note xml:id="i-4Hr55NFckHkkcbH1dYzGBq">§ 11 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-PsxMcq9qQmdku4MJonxWSo">FiU6 AP-fondernas verksamhet t.o.m. 2018</note>
-        <note xml:id="i-PuHCezNt89jrx5Yxt4adN3">FiU28 Ingripanden mot utländska kreditinstitut och vissa andra penningtvättsfrågor</note>
-        <note xml:id="i-55JcfVQx9sfTF4hvAEV5xR">FiU29 Skyldighet för kreditinstitut att tillhandahålla kontanttjänster</note>
-        <note xml:id="i-SnA8YVwsthyrtANaMcMUak">CU5 Lägre kapitalkrav för privata aktiebolag</note>
-        <note xml:id="i-ULTPoxA8XgoT1WoFrgXkLm">SkU8 Genomförande av regler i EU:s direktiv mot skatteundandraganden för att neutralisera effekterna av hybrida missmatchningar</note>
-        <note xml:id="i-W6kGYXhZGBeq5RUtofSuXx">SkU9 Genomförande av regler om beskattning av inkomst från obeaktat fast driftställe i EU:s direktiv mot skatteundandraganden</note>
-        <note xml:id="i-MJE9t7kTht4QZcGmMeNkF3">§ 12 Bordläggning</note>
-        <note xml:id="i-XyN1hhUP7oBV1NbPdEnEJn">§ 13 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-X9MASk8urqvTC7asLXSzyL">§ 14 Anmälan om skriftliga svar på frågor</note>
-        <note xml:id="i-3KcnqEGcm9Fs2vaLdFDWSH">§ 15 Kammaren åtskildes kl. 16.08.</note>
-        <note xml:id="i-LsjBma6Pjm2pUL6kuNc8W8">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>

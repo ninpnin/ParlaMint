@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 126 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 126 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--126">2019/20--126</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,16 +75,16 @@
   </teiHeader>
   <text ana="#covid">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Ru8yvFYf8Gm4cuU2fjMqQ7">§ 1 Justering av protokoll</head>
         <note xml:id="i-6PZvELmPBt8vDprnKSnMmG">Protokollet för den 6 maj justerades.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EgqRVmau5XmtbpLnV9XrcW">§ 2 Anmälan om granskningsrapport</head>
         <note xml:id="i-5SyDNtWTzDsSydFdmBmpuj">Förste vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till arbetsmarknadsutskottet :</note>
         <note xml:id="i-Cufw79qMUUpH8CwSUfsDFK">RiR 2020:13 Stöd och matchning – ett valfrihetssystem för arbetssökande</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-5y7YTv8Lampd5TXuUCxBru">§ 3 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-JXKHP4niSV1g9xYVmcj8Nz">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-K34d1DPz5LwjrQyGCuvrAp">EU-dokument</note>
@@ -244,7 +245,7 @@
         <note xml:id="i-9BouSv4V7XWwYS3BmHNz6S">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-LXeiYbHPoRcac6eqh4VQU6">(Beslut fattades under § 16 .)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-6bDH1T23WPW9SC1PD7o5ic">§ 5 Ökat skydd för sjömäns anställning vid sjöröveri eller väpnat rån mot fartyg</head>
         <note xml:id="i-WaeddrVbfYuEnuUbe3Xi6W">Trafikutskottets betänkande 2019/20:TU16</note>
         <note xml:id="i-8edNJ2VZdfu96cZu89R52y">Ökat skydd för sjömäns anställning vid sjöröveri eller väpnat rån mot fartyg (prop. 2019/20:85)</note>
@@ -513,7 +514,7 @@
         <note xml:id="i-UpuYssCFyE1HBvDx9xSats">Överläggningen var härmed avslutad.</note>
         <note xml:id="i-HfBZrT6RxQWE1Be21RqpQt">(Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-QoyuMvmxW6gzE9cJorFdZL">§ 8 Några fastighetsrättsliga frågor</head>
         <note xml:id="i-W4ek9qYzetcC5sK5TTdfYv">Civilutskottets betänkande 2019/20:CU20</note>
         <note xml:id="i-GS4JjDUeSZpdpwX8uzDkon">Några fastighetsrättsliga frågor (prop. 2019/20:125)</note>
@@ -521,7 +522,7 @@
         <note xml:id="i-9SMLYMVFWcbt7LaDdtEAfb">Andre vice talmannen konstaterade att ingen talare var anmäld.</note>
         <note xml:id="i-EqiMRjjNMeERY65RatK7os">(Beslut fattades under § 16.)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KR99jdjEnwgsEnBcvamjMe">§ 9 En mer ändamålsenlig dataskyddsreglering för studiestödsverksamheten</head>
         <note xml:id="i-3MYnzhqoEj3hAgwJfh31Yf">Utbildningsutskottets betänkande 2019/20:UbU19</note>
         <note xml:id="i-WFSChY8inR6HMpcHmk2gbb">En mer ändamålsenlig dataskyddsreglering för studiestödsverksamheten (prop. 2019/20:113)</note>
@@ -1211,7 +1212,7 @@
         <note xml:id="i-MrRqjnc4yHigVDvPiJjfne">Återupptaget sammanträde</note>
         <note xml:id="i-4fYPuSrbnApFT7Xxu8xMAA">Sammanträdet återupptogs kl. 16.00.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KPUtTyCuRjjcvTuTk9eKCt">§ 14 Beslut om ärenden som slutdebatterats den 14 maj</head>
         <note xml:id="i-L97fReGdZLkH9VWwEFfxAy">UU8 Europarådet</note>
         <note xml:id="i-7ompt8DwrscnjQoWP5dx67">Punkt 1 (Europarådet)</note>
@@ -1256,7 +1257,7 @@
         <note xml:id="i-EZdpGghSSb6y26ZJCnSk2o">Övriga punkter</note>
         <note xml:id="i-UAEDUfaZEzvSDL4JcDQCqE">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WGwjXNB3Vvd5KLcJTeMWJR">§ 15 Beslut om ärenden som slutdebatterats den 26 maj</head>
         <note xml:id="i-Q7STcGkzTA4YAYX3vD2R7H">FiU58 Rättelse i lagen om näringsförbud</note>
         <note xml:id="i-H4fmzjKF1pJKSZddHxKLQf">Kammaren biföll utskottets förslag.</note>
@@ -1383,7 +1384,7 @@
         <note xml:id="i-EMXFLRZW9BoV6S5ChbZ8EB">Övriga punkter</note>
         <note xml:id="i-FLju9DtwbUjXPTDnnc4x6Y">Kammaren biföll utskottets förslag.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-PtzQ9eEGasL4UbMhS7sUSB">§ 16 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
         <note xml:id="i-2JuZokJEGkUabCMXf16Z1g">FiU59 Extra ändringsbudget för 2020 – Anpassningar av reglerna om stöd vid korttidsarbete och tillfälliga anstånd samt ett effektivare informationsutbyte inom Skatteverket m.m. med anledning av corona ­ viruset</note>
         <note xml:id="i-PbecbGscUFDbPym3vVa4dd">1. utskottet</note>
@@ -1593,7 +1594,7 @@
         <note xml:id="i-D16q48Pkn338WjVLxT2jDi">För res.: 16 S, 4 V, 3 MP</note>
         <note xml:id="i-UhvUwikLc8yf8uXg8jeGpf">Frånvarande: 84 S, 60 M, 52 SD, 26 C, 23 V, 19 KD, 16 L, 13 MP, 2 -</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-CnqaRvnee18AAn9JzDdfmo">§ 17 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-PinbF8Emy85Fi1Ptv28fPp">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-N9cTXcgaiemEMSBtbzzAJZ">den 26 maj</note>
@@ -1655,7 +1656,7 @@
         <note xml:id="i-6g6z5nPK7gPeod1fCshWXs">av Marléne Lund Kopparklint (M)</note>
         <note xml:id="i-DUhEafw9vbNxup3tP2vD3b">till socialminister Lena Hallengren (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-MiEULqQM5NrSL77ZLyeSBL">§ 18 Kammaren åtskildes kl. 16 . 24 .</head>
         <note xml:id="i-VVvUXMVFUaDTYyu8KfDBfx">Sammanträdet leddes</note>
         <note xml:id="i-5HMGRuhgGYkFdVpb4XaUQF">av förste vice talmannen från dess början till och med § 7 anf. 24 (delvis),</note>
@@ -1664,154 +1665,6 @@
         <note xml:id="i-3MuHuXX2Hfe7jrLw4WMKnA">av tredje vice talmannen därefter till dess slut.</note>
         <note xml:id="i-GAq1oE82qMgfbybdrDjwsH">Vid protokollet</note>
         <note xml:id="i-BKNU7tH7PtsbbBtGuixki9">ANNA ASPEGREN</note>
-        <note xml:id="i-5rYDxi16dhmFQ56hRBCGQt">/ Olof Pilo</note>
-        <note xml:id="i-73B9Jc1pDyqm4AjBs7sZ7D">Innehållsförteckning</note>
-        <note xml:id="i-Mw8Mk3DADMRH2SGiu2kPWf">§ 1 Justering av protokoll</note>
-        <note xml:id="i-J5bWKvWgSvoJyg2FgncYkE">§ 2 Anmälan om granskningsrapport</note>
-        <note xml:id="i-TL5pchY8AJKDMBvErPtEHz">§ 3 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-TYSB1YSXd1ncjSLvr73vs9">§ 4 Extra ändringsbudget för 2020 – Anpassningar av reglerna om stöd vid korttidsarbete och tillfälliga anstånd samt ett effektivare informationsutbyte inom Skatteverket m.m. med anledning av coronaviruset</note>
-        <note xml:id="i-Nsvz2DrrxjWxKmvVeJkkxe">Finansutskottets betänkande 2019/20:FiU59</note>
-        <note xml:id="i-D2u7tWYNaz7vdozhNBuw9C" type="speaker">Anf. 1 CHARLOTTE QUENSEL (SD)</note>
-        <note xml:id="i-U57GjY1qhsfyXnkqw6qE6a" type="speaker">Anf. 2 JAKOB FORSSMED (KD)</note>
-        <note xml:id="i-PPRtBczmeKX2GKsLkbK2eX" type="speaker">Anf. 3 FREDRIK OLOVSSON (S)</note>
-        <note xml:id="i-YSk7NGhJK8cpKDc9ssRFfA" type="speaker">Anf. 4 ELISABETH SVANTESSON (M)</note>
-        <note xml:id="i-Di83n4RkAjKRbEpe9MSmMb" type="speaker">Anf. 5 EMIL KÄLLSTRÖM (C)</note>
-        <note xml:id="i-U3SWw85wSdKE1PLi5k2R2A" type="speaker">Anf. 6 ULLA ANDERSSON (V)</note>
-        <note xml:id="i-8LNB58UZfnSDCz3sJ3D63a" type="speaker">Anf. 7 JOAR FORSSELL (L)</note>
-        <note xml:id="i-ECWYi63oxvJih8XgeNErM4">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-Mf27p7BEcDLvD3Hu4kKMUS">§ 5 Ökat skydd för sjömäns anställning vid sjöröveri eller väpnat rån mot fartyg</note>
-        <note xml:id="i-D4Vd199D9mA2tTHL5ZuRY5">Trafikutskottets betänkande 2019/20:TU16</note>
-        <note xml:id="i-VKKmewp8XTbUm8pwz589j3">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-Pk7rQVVJip2sAoc4Q1U3xM">§ 6 Förlängd giltighetstid för yrkeskompetensbevis</note>
-        <note xml:id="i-NA2W8Xq79zaDMbMiRVpyKp">Trafikutskottets betänkande 2019/20:TU18</note>
-        <note xml:id="i-UsVEEVQaAYC9wMGENXGXYH" type="speaker">Anf. 8 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-UnRsi8AGYvoMxWfpMSFety" type="speaker">Anf. 9 THOMAS MORELL (SD)</note>
-        <note xml:id="i-WyAbDBKMXMGqU6hHgiAdkp" type="speaker">Anf. 10 MAGNUS JACOBSSON (KD)</note>
-        <note xml:id="i-2vC7tXkMTh3ELQr1RF6D1D" type="speaker">Anf. 11 TERES LINDBERG (S)</note>
-        <note xml:id="i-LD2kP72a5tgrvVqUp5Ryer" type="speaker">Anf. 12 THOMAS MORELL (SD) replik</note>
-        <note xml:id="i-VdXqsaZvL529y1FqpbJDbC" type="speaker">Anf. 13 TERES LINDBERG (S) replik</note>
-        <note xml:id="i-JAj2unPKPetmLtzqFmCqn2" type="speaker">Anf. 14 THOMAS MORELL (SD) replik</note>
-        <note xml:id="i-4DgkMGuE2hJvmVFo1ypFSa" type="speaker">Anf. 15 TERES LINDBERG (S) replik</note>
-        <note xml:id="i-PKVtZ9GEvURjfpdNu4Wq4B" type="speaker">Anf. 16 MAGNUS JACOBSSON (KD) replik</note>
-        <note xml:id="i-MBAY3VFMGvfGospAxp5b33" type="speaker">Anf. 17 TERES LINDBERG (S) replik</note>
-        <note xml:id="i-ME8Yr2HtPS8YLXtcbpKCHT" type="speaker">Anf. 18 MAGNUS JACOBSSON (KD) replik</note>
-        <note xml:id="i-5ZLEfWGbNppAGVTFy2UAiR" type="speaker">Anf. 19 TERES LINDBERG (S) replik</note>
-        <note xml:id="i-NFjnHcdUW6p6AhhY57n15G">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-G55nKFtaAfrxmhrTsdxK8U">§ 7 Förutsättningar för etableringsjobb och vissa frågor om kontroll inom den arbetsmarknadspolitiska verksamheten</note>
-        <note xml:id="i-6RmEbvzSAWSnesjSKdnGCN">Arbetsmarknadsutskottets betänkande 2019/20:AU12</note>
-        <note xml:id="i-RxCkfm3uxQpBTLwco8EcSf" type="speaker">Anf. 20 MARIA STOCKHAUS (M)</note>
-        <note xml:id="i-WMrct2bgfUHX4pBcKSNmJg" type="speaker">Anf. 21 ALEXANDER CHRISTIANSSON (SD)</note>
-        <note xml:id="i-XSfYeY3itUhX7VqJtcPcQF" type="speaker">Anf. 22 SOFIA DAMM (KD)</note>
-        <note xml:id="i-BkjLu9rXeESARbJ1TevbXq" type="speaker">Anf. 23 JOHANNA HARALDSSON (S)</note>
-        <note xml:id="i-Xi2cK4kPiwqF4uZazrfm88" type="speaker">Anf. 24 MARTIN ÅDAHL (C)</note>
-        <note xml:id="i-6ZGJxaRh42LVHt143dFfKC" type="speaker">Anf. 25 ALI ESBATI (V)</note>
-        <note xml:id="i-LJR3Z6wMT3GoqwVTU1Yy4X" type="speaker">Anf. 26 GULAN AVCI (L)</note>
-        <note xml:id="i-Qv3kv1eFSgxT33994jzivF" type="speaker">Anf. 27 LEILA ALI-ELMI (MP)</note>
-        <note xml:id="i-TW9n54P83K29dqLz5CNHaM">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-2mnADe8wGcZbyww4tZszxx">§ 8 Några fastighetsrättsliga frågor</note>
-        <note xml:id="i-FVDHVHs4pU9bj2uyQJ3Wry">Civilutskottets betänkande 2019/20:CU20</note>
-        <note xml:id="i-2R55MjujpJnVHn9nypKZbi">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-dZ6UFsyVrEi4qA7mHVcCn">§ 9 En mer ändamålsenlig dataskyddsreglering för studiestödsverksamheten</note>
-        <note xml:id="i-PkmwjdS8Yn6nUX93Uj356z">Utbildningsutskottets betänkande 2019/20:UbU19</note>
-        <note xml:id="i-BcjTvymgZtGpbRmie6RrVE">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-6KTPUkitB8G4TmWhkAQ1TZ">§ 10 Några frågor om rehabiliteringsersättning och vårdbidrag</note>
-        <note xml:id="i-HTLm7fRdJdvupgZgpkTUeq">Socialförsäkringsutskottets betänkande 2019/20:SfU23</note>
-        <note xml:id="i-Rjc31eqUD65wSdHRPWnfak" type="speaker">Anf. 28 MATTIAS VEPSÄ (S)</note>
-        <note xml:id="i-9W6oae2uJF7HgTcKzZhzGL" type="speaker">Anf. 29 SOLVEIG ZANDER (C)</note>
-        <note xml:id="i-EJM18mdzdoTt5osMTATrsz" type="speaker">Anf. 30 PIA STEENSLAND (KD)</note>
-        <note xml:id="i-LP8PLL8crdFRLsqcAGWQY3">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-GGste4zDx44j52JGncu1FP">§ 11 Resultatskrivelse om utvecklingssamarbete och humanitärt bistånd genom multilaterala organisationer</note>
-        <note xml:id="i-MskkAfETLfsPQHALKQENaE">Utrikesutskottets betänkande 2019/20:UU17</note>
-        <note xml:id="i-GXUcPCBgYErjeF1UZTfvwo" type="speaker">Anf. 31 MAGDALENA SCHRÖDER (M)</note>
-        <note xml:id="i-6qNJx8vA7fQ3wW1s1FRioD" type="speaker">Anf. 32 LUDVIG ASPLING (SD)</note>
-        <note xml:id="i-UpVQviebnj6d93buMEZnfS" type="speaker">Anf. 33 KERSTIN LUNDGREN (C)</note>
-        <note xml:id="i-3qA8VngDRHsUYCD2TN7D8u" type="speaker">Anf. 34 LARS ADAKTUSSON (KD)</note>
-        <note xml:id="i-ERJYsaXYBu63dXB56GLLQt" type="speaker">Anf. 35 FREDRIK MALM (L)</note>
-        <note xml:id="i-TXYSZP8t4cAHirw5MqEhSF" type="speaker">Anf. 36 LUDVIG ASPLING (SD) replik</note>
-        <note xml:id="i-QDAfXnamte99AgypPxnbfB" type="speaker">Anf. 37 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-9wwnax1AEjCU4ceeMBhuy7" type="speaker">Anf. 38 LUDVIG ASPLING (SD) replik</note>
-        <note xml:id="i-QtkUz1HMk6JiBe24oQpBK9" type="speaker">Anf. 39 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-AHir3e9AzaNCx9em8ZQmbX" type="speaker">Anf. 40 ANNIKA STRANDHÄLL (S)</note>
-        <note xml:id="i-JN6jJbugngwnNpiz1ttBp3" type="speaker">Anf. 41 YASMINE POSIO (V)</note>
-        <note xml:id="i-S9PZ7aG1xhWjReZHUj6Ty3" type="speaker">Anf. 42 Statsrådet PETER ERIKSSON (MP)</note>
-        <note xml:id="i-DcDTS2vHs9nM8igA5UMsF3" type="speaker">Anf. 43 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-P3UHupQMgptD9D11D4bFC4" type="speaker">Anf. 44 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-4ACxtn5omfFc5GjnkJGT1n" type="speaker">Anf. 45 LARS ADAKTUSSON (KD) replik</note>
-        <note xml:id="i-4UDc9vW7MxPQvchSJSzNmM" type="speaker">Anf. 46 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-5GNUiPZ6ij5v6u6MzytQET" type="speaker">Anf. 47 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-UH8JzjUq7844es8fsTSVkU" type="speaker">Anf. 48 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-VVocF5heHyqG25pbwzdzbF" type="speaker">Anf. 49 KERSTIN LUNDGREN (C) replik</note>
-        <note xml:id="i-WR4XtFTQ6kf9t9HjtxWVdf" type="speaker">Anf. 50 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-BdXzubFFkFxmyRiu3WtWVo" type="speaker">Anf. 51 MAGDALENA SCHRÖDER (M) replik</note>
-        <note xml:id="i-TaHJBckXShJvmkN76oETS5" type="speaker">Anf. 52 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-U5ndWyLxjevMU995HUd1ew" type="speaker">Anf. 53 MAGDALENA SCHRÖDER (M) replik</note>
-        <note xml:id="i-QdyFHysCrM12KJSEfxfYTV" type="speaker">Anf. 54 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-QY9gCNASKseox4TWhXvWjY" type="speaker">Anf. 55 LUDVIG ASPLING (SD) replik</note>
-        <note xml:id="i-A2BriFDFT96BYU45QCPpKM" type="speaker">Anf. 56 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-3wqJTkyyB9gcUbx5UHXuAG" type="speaker">Anf. 57 LUDVIG ASPLING (SD) replik</note>
-        <note xml:id="i-FrSbeYYYW7tZ7hHztY8jag" type="speaker">Anf. 58 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-EPi6wkKP6o13Tg6twmf69k" type="speaker">Anf. 59 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-KtYUgRoqvUTJX59pEtCbyR" type="speaker">Anf. 60 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-SUYseXBPUfEejEHgodmcvT" type="speaker">Anf. 61 YASMINE POSIO (V) replik</note>
-        <note xml:id="i-2ZKdnxtMJAnVjNDYHEoJXp" type="speaker">Anf. 62 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-NweLuCoV7EWywNZuyLexvz" type="speaker">Anf. 63 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-WVfhcNyPH2UCoV5ZzS7JZE" type="speaker">Anf. 64 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-BhQEE6YMP8V5gZZT3fVquA" type="speaker">Anf. 65 FREDRIK MALM (L) replik</note>
-        <note xml:id="i-6QvUxQYFCUZJVPum7BisRF" type="speaker">Anf. 66 Statsrådet PETER ERIKSSON (MP) replik</note>
-        <note xml:id="i-R7RHgN9xRmnQYnzJnhFubR">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-Fj6vVL2KX8vMEEZmi8967q">§ 12 Riksrevisionens granskning av statliga insatser för att underlätta nyföretagande genom digitalisering</note>
-        <note xml:id="i-CsdeNdaAQzdpy2cRmGLD7b">Näringsutskottets betänkande 2019/20:NU16</note>
-        <note xml:id="i-U9AgaknYcrt6UX5QXcQtTb" type="speaker">Anf. 67 HELENE HELLMARK KNUTSSON (S)</note>
-        <note xml:id="i-7kKr9V9Y2sPTvqKnj4DgD3" type="speaker">Anf. 68 ANN-CHARLOTTE HAMMAR JOHNSSON (M)</note>
-        <note xml:id="i-3EJhwrRqoQZarcwuYZ66Bz" type="speaker">Anf. 69 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-UrbV8juD9mhRuT4g35Cdmw" type="speaker">Anf. 70 PER SCHÖLDBERG (C)</note>
-        <note xml:id="i-6P6WRBugWQPNinjjgBfrRy" type="speaker">Anf. 71 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-RF8pZcGoViameZcYMNj5yU" type="speaker">Anf. 72 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-FAB2XB4ce2zuDWgzW7okLw" type="speaker">Anf. 73 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-6PY6wWkJ73YWCnVaHpCAZr" type="speaker">Anf. 74 AMANDA PALMSTIERNA (MP)</note>
-        <note xml:id="i-G5RiPRjPQCxEsA16up9BFq" type="speaker">Anf. 75 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-B9fLwhuDQEqGiAHa9NYVpK">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-88qBRHLSPjRGDgtzioSGUv">§ 13 Riksrevisionens rapport om Konkurrensverkets tillsyn</note>
-        <note xml:id="i-RK8geHsRvJLdZt1fqXov8e">Näringsutskottets betänkande 2019/20:NU17</note>
-        <note xml:id="i-DWDBxw3BuENzDDscTZzBYg" type="speaker">Anf. 76 MATHIAS TEGNÉR (S)</note>
-        <note xml:id="i-2MVFsJviAdb5AUFw78wp5E" type="speaker">Anf. 77 AMANDA PALMSTIERNA (MP)</note>
-        <note xml:id="i-G6vo8G5m9dW6xVnfLW1zkm" type="speaker">Anf. 78 ANN-CHARLOTTE HAMMAR JOHNSSON (M)</note>
-        <note xml:id="i-29GC49K9Fpzc1zaB3Dv3WF" type="speaker">Anf. 79 MATHIAS TEGNÉR (S) replik</note>
-        <note xml:id="i-GavkXFCXwYsNTd5iRv33Dp" type="speaker">Anf. 80 ANN-CHARLOTTE HAMMAR JOHNSSON (M) replik</note>
-        <note xml:id="i-NYmxPGTK9qFkaPh2v5nGx3" type="speaker">Anf. 81 MATHIAS TEGNÉR (S) replik</note>
-        <note xml:id="i-CVTm3WmuV1H7kmLYy22qx2" type="speaker">Anf. 82 ANN-CHARLOTTE HAMMAR JOHNSSON (M) replik</note>
-        <note xml:id="i-GyNNBJE3Qe87Bj9XYgXTRx" type="speaker">Anf. 83 TOBIAS ANDERSSON (SD)</note>
-        <note xml:id="i-3XhquTHgMZiPMgG3LAqYgh" type="speaker">Anf. 84 PER SCHÖLDBERG (C)</note>
-        <note xml:id="i-Dv7YxGMJa6JwoSwaxytY8s" type="speaker">Anf. 85 CAMILLA BRODIN (KD)</note>
-        <note xml:id="i-K6WMHvbPNQujNM8bLdWTvk" type="speaker">Anf. 86 ARMAN TEIMOURI (L)</note>
-        <note xml:id="i-KWgKYngVzPCkbBxykHTqaQ">(Beslut fattades under § 16.)</note>
-        <note xml:id="i-48UZcX2HpVsXkR4G6WBUmk">Ajournering</note>
-        <note xml:id="i-XKMhRD9hFngjwuB9oLz8eZ">Återupptaget sammanträde</note>
-        <note xml:id="i-3kGeWPBXbz58hVmH3yeaJ1">§ 14 Beslut om ärenden som slutdebatterats den 14 maj</note>
-        <note xml:id="i-4ixcPWSUByfLWueaqfPWP3">UU8 Europarådet</note>
-        <note xml:id="i-YCSUfTLZbvbWsMbV9iJeVY">SoU15 Förbättringar för barn inom den psykiatriska tvångsvården</note>
-        <note xml:id="i-2FZiGkXePymT6WxzVJ5TXZ">§ 15 Beslut om ärenden som slutdebatterats den 26 maj</note>
-        <note xml:id="i-D1L6j4ZeBtzZDWJAHuASCL">FiU58 Rättelse i lagen om näringsförbud</note>
-        <note xml:id="i-5mhQskhLWaz2jECeqgToSC">JuU23 Ökat skydd mot hedersrelaterad brottslighet</note>
-        <note xml:id="i-4GJmujMKZbTTrFzWBjHduq">JuU24 Stärkt integritet i Rättsmedicinalverkets verksamhet</note>
-        <note xml:id="i-NDy3qYyQZyCdJTCYuZvb6n">JuU40 En effektivare hantering av ärenden om överförande av straffverkställighet</note>
-        <note xml:id="i-94DTpEiHyovwULTMNv9hbG">SoU11 Hälso- och sjukvårdens organisation m.m.</note>
-        <note xml:id="i-DENENTRfoVmH7SKAsXTxEt">§ 16 Beslut om ärenden som slutdebatterats vid dagens sammanträde</note>
-        <note xml:id="i-VzYVFn1ENaXT6wLyVw4Dzv">FiU59 Extra ändringsbudget för 2020 – Anpassningar av reglerna om stöd vid korttidsarbete och tillfälliga anstånd samt ett effektivare informationsutbyte inom Skatteverket m.m. med anledning av coronaviruset</note>
-        <note xml:id="i-FfuqrFuoDhjnuxQ6tQGydn">TU16 Ökat skydd för sjömäns anställning vid sjöröveri eller väpnat rån mot fartyg</note>
-        <note xml:id="i-9kWeNPJVYLPeKt5APLoShk">TU18 Förlängd giltighetstid för yrkeskompetensbevis</note>
-        <note xml:id="i-DGdxDVRMSUf373osGJCSbe">AU12 Förutsättningar för etableringsjobb och vissa frågor om kontroll inom den arbetsmarknadspolitiska verksamheten</note>
-        <note xml:id="i-UvaW9QfrQMb8aPjPYFNXm6">CU20 Några fastighetsrättsliga frågor</note>
-        <note xml:id="i-6MaRWQoEsHhFSwtp36FSVq">UbU19 En mer ändamålsenlig dataskyddsreglering för studiestödsverksamheten</note>
-        <note xml:id="i-M1cD66FnnPHaboJzvJDNqc">SfU23 Några frågor om rehabiliteringsersättning och vårdbidrag</note>
-        <note xml:id="i-Dq1UpWdoK5pL94Mu4Cb6TE">UU17 Resultatskrivelse om utvecklingssamarbete och humanitärt bistånd genom multilaterala organisationer</note>
-        <note xml:id="i-2UCENeJzNPgZUeGgcNFVDX">NU16 Riksrevisionens granskning av statliga insatser för att underlätta nyföretagande genom digitalisering</note>
-        <note xml:id="i-Vd3sRbuqkFybGAEmNjunHX">NU17 Riksrevisionens rapport om Konkurrensverkets tillsyn</note>
-        <note xml:id="i-Wp3Lcm6c8GY5p7tFQfkGb">§ 17 Anmälan om frågor för skriftliga svar</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-E5Hn51WSknHPwpCoY2nfJJ">§ 18 Kammaren åtskildes kl. 16.24.</head>
-        <note xml:id="i-HM6S4sDjT3HWQhTwEhim9Q">Tryck: Elanders Sverige AB, Vällingby 2020</note>
       </div>
     </body>
   </text>

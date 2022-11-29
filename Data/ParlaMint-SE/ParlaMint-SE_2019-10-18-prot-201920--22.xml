@@ -6,6 +6,7 @@
         <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 22 [ParlaMint]</title>
         <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 22 [ParlaMint SAMPLE]</title>
         <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--22">2019/20--22</meeting>
       </titleStmt>
       <editionStmt>
         <edition>2.0</edition>
@@ -74,7 +75,7 @@
   </teiHeader>
   <text ana="#reference">
     <body>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-H4c1knfFua55jNxkhPbS7z">§ 1 Anmälan om ny riksdagsledamot</head>
         <note xml:id="i-PRmsS2hvMQX924FmS7cSoq">Följande berättelse hade kommit in från Valprövningsnämnden:</note>
         <note xml:id="i-gaG3vENH3nY93E6jYEf3R">Berättelse om granskning av bevis för ny ledamot och nya ersättare för ledamöter av riksdag en</note>
@@ -85,11 +86,11 @@
         <note xml:id="i-RLYRdhyzc7p7tAv3VPs9MH">ersättare för ordförande n / Agota Földes</note>
         <note xml:id="i-6XYdvP23mpgDF9ixfdqvfa">sekreterare</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-NbsnJRkFmDwk669KXJcRt">§ 2 Anmälan om ersättare</head>
         <note xml:id="i-SPhaHQufQmHy2Xf84bCF7c">Tredje vice t almannen anmälde att Nermina Mizimovic ( S ) skulle tjänstgöra som ersättare för Laila Naraghi (S) under tiden för hennes ledighet den 11 november 2019–14 februari 20 20 i stället för den 7 november 201 9 – 14 februari 20 20 som tidigare meddelats.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-EHNpo69vXLaHSnYUCkSwus">§ 3 Anmälan om kompletteringsval</head>
         <note xml:id="i-PvpgfPW9H1fkF9yCSderC3">Tredje vice talmannen meddelade att Socialdemokraternas riksdagsgrupp anmält Nermina Mizimovic som supplean t i konstitutionsutskottet och i skatteutskottet .</note>
         <note xml:id="i-8iRgnWweJ9YSiktKFo1kVh">Tredje vice talmannen förklarade vald under tiden den 11 november 2019– 14 februari 2020 till</note>
@@ -98,11 +99,11 @@
         <note xml:id="i-PwnhWMfX4VkXNVJ7EMXo2Y">suppleant i skatteutskottet</note>
         <note xml:id="i-GTUTBCUQdccJZAHycud62e">Nermina Mizimovic (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KPiLVdCPJaEXmY1jDR2fWe">§ 4 Meddelande om EU-politisk partiledardebatt</head>
         <note xml:id="i-KhsJURPofKc4p4UqdbVyQ7">Tredje vice talmannen meddelade att EU ‑ politisk partiledardebatt skulle äga rum onsdagen den 13 november kl. 9.00 .</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-FYgzV4KuqpLbD6kuH37j3W">§ 5 Ärenden för hänvisning till utskott</head>
         <note xml:id="i-CFCP2KCAj2ySUJ3dhjzx9U">Följande dokument hänvisades till utskott:</note>
         <note xml:id="i-Vq9XrdQgvCFVU4S1Hz75kV">Proposition</note>
@@ -178,7 +179,7 @@
         </u>
         <note xml:id="i-RQDMiJZpbVmC2UzzD9dKCa">Interpellationsdebatten var härmed avslutad.</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-Cq4CnVoEANh9RELzpFSi5F">§ 7 Bordläggning</head>
         <note xml:id="i-A8LTqDMLMTNgPqEPm9iwiT">Följande dokument anmäldes och bordlades:</note>
         <note xml:id="i-Pyb2Aa9cThprmrsRxRZUSc">Motioner</note>
@@ -196,7 +197,7 @@
         <note xml:id="i-SpLbPFujYdmMUx4jPFFyxM">2019/20:3401 av Håkan Svenneling m.fl. (V)</note>
         <note xml:id="i-RXnqokY3DBT2e9aCahLBS2">2019/20:3403 av Fredrik Malm m.fl. (L)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-KTEdvicrU2TShAFkVfPm6S">§ 8 Anmälan om interpellationer</head>
         <note xml:id="i-SuKm44evAhf2EMdssQMFFG">Följande interpellationer hade framställts:</note>
         <note xml:id="i-3maC6eBhHJUipE4EhjWspT">den 17 oktober</note>
@@ -219,7 +220,7 @@
         <note xml:id="i-DUnV4wJTtC93R2SyNQ357">av Elisabeth Björnsdotter Rahm (M)</note>
         <note xml:id="i-4S2c6rx4uWtn6qmDwp9Ymn">till infrastrukturminister Tomas Eneroth (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-WwJscyjuQJnzW915xvis9n">§ 9 Anmälan om frågor för skriftliga svar</head>
         <note xml:id="i-KLwiMChUkH9Pvnsn9got1">Följande frågor för skriftliga svar hade framställts:</note>
         <note xml:id="i-FhVtRjzrwmD72TffiX8nej">den 17 oktober</note>
@@ -248,7 +249,7 @@
         <note xml:id="i-HbsokvJBkFbVNwQzUeXhXT">av Håkan Svenneling (V)</note>
         <note xml:id="i-F9nUGjaURGQRKZEjoHbC6s">till utrikesminister Ann Linde (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BNcJdvb8FJonC7XFxxmgsC">§ 10 Anmälan om skriftliga svar på frågor</head>
         <note xml:id="i-3CG2LS65noWPZvfXusx5x8">Skriftliga svar på följande frågor hade kommit in:</note>
         <note xml:id="i-UE6fBuyVwDZBdK3bnjBhCM">den 17 oktober</note>
@@ -262,34 +263,11 @@
         <note xml:id="i-Xr7idffLB2LipFm19ZMw1y">av Betty Malmberg (M)</note>
         <note xml:id="i-VyWUHWcYjDk4AEWGv51FDu">till statsrådet Jennie Nilsson (S)</note>
       </div>
-      <div type="debateSection">
+      <div type="commentSection">
         <head xml:id="i-BtAiCg4PmXNqDSems9GnYt">§ 11 Kammaren åtskildes kl. 9.22 .</head>
         <note xml:id="i-LWkfpdZFFngXaaUpqyFnMy">Sammanträdet leddes av tredje vice talmannen.</note>
         <note xml:id="i-2F1ViXzNJpY5rXM5sHUGi1">Vid protokollet</note>
         <note xml:id="i-CzWnH1JrRgXLqYF6d7MRs9">THOMAS LARUE</note>
-        <note xml:id="i-36PEMWm6ZAhMGo6PQNuGSP">/Olof Pilo</note>
-        <note xml:id="i-VyopnqFuUq29pP3BhHZSDS">Innehållsförteckning</note>
-        <note xml:id="i-DzMdNbdXMcfqz9MhpkCNDb">§ 1 Anmälan om ny riksdagsledamot</note>
-        <note xml:id="i-5HWBoVZFrZ7KctESq4ZJm8">§ 2 Anmälan om ersättare</note>
-        <note xml:id="i-Fg3GotmPkmfJbcWKje4Zxc">§ 3 Anmälan om kompletteringsval</note>
-        <note xml:id="i-Qk6nXm7c31NTqwyd7WWyvt">§ 4 Meddelande om EU-politisk partiledardebatt</note>
-        <note xml:id="i-KLrzReBwwrirrVqHDVgqWV">§ 5 Ärenden för hänvisning till utskott</note>
-        <note xml:id="i-VBt82vkSpvSXKUWYascKRh">§ 6 Svar på interpellation 2019/20:28 om Exportkreditnämndens regelverk</note>
-        <note xml:id="i-GbqbtutjnJjLVLJzwrsEu7" type="speaker">Anf. 1 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-CjYspbXgfLW4oSg1GaNNFj" type="speaker">Anf. 2 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-X6DMY4uLtj7XxTxoANDoE5" type="speaker">Anf. 3 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-Gp4ccQMLkVJYeivC8taPhB" type="speaker">Anf. 4 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-6HDk6UELAeagGP3AYBMG3i" type="speaker">Anf. 5 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-WzJCsvcbAJrRtbpwtdk4By" type="speaker">Anf. 6 LORENA DELGADO VARAS (V)</note>
-        <note xml:id="i-MmPLhXYxRhFVY536VbxrTX" type="speaker">Anf. 7 Statsrådet ANNA HALLBERG (S)</note>
-        <note xml:id="i-KpSxjMQPFn1rNFnHe1PZVS">§ 7 Bordläggning</note>
-        <note xml:id="i-7utPuBFZa2SCQD3Mf3BF7r">§ 8 Anmälan om interpellationer</note>
-        <note xml:id="i-HngH79TEkXwJTQwymcGxmi">§ 9 Anmälan om frågor för skriftliga svar</note>
-        <note xml:id="i-yjv3EsPUtTwbcx4sqmvZj">§ 10 Anmälan om skriftliga svar på frågor</note>
-      </div>
-      <div type="debateSection">
-        <head xml:id="i-K6NiLYnebCA8AU1kKEKC4E">§ 11 Kammaren åtskildes kl. 9.22.</head>
-        <note xml:id="i-DCSRDe6neL6Kcjqke42Zbu">Tryck: Elanders Sverige AB, Vällingby 2019</note>
       </div>
     </body>
   </text>
