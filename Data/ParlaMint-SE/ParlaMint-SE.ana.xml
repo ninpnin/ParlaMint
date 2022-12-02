@@ -681,6 +681,14 @@
             <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2016-01-10"/>
             <affiliation role="member" ref="#Q110832"/>
           </person>
+          <person xml:id="Q3369220">
+            <persName>
+              <surname>Ahlin</surname>
+              <forename>Urban</forename>
+            </persName>
+            <sex value="M"/>
+            <affiliation role="member" ref="#Q105112"/>
+          </person>
           <person xml:id="Q70621742">
             <persName>
               <surname>Akhondi</surname>
@@ -777,7 +785,7 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
           </person>
-          <person xml:id="Q59387749">
+          <person xml:id="Q58837098">
             <persName>
               <surname>Andersson</surname>
               <forename>Jonas</forename>
@@ -786,7 +794,7 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
             <affiliation role="member" ref="#Q504069"/>
           </person>
-          <person xml:id="Q58837098">
+          <person xml:id="Q59387749">
             <persName>
               <surname>Andersson</surname>
               <forename>Jonas</forename>
@@ -831,6 +839,14 @@
             <sex value="F"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2021-11-30">
+              <roleName xml:lang="sv">finansminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">statsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q3370155">
             <persName>
@@ -1042,15 +1058,14 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21">
-              <roleName xml:lang="sv">samordningsminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-21"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">energiminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
               <roleName xml:lang="sv">samordningsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">näringsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">näringsminister</roleName>
             </affiliation>
@@ -1360,35 +1375,31 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2021-11-30"/>
             <affiliation role="member" ref="#Q213451"/>
-            <affiliation role="member" ref="#GOV" from="2016-04-18" to="2016-05-25">
-              <roleName xml:lang="sv">bostadsminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2021-02-05"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2021-02-05">
+              <roleName xml:lang="sv">finansmarknadsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">konsumentminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-04-18" to="2016-05-25">
               <roleName xml:lang="sv">bostadsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-04-18" to="2016-05-25">
-              <roleName xml:lang="sv">digitaliseringsminister</roleName>
-            </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-04-18" to="2016-05-25">
               <roleName xml:lang="sv">digitaliseringsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-02-05">
-              <roleName xml:lang="sv">bostadsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-02-05">
               <roleName xml:lang="sv">bostadsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30">
-              <roleName xml:lang="sv">Klimatminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
               <roleName xml:lang="sv">Klimatminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30">
-              <roleName xml:lang="sv">miljöminister</roleName>
-            </affiliation>
             <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
               <roleName xml:lang="sv">miljöminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2021-07-09" to="2021-11-30">
+              <roleName xml:lang="sv">vice statsminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q50353175">
@@ -1475,6 +1486,10 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-01-30"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-21"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">landsbygdsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q42369058">
             <persName>
@@ -1671,15 +1686,15 @@
             </persName>
             <sex value="M"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-07-09">
-              <roleName xml:lang="sv">EU-minister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-07-09"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-07-09">
               <roleName xml:lang="sv">EU-minister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2021-07-09">
+            <affiliation role="member" ref="#GOV" from="2021-07-09" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-07-09" to="2021-11-30">
               <roleName xml:lang="sv">EU-minister</roleName>
             </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-07-09"/>
             <affiliation role="minister" ref="#GOV" from="2021-07-09">
               <roleName xml:lang="sv">EU-minister</roleName>
             </affiliation>
@@ -1713,11 +1728,17 @@
             <sex value="M"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">inrikesminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-21"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">näringsminister</roleName>
             </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">inrikesminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">finansminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q18238286">
@@ -1738,6 +1759,18 @@
             <sex value="M"/>
             <affiliation role="member" ref="#Riksdagen" from="2019-07-02"/>
             <affiliation role="member" ref="#Q110843"/>
+          </person>
+          <person xml:id="Q63975305">
+            <persName>
+              <surname>Danielsson</surname>
+              <forename>Johan</forename>
+            </persName>
+            <sex value="M"/>
+            <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">bostadsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q64404514">
             <persName>
@@ -1932,27 +1965,21 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2016-09-13" to="2019-01-21">
-              <roleName xml:lang="sv">ungdomsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2016-09-13" to="2019-01-21"/>
             <affiliation role="minister" ref="#GOV" from="2016-09-13" to="2019-01-21">
               <roleName xml:lang="sv">ungdomsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-09-13">
+            <affiliation role="minister" ref="#GOV" from="2016-09-13" to="2019-01-19">
               <roleName xml:lang="sv">skolminister</roleName>
             </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2016-09-13">
-              <roleName xml:lang="sv">skolminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-09-13">
-              <roleName xml:lang="sv">ungdomsminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2016-09-13">
-              <roleName xml:lang="sv">ungdomsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21">
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">utbildningsminister</roleName>
             </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-07-09">
+              <roleName xml:lang="sv">utbildningsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21">
               <roleName xml:lang="sv">utbildningsminister</roleName>
             </affiliation>
@@ -1976,6 +2003,18 @@
             <affiliation role="member" ref="#Riksdagen" from="2016-06-15" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
+          </person>
+          <person xml:id="Q19976668">
+            <persName>
+              <surname>Elger</surname>
+              <forename>Max</forename>
+            </persName>
+            <sex value="M"/>
+            <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">finansmarknadsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q18747077">
             <persName>
@@ -2028,9 +2067,17 @@
             <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2017-07-26"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2017-07-27">
+            <affiliation role="member" ref="#GOV" from="2017-07-27" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2021-11-30">
               <roleName xml:lang="sv">infrastrukturminister</roleName>
             </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2021-07-09">
+              <roleName xml:lang="sv">infrastrukturminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2019-01-19">
+              <roleName xml:lang="sv">infrastrukturminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2017-07-27"/>
             <affiliation role="minister" ref="#GOV" from="2017-07-27">
               <roleName xml:lang="sv">infrastrukturminister</roleName>
             </affiliation>
@@ -2160,35 +2207,16 @@
             </persName>
             <sex value="M"/>
             <affiliation role="member" ref="#Q213451"/>
-            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21">
-              <roleName xml:lang="sv">bostadsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
             <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
               <roleName xml:lang="sv">bostadsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21">
-              <roleName xml:lang="sv">digitaliseringsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
               <roleName xml:lang="sv">digitaliseringsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2020-12-17">
-              <roleName xml:lang="sv">biståndsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2020-12-17"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2020-12-17">
               <roleName xml:lang="sv">biståndsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">bostadsminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">bostadsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">digitaliseringsminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">digitaliseringsminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q110635584">
@@ -2241,17 +2269,16 @@
             <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">högskoleminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">högskoleminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21">
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2019-01-19">
               <roleName xml:lang="sv">minister för högre utbildning och forskning</roleName>
             </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2019-01-21">
-              <roleName xml:lang="sv">minister för högre utbildning och forskning</roleName>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">biståndsminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q4724776">
@@ -2312,6 +2339,18 @@
             <sex value="F"/>
             <affiliation role="member" ref="#Riksdagen" from="2022-03-23"/>
             <affiliation role="member" ref="#Q110843"/>
+          </person>
+          <person xml:id="Q63533075">
+            <persName>
+              <surname>Farmanbar</surname>
+              <forename>Khashayar</forename>
+            </persName>
+            <sex value="M"/>
+            <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">energiminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q61122062">
             <persName>
@@ -2476,9 +2515,7 @@
             </persName>
             <sex value="M"/>
             <affiliation role="member" ref="#Q213451"/>
-            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30">
-              <roleName xml:lang="sv">biståndsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
               <roleName xml:lang="sv">biståndsminister</roleName>
             </affiliation>
@@ -2492,6 +2529,10 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-09-30"/>
             <affiliation role="member" ref="#Q213451"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-19"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-19">
+              <roleName xml:lang="sv">utbildningsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q109928721">
             <persName>
@@ -2509,16 +2550,8 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2017-07-27" to="2019-01-21">
-              <roleName xml:lang="sv">migrationsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2017-07-27" to="2019-01-21"/>
             <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2019-01-21">
-              <roleName xml:lang="sv">migrationsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2017-07-27">
-              <roleName xml:lang="sv">migrationsminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2017-07-27">
               <roleName xml:lang="sv">migrationsminister</roleName>
             </affiliation>
           </person>
@@ -2718,9 +2751,7 @@
               <forename>Jeanette</forename>
             </persName>
             <sex value="F"/>
-            <affiliation role="member" ref="#GOV" from="2021-11-30">
-              <roleName xml:lang="sv">kulturminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2021-11-30">
               <roleName xml:lang="sv">kulturminister</roleName>
             </affiliation>
@@ -2794,6 +2825,13 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2016-08-15"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2016-08-15">
+              <roleName xml:lang="sv">ungdomsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2016-08-15">
+              <roleName xml:lang="sv">skolminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q63869806">
             <persName>
@@ -2851,22 +2889,27 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-09-10">
+            <affiliation role="member" ref="#GOV" from="2019-09-10" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-11-30">
               <roleName xml:lang="sv">handelsminister</roleName>
             </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2019-09-10">
+            <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-07-09">
               <roleName xml:lang="sv">handelsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-09-10">
+            <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-07-09">
               <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
             </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2019-09-10">
-              <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-09-10">
+            <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-07-09">
               <roleName xml:lang="sv">utrikeshandelsminister</roleName>
             </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2019-09-10">
+            <affiliation role="minister" ref="#GOV" from="2021-07-09" to="2021-11-30">
+              <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2021-07-09" to="2021-11-30">
+              <roleName xml:lang="sv">utrikeshandelsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
               <roleName xml:lang="sv">utrikeshandelsminister</roleName>
             </affiliation>
           </person>
@@ -2888,21 +2931,18 @@
             <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-03-07"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2018-03-08" to="2019-01-21">
-              <roleName xml:lang="sv">jämställdhetsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2018-03-08" to="2019-01-21"/>
             <affiliation role="minister" ref="#GOV" from="2018-03-08" to="2019-01-21">
               <roleName xml:lang="sv">jämställdhetsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2018-03-08">
-              <roleName xml:lang="sv">jämställdhetsminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2018-03-08">
-              <roleName xml:lang="sv">jämställdhetsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21">
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">socialminister</roleName>
             </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-07-09">
+              <roleName xml:lang="sv">socialminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21">
               <roleName xml:lang="sv">socialminister</roleName>
             </affiliation>
@@ -3277,6 +3317,22 @@
             <sex value="M"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-19"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-19">
+              <roleName xml:lang="sv">försvarsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-07-09"/>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-07-09">
+              <roleName xml:lang="sv">försvarsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-07-09" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-07-09" to="2021-11-30">
+              <roleName xml:lang="sv">försvarsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">försvarsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q918261">
             <persName>
@@ -3466,6 +3522,10 @@
             <affiliation role="member" ref="#Riksdagen" from="2017-07-28" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2017-07-27"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2017-07-27">
+              <roleName xml:lang="sv">infrastrukturminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q71132178">
             <persName>
@@ -3495,29 +3555,27 @@
             <sex value="M"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2017-07-27" to="2019-01-21">
-              <roleName xml:lang="sv">inrikesminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2021-11-30">
+              <roleName xml:lang="sv">justitieminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2021-07-09">
+              <roleName xml:lang="sv">justitieminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-19">
+              <roleName xml:lang="sv">justitieminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2017-07-27">
+              <roleName xml:lang="sv">migrationsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2019-01-21">
               <roleName xml:lang="sv">inrikesminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">migrationsminister</roleName>
-            </affiliation>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">migrationsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-09-10" to="2021-11-30">
-              <roleName xml:lang="sv">Statsministerns ställföretädare</roleName>
-            </affiliation>
             <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-11-30">
               <roleName xml:lang="sv">Statsministerns ställföretädare</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2017-07-27">
-              <roleName xml:lang="sv">inrikesminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2017-07-27">
-              <roleName xml:lang="sv">inrikesminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q5887280">
@@ -3547,8 +3605,9 @@
             <sex value="F"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112" from="1994"/>
-            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21">
-              <roleName xml:lang="sv">integrationsminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-09-10"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-09-10">
+              <roleName xml:lang="sv">arbetsmarknadsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
               <roleName xml:lang="sv">integrationsminister</roleName>
@@ -3738,6 +3797,13 @@
             </persName>
             <sex value="M"/>
             <affiliation role="member" ref="#Q213451"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2016-04-18"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2016-04-18">
+              <roleName xml:lang="sv">bostadsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2016-04-18">
+              <roleName xml:lang="sv">digitaliseringsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q70529257">
             <persName>
@@ -3758,6 +3824,10 @@
             <affiliation role="member" ref="#Riksdagen" from="2016-04-05" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-11-30"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">civilminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q4958102">
             <persName>
@@ -3805,6 +3875,15 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
             <affiliation role="member" ref="#Q110837"/>
           </person>
+          <person xml:id="Q70588456">
+            <persName>
+              <surname>Karlsson</surname>
+              <forename>Mattias</forename>
+            </persName>
+            <sex value="M"/>
+            <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
+            <affiliation role="member" ref="#Q110843"/>
+          </person>
           <person xml:id="Q5901848">
             <persName>
               <surname>Karlsson</surname>
@@ -3814,15 +3893,6 @@
             <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
             <affiliation role="member" ref="#Q504069"/>
-          </person>
-          <person xml:id="Q70588456">
-            <persName>
-              <surname>Karlsson</surname>
-              <forename>Mattias</forename>
-            </persName>
-            <sex value="M"/>
-            <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
-            <affiliation role="member" ref="#Q110843"/>
           </person>
           <person xml:id="Q16633140">
             <persName>
@@ -3903,9 +3973,7 @@
               <forename>Axelsson</forename>
             </persName>
             <sex value="F"/>
-            <affiliation role="member" ref="#GOV" from="2021-11-30">
-              <roleName xml:lang="sv">skolminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2021-11-30">
               <roleName xml:lang="sv">skolminister</roleName>
             </affiliation>
@@ -3975,14 +4043,12 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2020-07-31"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2016-08-15" to="2016-09-13">
-              <roleName xml:lang="sv">skolminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-21"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">högskoleminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-08-15" to="2016-09-13">
               <roleName xml:lang="sv">skolminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-08-15" to="2016-09-13">
-              <roleName xml:lang="sv">ungdomsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-08-15" to="2016-09-13">
               <roleName xml:lang="sv">ungdomsminister</roleName>
@@ -4049,6 +4115,16 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2019-06-18"/>
             <affiliation role="member" ref="#Q213451" from="2014-09-30"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-21"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">demokratiminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">kulturminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">samfundsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q5928457">
             <persName>
@@ -4247,23 +4323,21 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q213451"/>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">idrottsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">idrottsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">demokratiminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">demokratiminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">kulturminister</roleName>
-            </affiliation>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">kulturminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-07-09">
+              <roleName xml:lang="sv">idrottsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2021-07-09" to="2021-11-30">
+              <roleName xml:lang="sv">idrottsminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q71132556">
@@ -4323,39 +4397,27 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21">
-              <roleName xml:lang="sv">EU-minister</roleName>
+            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-09-10"/>
+            <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-09-10">
+              <roleName xml:lang="sv">handelsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
               <roleName xml:lang="sv">EU-minister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-09-10">
-              <roleName xml:lang="sv">handelsminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-09-10">
-              <roleName xml:lang="sv">handelsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2019-09-10">
-              <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
-            </affiliation>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2019-09-10">
               <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">EU-minister</roleName>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2019-09-10">
+              <roleName xml:lang="sv">utrikeshandelsminister</roleName>
             </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">EU-minister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">handelsminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">handelsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-09-10">
+            <affiliation role="member" ref="#GOV" from="2019-09-10" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-11-30">
               <roleName xml:lang="sv">utrikesminister</roleName>
             </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-07-09">
+              <roleName xml:lang="sv">utrikesminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-09-10"/>
             <affiliation role="minister" ref="#GOV" from="2019-09-10">
               <roleName xml:lang="sv">utrikesminister</roleName>
             </affiliation>
@@ -4409,17 +4471,19 @@
             <sex value="F"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-21"/>
             <affiliation role="member" ref="#Q213451"/>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-02-05">
-              <roleName xml:lang="sv">jämställdhetsminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-07-09"/>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-07-09">
+              <roleName xml:lang="sv">integrationsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-02-05">
               <roleName xml:lang="sv">jämställdhetsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30">
-              <roleName xml:lang="sv">finansmarknadsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
               <roleName xml:lang="sv">finansmarknadsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2021-07-09" to="2021-11-30">
+              <roleName xml:lang="sv">biträdande finansminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q5956750">
@@ -4601,6 +4665,18 @@
             <sex value="M"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-19"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-19">
+              <roleName xml:lang="sv">statsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-07-09"/>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-07-09">
+              <roleName xml:lang="sv">statsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-07-09" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-07-09" to="2021-11-30">
+              <roleName xml:lang="sv">statsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q5969761">
             <persName>
@@ -4639,14 +4715,16 @@
             <sex value="F"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q213451"/>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-02-05">
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-01-21"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-21">
+              <roleName xml:lang="sv">biståndsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-01-19">
               <roleName xml:lang="sv">miljöminister</roleName>
             </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-02-05"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-02-05">
               <roleName xml:lang="sv">miljöminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2020-12-17" to="2021-02-05">
-              <roleName xml:lang="sv">biståndsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2020-12-17" to="2021-02-05">
               <roleName xml:lang="sv">biståndsminister</roleName>
@@ -4786,16 +4864,8 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-10-01" to="2021-11-30">
-              <roleName xml:lang="sv">civilminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-10-01" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2019-10-01" to="2021-11-30">
-              <roleName xml:lang="sv">civilminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-10-01">
-              <roleName xml:lang="sv">civilminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2019-10-01">
               <roleName xml:lang="sv">civilminister</roleName>
             </affiliation>
           </person>
@@ -4968,9 +5038,7 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
             <affiliation role="member" ref="#Riksdagen" from="2021-06-30"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-06-30">
-              <roleName xml:lang="sv">landsbygdsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-06-30"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-06-30">
               <roleName xml:lang="sv">landsbygdsminister</roleName>
             </affiliation>
@@ -5122,9 +5190,14 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-09-10">
+            <affiliation role="member" ref="#GOV" from="2019-09-10" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-11-30">
               <roleName xml:lang="sv">arbetsmarknadsminister</roleName>
             </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2019-09-10" to="2021-07-09">
+              <roleName xml:lang="sv">arbetsmarknadsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-09-10"/>
             <affiliation role="minister" ref="#GOV" from="2019-09-10">
               <roleName xml:lang="sv">arbetsmarknadsminister</roleName>
             </affiliation>
@@ -5438,6 +5511,10 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2016-05-25"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2016-05-25">
+              <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q18245020">
             <persName>
@@ -5718,6 +5795,10 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2018-03-08"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2018-03-08">
+              <roleName xml:lang="sv">jämställdhetsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q6068516">
             <persName>
@@ -5770,6 +5851,10 @@
             <sex value="F"/>
             <affiliation role="member" ref="#Riksdagen" from="2016-06-07" to="2017-07-14"/>
             <affiliation role="member" ref="#Q213451"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2016-05-25"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2016-05-25">
+              <roleName xml:lang="sv">miljöminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q4975481">
             <persName>
@@ -5986,9 +6071,18 @@
             <sex value="M"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-10-01">
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-09-30"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-09-30">
+              <roleName xml:lang="sv">civilminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-10-01" to="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2019-10-01" to="2021-11-30">
               <roleName xml:lang="sv">socialförsäkringsminister</roleName>
             </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2019-10-01" to="2021-07-09">
+              <roleName xml:lang="sv">socialförsäkringsminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-10-01"/>
             <affiliation role="minister" ref="#GOV" from="2019-10-01">
               <roleName xml:lang="sv">socialförsäkringsminister</roleName>
             </affiliation>
@@ -6061,16 +6155,8 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2019-01-22" to="2022-01-10"/>
             <affiliation role="member" ref="#Q213451"/>
-            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21">
-              <roleName xml:lang="sv">miljöminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21"/>
             <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
-              <roleName xml:lang="sv">miljöminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2016-05-25">
-              <roleName xml:lang="sv">miljöminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2016-05-25">
               <roleName xml:lang="sv">miljöminister</roleName>
             </affiliation>
           </person>
@@ -6211,14 +6297,9 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q213451"/>
-            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30">
-              <roleName xml:lang="sv">bostadsminister</roleName>
-            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
               <roleName xml:lang="sv">bostadsminister</roleName>
-            </affiliation>
-            <affiliation role="member" ref="#GOV" from="2021-02-05" to="2021-11-30">
-              <roleName xml:lang="sv">jämställdhetsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2021-02-05" to="2021-11-30">
               <roleName xml:lang="sv">jämställdhetsminister</roleName>
@@ -6280,17 +6361,19 @@
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2019-10-01" to="2021-11-30"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2017-07-27" to="2019-01-21">
-              <roleName xml:lang="sv">socialminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-10-01"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-10-01">
+              <roleName xml:lang="sv">socialförsäkringsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2017-07-27">
+              <roleName xml:lang="sv">socialförsäkringsminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2017-07-27" to="2019-01-21">
               <roleName xml:lang="sv">socialminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2017-07-27">
-              <roleName xml:lang="sv">socialminister</roleName>
-            </affiliation>
-            <affiliation role="minister" ref="#GOV" from="2017-07-27">
-              <roleName xml:lang="sv">socialminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">miljöminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q71143822">
@@ -6480,6 +6563,10 @@
             <affiliation role="member" ref="#Riksdagen" from="2014-09-29" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2021-11-30"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">landsbygdsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q4919772">
             <persName>
@@ -6578,6 +6665,18 @@
             <affiliation role="member" ref="#Riksdagen" from="2017-04-02" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24"/>
             <affiliation role="member" ref="#Q105112"/>
+          </person>
+          <person xml:id="Q2494607">
+            <persName>
+              <surname>Thorwaldsson</surname>
+              <forename>Karl-Petter</forename>
+            </persName>
+            <sex value="M"/>
+            <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">näringsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q57168779">
             <persName>
@@ -6830,11 +6929,18 @@
             </persName>
             <sex value="F"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2016-05-25" to="2019-01-21">
-              <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2019-09-10"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-09-10">
+              <roleName xml:lang="sv">Statsministerns ställföretädare</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2019-09-10">
+              <roleName xml:lang="sv">utrikesminister</roleName>
             </affiliation>
             <affiliation role="minister" ref="#GOV" from="2016-05-25" to="2019-01-21">
               <roleName xml:lang="sv">minister för nordiskt samarbete</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2019-09-10">
+              <roleName xml:lang="sv">utrikesminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q4990128">
@@ -7046,6 +7152,16 @@
             <sex value="M"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-03-20" to="2018-03-21"/>
             <affiliation role="member" ref="#Q105112"/>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2017-07-27"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2017-07-27">
+              <roleName xml:lang="sv">folkhälsominister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2017-07-27">
+              <roleName xml:lang="sv">idrottsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2017-07-27">
+              <roleName xml:lang="sv">sjukvårdsminister</roleName>
+            </affiliation>
           </person>
           <person xml:id="Q18202393">
             <persName>
@@ -7085,17 +7201,23 @@
             <affiliation role="member" ref="#Riksdagen" from="2017-07-28" to="2018-09-24"/>
             <affiliation role="member" ref="#Riksdagen" from="2018-09-24" to="2019-01-20"/>
             <affiliation role="member" ref="#Q105112"/>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">digitaliseringsminister</roleName>
+            <affiliation role="member" ref="#GOV" from="2014-10-03" to="2017-07-27"/>
+            <affiliation role="minister" ref="#GOV" from="2014-10-03" to="2017-07-27">
+              <roleName xml:lang="sv">inrikesminister</roleName>
             </affiliation>
+            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30"/>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">digitaliseringsminister</roleName>
             </affiliation>
-            <affiliation role="member" ref="#GOV" from="2019-01-21" to="2021-11-30">
-              <roleName xml:lang="sv">energiminister</roleName>
-            </affiliation>
             <affiliation role="minister" ref="#GOV" from="2019-01-21" to="2021-11-30">
               <roleName xml:lang="sv">energiminister</roleName>
+            </affiliation>
+            <affiliation role="member" ref="#GOV" from="2021-11-30"/>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">integrationsminister</roleName>
+            </affiliation>
+            <affiliation role="minister" ref="#GOV" from="2021-11-30">
+              <roleName xml:lang="sv">migrationsminister</roleName>
             </affiliation>
           </person>
           <person xml:id="Q16616153">
