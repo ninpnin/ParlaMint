@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 111 [ParlaMint]</title>
-        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 111 [ParlaMint SAMPLE]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 111 [ParlaMint]</title>
         <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
         <meeting ana="#parla.sitting #parla.uni" n="201819--111">2018/19--111</meeting>
       </titleStmt>

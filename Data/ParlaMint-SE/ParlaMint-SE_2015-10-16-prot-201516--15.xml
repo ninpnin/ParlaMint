@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="sv" type="main">Riksdagens protokoll 2015/16 nr. 15 [ParlaMint]</title>
-        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2015/16 nr. 15 [ParlaMint SAMPLE]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2015/16 nr. 15 [ParlaMint]</title>
         <meeting n="201516" ana="#parla.uni #parla.term">2015/16</meeting>
         <meeting ana="#parla.sitting #parla.uni" n="201516--15">2015/16--15</meeting>
       </titleStmt>

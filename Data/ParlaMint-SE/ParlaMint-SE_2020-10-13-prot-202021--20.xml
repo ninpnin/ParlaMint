@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="sv" type="main">Riksdagens protokoll 2020/21 nr. 20 [ParlaMint]</title>
-        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2020/21 nr. 20 [ParlaMint SAMPLE]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2020/21 nr. 20 [ParlaMint]</title>
         <meeting n="202021" ana="#parla.uni #parla.term">2020/21</meeting>
         <meeting ana="#parla.sitting #parla.uni" n="202021--20">2020/21--20</meeting>
       </titleStmt>
