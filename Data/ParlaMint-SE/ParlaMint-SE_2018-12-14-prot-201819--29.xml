@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 29 [ParlaMint]</title>
-        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 29 [ParlaMint SAMPLE]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 29 [ParlaMint]</title>
         <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
         <meeting ana="#parla.sitting #parla.uni" n="201819--29">2018/19--29</meeting>
       </titleStmt>
@@ -25,7 +25,7 @@
           <licence>http://creativecommons.org/licenses/by/4.0/</licence>
           <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
         </availability>
-        <date when="2022-11-24">2022-11-24</date>
+        <date when="2022-11-29">2022-11-29</date>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -79,7 +79,7 @@
         <head xml:id="i-5JH5WvPaYaXqirekDu2AW9">§ 1 Prövning av förslag till statsminister</head>
         <note type="speaker" xml:id="i-YAj3BZ84JP97341ExeUqLN">Anf. 1 TALMANNEN:</note>
         <note xml:id="i-7sF7rmHFQ7XzTqxFRRjs6h">Riksdagen ska enligt 6 kap. 4 § andra stycket regeringsformen pröva ett förslag till ny statsminister inom fyra dagar. Förslaget ska enligt 11 kap. 3 § andra stycket riksdagsordningen bordläggas två gånger.</note>
-        <u xml:id="i-d681f63a74a2146f-0" who="#Q4755577" ana="#chair">
+        <u xml:id="i-d681f63a74a2146f-0" who="#Q4755577" ana="#regular">
           <seg xml:id="i-TGrQaA4zvX8veoTKM1W8uU">Jag lämnade onsdagen den 12 december förslaget att Stefan Löfven, Socialdemokraterna, ska utses till statsminister. Stefan Löfven har uppgett att han avser att bilda en regering som består av företrädare för Socialdemokraterna och Miljöpartiet. Förslaget har nu bordlagts två gånger och ska prövas vid dagens sammanträde.</seg>
         </u>
         <note type="speaker" xml:id="i-Y47MnuwJNF3WXK3gx45mBm">Anf. 2 ANDERS YGEMAN (S):</note>

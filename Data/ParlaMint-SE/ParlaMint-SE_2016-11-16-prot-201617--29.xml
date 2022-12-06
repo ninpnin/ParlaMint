@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="sv" type="main">Riksdagens protokoll 2016/17 nr. 29 [ParlaMint]</title>
-        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2016/17 nr. 29 [ParlaMint SAMPLE]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2016/17 nr. 29 [ParlaMint]</title>
         <meeting n="201617" ana="#parla.uni #parla.term">2016/17</meeting>
         <meeting ana="#parla.sitting #parla.uni" n="201617--29">2016/17--29</meeting>
       </titleStmt>
@@ -25,7 +25,7 @@
           <licence>http://creativecommons.org/licenses/by/4.0/</licence>
           <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
         </availability>
-        <date when="2022-11-24">2022-11-24</date>
+        <date when="2022-11-29">2022-11-29</date>
       </publicationStmt>
       <sourceDesc>
         <bibl>

@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="sv" type="main">Riksdagens protokoll 2015/16 nr. 29 [ParlaMint]</title>
-        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2015/16 nr. 29 [ParlaMint SAMPLE]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2015/16 nr. 29 [ParlaMint]</title>
         <meeting n="201516" ana="#parla.uni #parla.term">2015/16</meeting>
         <meeting ana="#parla.sitting #parla.uni" n="201516--29">2015/16--29</meeting>
       </titleStmt>
@@ -25,7 +25,7 @@
           <licence>http://creativecommons.org/licenses/by/4.0/</licence>
           <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
         </availability>
-        <date when="2022-11-24">2022-11-24</date>
+        <date when="2022-11-29">2022-11-29</date>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -1012,7 +1012,9 @@
           <seg xml:id="i-CKPNhqr9bExdcXuGEHq35E">Det är alltid lika underhållande att höra icke-liberaler definiera liberalism och vad liberaler borde stå för. Det är nämligen alltid i linje med vad de för dagen själva tycker. Det har sagts att det har varit ett oväntat stöd från FP i dag, men de som har hängt med vet att vi fattade ett landsmötesbeslut redan 2013 om ytterligare en kvoterad månad i föräldraförsäkring ­ en. Det kan knappast ha kommit speciellt oväntat. Vad gäller det oväntade stödet till vårdnadsbidraget har man uppenbarligen hängt med dåligt. Vi var tydliga i alliansregeringen, före alliansregeringen och efter alliansregeringen att vi inte vill ha det.</seg>
           <seg xml:id="i-FsdKthK1Retx1jTnBQyxWC">I stället för att citera 40 år gammal politik ser vi till verkligheten i dag och det samhälle vi vill forma i framtiden. Vi liberaler gillar inte bidragslinjen. Vårdnadsbidraget innehåller allt det som är negativt med bidraget, det vill säga utanförskap, inlåsning och ojämställdhet.</seg>
         </u>
-        <note xml:id="i-Sd8foAAkXywxAbqQKr4Ykt">( Applåder )</note>
+        <kinesic type="applause">
+          <desc>(Applåder)</desc>
+        </kinesic>
         <note type="speaker" xml:id="i-NhHnepiyHv9VdAceEC59fB">Anf . 76 JAN ERICSON (M):</note>
         <u xml:id="i-ba67269c80ee72e7-486" who="#Q1681740" ana="#regular">
           <seg xml:id="i-NT4maEknUHj3g1kq1QSM52">Herr talman ! Jag har följt hela debatten, och jag fascineras över den närmast hallelujaliknande stämningen över att politikernas makt ökas ytterligare över svenska föräldrar och att deras valfrihet minskas. Socialismen tar tyvärr en seger över människorna i frågan. Detta handlar i grunden om respekt för människors eget fria val.</seg>
