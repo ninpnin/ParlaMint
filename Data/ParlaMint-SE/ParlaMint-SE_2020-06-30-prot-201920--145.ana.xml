@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2020-06-30-prot-201920--145.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 145 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 145 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--145">2019/20--145</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="315">315 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="105"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="4"/>
+          <tagUsage gi="seg" occurs="4"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2020-06-30" ana="#parla.sitting">2020-06-30</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="commentSection">
+        <head>§ 1 Anmälan om ny riksdagsledamot</head>
+        <note>Följande berättelse hade kommit in från Valprövningsnämnden :</note>
+        <note>Berättelse om granskning av bevis för ny ledamot av riksdagen</note>
+        <note>Till Valprövningsnämnden har från Valmyndigheten inkommit bevis om att Diana Laitinen Carlsson ( S ) har utsetts till ny ledamot av riksdagen fr.o.m. den 1 september 2020 .</note>
+        <note>Valprövningsnämnden har denna dag granskat beviset för den nya ledamoten och därvid funnit att det blivit utfärdat i enlighet med 14 kap. 28 § vallagen ( 2005:837 ) .</note>
+        <note>Stockholm den 28 juni 2020</note>
+        <note>Annika Sandström</note>
+        <note>ordförande / Agota Földes</note>
+        <note>sekreterare</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 2 Anmälan om ersättare för statsråd</head>
+        <note>Tredje vice talmannen anmälde att följande ledamöter skulle tjänstgöra som ersättare för statsråd under tiden den 1 augusti 2020 – 26 september 2022 :</note>
+        <note>Azadeh Rojhan Gustafsson ( S ) för Magdalena Andersson ( S )</note>
+        <note>Markus Selin ( S ) för Mikael Damberg ( S )</note>
+        <note>Abraham Halef ( S ) för Ibrahim Baylan ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 3 Anmälan om ersättare</head>
+        <note>Tredje vice talmannen anmälde att Anne-Li Sjölund ( C ) skulle tjänstgöra som ersättare för Emil Källström ( C ) under tiden för hans ledighet den 22 september 2020 – 31 mars 2021 .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 4 Avsägelser</head>
+        <note>Tredje vice talmannen meddelade att Helene Hellmark Knutsson ( S ) avsagt sig uppdraget som ledamot av riksdagen från och med den 1 augusti .</note>
+        <note>Kammaren biföll denna avsägelse .</note>
+        <note>Tredje vice talmannen meddelade</note>
+        <note>att Janine Alm Ericson ( MP ) avsagt sig uppdraget som ledamot i riksdagsstyrelsen från och med den 15 juli och</note>
+        <note>att Annika Hirvonen Falk ( MP ) avsagt sig uppdraget som ersättare i riksdagsstyrelsen från och med den 15 juli .</note>
+        <note>Kammaren biföll dessa avsägelser .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 5 Anmälan om kompletteringsval</head>
+        <note>Tredje vice talmannen meddelade att Miljöpartiets riksdagsgrupp anmält Annika Hirvonen Falk som ledamot i riksdagsstyrelsen och Janine Alm Ericson som ersättare i riksdagsstyrelsen .</note>
+        <note>Tredje vice talmannen förklarade valda från och med den 15 juli till</note>
+        <note>ledamot i riksdagsstyrelsen</note>
+        <note>Annika Hirvonen Falk ( MP )</note>
+        <note>ersättare i riksdagsstyrelsen</note>
+        <note>Janine Alm Ericson ( MP )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 6 Anmälan om gruppledare för partigrupp</head>
+        <note>Tredje vice talmannen meddelade att Miljöpartiet s partigrupp anmält Annika Hirvonen Falk som gruppledare för partigrupp från och med den 15 juli .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 7 Anmälan om ersättare för gruppledare för partigrupp</head>
+        <note>Tredje vice talmannen meddelade att Miljöpartiets partigrupp anmält Janine Alm Ericson som ersättare för gruppledare för partigrupp från och med den 15 juli .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 8 Meddelande om partiledardebatt</head>
+        <note>Tredje vice talmannen meddelade att partiledardebatt skulle äga rum onsdagen den 9 september kl. 9.00 .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 9 Anmälan om subsidiaritetsprövning</head>
+        <note>Tredje vice talmannen anmälde att utdrag ur prot . 2019 / 20:56 för tisdagen den 16 juni i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från konstitutionsutskottet .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 10 Ärende för hänvisning till utskott</head>
+        <note>Följande dokument hänvisades till utskott :</note>
+        <note>Skrivelse</note>
+        <note>2019 / 20:180 till socialutskottet</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 11 Förlängd anmälningstid för avstämning av preliminärt stöd vid korttidsarbete</head>
+        <note>Skatteutskottets betänkande 2019 / 20:SkU28</note>
+        <note>Förlängd anmälningstid för avstämning av preliminärt stöd vid korttidsarbete</note>
+        <note>föredrogs .</note>
+        <note>Tredje vice talmannen konstaterade att ingen talare var anmäld .</note>
+        <note>( Beslut fattades under § 13 . )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 12 Särskild beräkning av tandvårdsersättning med anledning av sjukdomen covid-19</head>
+        <note>Socialutskottets betänkande 2019 / 20:SoU26</note>
+        <note>Särskild beräkning av tandvårdsersättning med anledning av sjukdomen covid-19 ( prop . 2019 / 20:184 )</note>
+        <note>föredrogs .</note>
+        <note>Tredje vice talmannen konstaterade att ingen talare var anmäld .</note>
+        <note>( Beslut fattades under § 13 . )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 13 Beslut om ärenden som slutdebatterats vid dagens sammanträde</head>
+        <note>SkU28 Förlängd anmälningstid för avstämning av preliminärt stöd vid korttidsarbete</note>
+        <note>Kammaren biföll utskottets förslag .</note>
+        <note>SoU26 Särskild beräkning av tandvårdsersättning med anledning av sjukdomen covid-19</note>
+        <note>Kammaren biföll utskottets förslag .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 14 Bordläggning och beslut om förlängd motionstid</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Propositioner</note>
+        <note>2019 / 20:186 Ett förstärkt medarbetarskydd för polisanställda</note>
+        <note>2019 / 20:194 Ett ändamålsenligt minoritetsskydd i aktiebolag och ekonomiska föreningar</note>
+        <note>Skrivelse</note>
+        <note>2019 / 20:191 Riksrevisionens rapport om återvändandeverksamheten</note>
+        <note>Kammaren biföll talmannens förslag att motionstiden för ovanstående propositioner och skrivelse skulle förlängas till och med onsdagen den 23 september .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 15 Anmälan om fråga för skriftligt svar</head>
+        <note>Följande fråga för skriftligt svar hade framställts :</note>
+        <note>den 29 juni</note>
+        <note>2019 / 20:1690 Märkning av matvaror med hög salthalt</note>
+        <note>av Sara Gille ( SD )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 16 Anmälan om skriftligt svar på fråga</head>
+        <note>Skriftligt svar på följande fråga hade kommit in :</note>
+        <note>den 29 juni</note>
+        <note>2019 / 20:1620 Lika möjligheter till antagning till högre utbildning</note>
+        <note>av Lars Püss ( M )</note>
+        <note>till statsrådet Matilda Ernkrans ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 17 Kammaren åtskildes kl. 11 . 04 .</head>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANN LARSSON</note>
+      </div>
+    </body>
+  </text>
+</TEI>

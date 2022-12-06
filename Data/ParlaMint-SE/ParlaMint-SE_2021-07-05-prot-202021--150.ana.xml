@@ -1,0 +1,1951 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2021-07-05-prot-202021--150.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2020/21 nr. 150 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2020/21 nr. 150 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="202021" ana="#parla.uni #parla.term">2020/21</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="202021--150">2020/21--150</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="2">2 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="6091">6091 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="261"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="21"/>
+          <tagUsage gi="seg" occurs="21"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2021-07-05" ana="#parla.sitting">2021-07-05</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="debateSection">
+        <head>§ 1 Bordläggning av förslag till statsminister</head>
+        <note type="speaker">Anf . 1 TALMANNEN :</note>
+        <u ana="#regular" who="#Q4755577" xml:id="i-a7292bf9808175eb-0">
+          <seg xml:id="i-2jFgDJ1M56MbgC7YnwNCWq">
+            <s xml:id="i-Pnz9PLMhFed5NvcRtNPEdi">
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur|Tense=Past|VerbForm=Part" lemma="ärad" xml:id="i-PnxDW3nUS4zKRopPNTSEfn">Ärade</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="ledamot" xml:id="i-PnxE3hYQGSmith2NBDhu9e" join="right">ledamöter</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxEHroUWTMmksiq7ifkRA">!</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:amod" target="#i-PnxE3hYQGSmith2NBDhu9e #i-PnxDW3nUS4zKRopPNTSEfn"/>
+                <link ana="ud-syn:root" target="#i-Pnz9PLMhFed5NvcRtNPEdi #i-PnxE3hYQGSmith2NBDhu9e"/>
+                <link ana="ud-syn:dep" target="#i-PnxE3hYQGSmith2NBDhu9e #i-PnxEHroUWTMmksiq7ifkRA"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-Pnz9aANz9JbpWbVqu717xQ">
+              <w msd="UPosTag=NOUN|Case=Nom|Number=Sing" lemma="m" xml:id="i-PnxEUgpmQ7LWtYcF8THdjr">M</w>
+              <w msd="UPosTag=VERB|Mood=Ind|VerbForm=Fin|Voice=Act" lemma="ina" xml:id="i-PnxEegY7TBAS663PukKXaL">ina</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="dam" xml:id="i-PnxEpgFTWEzMHdUYh3MRQp">damer</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnxEyqeriifSZ3TSEtoKm6">och</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="herre" xml:id="i-PnxF9qNCmnVMkatb2BqDba" join="right">herrar</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxFJzmbzGAT1zsUa3H7wr">!</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnxEegY7TBAS663PukKXaL #i-PnxEUgpmQ7LWtYcF8THdjr"/>
+                <link ana="ud-syn:dep" target="#i-PnxEyqeriifSZ3TSEtoKm6 #i-PnxEpgFTWEzMHdUYh3MRQp"/>
+                <link ana="ud-syn:obj" target="#i-PnxEegY7TBAS663PukKXaL #i-PnxEyqeriifSZ3TSEtoKm6"/>
+                <link ana="ud-syn:dep" target="#i-PnxEyqeriifSZ3TSEtoKm6 #i-PnxF9qNCmnVMkatb2BqDba"/>
+                <link ana="ud-syn:punct" target="#i-PnxEegY7TBAS663PukKXaL #i-PnxFJzmbzGAT1zsUa3H7wr"/>
+                <link ana="ud-syn:root" target="#i-Pnz9aANz9JbpWbVqu717xQ #i-PnxEegY7TBAS663PukKXaL"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-Pnz9gprYr1pRyd7wkdh3r4">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnxFUzUx3KzNDYJdMLK1nL">Det</w>
+              <w msd="UPosTag=ADV" lemma="här" xml:id="i-PnxFe9tMFofTUxHWuBkv8c">här</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxFp9bhJsVNgVifgUnoy6">har</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="vara" xml:id="i-PnxFyK16XMATwuhZELEiKN">varit</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnxG8UQVjpqZDKgSnBgcfe">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="mandatperiod" xml:id="i-PnxGHdotxJWeUjfLL38X1v">mandatperiod</w>
+              <w msd="UPosTag=CCONJ" lemma="som" xml:id="i-PnxGSoDJAnBjk9eDstaRNC">som</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="ingen" xml:id="i-PnxGbxchPFrq1Zd7Rk2KiU">ingen</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="annan" xml:id="i-PnxGm826bjXvGybzybUE4k">annan</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnxGvHRVpDD1YPatXSv8R2">i</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="svensk" xml:id="i-PnxH5Spu2gt6ooZn5JN2mJ">svensk</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="politik" xml:id="i-PnxHFSYF5ki21LzvrbPvbn" join="right">politik</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxHPmdhTeEHLdXZB1FqTr">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnxFp9bhJsVNgVifgUnoy6 #i-PnxFUzUx3KzNDYJdMLK1nL"/>
+                <link ana="ud-syn:det" target="#i-PnxFUzUx3KzNDYJdMLK1nL #i-PnxFe9tMFofTUxHWuBkv8c"/>
+                <link ana="ud-syn:dep" target="#i-PnxFp9bhJsVNgVifgUnoy6 #i-PnxFyK16XMATwuhZELEiKN"/>
+                <link ana="ud-syn:det" target="#i-PnxGHdotxJWeUjfLL38X1v #i-PnxG8UQVjpqZDKgSnBgcfe"/>
+                <link ana="ud-syn:dep" target="#i-PnxFyK16XMATwuhZELEiKN #i-PnxGHdotxJWeUjfLL38X1v"/>
+                <link ana="ud-syn:advmod" target="#i-PnxFyK16XMATwuhZELEiKN #i-PnxGSoDJAnBjk9eDstaRNC"/>
+                <link ana="ud-syn:det" target="#i-PnxGm826bjXvGybzybUE4k #i-PnxGbxchPFrq1Zd7Rk2KiU"/>
+                <link ana="ud-syn:advmod" target="#i-PnxGSoDJAnBjk9eDstaRNC #i-PnxGm826bjXvGybzybUE4k"/>
+                <link ana="ud-syn:nmod" target="#i-PnxGm826bjXvGybzybUE4k #i-PnxGvHRVpDD1YPatXSv8R2"/>
+                <link ana="ud-syn:amod" target="#i-PnxHFSYF5ki21LzvrbPvbn #i-PnxH5Spu2gt6ooZn5JN2mJ"/>
+                <link ana="ud-syn:advmod" target="#i-PnxGvHRVpDD1YPatXSv8R2 #i-PnxHFSYF5ki21LzvrbPvbn"/>
+                <link ana="ud-syn:punct" target="#i-PnxFp9bhJsVNgVifgUnoy6 #i-PnxHPmdhTeEHLdXZB1FqTr"/>
+                <link ana="ud-syn:root" target="#i-Pnz9gprYr1pRyd7wkdh3r4 #i-PnxFp9bhJsVNgVifgUnoy6"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-Pnz9oVL7Yj33Sek3cANyji">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnxHYw36g7uNc3WSirhjp8">Vi</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxHi6SVtbaTsTVLGi9eAQ">har</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="återkommande" xml:id="i-PnxHt69qwfQP4zvV41BXzt">återkommande</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="se" xml:id="i-PnxJ2RFJKYveQHT7NR3Srx">sett</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="händelse" xml:id="i-PnxJCQxeNckZbptG9i5LhS">händelser</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnxJMaN3b6ResEs9hZXF3i">och</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="företeelse" xml:id="i-PnxJXa5PeAFa4nJJUrZ8tC">företeelser</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnxJfuAr23mqQ4pvoGR3kG">som</w>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-PnxJq4aFEXSvfUopM7rx6Y">inte</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-PnxJzDyeT181vtnhtyJrSp">tidigare</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="förekomma" xml:id="i-PnxKADgzW4ww8SDrgGLkHJ" join="right">förekommit</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxKKP6PiYd2PrCkE7neda">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnxHi6SVtbaTsTVLGi9eAQ #i-PnxHYw36g7uNc3WSirhjp8"/>
+                <link ana="ud-syn:advmod" target="#i-PnxHi6SVtbaTsTVLGi9eAQ #i-PnxHt69qwfQP4zvV41BXzt"/>
+                <link ana="ud-syn:dep" target="#i-PnxHi6SVtbaTsTVLGi9eAQ #i-PnxJ2RFJKYveQHT7NR3Srx"/>
+                <link ana="ud-syn:dep" target="#i-PnxJMaN3b6ResEs9hZXF3i #i-PnxJCQxeNckZbptG9i5LhS"/>
+                <link ana="ud-syn:obj" target="#i-PnxJ2RFJKYveQHT7NR3Srx #i-PnxJMaN3b6ResEs9hZXF3i"/>
+                <link ana="ud-syn:dep" target="#i-PnxJMaN3b6ResEs9hZXF3i #i-PnxJXa5PeAFa4nJJUrZ8tC"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxKADgzW4ww8SDrgGLkHJ #i-PnxJfuAr23mqQ4pvoGR3kG"/>
+                <link ana="ud-syn:dep" target="#i-PnxKADgzW4ww8SDrgGLkHJ #i-PnxJq4aFEXSvfUopM7rx6Y"/>
+                <link ana="ud-syn:advmod" target="#i-PnxKADgzW4ww8SDrgGLkHJ #i-PnxJzDyeT181vtnhtyJrSp"/>
+                <link ana="ud-syn:nmod" target="#i-PnxJMaN3b6ResEs9hZXF3i #i-PnxKADgzW4ww8SDrgGLkHJ"/>
+                <link ana="ud-syn:punct" target="#i-PnxHi6SVtbaTsTVLGi9eAQ #i-PnxKKP6PiYd2PrCkE7neda"/>
+                <link ana="ud-syn:root" target="#i-Pnz9oVL7Yj33Sek3cANyji #i-PnxHi6SVtbaTsTVLGi9eAQ"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-Pnz9uKVjQr6pyYutEFUv9A">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnxKTiBr6S9Hj8jNYXeZVe">Det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="börja" xml:id="i-PnxKcsbFJupNzYiG6P6Tqv">började</w>
+              <w msd="UPosTag=ADV" lemma="redan" xml:id="i-PnxKn2zeXPVUFxh9eEYNCC">redan</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-PnxKvN66uH1jbFDmxeQH4G">den</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="25" xml:id="i-PnxL5XVW7kgprfCfWVrBQY">25</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="september" xml:id="i-PnxLEgtuLEMv85BZ4MJ5kp">september</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2018" xml:id="i-PnxLPrJJYi31PVAScCjz76">2018</w>
+              <w msd="UPosTag=ADP" lemma="med" xml:id="i-PnxLZr1ebmrvb2bbPVmswa">med</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-PnxLiB76yfPBvK8Dhudnoe">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="första" xml:id="i-PnxLsLWWC94HBj77Fm5h9v">första</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="statsministeromröstning" xml:id="i-PnxM2VuuQcjNT95zocXbWC">statsministeromröstningen</w>
+              <w msd="UPosTag=ADP" lemma="efter" xml:id="i-PnxMBfKJd6QTiZ4tMTyVrU">efter</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Neut|Number=Sing" lemma="en" xml:id="i-PnxMLpihqa5Yyy3muKRQCk">ett</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="val" xml:id="i-PnxMVz8743keFP2fTAsJZ2">val</w>
+              <w msd="UPosTag=ADP" lemma="enligt" xml:id="i-PnxMf9XWGXRjWo1Z12KCuJ">enligt</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="den" xml:id="i-PnxMoUcxeQwzr5YBKSB7mN">de</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="ny" xml:id="i-PnxMxe2Mrtd67VX4sHd27e">nya</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="regel" xml:id="i-PnxN8djhuxT1K2xDeaeux8">regler</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnxNHo978S86aSw7CS6pJQ">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxNSxYWLuoBqruzkHYieg">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="införa" xml:id="i-PnxNc7wuZPUH7GttJ8zczx">införts</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com,Neut|Number=Plur" lemma="någon" xml:id="i-PnxNmHMJms9NNgsmqzSXME">några</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="år" xml:id="i-PnxNwH4epvyHaEJvdHURBi">år</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-PnxP6SU43QeNqeHpB8vKXz" join="right">tidigare</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxPFbsTFtKU74GhizNDtG">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnxKcsbFJupNzYiG6P6Tqv #i-PnxKTiBr6S9Hj8jNYXeZVe"/>
+                <link ana="ud-syn:advmod" target="#i-PnxKcsbFJupNzYiG6P6Tqv #i-PnxKn2zeXPVUFxh9eEYNCC"/>
+                <link ana="ud-syn:det" target="#i-PnxLEgtuLEMv85BZ4MJ5kp #i-PnxKvN66uH1jbFDmxeQH4G"/>
+                <link ana="ud-syn:det" target="#i-PnxLEgtuLEMv85BZ4MJ5kp #i-PnxL5XVW7kgprfCfWVrBQY"/>
+                <link ana="ud-syn:advmod" target="#i-PnxKcsbFJupNzYiG6P6Tqv #i-PnxLEgtuLEMv85BZ4MJ5kp"/>
+                <link ana="ud-syn:nmod" target="#i-PnxLEgtuLEMv85BZ4MJ5kp #i-PnxLPrJJYi31PVAScCjz76"/>
+                <link ana="ud-syn:advmod" target="#i-PnxKcsbFJupNzYiG6P6Tqv #i-PnxLZr1ebmrvb2bbPVmswa"/>
+                <link ana="ud-syn:det" target="#i-PnxM2VuuQcjNT95zocXbWC #i-PnxLiB76yfPBvK8Dhudnoe"/>
+                <link ana="ud-syn:det" target="#i-PnxM2VuuQcjNT95zocXbWC #i-PnxLsLWWC94HBj77Fm5h9v"/>
+                <link ana="ud-syn:advmod" target="#i-PnxLZr1ebmrvb2bbPVmswa #i-PnxM2VuuQcjNT95zocXbWC"/>
+                <link ana="ud-syn:advmod" target="#i-PnxKcsbFJupNzYiG6P6Tqv #i-PnxMBfKJd6QTiZ4tMTyVrU"/>
+                <link ana="ud-syn:det" target="#i-PnxMVz8743keFP2fTAsJZ2 #i-PnxMLpihqa5Yyy3muKRQCk"/>
+                <link ana="ud-syn:advmod" target="#i-PnxMBfKJd6QTiZ4tMTyVrU #i-PnxMVz8743keFP2fTAsJZ2"/>
+                <link ana="ud-syn:nmod" target="#i-PnxMVz8743keFP2fTAsJZ2 #i-PnxMf9XWGXRjWo1Z12KCuJ"/>
+                <link ana="ud-syn:det" target="#i-PnxN8djhuxT1K2xDeaeux8 #i-PnxMoUcxeQwzr5YBKSB7mN"/>
+                <link ana="ud-syn:amod" target="#i-PnxN8djhuxT1K2xDeaeux8 #i-PnxMxe2Mrtd67VX4sHd27e"/>
+                <link ana="ud-syn:advmod" target="#i-PnxMf9XWGXRjWo1Z12KCuJ #i-PnxN8djhuxT1K2xDeaeux8"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxNSxYWLuoBqruzkHYieg #i-PnxNHo978S86aSw7CS6pJQ"/>
+                <link ana="ud-syn:nmod" target="#i-PnxN8djhuxT1K2xDeaeux8 #i-PnxNSxYWLuoBqruzkHYieg"/>
+                <link ana="ud-syn:dep" target="#i-PnxNSxYWLuoBqruzkHYieg #i-PnxNc7wuZPUH7GttJ8zczx"/>
+                <link ana="ud-syn:det" target="#i-PnxNwH4epvyHaEJvdHURBi #i-PnxNmHMJms9NNgsmqzSXME"/>
+                <link ana="ud-syn:advmod" target="#i-PnxP6SU43QeNqeHpB8vKXz #i-PnxNwH4epvyHaEJvdHURBi"/>
+                <link ana="ud-syn:advmod" target="#i-PnxNc7wuZPUH7GttJ8zczx #i-PnxP6SU43QeNqeHpB8vKXz"/>
+                <link ana="ud-syn:punct" target="#i-PnxKcsbFJupNzYiG6P6Tqv #i-PnxPFbsTFtKU74GhizNDtG"/>
+                <link ana="ud-syn:root" target="#i-Pnz9uKVjQr6pyYutEFUv9A #i-PnxKcsbFJupNzYiG6P6Tqv"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzA1yyJ7ZKSSaXz5nAr2p">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-PnxPPvxudmqjSLoL3QE8kL">Den</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="leda" xml:id="i-PnxPZ6NJrFWphknDbFg36c">ledde</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-PnxPhRTmE93633JqufXwxg">till</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-PnxPqkZDc2ZMNKqUE5Prpk">att</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="statsminister" xml:id="i-PnxPzuxcpWESdjpMmvqmB2">statsministern</w>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-PnxQA5N22yuXu9oFKnHfXJ">inte</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="tolerera" xml:id="i-PnxQKEmRFTadAZn8sdjZsa">tolererades</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-PnxQTZrsdM6tVrJmC3bUje">av</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-PnxQcjGGqpmymGHeju3P5v" join="right">riksdagen</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxQmtfg4JT52gGYHkVHSC">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnxPZ6NJrFWphknDbFg36c #i-PnxPPvxudmqjSLoL3QE8kL"/>
+                <link ana="ud-syn:advmod" target="#i-PnxPZ6NJrFWphknDbFg36c #i-PnxPhRTmE93633JqufXwxg"/>
+                <link ana="ud-syn:advmod" target="#i-PnxPhRTmE93633JqufXwxg #i-PnxPqkZDc2ZMNKqUE5Prpk"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxQKEmRFTadAZn8sdjZsa #i-PnxPzuxcpWESdjpMmvqmB2"/>
+                <link ana="ud-syn:dep" target="#i-PnxQKEmRFTadAZn8sdjZsa #i-PnxQA5N22yuXu9oFKnHfXJ"/>
+                <link ana="ud-syn:advmod" target="#i-PnxPqkZDc2ZMNKqUE5Prpk #i-PnxQKEmRFTadAZn8sdjZsa"/>
+                <link ana="ud-syn:dep" target="#i-PnxQKEmRFTadAZn8sdjZsa #i-PnxQTZrsdM6tVrJmC3bUje"/>
+                <link ana="ud-syn:advmod" target="#i-PnxQTZrsdM6tVrJmC3bUje #i-PnxQcjGGqpmymGHeju3P5v"/>
+                <link ana="ud-syn:punct" target="#i-PnxPZ6NJrFWphknDbFg36c #i-PnxQmtfg4JT52gGYHkVHSC"/>
+                <link ana="ud-syn:root" target="#i-PnzA1yyJ7ZKSSaXz5nAr2p #i-PnxPZ6NJrFWphknDbFg36c"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-EH6JRk9LfLNTDqPyascrNw">
+            <s xml:id="i-PnzA7p8uygPDyUhphsGnSG">
+              <w msd="UPosTag=ADV" lemma="sedan" xml:id="i-PnxQvDm8SByLMxoAcAMCJG">Sedan</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="inleda" xml:id="i-PnxR4Yrap5VbhFKnvaD7AL">inleddes</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-PnxRCsx3By1s2XrREz522Q">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="rekordlång" xml:id="i-PnxRPhyL5czcACjqFiguM6">rekordlånga</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="regeringsbildning" xml:id="i-PnxRZhgg8gpXMkAz31ioBa">regeringsbildningen</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnxRi2n8WaLnh2hcMRai3e">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ta" xml:id="i-PnxRsCBXj41sxSgVuH2cPv">tog</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="134" xml:id="i-PnxS2MavwXgyDrfPT8UWkC">134</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="dag" xml:id="i-PnxSAggPKRDEZ9C1mYLRcG">dagar</w>
+              <w msd="UPosTag=SCONJ" lemma="om" xml:id="i-PnxSKr5nXttKpZAuKPnKxY">om</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="man" xml:id="i-PnxSV1VBkNZR5y9nsFEEJp">man</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="räkna" xml:id="i-PnxSeAtaxrEWMP8gR6g8f6">räknar</w>
+              <w msd="UPosTag=ADP" lemma="från" xml:id="i-PnxSoLHzBKubco7Zxx831N">från</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="valdag" xml:id="i-PnxSwfPSZDRrx5eCHMywsS">valdagen</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-PnxT6pnqmh6xDVd5qDRrDi">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="dag" xml:id="i-PnxTFzCEzAn3UubyP4skZz">dagen</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-PnxTR9beCeT8kKarvvKevG">för</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="skifteskonselj" xml:id="i-PnxTaK13R88E1jZkUmmZGY">skifteskonseljen</w>
+              <w msd="UPosTag=ADV" lemma="då" xml:id="i-PnxTjUQSdboKH9Ye2dDTcp">då</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-PnxTtdoqr5UQYZXXaUfMy6">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="ny" xml:id="i-PnxU4dXBu9JKk6xgMmhFoa">nya</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="regering" xml:id="i-PnxUCxceH2pb5PVJgBZAfe">regeringen</w>
+              <w msd="UPosTag=ADV|Degree=Pos" lemma="formellt" xml:id="i-PnxUN823VWVgLoUCE3151v">formellt</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="tillträda" xml:id="i-PnxUY7jPYaKbYLuM1L2xrQ" join="right">tillträdde</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxUgSpqvTqrsdRyKjtsiU">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-PnxR4Yrap5VbhFKnvaD7AL #i-PnxQvDm8SByLMxoAcAMCJG"/>
+                <link ana="ud-syn:det" target="#i-PnxRZhgg8gpXMkAz31ioBa #i-PnxRCsx3By1s2XrREz522Q"/>
+                <link ana="ud-syn:amod" target="#i-PnxRZhgg8gpXMkAz31ioBa #i-PnxRPhyL5czcACjqFiguM6"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxR4Yrap5VbhFKnvaD7AL #i-PnxRZhgg8gpXMkAz31ioBa"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxRsCBXj41sxSgVuH2cPv #i-PnxRi2n8WaLnh2hcMRai3e"/>
+                <link ana="ud-syn:nmod" target="#i-PnxRZhgg8gpXMkAz31ioBa #i-PnxRsCBXj41sxSgVuH2cPv"/>
+                <link ana="ud-syn:det" target="#i-PnxSAggPKRDEZ9C1mYLRcG #i-PnxS2MavwXgyDrfPT8UWkC"/>
+                <link ana="ud-syn:obj" target="#i-PnxRsCBXj41sxSgVuH2cPv #i-PnxSAggPKRDEZ9C1mYLRcG"/>
+                <link ana="ud-syn:advmod" target="#i-PnxRsCBXj41sxSgVuH2cPv #i-PnxSKr5nXttKpZAuKPnKxY"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxSeAtaxrEWMP8gR6g8f6 #i-PnxSV1VBkNZR5y9nsFEEJp"/>
+                <link ana="ud-syn:advmod" target="#i-PnxSKr5nXttKpZAuKPnKxY #i-PnxSeAtaxrEWMP8gR6g8f6"/>
+                <link ana="ud-syn:advmod" target="#i-PnxSeAtaxrEWMP8gR6g8f6 #i-PnxSoLHzBKubco7Zxx831N"/>
+                <link ana="ud-syn:advmod" target="#i-PnxSoLHzBKubco7Zxx831N #i-PnxSwfPSZDRrx5eCHMywsS"/>
+                <link ana="ud-syn:advmod" target="#i-PnxSeAtaxrEWMP8gR6g8f6 #i-PnxT6pnqmh6xDVd5qDRrDi"/>
+                <link ana="ud-syn:advmod" target="#i-PnxT6pnqmh6xDVd5qDRrDi #i-PnxTFzCEzAn3UubyP4skZz"/>
+                <link ana="ud-syn:advmod" target="#i-PnxSeAtaxrEWMP8gR6g8f6 #i-PnxTR9beCeT8kKarvvKevG"/>
+                <link ana="ud-syn:advmod" target="#i-PnxTR9beCeT8kKarvvKevG #i-PnxTaK13R88E1jZkUmmZGY"/>
+                <link ana="ud-syn:advmod" target="#i-PnxUY7jPYaKbYLuM1L2xrQ #i-PnxTjUQSdboKH9Ye2dDTcp"/>
+                <link ana="ud-syn:det" target="#i-PnxUCxceH2pb5PVJgBZAfe #i-PnxTtdoqr5UQYZXXaUfMy6"/>
+                <link ana="ud-syn:amod" target="#i-PnxUCxceH2pb5PVJgBZAfe #i-PnxU4dXBu9JKk6xgMmhFoa"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxUY7jPYaKbYLuM1L2xrQ #i-PnxUCxceH2pb5PVJgBZAfe"/>
+                <link ana="ud-syn:advmod" target="#i-PnxUY7jPYaKbYLuM1L2xrQ #i-PnxUN823VWVgLoUCE3151v"/>
+                <link ana="ud-syn:nmod" target="#i-PnxTaK13R88E1jZkUmmZGY #i-PnxUY7jPYaKbYLuM1L2xrQ"/>
+                <link ana="ud-syn:punct" target="#i-PnxR4Yrap5VbhFKnvaD7AL #i-PnxUgSpqvTqrsdRyKjtsiU"/>
+                <link ana="ud-syn:root" target="#i-PnzA7p8uygPDyUhphsGnSG #i-PnxR4Yrap5VbhFKnvaD7AL"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzADeJXqoT1WNsfKxNiqi">
+              <w msd="UPosTag=ADP" lemma="under" xml:id="i-PnxUqcEF8wWx93QrsbLn4k">Under</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-PnxUzmdeMRC3QTPkRSngR2">den</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="period" xml:id="i-PnxV9w33Zts8fsNdyJEamJ">perioden</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="få" xml:id="i-PnxVK6SSnNYDwHMXX9gV7a">fick</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnxVTRXuAG4VGZt9qZYPye">vi</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="uppleva" xml:id="i-PnxVcawJNjjaXys3PQzJKv">uppleva</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="händelse" xml:id="i-PnxVmkLhbDQfoPqvwGSCgC">händelser</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnxVvuk6oh5m4oppV7t72U">som</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnxW659W2AkrLDoi2yL1Nk">vi</w>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-PnxWFEYuEeRwbdnbapmuj2">inte</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxWQPxJT872s3mV8gDp5J">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="se" xml:id="i-PnxWYj3kq1dJCLJ7T65iwN">sett</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-PnxWh49DCu9ZXcpjmVwdoS">tidigare</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnxWrDYcRNpeo2odKMPY9i">i</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="svensk" xml:id="i-PnxX2DFxUSeZzaEn6eRRzC">svensk</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="politik" xml:id="i-PnxXBNfMgvKfFzDfeVsLLU" join="right">politik</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxXKhkp4oqvbGkHxujFCY">,</pc>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-PnxXUsADHHX1rgjBWmB9Yp">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="exempel" xml:id="i-PnxXersZLMLw4EALJ4D3PJ">exempel</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-PnxXoBy1iEsCPWgxcU4xFN">att</w>
+              <w msd="UPosTag=NOUN|Case=Gen|Definite=Def|Gender=Com|Number=Sing" lemma="talman" xml:id="i-PnxXwX4U68PTioDavsvs7S">talmannens</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="statsministerkandidat" xml:id="i-PnxY6gTsJc4YzDCUUjNmTi">statsministerkandidater</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="rösta" xml:id="i-PnxYFqsGX5jeFdBN2apfoz">röstades</w>
+              <w msd="UPosTag=PART" lemma="ned" xml:id="i-PnxYR1GfjZQjX3AFaSGaAG">ned</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-PnxYdVurJPh8WxxC444STN">av</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-PnxYnfKFWsNDnNw5buWLoe" join="right">riksdagen</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxYwpiejM3K3nuy9kxF9v">,</pc>
+              <w msd="UPosTag=ADV" lemma="dessutom" xml:id="i-PnxZ6z83wpiQKCtrhcQ9WC">dessutom</w>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-PnxZFKDWKiEfeVRV22G4NG">inte</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnxZQUcuYBukuuQNZshxiY">en</w>
+              <w msd="UPosTag=ADP" lemma="utan" xml:id="i-PnxZaULFbFjg7SqXMAjrZ2">utan</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="två" xml:id="i-PnxZjdjeojQmNrpQu2BkuJ">två</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="gång" xml:id="i-PnxZto942D5reGoJSsdfFa" join="right">gånger</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnxa3xYTEgkwugnBzj5Zbr">,</pc>
+              <w msd="UPosTag=SCONJ" lemma="innan" xml:id="i-PnxaD7wrTAS3B6m5YaXTx8">innan</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnxaNHMFfe78SWjy6RyNJQ">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="regering" xml:id="i-PnxaWcSi3XdPmoGbQqqHAU">regering</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="kunna" xml:id="i-Pnxafmr7G1JV3DFUxhHBWk">kunde</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="bilda" xml:id="i-PnxapwFWUUyaJdENWYj5s2" join="right">bildas</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxayGLxrNVqdukzpxazj6">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-PnxVK6SSnNYDwHMXX9gV7a #i-PnxUqcEF8wWx93QrsbLn4k"/>
+                <link ana="ud-syn:det" target="#i-PnxV9w33Zts8fsNdyJEamJ #i-PnxUzmdeMRC3QTPkRSngR2"/>
+                <link ana="ud-syn:advmod" target="#i-PnxUqcEF8wWx93QrsbLn4k #i-PnxV9w33Zts8fsNdyJEamJ"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxVK6SSnNYDwHMXX9gV7a #i-PnxVTRXuAG4VGZt9qZYPye"/>
+                <link ana="ud-syn:dep" target="#i-PnxVK6SSnNYDwHMXX9gV7a #i-PnxVcawJNjjaXys3PQzJKv"/>
+                <link ana="ud-syn:obj" target="#i-PnxVcawJNjjaXys3PQzJKv #i-PnxVmkLhbDQfoPqvwGSCgC"/>
+                <link ana="ud-syn:obj" target="#i-PnxWYj3kq1dJCLJ7T65iwN #i-PnxVvuk6oh5m4oppV7t72U"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxWQPxJT872s3mV8gDp5J #i-PnxW659W2AkrLDoi2yL1Nk"/>
+                <link ana="ud-syn:dep" target="#i-PnxWQPxJT872s3mV8gDp5J #i-PnxWFEYuEeRwbdnbapmuj2"/>
+                <link ana="ud-syn:nmod" target="#i-PnxVmkLhbDQfoPqvwGSCgC #i-PnxWQPxJT872s3mV8gDp5J"/>
+                <link ana="ud-syn:dep" target="#i-PnxWQPxJT872s3mV8gDp5J #i-PnxWYj3kq1dJCLJ7T65iwN"/>
+                <link ana="ud-syn:advmod" target="#i-PnxWYj3kq1dJCLJ7T65iwN #i-PnxWh49DCu9ZXcpjmVwdoS"/>
+                <link ana="ud-syn:advmod" target="#i-PnxWYj3kq1dJCLJ7T65iwN #i-PnxWrDYcRNpeo2odKMPY9i"/>
+                <link ana="ud-syn:amod" target="#i-PnxXBNfMgvKfFzDfeVsLLU #i-PnxX2DFxUSeZzaEn6eRRzC"/>
+                <link ana="ud-syn:advmod" target="#i-PnxWrDYcRNpeo2odKMPY9i #i-PnxXBNfMgvKfFzDfeVsLLU"/>
+                <link ana="ud-syn:punct" target="#i-PnxVcawJNjjaXys3PQzJKv #i-PnxXKhkp4oqvbGkHxujFCY"/>
+                <link ana="ud-syn:advmod" target="#i-PnxWYj3kq1dJCLJ7T65iwN #i-PnxXUsADHHX1rgjBWmB9Yp"/>
+                <link ana="ud-syn:det" target="#i-PnxXUsADHHX1rgjBWmB9Yp #i-PnxXersZLMLw4EALJ4D3PJ"/>
+                <link ana="ud-syn:obj" target="#i-PnxVcawJNjjaXys3PQzJKv #i-PnxXoBy1iEsCPWgxcU4xFN"/>
+                <link ana="ud-syn:det" target="#i-PnxY6gTsJc4YzDCUUjNmTi #i-PnxXwX4U68PTioDavsvs7S"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxYFqsGX5jeFdBN2apfoz #i-PnxY6gTsJc4YzDCUUjNmTi"/>
+                <link ana="ud-syn:advmod" target="#i-PnxXoBy1iEsCPWgxcU4xFN #i-PnxYFqsGX5jeFdBN2apfoz"/>
+                <link ana="ud-syn:dep" target="#i-PnxYFqsGX5jeFdBN2apfoz #i-PnxYR1GfjZQjX3AFaSGaAG"/>
+                <link ana="ud-syn:dep" target="#i-PnxYFqsGX5jeFdBN2apfoz #i-PnxYdVurJPh8WxxC444STN"/>
+                <link ana="ud-syn:advmod" target="#i-PnxYdVurJPh8WxxC444STN #i-PnxYnfKFWsNDnNw5buWLoe"/>
+                <link ana="ud-syn:punct" target="#i-PnxYFqsGX5jeFdBN2apfoz #i-PnxYwpiejM3K3nuy9kxF9v"/>
+                <link ana="ud-syn:advmod" target="#i-PnxZQUcuYBukuuQNZshxiY #i-PnxZ6z83wpiQKCtrhcQ9WC"/>
+                <link ana="ud-syn:dep" target="#i-PnxZQUcuYBukuuQNZshxiY #i-PnxZFKDWKiEfeVRV22G4NG"/>
+                <link ana="ud-syn:dep" target="#i-PnxYFqsGX5jeFdBN2apfoz #i-PnxZQUcuYBukuuQNZshxiY"/>
+                <link ana="ud-syn:advmod" target="#i-PnxZQUcuYBukuuQNZshxiY #i-PnxZaULFbFjg7SqXMAjrZ2"/>
+                <link ana="ud-syn:det" target="#i-PnxZto942D5reGoJSsdfFa #i-PnxZjdjeojQmNrpQu2BkuJ"/>
+                <link ana="ud-syn:advmod" target="#i-PnxZaULFbFjg7SqXMAjrZ2 #i-PnxZto942D5reGoJSsdfFa"/>
+                <link ana="ud-syn:punct" target="#i-PnxYFqsGX5jeFdBN2apfoz #i-Pnxa3xYTEgkwugnBzj5Zbr"/>
+                <link ana="ud-syn:advmod" target="#i-PnxYFqsGX5jeFdBN2apfoz #i-PnxaD7wrTAS3B6m5YaXTx8"/>
+                <link ana="ud-syn:det" target="#i-PnxaWcSi3XdPmoGbQqqHAU #i-PnxaNHMFfe78SWjy6RyNJQ"/>
+                <link ana="ud-syn:nsubj" target="#i-Pnxafmr7G1JV3DFUxhHBWk #i-PnxaWcSi3XdPmoGbQqqHAU"/>
+                <link ana="ud-syn:advmod" target="#i-PnxaD7wrTAS3B6m5YaXTx8 #i-Pnxafmr7G1JV3DFUxhHBWk"/>
+                <link ana="ud-syn:dep" target="#i-Pnxafmr7G1JV3DFUxhHBWk #i-PnxapwFWUUyaJdENWYj5s2"/>
+                <link ana="ud-syn:punct" target="#i-PnxVK6SSnNYDwHMXX9gV7a #i-PnxayGLxrNVqdukzpxazj6"/>
+                <link ana="ud-syn:root" target="#i-PnzADeJXqoT1WNsfKxNiqi #i-PnxVK6SSnNYDwHMXX9gV7a"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzAKUU9hvWo3H3Vx3UfFA">
+              <w msd="UPosTag=ADV" lemma="därefter" xml:id="i-Pnxb7bSREG26yCHd9NSubA">Därefter</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="följa" xml:id="i-PnxbHb9mHKr2AjimvfUoRe">följde</w>
+              <w msd="UPosTag=ADV" lemma="ungefär" xml:id="i-PnxbTas7LPfwNH9vhxWhG8">ungefär</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Neut|Number=Sing" lemma="en" xml:id="i-PnxbbuxZiHCChZgZ2NNc8C">ett</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="år" xml:id="i-PnxbmufumM27u77hofQVxg">år</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-Pnxbw55JyphDAX6bMWrQJx">av</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="mycket" xml:id="i-Pnxc6EUiCJNJRw5UuNJJfE">mer</w>
+              <w msd="UPosTag=ADV|Degree=Pos" lemma="vardaglig" xml:id="i-PnxcEZaAaBtZmDc7DnADXJ">vardagligt</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="politisk" xml:id="i-PnxcNtfcx5Qq6W8jYC28PN">politiskt</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="arbete" xml:id="i-PnxcY452AZ5vMv7d63U2je" join="right">arbete</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnxci3nNDcuqZTYmsLVva8">,</pc>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnxcrNspbWS6tk5QBkMqSC">och</w>
+              <w msd="UPosTag=ADV" lemma="så" xml:id="i-PnxczhyGyPxNE2c2WADkJG">så</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="slå" xml:id="i-PnxdAhgd2TnHRa3BHTFe8k">slog</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="pandemi" xml:id="i-PnxdKs62EwTNgz24qJhYV2">pandemin</w>
+              <w msd="UPosTag=PART" lemma="till" xml:id="i-PnxdV2VRTR8TxPzxPA9SqJ" join="right">till</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxddMasqJejHgXaha1MhN">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-PnxbHb9mHKr2AjimvfUoRe #i-Pnxb7bSREG26yCHd9NSubA"/>
+                <link ana="ud-syn:dep" target="#i-PnxcrNspbWS6tk5QBkMqSC #i-PnxbHb9mHKr2AjimvfUoRe"/>
+                <link ana="ud-syn:advmod" target="#i-PnxbbuxZiHCChZgZ2NNc8C #i-PnxbTas7LPfwNH9vhxWhG8"/>
+                <link ana="ud-syn:det" target="#i-PnxbmufumM27u77hofQVxg #i-PnxbbuxZiHCChZgZ2NNc8C"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxbHb9mHKr2AjimvfUoRe #i-PnxbmufumM27u77hofQVxg"/>
+                <link ana="ud-syn:nmod" target="#i-PnxbmufumM27u77hofQVxg #i-Pnxbw55JyphDAX6bMWrQJx"/>
+                <link ana="ud-syn:advmod" target="#i-PnxcEZaAaBtZmDc7DnADXJ #i-Pnxc6EUiCJNJRw5UuNJJfE"/>
+                <link ana="ud-syn:advmod" target="#i-PnxcNtfcx5Qq6W8jYC28PN #i-PnxcEZaAaBtZmDc7DnADXJ"/>
+                <link ana="ud-syn:amod" target="#i-PnxcY452AZ5vMv7d63U2je #i-PnxcNtfcx5Qq6W8jYC28PN"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxbw55JyphDAX6bMWrQJx #i-PnxcY452AZ5vMv7d63U2je"/>
+                <link ana="ud-syn:punct" target="#i-PnxcrNspbWS6tk5QBkMqSC #i-Pnxci3nNDcuqZTYmsLVva8"/>
+                <link ana="ud-syn:advmod" target="#i-PnxdAhgd2TnHRa3BHTFe8k #i-PnxczhyGyPxNE2c2WADkJG"/>
+                <link ana="ud-syn:dep" target="#i-PnxcrNspbWS6tk5QBkMqSC #i-PnxdAhgd2TnHRa3BHTFe8k"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxdAhgd2TnHRa3BHTFe8k #i-PnxdKs62EwTNgz24qJhYV2"/>
+                <link ana="ud-syn:dep" target="#i-PnxdAhgd2TnHRa3BHTFe8k #i-PnxdV2VRTR8TxPzxPA9SqJ"/>
+                <link ana="ud-syn:punct" target="#i-PnxcrNspbWS6tk5QBkMqSC #i-PnxddMasqJejHgXaha1MhN"/>
+                <link ana="ud-syn:root" target="#i-PnzAKUU9hvWo3H3Vx3UfFA #i-PnxcrNspbWS6tk5QBkMqSC"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzARJdma3aaaBDLa8abec">
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnxdnWzH3nKpZ6WUFRTG3e">Och</w>
+              <w msd="UPosTag=ADP" lemma="på" xml:id="i-PnxdwgPgGFzupWVMoGuAPv">på</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="ny" xml:id="i-Pnxe61V8e9XB9o1z7gm5Fz">nytt</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="få" xml:id="i-PnxeFAtXrdCGRCzsfYCycG">fick</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnxeQLHw56sMgcymDPesxY">vi</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="bryta" xml:id="i-PnxeZVhLHaYSx2xemF6nJp">bryta</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="ny" xml:id="i-Pnxeif6jW4DYDSwYK6Ygf6">ny</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="mark" xml:id="i-PnxerzCBswjoYjUAdWQbXA">mark</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-Pnxf29bb6RQtp9T4BMrVsS">och</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="skapa" xml:id="i-PnxfAUh3UJwA9RygVmiQjW">skapa</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="arbetssätt" xml:id="i-PnxfLUQPXNm5LyQqH4kJZz">arbetssätt</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnxfUoVquGHLgFwTbUcDS4">som</w>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-PnxfdxuF7jxRwfvM9L47nL">inte</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-Pnxfo8JeLDdXD5uEhBW28c">tidigare</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxfwTQ6i79nYNRs1bMvzg">hade</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="finnas" xml:id="i-Pnxg5nVZ5zg3sexVL1Dqrk" join="right">funnits</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxgFnCu94Vy5CPe7JFjhE">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-PnxeFAtXrdCGRCzsfYCycG #i-PnxdwgPgGFzupWVMoGuAPv"/>
+                <link ana="ud-syn:advmod" target="#i-PnxdwgPgGFzupWVMoGuAPv #i-Pnxe61V8e9XB9o1z7gm5Fz"/>
+                <link ana="ud-syn:dep" target="#i-PnxdnWzH3nKpZ6WUFRTG3e #i-PnxeFAtXrdCGRCzsfYCycG"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxeFAtXrdCGRCzsfYCycG #i-PnxeQLHw56sMgcymDPesxY"/>
+                <link ana="ud-syn:dep" target="#i-PnxeFAtXrdCGRCzsfYCycG #i-PnxeZVhLHaYSx2xemF6nJp"/>
+                <link ana="ud-syn:amod" target="#i-PnxerzCBswjoYjUAdWQbXA #i-Pnxeif6jW4DYDSwYK6Ygf6"/>
+                <link ana="ud-syn:obj" target="#i-PnxeZVhLHaYSx2xemF6nJp #i-PnxerzCBswjoYjUAdWQbXA"/>
+                <link ana="ud-syn:dep" target="#i-PnxdnWzH3nKpZ6WUFRTG3e #i-Pnxf29bb6RQtp9T4BMrVsS"/>
+                <link ana="ud-syn:dep" target="#i-Pnxf29bb6RQtp9T4BMrVsS #i-PnxfAUh3UJwA9RygVmiQjW"/>
+                <link ana="ud-syn:obj" target="#i-PnxfAUh3UJwA9RygVmiQjW #i-PnxfLUQPXNm5LyQqH4kJZz"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxfwTQ6i79nYNRs1bMvzg #i-PnxfUoVquGHLgFwTbUcDS4"/>
+                <link ana="ud-syn:dep" target="#i-PnxfwTQ6i79nYNRs1bMvzg #i-PnxfdxuF7jxRwfvM9L47nL"/>
+                <link ana="ud-syn:advmod" target="#i-PnxfwTQ6i79nYNRs1bMvzg #i-Pnxfo8JeLDdXD5uEhBW28c"/>
+                <link ana="ud-syn:nmod" target="#i-PnxfLUQPXNm5LyQqH4kJZz #i-PnxfwTQ6i79nYNRs1bMvzg"/>
+                <link ana="ud-syn:dep" target="#i-PnxfwTQ6i79nYNRs1bMvzg #i-Pnxg5nVZ5zg3sexVL1Dqrk"/>
+                <link ana="ud-syn:punct" target="#i-Pnxf29bb6RQtp9T4BMrVsS #i-PnxgFnCu94Vy5CPe7JFjhE"/>
+                <link ana="ud-syn:root" target="#i-PnzARJdma3aaaBDLa8abec #i-PnxdnWzH3nKpZ6WUFRTG3e"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-7YrGQbPrCMdiuNxKs9MMeZ">
+            <s xml:id="i-PnzAXy7LGkoC3CqSRfGXYG">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnxgRmvFC8KtGjpntbHdXi">Det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxgawKeQbzyY9ogSSjXsz">har</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-PnxgjGR6nVXEsSLJkrbSk4">hela</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="tid" xml:id="i-PnxgtRpVzyCL8rKCJi3M6L">tiden</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="vara" xml:id="i-Pnxh3bDuDSsRQGJ5rZVFSc">varit</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="min" xml:id="i-PnxhBvKMbLPgjYpiAyMAJg">min</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="ambition" xml:id="i-PnxhLFQoyDux4qMLVPD5Ak">ambition</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-PnxhVQpDBhb3LFLE3EeyX2">att</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-PnxheaDcQBG8bfK7b66ssJ">riksdagen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ska" xml:id="i-Pnxhxu2Qq8cK8VGtgnzgZr">ska</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="fortsätta" xml:id="i-Pnxi8tjktCSEL2i3U62aQL">fortsätta</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-PnxiJ49A6g7KbSgw1wUUkc">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="fullgöra" xml:id="i-PnxiTDYZK9nQrrfpZnvP6t">fullgöra</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="sin" xml:id="i-PnxicNwxXdTW8Gei7eNHTA">sina</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="viktig" xml:id="i-PnximYMMk78bPgdbfVpBoS">viktiga</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="uppgift" xml:id="i-Pnxivhkkxaogf6cVDMG69i">uppgifter</w>
+              <w msd="UPosTag=ADP" lemma="–" xml:id="i-Pnxj5sAAB4UmvWbNmChzVz">–</w>
+              <w msd="UPosTag=ADP" lemma="trots" xml:id="i-PnxjF2ZZPY9sBvaGK49trG">trots</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="pandemi" xml:id="i-PnxjPMf1mRg8XD6tdU1oiL" join="right">pandemin</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxjZMNMpVW3ikY3Qm3hYp">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:expl" target="#i-PnxgawKeQbzyY9ogSSjXsz #i-PnxgRmvFC8KtGjpntbHdXi"/>
+                <link ana="ud-syn:det" target="#i-PnxgtRpVzyCL8rKCJi3M6L #i-PnxgjGR6nVXEsSLJkrbSk4"/>
+                <link ana="ud-syn:advmod" target="#i-PnxgawKeQbzyY9ogSSjXsz #i-PnxgtRpVzyCL8rKCJi3M6L"/>
+                <link ana="ud-syn:dep" target="#i-PnxgawKeQbzyY9ogSSjXsz #i-Pnxh3bDuDSsRQGJ5rZVFSc"/>
+                <link ana="ud-syn:det" target="#i-PnxhLFQoyDux4qMLVPD5Ak #i-PnxhBvKMbLPgjYpiAyMAJg"/>
+                <link ana="ud-syn:dep" target="#i-Pnxh3bDuDSsRQGJ5rZVFSc #i-PnxhLFQoyDux4qMLVPD5Ak"/>
+                <link ana="ud-syn:nsubj" target="#i-Pnxh3bDuDSsRQGJ5rZVFSc #i-PnxhVQpDBhb3LFLE3EeyX2"/>
+                <link ana="ud-syn:nsubj" target="#i-Pnxhxu2Qq8cK8VGtgnzgZr #i-PnxheaDcQBG8bfK7b66ssJ"/>
+                <link ana="ud-syn:advmod" target="#i-PnxhVQpDBhb3LFLE3EeyX2 #i-Pnxhxu2Qq8cK8VGtgnzgZr"/>
+                <link ana="ud-syn:dep" target="#i-Pnxhxu2Qq8cK8VGtgnzgZr #i-Pnxi8tjktCSEL2i3U62aQL"/>
+                <link ana="ud-syn:obj" target="#i-Pnxi8tjktCSEL2i3U62aQL #i-PnxiJ49A6g7KbSgw1wUUkc"/>
+                <link ana="ud-syn:punct" target="#i-PnxiJ49A6g7KbSgw1wUUkc #i-PnxiTDYZK9nQrrfpZnvP6t"/>
+                <link ana="ud-syn:det" target="#i-Pnxivhkkxaogf6cVDMG69i #i-PnxicNwxXdTW8Gei7eNHTA"/>
+                <link ana="ud-syn:amod" target="#i-Pnxivhkkxaogf6cVDMG69i #i-PnximYMMk78bPgdbfVpBoS"/>
+                <link ana="ud-syn:obj" target="#i-PnxiTDYZK9nQrrfpZnvP6t #i-Pnxivhkkxaogf6cVDMG69i"/>
+                <link ana="ud-syn:advmod" target="#i-PnxiTDYZK9nQrrfpZnvP6t #i-Pnxj5sAAB4UmvWbNmChzVz"/>
+                <link ana="ud-syn:advmod" target="#i-PnxiTDYZK9nQrrfpZnvP6t #i-PnxjF2ZZPY9sBvaGK49trG"/>
+                <link ana="ud-syn:advmod" target="#i-PnxjF2ZZPY9sBvaGK49trG #i-PnxjPMf1mRg8XD6tdU1oiL"/>
+                <link ana="ud-syn:punct" target="#i-PnxgawKeQbzyY9ogSSjXsz #i-PnxjZMNMpVW3ikY3Qm3hYp"/>
+                <link ana="ud-syn:root" target="#i-PnzAXy7LGkoC3CqSRfGXYG #i-PnxgawKeQbzyY9ogSSjXsz"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzAdoGx8srya71H3kNTwi">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnxjiWmm2yB8zAWvxcVbu6">Det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxjsgBAFSrEFaVpWTwWFN">har</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-Pnxk21GcdLNVas2SpsoR7S">riksdagen</w>
+              <w msd="UPosTag=ADV" lemma="också" xml:id="i-PnxkBAg1qp3arH1LNjFKTi">också</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="göra" xml:id="i-PnxkMAPMtssW3pSVA2HDJC" join="right">gjort</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxkVVUpGmPmP6y7US98AG">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:obj" target="#i-PnxkMAPMtssW3pSVA2HDJC #i-PnxjiWmm2yB8zAWvxcVbu6"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxjsgBAFSrEFaVpWTwWFN #i-Pnxk21GcdLNVas2SpsoR7S"/>
+                <link ana="ud-syn:advmod" target="#i-PnxjsgBAFSrEFaVpWTwWFN #i-PnxkBAg1qp3arH1LNjFKTi"/>
+                <link ana="ud-syn:dep" target="#i-PnxjsgBAFSrEFaVpWTwWFN #i-PnxkMAPMtssW3pSVA2HDJC"/>
+                <link ana="ud-syn:punct" target="#i-PnxjsgBAFSrEFaVpWTwWFN #i-PnxkVVUpGmPmP6y7US98AG"/>
+                <link ana="ud-syn:root" target="#i-PnzAdoGx8srya71H3kNTwi #i-PnxjsgBAFSrEFaVpWTwWFN"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzAjdSZzzvm71B7fqUQMA">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="arbetsform" xml:id="i-PnxkeetDVF4reWx12Hb2WY">Arbetsformerna</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-Pnxknyyfs8b7yoUdLhSwNc">har</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="förändra" xml:id="i-Pnxkxyh1vCR3BLun7zUqD6">förändrats</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-Pnxm896R8g68SktffqvjZN">i</w>
+              <w msd="UPosTag=ADV" lemma="aldrig" xml:id="i-PnxmGUBsWZcPn3RHzFneRS">aldrig</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-PnxmRdbGj3HV3TQBY7EYmi">tidigare</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part" lemma="skådad" xml:id="i-PnxmbdJcn77QEzqLKQGScC">skådad</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="omfattning" xml:id="i-PnxmnTKufm69NfikL8tKvt" join="right">omfattning</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxmwcjJtEmEe5hdszLEHA">,</pc>
+              <w msd="UPosTag=CCONJ" lemma="men" xml:id="i-Pnxn6n8i6iSKuVgXRqn8dS">men</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="uppgift" xml:id="i-PnxnFwY7KC7RAufQyhE2yi">uppgifterna</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-PnxnQGdZh5dgWCC3J75wqn">är</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="desamma" xml:id="i-PnxnaGLuk9TbhjdC5Q7qgG" join="right">desamma</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxnjRkJxd8gy9c5dFZk2Y">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-Pnxknyyfs8b7yoUdLhSwNc #i-PnxkeetDVF4reWx12Hb2WY"/>
+                <link ana="ud-syn:dep" target="#i-Pnxn6n8i6iSKuVgXRqn8dS #i-Pnxknyyfs8b7yoUdLhSwNc"/>
+                <link ana="ud-syn:dep" target="#i-Pnxknyyfs8b7yoUdLhSwNc #i-Pnxkxyh1vCR3BLun7zUqD6"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxkxyh1vCR3BLun7zUqD6 #i-Pnxm896R8g68SktffqvjZN"/>
+                <link ana="ud-syn:advmod" target="#i-PnxmRdbGj3HV3TQBY7EYmi #i-PnxmGUBsWZcPn3RHzFneRS"/>
+                <link ana="ud-syn:advmod" target="#i-PnxmbdJcn77QEzqLKQGScC #i-PnxmRdbGj3HV3TQBY7EYmi"/>
+                <link ana="ud-syn:amod" target="#i-PnxmnTKufm69NfikL8tKvt #i-PnxmbdJcn77QEzqLKQGScC"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxm896R8g68SktffqvjZN #i-PnxmnTKufm69NfikL8tKvt"/>
+                <link ana="ud-syn:punct" target="#i-Pnxn6n8i6iSKuVgXRqn8dS #i-PnxmwcjJtEmEe5hdszLEHA"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxnQGdZh5dgWCC3J75wqn #i-PnxnFwY7KC7RAufQyhE2yi"/>
+                <link ana="ud-syn:dep" target="#i-Pnxn6n8i6iSKuVgXRqn8dS #i-PnxnQGdZh5dgWCC3J75wqn"/>
+                <link ana="ud-syn:dep" target="#i-PnxnQGdZh5dgWCC3J75wqn #i-PnxnaGLuk9TbhjdC5Q7qgG"/>
+                <link ana="ud-syn:punct" target="#i-Pnxn6n8i6iSKuVgXRqn8dS #i-PnxnjRkJxd8gy9c5dFZk2Y"/>
+                <link ana="ud-syn:root" target="#i-PnzAjdSZzzvm71B7fqUQMA #i-Pnxn6n8i6iSKuVgXRqn8dS"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzArHv8hi9Na2oDXNALEp">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="ledamot" xml:id="i-PnxnuRTf1gxcAh3EQYbds2">Ledamöterna</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-Pnxo3kZ7PaUsVyZrixTYj6">har</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnxoC5eZmU18qG6V3NKTbA">i</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="hög" xml:id="i-PnxoN5MupXq42oXdpfMMRe">hög</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="grad" xml:id="i-PnxoY55FsbeyELxnbxPFG8">grad</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="arbeta" xml:id="i-PnxogQAiFVBEZdVQvNFA8C">arbetat</w>
+              <w msd="UPosTag=ADV" lemma="hemifrån" xml:id="i-PnxoqZa7TxrKq3UJUDh4UU" join="right">hemifrån</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxoziyWgSXR6TTC258xpk">,</pc>
+              <w msd="UPosTag=CCONJ" lemma="men" xml:id="i-Pnxp944y4L3gRjypLUzsgp">men</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Ind|Gender=Com,Neut|Number=Plur" lemma="alla" xml:id="i-PnxpJDUNGoimh9xhtLSn36">alla</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxpSYZpehF32SVLCkJguA">har</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="vara" xml:id="i-PnxpbhyDsAv8HrUDkbkbFS">varit</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnxpksNd5ebDZGT7JTCVbi">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="tjänst" xml:id="i-Pnxpv2n2J8GJpgRzrJePwz" join="right">tjänst</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnxq5CBRWbwQ66QtQA6JJG">–</pc>
+              <w msd="UPosTag=CCONJ" lemma="utom" xml:id="i-PnxqEMapj5cVMWPmx1YCeY">utom</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="de" xml:id="i-PnxqQMJAn9SQZ3pvjJa6V2">de</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnxqYgPdA2xftLMZ3iS1M6">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-Pnxqhqo2NWdm9kLSbZsuhN">har</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="vara" xml:id="i-PnxqrAtUkQA2V2s4uyjpZS">varit</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur|Tense=Past|VerbForm=Part" lemma="sjukskriven" xml:id="i-Pnxr2AbpoTywgaJDhGmiPv">sjukskrivna</w>
+              <w msd="UPosTag=CCONJ" lemma="eller" xml:id="i-PnxrBL1E1wf2wzH7F8DckC">eller</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="ledig" xml:id="i-PnxrLVQdERL8DQFznyfX6U">lediga</w>
+              <w msd="UPosTag=ADP" lemma="på" xml:id="i-PnxrVep2Su1DUpEtLq7RSk">på</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="annan" xml:id="i-PnxrepDRfNgJkEDmtgZKo2">annan</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="grund" xml:id="i-PnxroycpsrMQ1eCfSY1E9J" join="right">grund</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxrxJiHFjsfLvjHkws91N">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-Pnxo3kZ7PaUsVyZrixTYj6 #i-PnxnuRTf1gxcAh3EQYbds2"/>
+                <link ana="ud-syn:dep" target="#i-Pnxp944y4L3gRjypLUzsgp #i-Pnxo3kZ7PaUsVyZrixTYj6"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxo3kZ7PaUsVyZrixTYj6 #i-PnxoC5eZmU18qG6V3NKTbA"/>
+                <link ana="ud-syn:amod" target="#i-PnxoY55FsbeyELxnbxPFG8 #i-PnxoN5MupXq42oXdpfMMRe"/>
+                <link ana="ud-syn:advmod" target="#i-PnxoC5eZmU18qG6V3NKTbA #i-PnxoY55FsbeyELxnbxPFG8"/>
+                <link ana="ud-syn:dep" target="#i-Pnxo3kZ7PaUsVyZrixTYj6 #i-PnxogQAiFVBEZdVQvNFA8C"/>
+                <link ana="ud-syn:advmod" target="#i-PnxogQAiFVBEZdVQvNFA8C #i-PnxoqZa7TxrKq3UJUDh4UU"/>
+                <link ana="ud-syn:punct" target="#i-Pnxp944y4L3gRjypLUzsgp #i-PnxoziyWgSXR6TTC258xpk"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxpSYZpehF32SVLCkJguA #i-PnxpJDUNGoimh9xhtLSn36"/>
+                <link ana="ud-syn:dep" target="#i-Pnxp944y4L3gRjypLUzsgp #i-PnxpSYZpehF32SVLCkJguA"/>
+                <link ana="ud-syn:dep" target="#i-PnxpSYZpehF32SVLCkJguA #i-PnxpbhyDsAv8HrUDkbkbFS"/>
+                <link ana="ud-syn:dep" target="#i-PnxpbhyDsAv8HrUDkbkbFS #i-PnxpksNd5ebDZGT7JTCVbi"/>
+                <link ana="ud-syn:det" target="#i-PnxpksNd5ebDZGT7JTCVbi #i-Pnxpv2n2J8GJpgRzrJePwz"/>
+                <link ana="ud-syn:advmod" target="#i-PnxpbhyDsAv8HrUDkbkbFS #i-Pnxq5CBRWbwQ66QtQA6JJG"/>
+                <link ana="ud-syn:advmod" target="#i-PnxpbhyDsAv8HrUDkbkbFS #i-PnxqEMapj5cVMWPmx1YCeY"/>
+                <link ana="ud-syn:advmod" target="#i-PnxqEMapj5cVMWPmx1YCeY #i-PnxqQMJAn9SQZ3pvjJa6V2"/>
+                <link ana="ud-syn:nsubj" target="#i-Pnxqhqo2NWdm9kLSbZsuhN #i-PnxqYgPdA2xftLMZ3iS1M6"/>
+                <link ana="ud-syn:nmod" target="#i-PnxqQMJAn9SQZ3pvjJa6V2 #i-Pnxqhqo2NWdm9kLSbZsuhN"/>
+                <link ana="ud-syn:dep" target="#i-Pnxqhqo2NWdm9kLSbZsuhN #i-PnxqrAtUkQA2V2s4uyjpZS"/>
+                <link ana="ud-syn:dep" target="#i-PnxqrAtUkQA2V2s4uyjpZS #i-Pnxr2AbpoTywgaJDhGmiPv"/>
+                <link ana="ud-syn:nmod" target="#i-PnxqQMJAn9SQZ3pvjJa6V2 #i-PnxrBL1E1wf2wzH7F8DckC"/>
+                <link ana="ud-syn:dep" target="#i-PnxrBL1E1wf2wzH7F8DckC #i-PnxrLVQdERL8DQFznyfX6U"/>
+                <link ana="ud-syn:advmod" target="#i-PnxrLVQdERL8DQFznyfX6U #i-PnxrVep2Su1DUpEtLq7RSk"/>
+                <link ana="ud-syn:det" target="#i-PnxroycpsrMQ1eCfSY1E9J #i-PnxrepDRfNgJkEDmtgZKo2"/>
+                <link ana="ud-syn:advmod" target="#i-PnxrVep2Su1DUpEtLq7RSk #i-PnxroycpsrMQ1eCfSY1E9J"/>
+                <link ana="ud-syn:punct" target="#i-Pnxp944y4L3gRjypLUzsgp #i-PnxrxJiHFjsfLvjHkws91N"/>
+                <link ana="ud-syn:root" target="#i-PnzArHv8hi9Na2oDXNALEp #i-Pnxp944y4L3gRjypLUzsgp"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-Cd3zePhjDoPR3hNSr8Rtq7">
+            <s xml:id="i-PnzAx85kZqDA6vy49TGGeG">
+              <w msd="UPosTag=ADV" lemma="så" xml:id="i-Pnxs7U7gUDYkcLiBJoK3Me">Så</w>
+              <w msd="UPosTag=ADV" lemma="häromveckan" xml:id="i-PnxsHTq2XHNfot9L66LwC8">häromveckan</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-PnxsSdERjm3m5J8DdwnqYQ">kom</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="yrkande" xml:id="i-PnxsbndpxEirLi77BoEjtg">yrkandet</w>
+              <w msd="UPosTag=ADP" lemma="om" xml:id="i-Pnxsk7jHL8F7fzdjWD6ekk">om</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="misstroendeförklaring" xml:id="i-PnxsvwkaDnDrofX9WwiY5S">misstroendeförklaring</w>
+              <w msd="UPosTag=ADP" lemma="mot" xml:id="i-Pnxt5Gr2bfk88x3mqMaSwW">mot</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="statsminister" xml:id="i-PnxtFGZNeja3LVUvcecLmz">statsminister</w>
+              <name type="PER">
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="Stefan" xml:id="i-PnxtPbeq2d6Jfn1Yw4UFe4">Stefan</w>
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="Löfven" xml:id="i-PnxtZbNB5gvDsKShiMW9UY">Löfven</w>
+              </name>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxtikmaJAbK8jRbGCx3pp">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-PnxsSdERjm3m5J8DdwnqYQ #i-Pnxs7U7gUDYkcLiBJoK3Me"/>
+                <link ana="ud-syn:det" target="#i-Pnxs7U7gUDYkcLiBJoK3Me #i-PnxsHTq2XHNfot9L66LwC8"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxsSdERjm3m5J8DdwnqYQ #i-PnxsbndpxEirLi77BoEjtg"/>
+                <link ana="ud-syn:nmod" target="#i-PnxsbndpxEirLi77BoEjtg #i-Pnxsk7jHL8F7fzdjWD6ekk"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxsk7jHL8F7fzdjWD6ekk #i-PnxsvwkaDnDrofX9WwiY5S"/>
+                <link ana="ud-syn:nmod" target="#i-PnxsvwkaDnDrofX9WwiY5S #i-Pnxt5Gr2bfk88x3mqMaSwW"/>
+                <link ana="ud-syn:det" target="#i-PnxtPbeq2d6Jfn1Yw4UFe4 #i-PnxtFGZNeja3LVUvcecLmz"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxt5Gr2bfk88x3mqMaSwW #i-PnxtPbeq2d6Jfn1Yw4UFe4"/>
+                <link ana="ud-syn:det" target="#i-PnxtPbeq2d6Jfn1Yw4UFe4 #i-PnxtZbNB5gvDsKShiMW9UY"/>
+                <link ana="ud-syn:punct" target="#i-PnxsSdERjm3m5J8DdwnqYQ #i-PnxtikmaJAbK8jRbGCx3pp"/>
+                <link ana="ud-syn:root" target="#i-PnzAx85kZqDA6vy49TGGeG #i-PnxsSdERjm3m5J8DdwnqYQ"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzB3xFNRxGwdq8tmYND3i">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-PnxttkUvMERELGrk3VywfJ">Riksdagen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-Pnxu35aNj7wVfZPNMuqrXN">har</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="pröva" xml:id="i-PnxuD5HinBmQs6pX9CskMr">prövat</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="yrkande" xml:id="i-PnxuNEh7zfSW8WoQh4Kei8">yrkanden</w>
+              <w msd="UPosTag=ADP" lemma="om" xml:id="i-PnxuWZnaNYxmToL31UBZaC">om</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="misstroendeförklaring" xml:id="i-PnxufjByb2drjDJvZKdTvU">misstroendeförklaring</w>
+              <w msd="UPosTag=ADV" lemma="förut" xml:id="i-PnxuptbNoWJwzdHp7B5NGk" join="right">förut</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnxuz3zn1yz3G3Ghf2XGd2">,</pc>
+              <w msd="UPosTag=CCONJ" lemma="men" xml:id="i-Pnxv9DQBETf8XTFbCsyAyJ">men</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-PnxvJNoaSwLDnsEUkjR5Ka">för</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="första" xml:id="i-PnxvTYCyfR1K4HDNJaryfr">första</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="gång" xml:id="i-PnxvchcNstgQKhCFrSJt28">gången</w>
+              <w msd="UPosTag=SCONJ" lemma="sedan" xml:id="i-Pnxvms1n6NMVb7B9QHknNQ">sedan</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="företeelse" xml:id="i-Pnxvwrj89SBQnecJBangCt">företeelsen</w>
+              <w msd="UPosTag=ADV|Degree=Pos" lemma="formellt" xml:id="i-Pnxw728XMurW44bBjSEaZA">formellt</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="införa" xml:id="i-PnxwGBXvaPXbKUa5HHgUuS">infördes</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnxwRLwKnsCgatYxq98PFi">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="slut" xml:id="i-PnxwZg2nAkiwvB5b9YzJ7n">slutet</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-PnxwiqSBPEQ3Bb4UhQSCU4">av</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="1960-tal" xml:id="i-Pnxwszqabi58T13NFFt6pL">1960-talet</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="bifälla" xml:id="i-Pnxx3AEypBkDiR2Fo7L1Ac">bifölls</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Neut|Number=Sing" lemma="en" xml:id="i-PnxxCKeP2fRJyq19LxmuWt">ett</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="sådan" xml:id="i-PnxxNKMj5jFEBNSJ8FooMN">sådant</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="yrkande" xml:id="i-PnxxXUm8JCvKSnRBg7Fhhe" join="right">yrkande</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxxgeAXWgbQiCQ5Dxhc3v">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-Pnxu35aNj7wVfZPNMuqrXN #i-PnxttkUvMERELGrk3VywfJ"/>
+                <link ana="ud-syn:dep" target="#i-Pnxv9DQBETf8XTFbCsyAyJ #i-Pnxu35aNj7wVfZPNMuqrXN"/>
+                <link ana="ud-syn:dep" target="#i-Pnxu35aNj7wVfZPNMuqrXN #i-PnxuD5HinBmQs6pX9CskMr"/>
+                <link ana="ud-syn:obj" target="#i-PnxuD5HinBmQs6pX9CskMr #i-PnxuNEh7zfSW8WoQh4Kei8"/>
+                <link ana="ud-syn:nmod" target="#i-PnxuNEh7zfSW8WoQh4Kei8 #i-PnxuWZnaNYxmToL31UBZaC"/>
+                <link ana="ud-syn:advmod" target="#i-PnxuWZnaNYxmToL31UBZaC #i-PnxufjByb2drjDJvZKdTvU"/>
+                <link ana="ud-syn:advmod" target="#i-PnxuD5HinBmQs6pX9CskMr #i-PnxuptbNoWJwzdHp7B5NGk"/>
+                <link ana="ud-syn:punct" target="#i-Pnxv9DQBETf8XTFbCsyAyJ #i-Pnxuz3zn1yz3G3Ghf2XGd2"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxx3AEypBkDiR2Fo7L1Ac #i-PnxvJNoaSwLDnsEUkjR5Ka"/>
+                <link ana="ud-syn:det" target="#i-PnxvchcNstgQKhCFrSJt28 #i-PnxvTYCyfR1K4HDNJaryfr"/>
+                <link ana="ud-syn:advmod" target="#i-PnxvJNoaSwLDnsEUkjR5Ka #i-PnxvchcNstgQKhCFrSJt28"/>
+                <link ana="ud-syn:advmod" target="#i-PnxvJNoaSwLDnsEUkjR5Ka #i-Pnxvms1n6NMVb7B9QHknNQ"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxwGBXvaPXbKUa5HHgUuS #i-Pnxvwrj89SBQnecJBangCt"/>
+                <link ana="ud-syn:advmod" target="#i-PnxwGBXvaPXbKUa5HHgUuS #i-Pnxw728XMurW44bBjSEaZA"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxvms1n6NMVb7B9QHknNQ #i-PnxwGBXvaPXbKUa5HHgUuS"/>
+                <link ana="ud-syn:advmod" target="#i-PnxwGBXvaPXbKUa5HHgUuS #i-PnxwRLwKnsCgatYxq98PFi"/>
+                <link ana="ud-syn:advmod" target="#i-PnxwRLwKnsCgatYxq98PFi #i-PnxwZg2nAkiwvB5b9YzJ7n"/>
+                <link ana="ud-syn:nmod" target="#i-PnxwZg2nAkiwvB5b9YzJ7n #i-PnxwiqSBPEQ3Bb4UhQSCU4"/>
+                <link ana="ud-syn:advmod" target="#i-PnxwiqSBPEQ3Bb4UhQSCU4 #i-Pnxwszqabi58T13NFFt6pL"/>
+                <link ana="ud-syn:dep" target="#i-Pnxv9DQBETf8XTFbCsyAyJ #i-Pnxx3AEypBkDiR2Fo7L1Ac"/>
+                <link ana="ud-syn:det" target="#i-PnxxXUm8JCvKSnRBg7Fhhe #i-PnxxCKeP2fRJyq19LxmuWt"/>
+                <link ana="ud-syn:det" target="#i-PnxxXUm8JCvKSnRBg7Fhhe #i-PnxxNKMj5jFEBNSJ8FooMN"/>
+                <link ana="ud-syn:obj" target="#i-Pnxx3AEypBkDiR2Fo7L1Ac #i-PnxxXUm8JCvKSnRBg7Fhhe"/>
+                <link ana="ud-syn:punct" target="#i-Pnxv9DQBETf8XTFbCsyAyJ #i-PnxxgeAXWgbQiCQ5Dxhc3v"/>
+                <link ana="ud-syn:root" target="#i-PnzB3xFNRxGwdq8tmYND3i #i-Pnxv9DQBETf8XTFbCsyAyJ"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-FpE9viyjDACE5j4S1mVpxB">
+            <s xml:id="i-PnzB9nQzJ5LjAjJjPdU9TA">
+              <w msd="UPosTag=ADV|Degree=Pos" lemma="parallellt" xml:id="i-PnxxpyFyta7g3UvhYNZWuz">Parallellt</w>
+              <w msd="UPosTag=ADP" lemma="med" xml:id="i-Pnxxz8fP73nmJtub6E1RGG">med</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Neut|Number=Sing" lemma="denna" xml:id="i-Pnxy9J4nKXTraJtUe5TKcY">detta</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="skeende" xml:id="i-PnxyJTUBY18wqisNBvuDxp">skeende</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnxySnZdutfDB1PzWLm8pt">har</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-Pnxybwy38NLJSRNt4CD3BA">vi</w>
+              <w msd="UPosTag=ADV" lemma="också" xml:id="i-Pnxym7NSLr1PhqMmc3ewXS">också</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="uppmärksamma" xml:id="i-PnxyvGmqZKgUyFLf9u6qsi">uppmärksammat</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="två" xml:id="i-Pnxz5SBEmoMaEfKYhkYkDz">två</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="viktig" xml:id="i-PnxzEbadzH2fW5JSFbzeaG">viktiga</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="jubil" xml:id="i-PnxzNvg6NAYvqMq4a1rZSL" join="right">jubileer</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnxzY65VaeE26mox7sJTnc">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-Pnxxz8fP73nmJtub6E1RGG #i-PnxxpyFyta7g3UvhYNZWuz"/>
+                <link ana="ud-syn:advmod" target="#i-PnxySnZdutfDB1PzWLm8pt #i-Pnxxz8fP73nmJtub6E1RGG"/>
+                <link ana="ud-syn:det" target="#i-PnxyJTUBY18wqisNBvuDxp #i-Pnxy9J4nKXTraJtUe5TKcY"/>
+                <link ana="ud-syn:advmod" target="#i-Pnxxz8fP73nmJtub6E1RGG #i-PnxyJTUBY18wqisNBvuDxp"/>
+                <link ana="ud-syn:nsubj" target="#i-PnxySnZdutfDB1PzWLm8pt #i-Pnxybwy38NLJSRNt4CD3BA"/>
+                <link ana="ud-syn:advmod" target="#i-PnxySnZdutfDB1PzWLm8pt #i-Pnxym7NSLr1PhqMmc3ewXS"/>
+                <link ana="ud-syn:dep" target="#i-PnxySnZdutfDB1PzWLm8pt #i-PnxyvGmqZKgUyFLf9u6qsi"/>
+                <link ana="ud-syn:det" target="#i-PnxzNvg6NAYvqMq4a1rZSL #i-Pnxz5SBEmoMaEfKYhkYkDz"/>
+                <link ana="ud-syn:amod" target="#i-PnxzNvg6NAYvqMq4a1rZSL #i-PnxzEbadzH2fW5JSFbzeaG"/>
+                <link ana="ud-syn:obj" target="#i-PnxyvGmqZKgUyFLf9u6qsi #i-PnxzNvg6NAYvqMq4a1rZSL"/>
+                <link ana="ud-syn:punct" target="#i-PnxySnZdutfDB1PzWLm8pt #i-PnxzY65VaeE26mox7sJTnc"/>
+                <link ana="ud-syn:root" target="#i-PnzB9nQzJ5LjAjJjPdU9TA #i-PnxySnZdutfDB1PzWLm8pt"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzBFcacACQWhdUa1ia5rc">
+              <w msd="UPosTag=ADP" lemma="under" xml:id="i-PnxzgRAwxXkHS4LaSHANeg">Under</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="hel" xml:id="i-PnxzrQtJ1baCdbmjDaCGVA">hela</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="mandatperiod" xml:id="i-Pny11aHhE5FHu1kcmReAqS">mandatperioden</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2018" xml:id="i-Pny19uP9bxmZEJHF5qW5hW">2018</w>
+              <w msd="UPosTag=NOUN|Abbr=Yes" lemma="–" xml:id="i-Pny1K4nYpSSeViG8dgwz3n">–</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="2022" xml:id="i-Pny1UEBx2v7jm8F2BYPtQ4">2022</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="fira" xml:id="i-Pny1dPbMFPnq2YDujPqnkL">firar</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-Pny1nYzkTsTvHxCoHFHh6c">vi</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="100" xml:id="i-Pny1vt6CqkzBdEjRbf9bxg">100</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="år" xml:id="i-Pny26soYtpp6pnAaNxBVoA">år</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-Pny2G3Cx7JVC6C9TvodQ9S">av</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="svensk" xml:id="i-Pny2RCcMKnAHMc8MUf5JVi">svensk</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="demokrati" xml:id="i-Pny2ZXhohfgYgteyo4wDMn">demokrati</w>
+              <w msd="UPosTag=ADP" lemma="inom" xml:id="i-Pny2ih7Cv9MdxJdsLvP7i4">inom</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="ram" xml:id="i-Pny2srWc8d2jDicktmq24L">ramen</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-Pny33rDxBgreRG3ug4rutp">för</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-Pny3CBKQZaNukYaXzUipkt">det</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-Pny3NB2kceCpx61gmmkibN">vi</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="kalla" xml:id="i-Pny3WW8CzXj6HNYK6BcdTS">kallar</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="demokratijuleleum" xml:id="i-Pny3gVqZ3bZ1UuyTsUeXHv" join="right">demokratijubileet</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pny3ppw1RV5GpCW6BtWS9z">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-Pny1dPbMFPnq2YDujPqnkL #i-PnxzgRAwxXkHS4LaSHANeg"/>
+                <link ana="ud-syn:det" target="#i-Pny11aHhE5FHu1kcmReAqS #i-PnxzrQtJ1baCdbmjDaCGVA"/>
+                <link ana="ud-syn:advmod" target="#i-PnxzgRAwxXkHS4LaSHANeg #i-Pny11aHhE5FHu1kcmReAqS"/>
+                <link ana="ud-syn:det" target="#i-Pny1K4nYpSSeViG8dgwz3n #i-Pny19uP9bxmZEJHF5qW5hW"/>
+                <link ana="ud-syn:det" target="#i-Pny1UEBx2v7jm8F2BYPtQ4 #i-Pny1K4nYpSSeViG8dgwz3n"/>
+                <link ana="ud-syn:nmod" target="#i-Pny11aHhE5FHu1kcmReAqS #i-Pny1UEBx2v7jm8F2BYPtQ4"/>
+                <link ana="ud-syn:nsubj" target="#i-Pny1dPbMFPnq2YDujPqnkL #i-Pny1nYzkTsTvHxCoHFHh6c"/>
+                <link ana="ud-syn:det" target="#i-Pny26soYtpp6pnAaNxBVoA #i-Pny1vt6CqkzBdEjRbf9bxg"/>
+                <link ana="ud-syn:obj" target="#i-Pny1dPbMFPnq2YDujPqnkL #i-Pny26soYtpp6pnAaNxBVoA"/>
+                <link ana="ud-syn:nmod" target="#i-Pny26soYtpp6pnAaNxBVoA #i-Pny2G3Cx7JVC6C9TvodQ9S"/>
+                <link ana="ud-syn:amod" target="#i-Pny2ZXhohfgYgteyo4wDMn #i-Pny2RCcMKnAHMc8MUf5JVi"/>
+                <link ana="ud-syn:advmod" target="#i-Pny2G3Cx7JVC6C9TvodQ9S #i-Pny2ZXhohfgYgteyo4wDMn"/>
+                <link ana="ud-syn:advmod" target="#i-Pny1dPbMFPnq2YDujPqnkL #i-Pny2ih7Cv9MdxJdsLvP7i4"/>
+                <link ana="ud-syn:det" target="#i-Pny2ih7Cv9MdxJdsLvP7i4 #i-Pny2srWc8d2jDicktmq24L"/>
+                <link ana="ud-syn:det" target="#i-Pny2ih7Cv9MdxJdsLvP7i4 #i-Pny33rDxBgreRG3ug4rutp"/>
+                <link ana="ud-syn:advmod" target="#i-Pny2ih7Cv9MdxJdsLvP7i4 #i-Pny3CBKQZaNukYaXzUipkt"/>
+                <link ana="ud-syn:nsubj" target="#i-Pny3WW8CzXj6HNYK6BcdTS #i-Pny3NB2kceCpx61gmmkibN"/>
+                <link ana="ud-syn:nmod" target="#i-Pny3CBKQZaNukYaXzUipkt #i-Pny3WW8CzXj6HNYK6BcdTS"/>
+                <link ana="ud-syn:obj" target="#i-Pny3WW8CzXj6HNYK6BcdTS #i-Pny3gVqZ3bZ1UuyTsUeXHv"/>
+                <link ana="ud-syn:punct" target="#i-Pny1dPbMFPnq2YDujPqnkL #i-Pny3ppw1RV5GpCW6BtWS9z"/>
+                <link ana="ud-syn:root" target="#i-PnzBFcacACQWhdUa1ia5rc #i-Pny1dPbMFPnq2YDujPqnkL"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzBNH4Arud8Af6fsFG1kG">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-Pny3yzLQdxkN5cUyjjxLWG">Det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-Pny499jorSRTM2TsHbQErY">är</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="100" xml:id="i-Pny4JK9D4v6YcSSkqSr9Cp">100</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="år" xml:id="i-Pny4TUYcHPmdsrRePJJ3Z6">år</w>
+              <w msd="UPosTag=ADV" lemma="sedan" xml:id="i-Pny4boe4fHHuD8xGhi9xRA">sedan</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-Pny4ky3TskxzUYwAFZbrmS">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="stor" xml:id="i-Pny4v8Ss6Ee5jxv3oR3m7i">stora</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="rösträttsreform" xml:id="i-Pny568AD9JTzwWMCai5exC">rösträttsreformen</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-Pny5FHZcMn96CvL68ZXZJU">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="leda" xml:id="i-Pny5Pcf4jffMYCriSyPUAY">ledde</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-Pny5Yn4Tx9LSocqbzpqNWp">till</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-Pny5h79vL2ri8uNEKEhHNt">att</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="kvinna" xml:id="i-Pny5swBDDgqTGaFeKyKAha">kvinnor</w>
+              <w msd="UPosTag=ADV" lemma="äntligen" xml:id="i-Pny636acSAWYXzEXspm53r">äntligen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="få" xml:id="i-Pny6BRg4p42osGmACEcyuv">fick</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="rösta" xml:id="i-Pny6Lb5U2Xhu8gk3k64tGC">rösta</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-Pny6VkUsF1NzQ6iwHwWncU">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="riksdagsval" xml:id="i-Pny6eutGTV45fWhpqnxgxk">riksdagsval</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-Pny6p5HffxjAvvgiPeQbK2">och</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-Pny6xQP83rFSGDDLi4GWB6">att</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="den" xml:id="i-Pny77ZnXGKvXXdCEFuiQXN">de</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="olik" xml:id="i-Pny7FtsyeDSnruiraKaKPS">olika</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="rösträttsspärr" xml:id="i-Pny7RtbKhHGi4TA1MccDDv">rösträttsspärrarna</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-Pny7b3ziukwoKs8tuU47aC">i</w>
+              <w msd="UPosTag=NOUN|Compound=Yes|Gender=Com" lemma="kommun" xml:id="i-Pny7kDQ88EctbH7nTKW1vU">kommun-</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-Pny7uNoXLiHyrh6g1AwvGk">och</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="landstingsval" xml:id="i-Pny84YCvZBy5875ZZ2Ppd2">landstingsval</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass" lemma="slopa" xml:id="i-Pny8CsJNw5VLTPcBsSFjV6" join="right">slopades</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pny8N2hn9ZARiob5RHhdqN">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-Pny499jorSRTM2TsHbQErY #i-Pny3yzLQdxkN5cUyjjxLWG"/>
+                <link ana="ud-syn:det" target="#i-Pny4TUYcHPmdsrRePJJ3Z6 #i-Pny4JK9D4v6YcSSkqSr9Cp"/>
+                <link ana="ud-syn:flat_foreign" target="#i-Pny499jorSRTM2TsHbQErY #i-Pny4TUYcHPmdsrRePJJ3Z6"/>
+                <link ana="ud-syn:advmod" target="#i-Pny499jorSRTM2TsHbQErY #i-Pny4boe4fHHuD8xGhi9xRA"/>
+                <link ana="ud-syn:det" target="#i-Pny568AD9JTzwWMCai5exC #i-Pny4ky3TskxzUYwAFZbrmS"/>
+                <link ana="ud-syn:amod" target="#i-Pny568AD9JTzwWMCai5exC #i-Pny4v8Ss6Ee5jxv3oR3m7i"/>
+                <link ana="ud-syn:flat_foreign" target="#i-Pny499jorSRTM2TsHbQErY #i-Pny568AD9JTzwWMCai5exC"/>
+                <link ana="ud-syn:nsubj" target="#i-Pny5Pcf4jffMYCriSyPUAY #i-Pny5FHZcMn96CvL68ZXZJU"/>
+                <link ana="ud-syn:nmod" target="#i-Pny568AD9JTzwWMCai5exC #i-Pny5Pcf4jffMYCriSyPUAY"/>
+                <link ana="ud-syn:advmod" target="#i-Pny5Pcf4jffMYCriSyPUAY #i-Pny5Yn4Tx9LSocqbzpqNWp"/>
+                <link ana="ud-syn:advmod" target="#i-Pny5Yn4Tx9LSocqbzpqNWp #i-Pny5h79vL2ri8uNEKEhHNt"/>
+                <link ana="ud-syn:nsubj" target="#i-Pny6BRg4p42osGmACEcyuv #i-Pny5swBDDgqTGaFeKyKAha"/>
+                <link ana="ud-syn:advmod" target="#i-Pny6BRg4p42osGmACEcyuv #i-Pny636acSAWYXzEXspm53r"/>
+                <link ana="ud-syn:advmod" target="#i-Pny5h79vL2ri8uNEKEhHNt #i-Pny6BRg4p42osGmACEcyuv"/>
+                <link ana="ud-syn:dep" target="#i-Pny6BRg4p42osGmACEcyuv #i-Pny6Lb5U2Xhu8gk3k64tGC"/>
+                <link ana="ud-syn:advmod" target="#i-Pny6Lb5U2Xhu8gk3k64tGC #i-Pny6VkUsF1NzQ6iwHwWncU"/>
+                <link ana="ud-syn:advmod" target="#i-Pny6VkUsF1NzQ6iwHwWncU #i-Pny6eutGTV45fWhpqnxgxk"/>
+                <link ana="ud-syn:flat_foreign" target="#i-Pny499jorSRTM2TsHbQErY #i-Pny6p5HffxjAvvgiPeQbK2"/>
+                <link ana="ud-syn:dep" target="#i-Pny6p5HffxjAvvgiPeQbK2 #i-Pny6xQP83rFSGDDLi4GWB6"/>
+                <link ana="ud-syn:det" target="#i-Pny7RtbKhHGi4TA1MccDDv #i-Pny77ZnXGKvXXdCEFuiQXN"/>
+                <link ana="ud-syn:amod" target="#i-Pny7RtbKhHGi4TA1MccDDv #i-Pny7FtsyeDSnruiraKaKPS"/>
+                <link ana="ud-syn:nsubj" target="#i-Pny8CsJNw5VLTPcBsSFjV6 #i-Pny7RtbKhHGi4TA1MccDDv"/>
+                <link ana="ud-syn:nmod" target="#i-Pny7RtbKhHGi4TA1MccDDv #i-Pny7b3ziukwoKs8tuU47aC"/>
+                <link ana="ud-syn:dep" target="#i-Pny7uNoXLiHyrh6g1AwvGk #i-Pny7kDQ88EctbH7nTKW1vU"/>
+                <link ana="ud-syn:advmod" target="#i-Pny7b3ziukwoKs8tuU47aC #i-Pny7uNoXLiHyrh6g1AwvGk"/>
+                <link ana="ud-syn:dep" target="#i-Pny7uNoXLiHyrh6g1AwvGk #i-Pny84YCvZBy5875ZZ2Ppd2"/>
+                <link ana="ud-syn:advmod" target="#i-Pny6xQP83rFSGDDLi4GWB6 #i-Pny8CsJNw5VLTPcBsSFjV6"/>
+                <link ana="ud-syn:punct" target="#i-Pny499jorSRTM2TsHbQErY #i-Pny8N2hn9ZARiob5RHhdqN"/>
+                <link ana="ud-syn:root" target="#i-PnzBNH4Arud8Af6fsFG1kG #i-Pny499jorSRTM2TsHbQErY"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzBU7Dnj2guhZGWVLMx9i">
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-Pny8XC7BN2qWzDZxy99YBe">I</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="höst" xml:id="i-Pny8gMWaaWWcFdYrWzbSXv" join="right">höst</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pny8qWuynzBhX3Xk4r3LtC">,</pc>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-Pny8zgKP1TrnnTWdchVFEU">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="september" xml:id="i-Pny99qinDwXt3sVXAYw9ak" join="right">september</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pny9K18BSRCyKHUQiQP3w2">,</pc>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-Pny9UzqXVV2tWpuZVhQwmW">är</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-Pny9eAEvhxhynEtT3Yrr7n">det</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="100" xml:id="i-Pny9nVLP5rEF7XR5Mxikyr">100</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="år" xml:id="i-Pny9xV3j8v4AK4rE9FkepL">år</w>
+              <w msd="UPosTag=SCONJ" lemma="sedan" xml:id="i-PnyA6p9BWoaReMNrTfcZgQ">sedan</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Neut|Number=Sing" lemma="den" xml:id="i-PnyAFyYajHFWumMk1X4U2g">det</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="första" xml:id="i-PnyAR8wywkvcBBLdZNWNNx">första</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="riksdagsval" xml:id="i-PnyAaJMPAEbhSbKX7DxGjE">riksdagsvalet</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="äga" xml:id="i-PnyAjTknNiGni1JQf5QB5W">ägde</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="rum" xml:id="i-PnyAtdABbBwsyRHJCvr5Rn">rum</w>
+              <w msd="UPosTag=ADV" lemma="där" xml:id="i-PnyB3nZaofcyEqGBknHyn4">där</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="kvinna" xml:id="i-PnyBCwxz29J4WFF5Jdjt8L">kvinnor</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-PnyBN7NPEcy9mfDxrVBnUc">till</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="slut" xml:id="i-PnyBXGmnT6eF35CrQLdgpt">slut</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="få" xml:id="i-PnyBgSBBfaKLJVBjxC5bBA">fick</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="delta" xml:id="i-PnyBqbaat3zRZuAdW3XVXS" join="right">delta</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyBzkyz6XfWqK9X3tyPsi">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-Pny9UzqXVV2tWpuZVhQwmW #i-Pny8XC7BN2qWzDZxy99YBe"/>
+                <link ana="ud-syn:det" target="#i-Pny8XC7BN2qWzDZxy99YBe #i-Pny8gMWaaWWcFdYrWzbSXv"/>
+                <link ana="ud-syn:punct" target="#i-Pny8XC7BN2qWzDZxy99YBe #i-Pny8qWuynzBhX3Xk4r3LtC"/>
+                <link ana="ud-syn:dep" target="#i-Pny8qWuynzBhX3Xk4r3LtC #i-Pny8zgKP1TrnnTWdchVFEU"/>
+                <link ana="ud-syn:advmod" target="#i-Pny8zgKP1TrnnTWdchVFEU #i-Pny99qinDwXt3sVXAYw9ak"/>
+                <link ana="ud-syn:punct" target="#i-Pny9UzqXVV2tWpuZVhQwmW #i-Pny9K18BSRCyKHUQiQP3w2"/>
+                <link ana="ud-syn:nsubj" target="#i-Pny9UzqXVV2tWpuZVhQwmW #i-Pny9eAEvhxhynEtT3Yrr7n"/>
+                <link ana="ud-syn:det" target="#i-Pny9xV3j8v4AK4rE9FkepL #i-Pny9nVLP5rEF7XR5Mxikyr"/>
+                <link ana="ud-syn:dep" target="#i-Pny9UzqXVV2tWpuZVhQwmW #i-Pny9xV3j8v4AK4rE9FkepL"/>
+                <link ana="ud-syn:advmod" target="#i-Pny9UzqXVV2tWpuZVhQwmW #i-PnyA6p9BWoaReMNrTfcZgQ"/>
+                <link ana="ud-syn:det" target="#i-PnyAaJMPAEbhSbKX7DxGjE #i-PnyAFyYajHFWumMk1X4U2g"/>
+                <link ana="ud-syn:det" target="#i-PnyAaJMPAEbhSbKX7DxGjE #i-PnyAR8wywkvcBBLdZNWNNx"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyAjTknNiGni1JQf5QB5W #i-PnyAaJMPAEbhSbKX7DxGjE"/>
+                <link ana="ud-syn:advmod" target="#i-PnyA6p9BWoaReMNrTfcZgQ #i-PnyAjTknNiGni1JQf5QB5W"/>
+                <link ana="ud-syn:obj" target="#i-PnyAjTknNiGni1JQf5QB5W #i-PnyAtdABbBwsyRHJCvr5Rn"/>
+                <link ana="ud-syn:advmod" target="#i-PnyBgSBBfaKLJVBjxC5bBA #i-PnyB3nZaofcyEqGBknHyn4"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyBgSBBfaKLJVBjxC5bBA #i-PnyBCwxz29J4WFF5Jdjt8L"/>
+                <link ana="ud-syn:advmod" target="#i-PnyBgSBBfaKLJVBjxC5bBA #i-PnyBN7NPEcy9mfDxrVBnUc"/>
+                <link ana="ud-syn:advmod" target="#i-PnyBN7NPEcy9mfDxrVBnUc #i-PnyBXGmnT6eF35CrQLdgpt"/>
+                <link ana="ud-syn:nmod" target="#i-PnyAtdABbBwsyRHJCvr5Rn #i-PnyBgSBBfaKLJVBjxC5bBA"/>
+                <link ana="ud-syn:dep" target="#i-PnyBgSBBfaKLJVBjxC5bBA #i-PnyBqbaat3zRZuAdW3XVXS"/>
+                <link ana="ud-syn:punct" target="#i-Pny9UzqXVV2tWpuZVhQwmW #i-PnyBzkyz6XfWqK9X3tyPsi"/>
+                <link ana="ud-syn:root" target="#i-PnzBU7Dnj2guhZGWVLMx9i #i-Pny9UzqXVV2tWpuZVhQwmW"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzBamhMRjuXAatcLs3t3N">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnyC9vPPK1Lc6j8QbkRJDz">Det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-PnyCK5nnXV1hN97J9bsCaG">är</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="värd" xml:id="i-PnyCUFCBjxgndZ6BhTK6vY">värt</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-PnyCdQbaxSMsty55FJm1Gp">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="fira" xml:id="i-PnyCmjh3LKt9EFbhZicv8t">fira</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnyCv4nViDQQZY8Kt8Upzx">och</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="uppmärksamma" xml:id="i-PnyD64VqmHEKm5ZUfRWiqS" join="right">uppmärksamma</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyDEPbJ9Akb6N66yqNdhW">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:expl" target="#i-PnyCK5nnXV1hN97J9bsCaG #i-PnyC9vPPK1Lc6j8QbkRJDz"/>
+                <link ana="ud-syn:dep" target="#i-PnyCK5nnXV1hN97J9bsCaG #i-PnyCUFCBjxgndZ6BhTK6vY"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyCK5nnXV1hN97J9bsCaG #i-PnyCdQbaxSMsty55FJm1Gp"/>
+                <link ana="ud-syn:dep" target="#i-PnyCv4nViDQQZY8Kt8Upzx #i-PnyCmjh3LKt9EFbhZicv8t"/>
+                <link ana="ud-syn:punct" target="#i-PnyCdQbaxSMsty55FJm1Gp #i-PnyCv4nViDQQZY8Kt8Upzx"/>
+                <link ana="ud-syn:dep" target="#i-PnyCv4nViDQQZY8Kt8Upzx #i-PnyD64VqmHEKm5ZUfRWiqS"/>
+                <link ana="ud-syn:punct" target="#i-PnyCK5nnXV1hN97J9bsCaG #i-PnyDEPbJ9Akb6N66yqNdhW"/>
+                <link ana="ud-syn:root" target="#i-PnzBamhMRjuXAatcLs3t3N #i-PnyCK5nnXV1hN97J9bsCaG"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-UA1Rrv1vshnELkxWx9XVA2">
+            <s xml:id="i-PnzBfmZ2TGpUmMcBjWZpxc">
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnyDPYzhMeRgMn4zXgpY3n">I</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="år" xml:id="i-PnyDZYi3QiFbZKW9JyrRtG">år</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="markera" xml:id="i-PnyDhsoVnbmrtc2mdPiLkL">markerar</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnyDs3Cu15SxA21fBFAF6c">vi</w>
+              <w msd="UPosTag=ADV" lemma="dessutom" xml:id="i-PnyE2CcJDZ83RRzYj6c9St">dessutom</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Neut|Number=Sing" lemma="en" xml:id="i-PnyEBN1hS2o8gqySGx43oA">ett</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="andra" xml:id="i-PnyELXR6eWUDxFxKpoVx9S">andra</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="jubileum" xml:id="i-PnyEVgpVrz9KDfwDNewrVi">jubileum</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnyEe1uxEsfaYxTqh4omMn">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="form" xml:id="i-PnyEp1dJHwVVkVtzUMqfCG">form</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-PnyEyB2hWRAb1ust2DHZYY">av</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="50" xml:id="i-PnyF8LS6itqgHKrma4jTtp">50</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="år" xml:id="i-PnyFHVqVwNWmYjqf7vBNF6">år</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-PnyFRpvxKG32t2NHSL3H7A">av</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="enkammarriksdag" xml:id="i-PnyFazLMXji89SMAzBVBTS" join="right">enkammarriksdag</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyFk9jkkDPDQrL4Y2w5oi">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-PnyDhsoVnbmrtc2mdPiLkL #i-PnyDPYzhMeRgMn4zXgpY3n"/>
+                <link ana="ud-syn:det" target="#i-PnyDPYzhMeRgMn4zXgpY3n #i-PnyDZYi3QiFbZKW9JyrRtG"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyDhsoVnbmrtc2mdPiLkL #i-PnyDs3Cu15SxA21fBFAF6c"/>
+                <link ana="ud-syn:advmod" target="#i-PnyDhsoVnbmrtc2mdPiLkL #i-PnyE2CcJDZ83RRzYj6c9St"/>
+                <link ana="ud-syn:det" target="#i-PnyEVgpVrz9KDfwDNewrVi #i-PnyEBN1hS2o8gqySGx43oA"/>
+                <link ana="ud-syn:det" target="#i-PnyEVgpVrz9KDfwDNewrVi #i-PnyELXR6eWUDxFxKpoVx9S"/>
+                <link ana="ud-syn:obj" target="#i-PnyDhsoVnbmrtc2mdPiLkL #i-PnyEVgpVrz9KDfwDNewrVi"/>
+                <link ana="ud-syn:advmod" target="#i-PnyDhsoVnbmrtc2mdPiLkL #i-PnyEe1uxEsfaYxTqh4omMn"/>
+                <link ana="ud-syn:det" target="#i-PnyEe1uxEsfaYxTqh4omMn #i-PnyEp1dJHwVVkVtzUMqfCG"/>
+                <link ana="ud-syn:det" target="#i-PnyEe1uxEsfaYxTqh4omMn #i-PnyEyB2hWRAb1ust2DHZYY"/>
+                <link ana="ud-syn:det" target="#i-PnyFHVqVwNWmYjqf7vBNF6 #i-PnyF8LS6itqgHKrma4jTtp"/>
+                <link ana="ud-syn:advmod" target="#i-PnyEe1uxEsfaYxTqh4omMn #i-PnyFHVqVwNWmYjqf7vBNF6"/>
+                <link ana="ud-syn:nmod" target="#i-PnyFHVqVwNWmYjqf7vBNF6 #i-PnyFRpvxKG32t2NHSL3H7A"/>
+                <link ana="ud-syn:advmod" target="#i-PnyFRpvxKG32t2NHSL3H7A #i-PnyFazLMXji89SMAzBVBTS"/>
+                <link ana="ud-syn:punct" target="#i-PnyDhsoVnbmrtc2mdPiLkL #i-PnyFk9jkkDPDQrL4Y2w5oi"/>
+                <link ana="ud-syn:root" target="#i-PnzBfmZ2TGpUmMcBjWZpxc #i-PnyDhsoVnbmrtc2mdPiLkL"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzBnS2b9z36EPEHb3FkrG">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnyFv9T6oHD8cPmDKKxyeC">Det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-PnyG4UYZBAjPwgHqdjptWG">är</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="50" xml:id="i-PnyGDdwxPeQVD6GjBbGnrY">50</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="år" xml:id="i-PnyGNoMMc85aUWFcjSihCp">år</w>
+              <w msd="UPosTag=ADP" lemma="sedan" xml:id="i-PnyGXxkkpbkfjvEWHJAbZ6">sedan</w>
+              <w msd="UPosTag=NOUN|Case=Gen|Definite=Def|Gender=Com|Number=Sing" lemma="enkammarriksdag" xml:id="i-PnyGgHrDCVGw5Cm8bi2WRA">enkammarriksdagens</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="första" xml:id="i-PnyGrHZZFZ6rGkCHP14QFe">första</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="sammanträde" xml:id="i-PnyH1SxxU2mwYABAvrWJbv" join="right">sammanträde</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyHAcNMgWT2oaA4UhxCxC">,</pc>
+              <w msd="UPosTag=PRON|Definite=Ind|Gender=Neut|Number=Sing" lemma="vilket" xml:id="i-PnyHLc5hjaGx17bDFzz6ng">vilket</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="äga" xml:id="i-PnyHWbo3ne6sCf2N3J1zdA">ägde</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="rum" xml:id="i-PnyHevtWAXd8XwYzMhsuVE">rum</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnyHp6HuP1JDoMXsuZKoqW">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="januari" xml:id="i-PnyHz61FS588zty2grMhfz">januari</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="1971" xml:id="i-PnyJ8R6hoxeQLBVf1GDcY4" join="right">1971</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyJHaW72SKVbbUYZ7fWtL">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyG4UYZBAjPwgHqdjptWG #i-PnyFv9T6oHD8cPmDKKxyeC"/>
+                <link ana="ud-syn:det" target="#i-PnyGNoMMc85aUWFcjSihCp #i-PnyGDdwxPeQVD6GjBbGnrY"/>
+                <link ana="ud-syn:dep" target="#i-PnyG4UYZBAjPwgHqdjptWG #i-PnyGNoMMc85aUWFcjSihCp"/>
+                <link ana="ud-syn:advmod" target="#i-PnyG4UYZBAjPwgHqdjptWG #i-PnyGXxkkpbkfjvEWHJAbZ6"/>
+                <link ana="ud-syn:det" target="#i-PnyH1SxxU2mwYABAvrWJbv #i-PnyGgHrDCVGw5Cm8bi2WRA"/>
+                <link ana="ud-syn:det" target="#i-PnyH1SxxU2mwYABAvrWJbv #i-PnyGrHZZFZ6rGkCHP14QFe"/>
+                <link ana="ud-syn:advmod" target="#i-PnyGXxkkpbkfjvEWHJAbZ6 #i-PnyH1SxxU2mwYABAvrWJbv"/>
+                <link ana="ud-syn:punct" target="#i-PnyG4UYZBAjPwgHqdjptWG #i-PnyHAcNMgWT2oaA4UhxCxC"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyHWbo3ne6sCf2N3J1zdA #i-PnyHLc5hjaGx17bDFzz6ng"/>
+                <link ana="ud-syn:nmod" target="#i-PnyH1SxxU2mwYABAvrWJbv #i-PnyHWbo3ne6sCf2N3J1zdA"/>
+                <link ana="ud-syn:dep" target="#i-PnyHWbo3ne6sCf2N3J1zdA #i-PnyHevtWAXd8XwYzMhsuVE"/>
+                <link ana="ud-syn:advmod" target="#i-PnyHWbo3ne6sCf2N3J1zdA #i-PnyHp6HuP1JDoMXsuZKoqW"/>
+                <link ana="ud-syn:advmod" target="#i-PnyHp6HuP1JDoMXsuZKoqW #i-PnyHz61FS588zty2grMhfz"/>
+                <link ana="ud-syn:nmod" target="#i-PnyHz61FS588zty2grMhfz #i-PnyJ8R6hoxeQLBVf1GDcY4"/>
+                <link ana="ud-syn:punct" target="#i-PnyG4UYZBAjPwgHqdjptWG #i-PnyJHaW72SKVbbUYZ7fWtL"/>
+                <link ana="ud-syn:root" target="#i-PnzBnS2b9z36EPEHb3FkrG #i-PnyG4UYZBAjPwgHqdjptWG"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-QX1He7PtxMpAKjeX9hYb3v">
+            <s xml:id="i-PnzBtGCD276smHQ8D8MhFi">
+              <w msd="UPosTag=DET|Definite=Def,Ind|Gender=Neut|Number=Sing" lemma="all" xml:id="i-PnyJTaDT5W9Qo8uhLQhQip">Allt</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Neut|Number=Sing" lemma="denna" xml:id="i-PnyJbuJuTPfg8RSKepZKat">detta</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part" lemma="sammantagen" xml:id="i-PnyJm4iJfsLmPqRDCg1DwA">sammantaget</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="visa" xml:id="i-PnyJvE7htM1rfFQ6kXT8HS">visar</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-PnyK4ZDAGEY7zXvj4wK39W">att</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="svensk" xml:id="i-PnyKDicZUiDDFwuccnkwVn">svensk</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="demokrati" xml:id="i-PnyKNt1xhBtJXMtWAeCqr4">demokrati</w>
+              <w msd="UPosTag=ADV|Degree=Pos" lemma="ständigt" xml:id="i-PnyKY3RMufZPnmsPiVekCL">ständigt</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-PnyKhCpm89EV4BrHGM6eYc">är</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="stadd" xml:id="i-PnyKrNEALcuaKbqApCYYtt">stadd</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnyKzhKciWRqetMo8cQTkx">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="förändring" xml:id="i-PnyLAh2xmaFkrRnwuuSMbS" join="right">förändring</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyLKrSMz3vr7qmqTktFwi">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:det" target="#i-PnyJm4iJfsLmPqRDCg1DwA #i-PnyJTaDT5W9Qo8uhLQhQip"/>
+                <link ana="ud-syn:det" target="#i-PnyJm4iJfsLmPqRDCg1DwA #i-PnyJbuJuTPfg8RSKepZKat"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyJvE7htM1rfFQ6kXT8HS #i-PnyJm4iJfsLmPqRDCg1DwA"/>
+                <link ana="ud-syn:obj" target="#i-PnyJvE7htM1rfFQ6kXT8HS #i-PnyK4ZDAGEY7zXvj4wK39W"/>
+                <link ana="ud-syn:amod" target="#i-PnyKNt1xhBtJXMtWAeCqr4 #i-PnyKDicZUiDDFwuccnkwVn"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyKhCpm89EV4BrHGM6eYc #i-PnyKNt1xhBtJXMtWAeCqr4"/>
+                <link ana="ud-syn:advmod" target="#i-PnyKhCpm89EV4BrHGM6eYc #i-PnyKY3RMufZPnmsPiVekCL"/>
+                <link ana="ud-syn:advmod" target="#i-PnyK4ZDAGEY7zXvj4wK39W #i-PnyKhCpm89EV4BrHGM6eYc"/>
+                <link ana="ud-syn:dep" target="#i-PnyKhCpm89EV4BrHGM6eYc #i-PnyKrNEALcuaKbqApCYYtt"/>
+                <link ana="ud-syn:advmod" target="#i-PnyKhCpm89EV4BrHGM6eYc #i-PnyKzhKciWRqetMo8cQTkx"/>
+                <link ana="ud-syn:advmod" target="#i-PnyKzhKciWRqetMo8cQTkx #i-PnyLAh2xmaFkrRnwuuSMbS"/>
+                <link ana="ud-syn:punct" target="#i-PnyJvE7htM1rfFQ6kXT8HS #i-PnyLKrSMz3vr7qmqTktFwi"/>
+                <link ana="ud-syn:root" target="#i-PnzBtGCD276smHQ8D8MhFi #i-PnyJvE7htM1rfFQ6kXT8HS"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzBz6MptEAfJBZxqDTdfA">
+              <w msd="UPosTag=CCONJ" lemma="men" xml:id="i-PnyLV1qmCXbwPFkj1cLAHz">Men</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-PnyLeBFAR1H2efjcZTn4eG">jag</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vilja" xml:id="i-PnyLnWLcntoHyxGEssdyWL">vill</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="framhålla" xml:id="i-PnyLwfk21NUPFNF8Rj5src">framhålla</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-PnyM6q9RDr9UWnE1yaXnCt">att</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnyMFzYpSKpZnCCuXRygZA">det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-PnyMR9xDeoVf3cBo5HRauS">är</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnyMaKMcsHAkK2Agd8sVFi">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="demokrati" xml:id="i-PnyMjUm25kqqaS9aAzKPbz">demokrati</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnyMteARJEWvqr8TiqmHxG">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="utveckling" xml:id="i-PnyN2yFsg83CB8f63FdCpL" join="right">utveckling</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyNC8fGtbiHSYdyb757Ac">,</pc>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-PnyNLTkjGVEYmqAbuWw22g">inte</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnyNWTU5KZ4TyNbkgoxusA">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="demokrati" xml:id="i-PnyNenZXhSajJf8P1DppjE">demokrati</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnyNowxvuvFpa57GZ5Gj5W">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="kris" xml:id="i-PnyNzmzDoaEZhjzgZotcQC" join="right">kris</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyP9wPd23uey9ya7fLWkU">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyLnWLcntoHyxGEssdyWL #i-PnyLeBFAR1H2efjcZTn4eG"/>
+                <link ana="ud-syn:dep" target="#i-PnyLV1qmCXbwPFkj1cLAHz #i-PnyLnWLcntoHyxGEssdyWL"/>
+                <link ana="ud-syn:dep" target="#i-PnyLnWLcntoHyxGEssdyWL #i-PnyLwfk21NUPFNF8Rj5src"/>
+                <link ana="ud-syn:obj" target="#i-PnyLwfk21NUPFNF8Rj5src #i-PnyM6q9RDr9UWnE1yaXnCt"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyMR9xDeoVf3cBo5HRauS #i-PnyMFzYpSKpZnCCuXRygZA"/>
+                <link ana="ud-syn:advmod" target="#i-PnyM6q9RDr9UWnE1yaXnCt #i-PnyMR9xDeoVf3cBo5HRauS"/>
+                <link ana="ud-syn:det" target="#i-PnyMjUm25kqqaS9aAzKPbz #i-PnyMaKMcsHAkK2Agd8sVFi"/>
+                <link ana="ud-syn:dep" target="#i-PnyMR9xDeoVf3cBo5HRauS #i-PnyMjUm25kqqaS9aAzKPbz"/>
+                <link ana="ud-syn:nmod" target="#i-PnyMjUm25kqqaS9aAzKPbz #i-PnyMteARJEWvqr8TiqmHxG"/>
+                <link ana="ud-syn:advmod" target="#i-PnyMteARJEWvqr8TiqmHxG #i-PnyN2yFsg83CB8f63FdCpL"/>
+                <link ana="ud-syn:punct" target="#i-PnyMR9xDeoVf3cBo5HRauS #i-PnyNC8fGtbiHSYdyb757Ac"/>
+                <link ana="ud-syn:dep" target="#i-PnyNenZXhSajJf8P1DppjE #i-PnyNLTkjGVEYmqAbuWw22g"/>
+                <link ana="ud-syn:det" target="#i-PnyNenZXhSajJf8P1DppjE #i-PnyNWTU5KZ4TyNbkgoxusA"/>
+                <link ana="ud-syn:appos" target="#i-PnyMjUm25kqqaS9aAzKPbz #i-PnyNenZXhSajJf8P1DppjE"/>
+                <link ana="ud-syn:nmod" target="#i-PnyNenZXhSajJf8P1DppjE #i-PnyNowxvuvFpa57GZ5Gj5W"/>
+                <link ana="ud-syn:advmod" target="#i-PnyNowxvuvFpa57GZ5Gj5W #i-PnyNzmzDoaEZhjzgZotcQC"/>
+                <link ana="ud-syn:punct" target="#i-PnyLnWLcntoHyxGEssdyWL #i-PnyP9wPd23uey9ya7fLWkU"/>
+                <link ana="ud-syn:root" target="#i-PnzBz6MptEAfJBZxqDTdfA #i-PnyLV1qmCXbwPFkj1cLAHz"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzC56DVum5ctxHYDryaaQ">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnyPJGV5PwRvJSWCS5CRcY">Vi</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="använda" xml:id="i-PnyPUGCRT1FqVywMDNEKT2">använder</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="uttryck" xml:id="i-PnyPdRbpfUvvmPvEmDgDoJ">uttrycket</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="regeringskris" xml:id="i-PnyPnb1Dsxc22ou8K5889a">regeringskris</w>
+              <w msd="UPosTag=ADV" lemma="när" xml:id="i-PnyPwkQd6SH7JDt1rva2Vr">när</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnyQ6up2JuxCZdruQn1vr8">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="regering" xml:id="i-PnyQG5DRXPdHq3qnxdTqCQ">regering</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass" lemma="tvinga" xml:id="i-PnyQREcpjsJP6TpgWUujYg">tvingas</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="avgå" xml:id="i-PnyQaQ2DxLyUMsoa4LMdtx" join="right">avgå</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyQjZRdApeZdHnTcBoYFE">,</pc>
+              <w msd="UPosTag=CCONJ" lemma="men" xml:id="i-PnyQstX5YiApxaK5vbfT7J">men</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="svensk" xml:id="i-PnyR33vUmBqvDzHyUT7MTa">svensk</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="demokrati" xml:id="i-PnyRD3dppFfqRXj8Fk9FJ4">demokrati</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="stå" xml:id="i-PnyRND3E2jLvgwi1obb9eL">står</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="stark" xml:id="i-PnyRXNSdFD21xMguMT33zc" join="right">stark</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyRgXr2Tgh7DmfnuJUxLt">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyPUGCRT1FqVywMDNEKT2 #i-PnyPJGV5PwRvJSWCS5CRcY"/>
+                <link ana="ud-syn:dep" target="#i-PnyQstX5YiApxaK5vbfT7J #i-PnyPUGCRT1FqVywMDNEKT2"/>
+                <link ana="ud-syn:det" target="#i-PnyPnb1Dsxc22ou8K5889a #i-PnyPdRbpfUvvmPvEmDgDoJ"/>
+                <link ana="ud-syn:obj" target="#i-PnyPUGCRT1FqVywMDNEKT2 #i-PnyPnb1Dsxc22ou8K5889a"/>
+                <link ana="ud-syn:advmod" target="#i-PnyQREcpjsJP6TpgWUujYg #i-PnyPwkQd6SH7JDt1rva2Vr"/>
+                <link ana="ud-syn:det" target="#i-PnyQG5DRXPdHq3qnxdTqCQ #i-PnyQ6up2JuxCZdruQn1vr8"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyQREcpjsJP6TpgWUujYg #i-PnyQG5DRXPdHq3qnxdTqCQ"/>
+                <link ana="ud-syn:dep" target="#i-PnyQstX5YiApxaK5vbfT7J #i-PnyQREcpjsJP6TpgWUujYg"/>
+                <link ana="ud-syn:xcomp" target="#i-PnyQREcpjsJP6TpgWUujYg #i-PnyQaQ2DxLyUMsoa4LMdtx"/>
+                <link ana="ud-syn:punct" target="#i-PnyQstX5YiApxaK5vbfT7J #i-PnyQjZRdApeZdHnTcBoYFE"/>
+                <link ana="ud-syn:amod" target="#i-PnyRD3dppFfqRXj8Fk9FJ4 #i-PnyR33vUmBqvDzHyUT7MTa"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyRND3E2jLvgwi1obb9eL #i-PnyRD3dppFfqRXj8Fk9FJ4"/>
+                <link ana="ud-syn:dep" target="#i-PnyQstX5YiApxaK5vbfT7J #i-PnyRND3E2jLvgwi1obb9eL"/>
+                <link ana="ud-syn:dep" target="#i-PnyRND3E2jLvgwi1obb9eL #i-PnyRXNSdFD21xMguMT33zc"/>
+                <link ana="ud-syn:punct" target="#i-PnyQstX5YiApxaK5vbfT7J #i-PnyRgXr2Tgh7DmfnuJUxLt"/>
+                <link ana="ud-syn:root" target="#i-PnzC56DVum5ctxHYDryaaQ #i-PnyQstX5YiApxaK5vbfT7J"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzCCb11T4T4J7MuJqFVxG">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnyRprwUqaDNZ4CRDiLsCx">Vi</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnyRz2Lt43tTpUBJmZnmZE">har</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Neut|Number=Sing" lemma="en" xml:id="i-PnyS8MSLRwQj9khw5yegRJ">ett</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="hög" xml:id="i-PnySJM9gV1EeMJ95sGgaFn">högt</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="valdeltag" xml:id="i-PnySTWZ5hUujci7yR88Uc4">valdeltag</w>
+              <w msd="UPosTag=ADP" lemma="­" xml:id="i-PnyScfxUuxapt86rxyaNxL">­</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="ande" xml:id="i-PnySmqMt8SFv9Y5kWq2HJc" join="right">ande</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnySvzmHLuw1Qx4e4gUBet">;</pc>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="87" xml:id="i-PnyT6AAgZPc6gN3XcXv61A">87</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="procent" xml:id="i-PnyTG9t2cTS1suUgPpwyqe">procent</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="rösta" xml:id="i-PnyTQUyUzLxHDC1JiEothi">röstade</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnyTZeNtCpdNUbzCG6Fo3z">i</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Sup|Gender=Com,Neut|Number=Plur,Sing" lemma="sen" xml:id="i-PnyTionHRJJTk1y5owhhQG">senaste</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="riksdagsval" xml:id="i-PnyTtoVdUN8NwZQEbEjbEk" join="right">riksdagsvalet</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyU38b5rFeeGqvruebW6p">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyRz2Lt43tTpUBJmZnmZE #i-PnyRprwUqaDNZ4CRDiLsCx"/>
+                <link ana="ud-syn:det" target="#i-PnySTWZ5hUujci7yR88Uc4 #i-PnyS8MSLRwQj9khw5yegRJ"/>
+                <link ana="ud-syn:amod" target="#i-PnySTWZ5hUujci7yR88Uc4 #i-PnySJM9gV1EeMJ95sGgaFn"/>
+                <link ana="ud-syn:obj" target="#i-PnyRz2Lt43tTpUBJmZnmZE #i-PnySTWZ5hUujci7yR88Uc4"/>
+                <link ana="ud-syn:advmod" target="#i-PnyRz2Lt43tTpUBJmZnmZE #i-PnyScfxUuxapt86rxyaNxL"/>
+                <link ana="ud-syn:advmod" target="#i-PnyScfxUuxapt86rxyaNxL #i-PnySmqMt8SFv9Y5kWq2HJc"/>
+                <link ana="ud-syn:punct" target="#i-PnyRz2Lt43tTpUBJmZnmZE #i-PnySvzmHLuw1Qx4e4gUBet"/>
+                <link ana="ud-syn:det" target="#i-PnyTG9t2cTS1suUgPpwyqe #i-PnyT6AAgZPc6gN3XcXv61A"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyTQUyUzLxHDC1JiEothi #i-PnyTG9t2cTS1suUgPpwyqe"/>
+                <link ana="ud-syn:dep" target="#i-PnyRz2Lt43tTpUBJmZnmZE #i-PnyTQUyUzLxHDC1JiEothi"/>
+                <link ana="ud-syn:advmod" target="#i-PnyTQUyUzLxHDC1JiEothi #i-PnyTZeNtCpdNUbzCG6Fo3z"/>
+                <link ana="ud-syn:det" target="#i-PnyTtoVdUN8NwZQEbEjbEk #i-PnyTionHRJJTk1y5owhhQG"/>
+                <link ana="ud-syn:advmod" target="#i-PnyTZeNtCpdNUbzCG6Fo3z #i-PnyTtoVdUN8NwZQEbEjbEk"/>
+                <link ana="ud-syn:punct" target="#i-PnyRz2Lt43tTpUBJmZnmZE #i-PnyU38b5rFeeGqvruebW6p"/>
+                <link ana="ud-syn:root" target="#i-PnzCCb11T4T4J7MuJqFVxG #i-PnyRz2Lt43tTpUBJmZnmZE"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzCKFUa9mffm8z1AMwRqv">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnyUBTgYE9Auc8TVE4TQxt">Vi</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnyULd5wScqzsYSNmuuKKA">har</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="stabil" xml:id="i-PnyUWcoHVgfv55sXZCwD9e">stabila</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="institutio" xml:id="i-PnyUewtjsaCBQNQ9sco81i">institutio</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="vara" xml:id="i-PnyUp7J963sGfnP3RUF2Mz">­</w>
+              <w msd="UPosTag=PART" lemma="ner" xml:id="i-PnyUxSPbTwPY14ufjt6wE4" join="right">ner</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyV8S6wX1DTCcLpXB8q4Y">,</pc>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-PnyVGmCPttjiXtsSqazjvc">vi</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnyVRvbo7NQooJrLPSSeGt">har</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur" lemma="fri" xml:id="i-PnyVb61CKr5u4iqDwHtYdA">fria</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="medium" xml:id="i-PnyVkFQbYKkzL8p7V9LSyS">medier</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnyVuQozkoS5bYo12znMKi">och</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnyW3juT8gxLvqKdMQeGBn">en</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="fri" xml:id="i-PnyWCuJrMAdSCFJWuG6AY4">fri</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="akademi" xml:id="i-PnyWN4iFZeJXTfHQT7Y4tL" join="right">akademi</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyWWPohwXpnnwp2mXPykQ">,</pc>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnyWfZD7A1Vt4MnvKNqt6g">och</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="domstol" xml:id="i-PnyWotJZXu29PeKYdnhnxk">domstolarna</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-PnyWyt1uaxr4bBkhR5jgoE">är</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="oberoende" xml:id="i-PnyX8D7MxrNKvUHKjVbbfJ">oberoende</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-PnyXJCpi1vCF81iUWndVVn">av</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-PnyXSXvAPoiWTJF6qCVQMr">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="politisk" xml:id="i-PnyXbhKZcHPbiiDzP3wJi8">politiska</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="makt" xml:id="i-PnyXkrixpm4gz8CsvuPD4Q" join="right">makten</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyXv28N3EjnFYBmUkq7Qg">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyULd5wScqzsYSNmuuKKA #i-PnyUBTgYE9Auc8TVE4TQxt"/>
+                <link ana="ud-syn:dep" target="#i-PnyWfZD7A1Vt4MnvKNqt6g #i-PnyULd5wScqzsYSNmuuKKA"/>
+                <link ana="ud-syn:amod" target="#i-PnyUewtjsaCBQNQ9sco81i #i-PnyUWcoHVgfv55sXZCwD9e"/>
+                <link ana="ud-syn:obj" target="#i-PnyULd5wScqzsYSNmuuKKA #i-PnyUewtjsaCBQNQ9sco81i"/>
+                <link ana="ud-syn:dep" target="#i-PnyULd5wScqzsYSNmuuKKA #i-PnyUp7J963sGfnP3RUF2Mz"/>
+                <link ana="ud-syn:dep" target="#i-PnyUp7J963sGfnP3RUF2Mz #i-PnyUxSPbTwPY14ufjt6wE4"/>
+                <link ana="ud-syn:punct" target="#i-PnyWfZD7A1Vt4MnvKNqt6g #i-PnyV8S6wX1DTCcLpXB8q4Y"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyVRvbo7NQooJrLPSSeGt #i-PnyVGmCPttjiXtsSqazjvc"/>
+                <link ana="ud-syn:dep" target="#i-PnyWfZD7A1Vt4MnvKNqt6g #i-PnyVRvbo7NQooJrLPSSeGt"/>
+                <link ana="ud-syn:amod" target="#i-PnyVkFQbYKkzL8p7V9LSyS #i-PnyVb61CKr5u4iqDwHtYdA"/>
+                <link ana="ud-syn:dep" target="#i-PnyVuQozkoS5bYo12znMKi #i-PnyVkFQbYKkzL8p7V9LSyS"/>
+                <link ana="ud-syn:obj" target="#i-PnyVRvbo7NQooJrLPSSeGt #i-PnyVuQozkoS5bYo12znMKi"/>
+                <link ana="ud-syn:det" target="#i-PnyWN4iFZeJXTfHQT7Y4tL #i-PnyW3juT8gxLvqKdMQeGBn"/>
+                <link ana="ud-syn:amod" target="#i-PnyWN4iFZeJXTfHQT7Y4tL #i-PnyWCuJrMAdSCFJWuG6AY4"/>
+                <link ana="ud-syn:dep" target="#i-PnyVuQozkoS5bYo12znMKi #i-PnyWN4iFZeJXTfHQT7Y4tL"/>
+                <link ana="ud-syn:punct" target="#i-PnyWfZD7A1Vt4MnvKNqt6g #i-PnyWWPohwXpnnwp2mXPykQ"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyWyt1uaxr4bBkhR5jgoE #i-PnyWotJZXu29PeKYdnhnxk"/>
+                <link ana="ud-syn:dep" target="#i-PnyWfZD7A1Vt4MnvKNqt6g #i-PnyWyt1uaxr4bBkhR5jgoE"/>
+                <link ana="ud-syn:dep" target="#i-PnyWyt1uaxr4bBkhR5jgoE #i-PnyX8D7MxrNKvUHKjVbbfJ"/>
+                <link ana="ud-syn:advmod" target="#i-PnyWyt1uaxr4bBkhR5jgoE #i-PnyXJCpi1vCF81iUWndVVn"/>
+                <link ana="ud-syn:det" target="#i-PnyXkrixpm4gz8CsvuPD4Q #i-PnyXSXvAPoiWTJF6qCVQMr"/>
+                <link ana="ud-syn:amod" target="#i-PnyXkrixpm4gz8CsvuPD4Q #i-PnyXbhKZcHPbiiDzP3wJi8"/>
+                <link ana="ud-syn:advmod" target="#i-PnyXJCpi1vCF81iUWndVVn #i-PnyXkrixpm4gz8CsvuPD4Q"/>
+                <link ana="ud-syn:punct" target="#i-PnyWfZD7A1Vt4MnvKNqt6g #i-PnyXv28N3EjnFYBmUkq7Qg"/>
+                <link ana="ud-syn:root" target="#i-PnzCKFUa9mffm8z1AMwRqv #i-PnyWfZD7A1Vt4MnvKNqt6g"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzCR5eC1tjTJ39qnT3NFN">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="allt" xml:id="i-PnyY6r9evtiXPD5BVVSzjN">Allt</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-PnyYGqrzyxYSakWLGnUtZr">är</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="kännetecken" xml:id="i-PnyYnq139A2CBNoncfaa5J">kännetecken</w>
+              <w msd="UPosTag=ADP" lemma="på" xml:id="i-PnyYxpiPCDr7NvEwPxcTun">på</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnyZ79oqa7NNiCmZiNUNmr">en</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="stabil" xml:id="i-PnyZUorRMRKryYYPjqi9RE">stabil</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnyZdyFpZtzxExXHHhA3mW">och</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="fungerande" xml:id="i-PnyZo8fDnNg3WNWAqYbx7n">fungerande</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="demokrati" xml:id="i-PnyZwTkgAGCJqf2o9xTryr" join="right">demokrati</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnya7TU2DL2E3CTwwFVkpL">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyYGqrzyxYSakWLGnUtZr #i-PnyY6r9evtiXPD5BVVSzjN"/>
+                <link ana="ud-syn:dep" target="#i-PnyYGqrzyxYSakWLGnUtZr #i-PnyYnq139A2CBNoncfaa5J"/>
+                <link ana="ud-syn:advmod" target="#i-PnyYGqrzyxYSakWLGnUtZr #i-PnyYxpiPCDr7NvEwPxcTun"/>
+                <link ana="ud-syn:det" target="#i-PnyZwTkgAGCJqf2o9xTryr #i-PnyZ79oqa7NNiCmZiNUNmr"/>
+                <link ana="ud-syn:dep" target="#i-PnyZdyFpZtzxExXHHhA3mW #i-PnyZUorRMRKryYYPjqi9RE"/>
+                <link ana="ud-syn:amod" target="#i-PnyZwTkgAGCJqf2o9xTryr #i-PnyZdyFpZtzxExXHHhA3mW"/>
+                <link ana="ud-syn:dep" target="#i-PnyZdyFpZtzxExXHHhA3mW #i-PnyZo8fDnNg3WNWAqYbx7n"/>
+                <link ana="ud-syn:advmod" target="#i-PnyYxpiPCDr7NvEwPxcTun #i-PnyZwTkgAGCJqf2o9xTryr"/>
+                <link ana="ud-syn:punct" target="#i-PnyYGqrzyxYSakWLGnUtZr #i-Pnya7TU2DL2E3CTwwFVkpL"/>
+                <link ana="ud-syn:root" target="#i-PnzCR5eC1tjTJ39qnT3NFN #i-PnyYGqrzyxYSakWLGnUtZr"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-VQYESZ9C2RupH3EjYHSihY">
+            <s xml:id="i-PnzCWuoot1oEpwKgQY9Jep">
+              <w msd="UPosTag=ADP" lemma="under" xml:id="i-PnyaFnZUbDYVNUzaFfMfgQ">Under</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-PnyaQ7evy74khmXCa5DaYU">den</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="pågående" xml:id="i-PnyaZH4LBajqyBW67vfUtk">pågående</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="process" xml:id="i-PnyajGmgEeZmAiwEuDhNjE">processen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="använda" xml:id="i-PnyatSB5T8ErS8v8T59H5W">använder</w>
+              <w msd="UPosTag=DET|Definite=Def,Ind|Gender=Com,Neut|Number=Plur" lemma="all" xml:id="i-Pnyb2mGXq1m7mRSkmV1Bwa">alla</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="aktör" xml:id="i-PnybCkyst5b2xxsuYn35n4">aktörer</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Plur" lemma="verktyg" xml:id="i-PnybMvPH6ZG8ENro6dUz8L">verktyg</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnybWFUjUSnPZfPRR3LtzQ">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass" lemma="finnas" xml:id="i-PnybfQt8gvTUq5NJxtnoLg">finns</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-Pnybojyb4oykAMtwHJeiCk">i</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-Pnybyjgw7sofMuL64bgc3E">den</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="demokratisk" xml:id="i-Pnyc8u6LLMUkdKJycT8WPW">demokratiska</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="parlamentarisk" xml:id="i-PnycJ4VjYq9qtjHsAJaQjn">parlamentariska</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="verktygslåda" xml:id="i-PnycTDu8mJpwA9GkiA2K64" join="right">verktygslådan</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnycdDcUpNerMghuVT4CvY">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-PnyatSB5T8ErS8v8T59H5W #i-PnyaFnZUbDYVNUzaFfMfgQ"/>
+                <link ana="ud-syn:det" target="#i-PnyajGmgEeZmAiwEuDhNjE #i-PnyaQ7evy74khmXCa5DaYU"/>
+                <link ana="ud-syn:amod" target="#i-PnyajGmgEeZmAiwEuDhNjE #i-PnyaZH4LBajqyBW67vfUtk"/>
+                <link ana="ud-syn:advmod" target="#i-PnyaFnZUbDYVNUzaFfMfgQ #i-PnyajGmgEeZmAiwEuDhNjE"/>
+                <link ana="ud-syn:det" target="#i-PnybCkyst5b2xxsuYn35n4 #i-Pnyb2mGXq1m7mRSkmV1Bwa"/>
+                <link ana="ud-syn:det" target="#i-PnybMvPH6ZG8ENro6dUz8L #i-PnybCkyst5b2xxsuYn35n4"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyatSB5T8ErS8v8T59H5W #i-PnybMvPH6ZG8ENro6dUz8L"/>
+                <link ana="ud-syn:nsubj" target="#i-PnybfQt8gvTUq5NJxtnoLg #i-PnybWFUjUSnPZfPRR3LtzQ"/>
+                <link ana="ud-syn:nmod" target="#i-PnybMvPH6ZG8ENro6dUz8L #i-PnybfQt8gvTUq5NJxtnoLg"/>
+                <link ana="ud-syn:advmod" target="#i-PnybfQt8gvTUq5NJxtnoLg #i-Pnybojyb4oykAMtwHJeiCk"/>
+                <link ana="ud-syn:det" target="#i-PnycTDu8mJpwA9GkiA2K64 #i-Pnybyjgw7sofMuL64bgc3E"/>
+                <link ana="ud-syn:amod" target="#i-PnycTDu8mJpwA9GkiA2K64 #i-Pnyc8u6LLMUkdKJycT8WPW"/>
+                <link ana="ud-syn:amod" target="#i-PnycTDu8mJpwA9GkiA2K64 #i-PnycJ4VjYq9qtjHsAJaQjn"/>
+                <link ana="ud-syn:advmod" target="#i-Pnybojyb4oykAMtwHJeiCk #i-PnycTDu8mJpwA9GkiA2K64"/>
+                <link ana="ud-syn:punct" target="#i-PnyatSB5T8ErS8v8T59H5W #i-PnycdDcUpNerMghuVT4CvY"/>
+                <link ana="ud-syn:root" target="#i-PnzCWuoot1oEpwKgQY9Jep #i-PnyatSB5T8ErS8v8T59H5W"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzCcjyRk8s2MqVX2dFF4G">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnycnP1t2rKwd6go3JW7Gp">Det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-Pnycvi7LQjrCxPDRMiN28t">är</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="misstroende" xml:id="i-Pnyd5sWjdDXJDoCJuZovVA">misstroende</w>
+              <w msd="UPosTag=ADP" lemma="­" xml:id="i-PnydFsE5gHMDRLdTgrqpKe">­</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="omröstning" xml:id="i-PnydR2dUtm2JgkcMEiHifv" join="right">omröstning</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnydZMiwGeYa238yZ89dXz">,</pc>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="beslut" xml:id="i-PnydiX8LV8DfHT7s6ybXtG">beslut</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-PnydtWqgYC3aUzZ1tGdRik">att</w>
+              <w msd="UPosTag=ADV" lemma="inte" xml:id="i-Pnye2qw8v5ZqpH5eCgVLap">inte</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="utlysa" xml:id="i-PnyeBB2bHy679ZcGX6MFSt">utlysa</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="extraval" xml:id="i-PnyeLLRzWSmCQybA4wo9oA" join="right">extraval</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyeVVqPivSHgPa3coF49S">,</pc>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="talmansrunda" xml:id="i-PnyefVYjmzGCsw1CQ6Gwyv">talmansrundor</w>
+              <w msd="UPosTag=ADP" lemma="–" xml:id="i-Pnyepex8zTwJ9Lz5wwirLC">–</w>
+              <w msd="UPosTag=DET|Definite=Def,Ind|Gender=Neut|Number=Sing" lemma="all" xml:id="i-Pnyexz3bNMTZUdWiGMamCG">allt</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="detta" xml:id="i-Pnyf8ykwRRHUgAws3ecf2k">detta</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="följa" xml:id="i-PnyfHJrPoJok1TUVN4UZtp">följer</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-PnyfSUFo1nUqGsTNuuvUF6">av</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="den" xml:id="i-PnyfaoMFPg16c9z1EKnP7A">de</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="regel" xml:id="i-Pnyfko4bSjq1ohRA1cpGwe">regler</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-Pnyfu8A3pdMH8ywnL2gBoi">som</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="vi" xml:id="i-Pnyg3TFWCWsYUGUQeSY6fn">vi</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnygCceuQzYdjgTJCHz124">har</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Pass" lemma="enas" xml:id="i-PnygMn4JdUDj16SBk9RuNL">enats</w>
+              <w msd="UPosTag=PART" lemma="om" xml:id="i-PnygWwThqwtpGWR5Hzsoic">om</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-Pnygg6s74RZuXvPxqrKi4t">för</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="vår" xml:id="i-PnygqGGWGuEzoLNrPhmcRA">vår</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="demokrati" xml:id="i-PnygzRfuVNv64kMjwZDWmS" join="right">demokrati</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnyh9b5JhrbBLALdVQfR7i">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-Pnycvi7LQjrCxPDRMiN28t #i-PnycnP1t2rKwd6go3JW7Gp"/>
+                <link ana="ud-syn:dep" target="#i-Pnycvi7LQjrCxPDRMiN28t #i-Pnyd5sWjdDXJDoCJuZovVA"/>
+                <link ana="ud-syn:nmod" target="#i-Pnyd5sWjdDXJDoCJuZovVA #i-PnydFsE5gHMDRLdTgrqpKe"/>
+                <link ana="ud-syn:advmod" target="#i-PnydFsE5gHMDRLdTgrqpKe #i-PnydR2dUtm2JgkcMEiHifv"/>
+                <link ana="ud-syn:dep" target="#i-Pnycvi7LQjrCxPDRMiN28t #i-PnydZMiwGeYa238yZ89dXz"/>
+                <link ana="ud-syn:dep" target="#i-PnydZMiwGeYa238yZ89dXz #i-PnydiX8LV8DfHT7s6ybXtG"/>
+                <link ana="ud-syn:nmod" target="#i-PnydiX8LV8DfHT7s6ybXtG #i-PnydtWqgYC3aUzZ1tGdRik"/>
+                <link ana="ud-syn:dep" target="#i-PnyeBB2bHy679ZcGX6MFSt #i-Pnye2qw8v5ZqpH5eCgVLap"/>
+                <link ana="ud-syn:punct" target="#i-PnydtWqgYC3aUzZ1tGdRik #i-PnyeBB2bHy679ZcGX6MFSt"/>
+                <link ana="ud-syn:obj" target="#i-PnyeBB2bHy679ZcGX6MFSt #i-PnyeLLRzWSmCQybA4wo9oA"/>
+                <link ana="ud-syn:punct" target="#i-PnydZMiwGeYa238yZ89dXz #i-PnyeVVqPivSHgPa3coF49S"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyfHJrPoJok1TUVN4UZtp #i-PnyefVYjmzGCsw1CQ6Gwyv"/>
+                <link ana="ud-syn:nmod" target="#i-PnyefVYjmzGCsw1CQ6Gwyv #i-Pnyepex8zTwJ9Lz5wwirLC"/>
+                <link ana="ud-syn:det" target="#i-Pnyf8ykwRRHUgAws3ecf2k #i-Pnyexz3bNMTZUdWiGMamCG"/>
+                <link ana="ud-syn:advmod" target="#i-Pnyepex8zTwJ9Lz5wwirLC #i-Pnyf8ykwRRHUgAws3ecf2k"/>
+                <link ana="ud-syn:dep" target="#i-Pnycvi7LQjrCxPDRMiN28t #i-PnyfHJrPoJok1TUVN4UZtp"/>
+                <link ana="ud-syn:advmod" target="#i-PnyfHJrPoJok1TUVN4UZtp #i-PnyfSUFo1nUqGsTNuuvUF6"/>
+                <link ana="ud-syn:det" target="#i-Pnyfko4bSjq1ohRA1cpGwe #i-PnyfaoMFPg16c9z1EKnP7A"/>
+                <link ana="ud-syn:advmod" target="#i-PnyfSUFo1nUqGsTNuuvUF6 #i-Pnyfko4bSjq1ohRA1cpGwe"/>
+                <link ana="ud-syn:obj" target="#i-PnygMn4JdUDj16SBk9RuNL #i-Pnyfu8A3pdMH8ywnL2gBoi"/>
+                <link ana="ud-syn:nsubj" target="#i-PnygCceuQzYdjgTJCHz124 #i-Pnyg3TFWCWsYUGUQeSY6fn"/>
+                <link ana="ud-syn:nmod" target="#i-Pnyfko4bSjq1ohRA1cpGwe #i-PnygCceuQzYdjgTJCHz124"/>
+                <link ana="ud-syn:dep" target="#i-PnygCceuQzYdjgTJCHz124 #i-PnygMn4JdUDj16SBk9RuNL"/>
+                <link ana="ud-syn:dep" target="#i-PnygMn4JdUDj16SBk9RuNL #i-PnygWwThqwtpGWR5Hzsoic"/>
+                <link ana="ud-syn:advmod" target="#i-PnygMn4JdUDj16SBk9RuNL #i-Pnygg6s74RZuXvPxqrKi4t"/>
+                <link ana="ud-syn:det" target="#i-PnygzRfuVNv64kMjwZDWmS #i-PnygqGGWGuEzoLNrPhmcRA"/>
+                <link ana="ud-syn:advmod" target="#i-Pnygg6s74RZuXvPxqrKi4t #i-PnygzRfuVNv64kMjwZDWmS"/>
+                <link ana="ud-syn:punct" target="#i-Pnycvi7LQjrCxPDRMiN28t #i-Pnyh9b5JhrbBLALdVQfR7i"/>
+                <link ana="ud-syn:root" target="#i-PnzCcjyRk8s2MqVX2dFF4G #i-Pnycvi7LQjrCxPDRMiN28t"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzCia93cFvotjfMeiMBTi">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnyhHvAm5k7SfSsFopXKyn">Det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="vara" xml:id="i-PnyhTut78owMrzJQb7ZDpG">är</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing" lemma="turbulent" xml:id="i-Pnyhd5HWMHcT8QHJ8y18AY" join="right">turbulent</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnyho4zrQMSNKwiSvG3212">,</pc>
+              <w msd="UPosTag=CCONJ" lemma="men" xml:id="i-PnyhwQ6JnExdfEF5Eftvs6">men</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-Pnyi5jBmA8UtzWmhZ5kqjA">det</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="följa" xml:id="i-PnyiEtbANc9zFvkb6wCk5S">följer</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="regel" xml:id="i-PnyiQtJWRfyuTUBjtEEduv" join="right">reglerna</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyiZDPxoZWAnkiNCe6Ymz">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyhTut78owMrzJQb7ZDpG #i-PnyhHvAm5k7SfSsFopXKyn"/>
+                <link ana="ud-syn:dep" target="#i-PnyhwQ6JnExdfEF5Eftvs6 #i-PnyhTut78owMrzJQb7ZDpG"/>
+                <link ana="ud-syn:dep" target="#i-PnyhTut78owMrzJQb7ZDpG #i-Pnyhd5HWMHcT8QHJ8y18AY"/>
+                <link ana="ud-syn:punct" target="#i-PnyhwQ6JnExdfEF5Eftvs6 #i-Pnyho4zrQMSNKwiSvG3212"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyiEtbANc9zFvkb6wCk5S #i-Pnyi5jBmA8UtzWmhZ5kqjA"/>
+                <link ana="ud-syn:dep" target="#i-PnyhwQ6JnExdfEF5Eftvs6 #i-PnyiEtbANc9zFvkb6wCk5S"/>
+                <link ana="ud-syn:obj" target="#i-PnyiEtbANc9zFvkb6wCk5S #i-PnyiQtJWRfyuTUBjtEEduv"/>
+                <link ana="ud-syn:punct" target="#i-PnyhwQ6JnExdfEF5Eftvs6 #i-PnyiZDPxoZWAnkiNCe6Ymz"/>
+                <link ana="ud-syn:root" target="#i-PnzCia93cFvotjfMeiMBTi #i-PnyhwQ6JnExdfEF5Eftvs6"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-FHSN1PMh6hfZPCCCVdXKtR">
+            <s xml:id="i-PnzCpQJfUNzbRdqCGoT7sA">
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="detta" xml:id="i-PnyiiNoN23BG4AhFkVYT8G">Detta</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="leda" xml:id="i-PnyisYCmEWrMKag9JLzMUY">leder</w>
+              <w msd="UPosTag=PRON|Case=Acc|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-Pnyj2hcASzXSazf2rCSFpp">mig</w>
+              <w msd="UPosTag=PART" lemma="över" xml:id="i-PnyjBs1ZfUCXrQdvQ3tAB6">över</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-PnyjM2Qxswsd7pcowuL4XN">till</w>
+              <w msd="UPosTag=NOUN|Case=Gen|Definite=Def|Gender=Com|Number=Sing" lemma="dag" xml:id="i-PnyjWBpN6RYiPEbhVkmxse">dagens</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="händelse" xml:id="i-PnyjgBXi9VNdan2rH3ori8" join="right">händelser</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyjqLw7My3irC1jpuFm4Q">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyisYCmEWrMKag9JLzMUY #i-PnyiiNoN23BG4AhFkVYT8G"/>
+                <link ana="ud-syn:obj" target="#i-PnyisYCmEWrMKag9JLzMUY #i-Pnyj2hcASzXSazf2rCSFpp"/>
+                <link ana="ud-syn:dep" target="#i-PnyisYCmEWrMKag9JLzMUY #i-PnyjBs1ZfUCXrQdvQ3tAB6"/>
+                <link ana="ud-syn:advmod" target="#i-PnyisYCmEWrMKag9JLzMUY #i-PnyjM2Qxswsd7pcowuL4XN"/>
+                <link ana="ud-syn:det" target="#i-PnyjgBXi9VNdan2rH3ori8 #i-PnyjWBpN6RYiPEbhVkmxse"/>
+                <link ana="ud-syn:advmod" target="#i-PnyjM2Qxswsd7pcowuL4XN #i-PnyjgBXi9VNdan2rH3ori8"/>
+                <link ana="ud-syn:punct" target="#i-PnyisYCmEWrMKag9JLzMUY #i-PnyjqLw7My3irC1jpuFm4Q"/>
+                <link ana="ud-syn:root" target="#i-PnzCpQJfUNzbRdqCGoT7sA #i-PnyisYCmEWrMKag9JLzMUY"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-XPwk8QHnY87sLvCBwyvpcf">
+            <s xml:id="i-PnzCvEUHLW4NxY12ttZ4Gc">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-PnyjzWLWaSip7bzdNkhfQg">Jag</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act" lemma="giva" xml:id="i-Pnyk9fjunvPuP1yWvc9Zkx">gav</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnykJq9K1Q4zeRxQUTbU7E">i</w>
+              <w msd="UPosTag=NOUN|Case=Gen|Definite=Ind|Gender=Com|Number=Sing" lemma="torsdag" xml:id="i-PnykTzYiDsk5uqwJ2K3NTW">torsdags</w>
+              <name type="PER">
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="Stefan" xml:id="i-PnykcKeAbmGMF8TvLiuHKa">Stefan</w>
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="Löfven" xml:id="i-PnyknKMWeq6GSfu581wBA4">Löfven</w>
+              </name>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="uppdrag" xml:id="i-PnykwUkusJmMi5sxfsP5WL">uppdraget</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-Pnym5orNFCHd3NQazHEzNQ">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="sondera" xml:id="i-PnymE8wpd5otNewDJh6uEU">sondera</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="förutsättning" xml:id="i-PnymQ8fAg9doaCNN5z8o4x">förutsättningarna</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-PnymZJ4ZtdJtqcMFdqahRE">för</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-PnymhdA2GWqAAtssxFScHJ">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="bilda" xml:id="i-PnymrnZRUzWFSJrmW6tWda">bilda</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-Pnyn1wxphUBLhiqf3xLQyr">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="regering" xml:id="i-PnynBwgAkY1FuGGoqFNJpL">regering</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnynKSTgHqNhJRMAvDeECC">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass" lemma="tolerera" xml:id="i-PnynVSB2LuCcVxnKhWg82g">tolereras</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-PnynebaRZNshmNmDFN82Nx">av</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-PnynnvfswGPy6fHqZmywF2" join="right">riksdagen</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnynx65H9k54N5Gj7dRqbJ">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-Pnyk9fjunvPuP1yWvc9Zkx #i-PnyjzWLWaSip7bzdNkhfQg"/>
+                <link ana="ud-syn:advmod" target="#i-Pnyk9fjunvPuP1yWvc9Zkx #i-PnykJq9K1Q4zeRxQUTbU7E"/>
+                <link ana="ud-syn:det" target="#i-PnykJq9K1Q4zeRxQUTbU7E #i-PnykTzYiDsk5uqwJ2K3NTW"/>
+                <link ana="ud-syn:advmod" target="#i-PnykJq9K1Q4zeRxQUTbU7E #i-PnykcKeAbmGMF8TvLiuHKa"/>
+                <link ana="ud-syn:det" target="#i-PnykcKeAbmGMF8TvLiuHKa #i-PnyknKMWeq6GSfu581wBA4"/>
+                <link ana="ud-syn:obj" target="#i-Pnyk9fjunvPuP1yWvc9Zkx #i-PnykwUkusJmMi5sxfsP5WL"/>
+                <link ana="ud-syn:nmod" target="#i-PnykwUkusJmMi5sxfsP5WL #i-Pnym5orNFCHd3NQazHEzNQ"/>
+                <link ana="ud-syn:punct" target="#i-Pnym5orNFCHd3NQazHEzNQ #i-PnymE8wpd5otNewDJh6uEU"/>
+                <link ana="ud-syn:obj" target="#i-PnymE8wpd5otNewDJh6uEU #i-PnymQ8fAg9doaCNN5z8o4x"/>
+                <link ana="ud-syn:advmod" target="#i-PnymE8wpd5otNewDJh6uEU #i-PnymZJ4ZtdJtqcMFdqahRE"/>
+                <link ana="ud-syn:advmod" target="#i-PnymZJ4ZtdJtqcMFdqahRE #i-PnymhdA2GWqAAtssxFScHJ"/>
+                <link ana="ud-syn:punct" target="#i-PnymhdA2GWqAAtssxFScHJ #i-PnymrnZRUzWFSJrmW6tWda"/>
+                <link ana="ud-syn:det" target="#i-PnynBwgAkY1FuGGoqFNJpL #i-Pnyn1wxphUBLhiqf3xLQyr"/>
+                <link ana="ud-syn:obj" target="#i-PnymrnZRUzWFSJrmW6tWda #i-PnynBwgAkY1FuGGoqFNJpL"/>
+                <link ana="ud-syn:nsubj" target="#i-PnynVSB2LuCcVxnKhWg82g #i-PnynKSTgHqNhJRMAvDeECC"/>
+                <link ana="ud-syn:nmod" target="#i-PnynBwgAkY1FuGGoqFNJpL #i-PnynVSB2LuCcVxnKhWg82g"/>
+                <link ana="ud-syn:dep" target="#i-PnynVSB2LuCcVxnKhWg82g #i-PnynebaRZNshmNmDFN82Nx"/>
+                <link ana="ud-syn:advmod" target="#i-PnynebaRZNshmNmDFN82Nx #i-PnynnvfswGPy6fHqZmywF2"/>
+                <link ana="ud-syn:punct" target="#i-Pnyk9fjunvPuP1yWvc9Zkx #i-Pnynx65H9k54N5Gj7dRqbJ"/>
+                <link ana="ud-syn:root" target="#i-PnzCvEUHLW4NxY12ttZ4Gc #i-Pnyk9fjunvPuP1yWvc9Zkx"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzD2twr3DGzRZd8kREzAG">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="han" xml:id="i-Pnyo7FUgNDk9dVFcfUsjwa">Han</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnyoFaa8k7GQxmnEytjeoe">har</w>
+              <w msd="UPosTag=ADV|Degree=Cmp" lemma="tidigt" xml:id="i-PnyoRaHUoB6LAKDPmBmYe8">tidigare</w>
+              <w msd="UPosTag=ADP" lemma="i" xml:id="i-PnyoZuNwB4cbVbk25bdTWC">i</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="dag" xml:id="i-Pnyoj4nLPYHgm1iudT5MrU">dag</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="slutrapportera" xml:id="i-PnyotEBjc1xn2RhoBJXGCk">slutrapporterat</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Neut|Number=Sing" lemma="sin" xml:id="i-Pnyp3Pb8pVdsHqggj9yAZ2">sitt</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="uppdrag" xml:id="i-PnypBigbCPA8d8DK3Zq5R6">uppdrag</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnypLt5zQrqDtYCCbRGymN">och</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="meddela" xml:id="i-PnypW3VPdLWK9xB69Git7e">meddelat</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-PnypfCtnqpBQRN9yh8AnTv">att</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="han" xml:id="i-PnypoXzFDhhfkegc1Y2hKz">han</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="bedöma" xml:id="i-PnypyXhbGmXaxC7knq4bAU">bedömer</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-Pnyq8h6zVFCgDc6eLgWVWk">att</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="han" xml:id="i-PnyqHrWPhismV25XtXxPs2">han</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnyqSBbr5cQ2pJcACwpJj6">har</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnyqbM1FJ6585ib3koGD5N">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="lösning" xml:id="i-PnyqmLibM9u3HG2CY6J6ur">lösning</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnyqvW7zZda8Yg165wk1G8">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="innebära" xml:id="i-Pnyr5fXPn7FDp5yydoBucQ">innebär</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-PnyrDzcr9zmV9NWbxD3pUU">att</w>
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="han" xml:id="i-PnyrPA2FNUSaQnVVW4Vipk">han</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="kunna" xml:id="i-PnyrYKReax7fgCUP3uwdB2">kan</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="bilda" xml:id="i-PnyrgeX6xqdw1V11NKoY36">bilda</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-PnyrqovWBKK2GtytvBFSPN">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="regering" xml:id="i-PnyrzyKuPnz7YJxnU2hLje">regering</w>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-PnysA8jJcGfCoiwg1t9F5v">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-PnysJTpkzABU91UJLJ19wz">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-PnysTdEACdrZQRTBt9T4JG">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Pass" lemma="tolerera" xml:id="i-PnyscndZR7XefqS5RztxeY">tolereras</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-Pnysmx2xdbCjwFQxyrLrzp">av</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-Pnysw7SMr4sqCfPrXhnmM6" join="right">riksdagen</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnyt5SXpDxQ6XwvUr7egDA">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyoFaa8k7GQxmnEytjeoe #i-Pnyo7FUgNDk9dVFcfUsjwa"/>
+                <link ana="ud-syn:dep" target="#i-PnypLt5zQrqDtYCCbRGymN #i-PnyoFaa8k7GQxmnEytjeoe"/>
+                <link ana="ud-syn:advmod" target="#i-PnyoFaa8k7GQxmnEytjeoe #i-PnyoRaHUoB6LAKDPmBmYe8"/>
+                <link ana="ud-syn:advmod" target="#i-PnyoFaa8k7GQxmnEytjeoe #i-PnyoZuNwB4cbVbk25bdTWC"/>
+                <link ana="ud-syn:det" target="#i-PnyoZuNwB4cbVbk25bdTWC #i-Pnyoj4nLPYHgm1iudT5MrU"/>
+                <link ana="ud-syn:dep" target="#i-PnyoFaa8k7GQxmnEytjeoe #i-PnyotEBjc1xn2RhoBJXGCk"/>
+                <link ana="ud-syn:det" target="#i-PnypBigbCPA8d8DK3Zq5R6 #i-Pnyp3Pb8pVdsHqggj9yAZ2"/>
+                <link ana="ud-syn:obj" target="#i-PnyotEBjc1xn2RhoBJXGCk #i-PnypBigbCPA8d8DK3Zq5R6"/>
+                <link ana="ud-syn:dep" target="#i-PnypLt5zQrqDtYCCbRGymN #i-PnypW3VPdLWK9xB69Git7e"/>
+                <link ana="ud-syn:obj" target="#i-PnypW3VPdLWK9xB69Git7e #i-PnypfCtnqpBQRN9yh8AnTv"/>
+                <link ana="ud-syn:nsubj" target="#i-PnypyXhbGmXaxC7knq4bAU #i-PnypoXzFDhhfkegc1Y2hKz"/>
+                <link ana="ud-syn:advmod" target="#i-PnypfCtnqpBQRN9yh8AnTv #i-PnypyXhbGmXaxC7knq4bAU"/>
+                <link ana="ud-syn:obj" target="#i-PnypyXhbGmXaxC7knq4bAU #i-Pnyq8h6zVFCgDc6eLgWVWk"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyqSBbr5cQ2pJcACwpJj6 #i-PnyqHrWPhismV25XtXxPs2"/>
+                <link ana="ud-syn:advmod" target="#i-Pnyq8h6zVFCgDc6eLgWVWk #i-PnyqSBbr5cQ2pJcACwpJj6"/>
+                <link ana="ud-syn:det" target="#i-PnyqmLibM9u3HG2CY6J6ur #i-PnyqbM1FJ6585ib3koGD5N"/>
+                <link ana="ud-syn:obj" target="#i-PnyqSBbr5cQ2pJcACwpJj6 #i-PnyqmLibM9u3HG2CY6J6ur"/>
+                <link ana="ud-syn:nsubj" target="#i-Pnyr5fXPn7FDp5yydoBucQ #i-PnyqvW7zZda8Yg165wk1G8"/>
+                <link ana="ud-syn:nmod" target="#i-PnyqmLibM9u3HG2CY6J6ur #i-Pnyr5fXPn7FDp5yydoBucQ"/>
+                <link ana="ud-syn:obj" target="#i-Pnyr5fXPn7FDp5yydoBucQ #i-PnyrDzcr9zmV9NWbxD3pUU"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyrYKReax7fgCUP3uwdB2 #i-PnyrPA2FNUSaQnVVW4Vipk"/>
+                <link ana="ud-syn:advmod" target="#i-PnyrDzcr9zmV9NWbxD3pUU #i-PnyrYKReax7fgCUP3uwdB2"/>
+                <link ana="ud-syn:dep" target="#i-PnyrYKReax7fgCUP3uwdB2 #i-PnyrgeX6xqdw1V11NKoY36"/>
+                <link ana="ud-syn:det" target="#i-PnyrzyKuPnz7YJxnU2hLje #i-PnyrqovWBKK2GtytvBFSPN"/>
+                <link ana="ud-syn:obj" target="#i-PnyrgeX6xqdw1V11NKoY36 #i-PnyrzyKuPnz7YJxnU2hLje"/>
+                <link ana="ud-syn:nsubj" target="#i-PnysJTpkzABU91UJLJ19wz #i-PnysA8jJcGfCoiwg1t9F5v"/>
+                <link ana="ud-syn:nmod" target="#i-PnyrzyKuPnz7YJxnU2hLje #i-PnysJTpkzABU91UJLJ19wz"/>
+                <link ana="ud-syn:dep" target="#i-PnysJTpkzABU91UJLJ19wz #i-PnysTdEACdrZQRTBt9T4JG"/>
+                <link ana="ud-syn:punct" target="#i-PnysTdEACdrZQRTBt9T4JG #i-PnyscndZR7XefqS5RztxeY"/>
+                <link ana="ud-syn:dep" target="#i-PnyscndZR7XefqS5RztxeY #i-Pnysmx2xdbCjwFQxyrLrzp"/>
+                <link ana="ud-syn:advmod" target="#i-Pnysmx2xdbCjwFQxyrLrzp #i-Pnysw7SMr4sqCfPrXhnmM6"/>
+                <link ana="ud-syn:punct" target="#i-PnypLt5zQrqDtYCCbRGymN #i-Pnyt5SXpDxQ6XwvUr7egDA"/>
+                <link ana="ud-syn:root" target="#i-PnzD2twr3DGzRZd8kREzAG #i-PnypLt5zQrqDtYCCbRGymN"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-Kh4rSYuM9RNope9AF42cRh">
+            <s xml:id="i-PnzD9ZRQjvVbtbFEbwvv3v">
+              <w msd="UPosTag=ADP" lemma="enligt" xml:id="i-PnytEbwDSS5BoMuNPy6aZS">Enligt</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="6" xml:id="i-PnytPmLceukH4mtFwpYUui">6</w>
+              <w msd="UPosTag=NOUN|Abbr=Yes" lemma="kap" xml:id="i-PnytY6S52oGYQ4QtGEQPmn">kap.</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="4" xml:id="i-PnythFqUFGwdfUPmp5rJ84">4</w>
+              <w msd="UPosTag=NOUN|Abbr=Yes" lemma="§" xml:id="i-PnytsFYpJLmYs1pvbNtBxY">§</w>
+              <w msd="UPosTag=ADJ|Case=Nom" lemma="första" xml:id="i-Pnyu2QxDWpSe8Rop9EL6Jp">första</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="stycke" xml:id="i-PnyuAk3fthxuTiLSTeC1At">stycket</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="regeringsform" xml:id="i-PnyuKuT57Bdzj8KL1VduXA">regeringsformen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ankomma" xml:id="i-PnyuV4rUKfK5zYJDZM5osS">ankommer</w>
+              <w msd="UPosTag=PRON|Case=Acc,Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="det" xml:id="i-PnyueEFsY8zBFxH77CXiDi">det</w>
+              <w msd="UPosTag=ADP" lemma="på" xml:id="i-PnyuoPfGkcfGXNFzf3ycZz">på</w>
+              <w msd="UPosTag=PRON|Case=Acc|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-Pnyuwikj8WBXrencyTqXS4">mig</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-Pnyv6tA8Lyrd84mWXKHRnL">att</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-PnyvGssUQ3gYKcCfJcKKcp">för</w>
+              <w msd="UPosTag=NOUN|Case=Gen|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-PnyvRCxvmwCoetjHd2BEUt">riksdagens</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="godkännande" xml:id="i-PnyvaNNKzQstvJiBAsd8qA">godkännande</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="lämna" xml:id="i-PnyvmCPct4re3ybbBcF29r">lämna</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="förslag" xml:id="i-PnyvwC6xw8gZFX2jxuGuzL">förslag</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-Pnyw5XCRK2CpaoZNHK8prQ">till</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="ny" xml:id="i-PnywEgbpXVsurDYFqAajCg">ny</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="statsminister" xml:id="i-PnywPr1DjyZ17dX9P22dYx" join="right">statsminister</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnywZ1QcxTE6P3W2vsUXuE">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:advmod" target="#i-PnyuV4rUKfK5zYJDZM5osS #i-PnytEbwDSS5BoMuNPy6aZS"/>
+                <link ana="ud-syn:det" target="#i-PnytY6S52oGYQ4QtGEQPmn #i-PnytPmLceukH4mtFwpYUui"/>
+                <link ana="ud-syn:advmod" target="#i-PnytEbwDSS5BoMuNPy6aZS #i-PnytY6S52oGYQ4QtGEQPmn"/>
+                <link ana="ud-syn:det" target="#i-PnytsFYpJLmYs1pvbNtBxY #i-PnythFqUFGwdfUPmp5rJ84"/>
+                <link ana="ud-syn:det" target="#i-PnyuAk3fthxuTiLSTeC1At #i-PnytsFYpJLmYs1pvbNtBxY"/>
+                <link ana="ud-syn:det" target="#i-PnyuAk3fthxuTiLSTeC1At #i-Pnyu2QxDWpSe8Rop9EL6Jp"/>
+                <link ana="ud-syn:det" target="#i-PnyuKuT57Bdzj8KL1VduXA #i-PnyuAk3fthxuTiLSTeC1At"/>
+                <link ana="ud-syn:advmod" target="#i-PnytEbwDSS5BoMuNPy6aZS #i-PnyuKuT57Bdzj8KL1VduXA"/>
+                <link ana="ud-syn:expl" target="#i-PnyuV4rUKfK5zYJDZM5osS #i-PnyueEFsY8zBFxH77CXiDi"/>
+                <link ana="ud-syn:advmod" target="#i-PnyuV4rUKfK5zYJDZM5osS #i-PnyuoPfGkcfGXNFzf3ycZz"/>
+                <link ana="ud-syn:advmod" target="#i-PnyuoPfGkcfGXNFzf3ycZz #i-Pnyuwikj8WBXrencyTqXS4"/>
+                <link ana="ud-syn:nsubj" target="#i-PnyuV4rUKfK5zYJDZM5osS #i-Pnyv6tA8Lyrd84mWXKHRnL"/>
+                <link ana="ud-syn:advmod" target="#i-PnyvmCPct4re3ybbBcF29r #i-PnyvGssUQ3gYKcCfJcKKcp"/>
+                <link ana="ud-syn:det" target="#i-PnyvaNNKzQstvJiBAsd8qA #i-PnyvRCxvmwCoetjHd2BEUt"/>
+                <link ana="ud-syn:advmod" target="#i-PnyvGssUQ3gYKcCfJcKKcp #i-PnyvaNNKzQstvJiBAsd8qA"/>
+                <link ana="ud-syn:punct" target="#i-Pnyv6tA8Lyrd84mWXKHRnL #i-PnyvmCPct4re3ybbBcF29r"/>
+                <link ana="ud-syn:obj" target="#i-PnyvmCPct4re3ybbBcF29r #i-PnyvwC6xw8gZFX2jxuGuzL"/>
+                <link ana="ud-syn:advmod" target="#i-PnyvmCPct4re3ybbBcF29r #i-Pnyw5XCRK2CpaoZNHK8prQ"/>
+                <link ana="ud-syn:amod" target="#i-PnywPr1DjyZ17dX9P22dYx #i-PnywEgbpXVsurDYFqAajCg"/>
+                <link ana="ud-syn:advmod" target="#i-Pnyw5XCRK2CpaoZNHK8prQ #i-PnywPr1DjyZ17dX9P22dYx"/>
+                <link ana="ud-syn:punct" target="#i-PnyuV4rUKfK5zYJDZM5osS #i-PnywZ1QcxTE6P3W2vsUXuE"/>
+                <link ana="ud-syn:root" target="#i-PnzD9ZRQjvVbtbFEbwvv3v #i-PnyuV4rUKfK5zYJDZM5osS"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-SSoEwBqH5wqF65QgJiEzqP">
+            <s xml:id="i-PnzDFPb2c3ZPRVR5E32rTN">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-PnywhLW5LLkMiL2fFHLSmJ">Jag</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnywrVuUYpRSyk1Yo8nM7a">har</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="samråsta" xml:id="i-Pnyx1fJsmJ6YF9zSLzEFTr">samrått</w>
+              <w msd="UPosTag=ADP" lemma="med" xml:id="i-PnyxBf2DpMvTShRb8HG9JL">med</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="företrädare" xml:id="i-PnyxKz7gCFSimyxDSh84AQ">företrädare</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-PnyxV9X5Qj7p3Pw6zYZxWg">för</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com,Neut|Number=Sing" lemma="varje" xml:id="i-Pnyxf9ERTnwjEwNFmqbrMA">varje</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="partigrupp" xml:id="i-PnyxpJdpgGcpWMM9Kh3khS">partigrupp</w>
+              <w msd="UPosTag=ADP" lemma="inom" xml:id="i-PnyxxdjH4A95qdsme6ufZW">inom</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-Pnyy7o8gGdpB73rfBxMZun">riksdagen</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-PnyyGxY5V7VGNTqYjooUG4">och</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="överlagd" xml:id="i-PnyyS7wUhbAMdspSHfFNcL">överlagt</w>
+              <w msd="UPosTag=ADP" lemma="med" xml:id="i-PnyybHLsv4qSuHoKqWhGxc">med</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com,Neut|Number=Plur" lemma="den" xml:id="i-PnyyjcSLHxMiEaKx9vZBpg">de</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Plur,Sing" lemma="vice" xml:id="i-PnyyvSTdBcLTNFDNAfB59N">vice</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="talman" xml:id="i-Pnyz5bs2Q61YdfCFiWcyVe" join="right">talmännen</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-PnyzEmGRcZgdu5B9GN4sqv">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnywrVuUYpRSyk1Yo8nM7a #i-PnywhLW5LLkMiL2fFHLSmJ"/>
+                <link ana="ud-syn:dep" target="#i-PnyyGxY5V7VGNTqYjooUG4 #i-PnywrVuUYpRSyk1Yo8nM7a"/>
+                <link ana="ud-syn:dep" target="#i-PnywrVuUYpRSyk1Yo8nM7a #i-Pnyx1fJsmJ6YF9zSLzEFTr"/>
+                <link ana="ud-syn:advmod" target="#i-Pnyx1fJsmJ6YF9zSLzEFTr #i-PnyxBf2DpMvTShRb8HG9JL"/>
+                <link ana="ud-syn:advmod" target="#i-PnyxBf2DpMvTShRb8HG9JL #i-PnyxKz7gCFSimyxDSh84AQ"/>
+                <link ana="ud-syn:nmod" target="#i-PnyxKz7gCFSimyxDSh84AQ #i-PnyxV9X5Qj7p3Pw6zYZxWg"/>
+                <link ana="ud-syn:det" target="#i-PnyxpJdpgGcpWMM9Kh3khS #i-Pnyxf9ERTnwjEwNFmqbrMA"/>
+                <link ana="ud-syn:advmod" target="#i-PnyxV9X5Qj7p3Pw6zYZxWg #i-PnyxpJdpgGcpWMM9Kh3khS"/>
+                <link ana="ud-syn:nmod" target="#i-PnyxpJdpgGcpWMM9Kh3khS #i-PnyxxdjH4A95qdsme6ufZW"/>
+                <link ana="ud-syn:advmod" target="#i-PnyxxdjH4A95qdsme6ufZW #i-Pnyy7o8gGdpB73rfBxMZun"/>
+                <link ana="ud-syn:dep" target="#i-PnyyGxY5V7VGNTqYjooUG4 #i-PnyyS7wUhbAMdspSHfFNcL"/>
+                <link ana="ud-syn:advmod" target="#i-PnyyS7wUhbAMdspSHfFNcL #i-PnyybHLsv4qSuHoKqWhGxc"/>
+                <link ana="ud-syn:det" target="#i-Pnyz5bs2Q61YdfCFiWcyVe #i-PnyyjcSLHxMiEaKx9vZBpg"/>
+                <link ana="ud-syn:amod" target="#i-Pnyz5bs2Q61YdfCFiWcyVe #i-PnyyvSTdBcLTNFDNAfB59N"/>
+                <link ana="ud-syn:advmod" target="#i-PnyybHLsv4qSuHoKqWhGxc #i-Pnyz5bs2Q61YdfCFiWcyVe"/>
+                <link ana="ud-syn:punct" target="#i-PnyyGxY5V7VGNTqYjooUG4 #i-PnyzEmGRcZgdu5B9GN4sqv"/>
+                <link ana="ud-syn:root" target="#i-PnzDFPb2c3ZPRVR5E32rTN #i-PnyyGxY5V7VGNTqYjooUG4"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzDMDkeUAdAxPaur88nrp">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-PnyzPvfpq3MjAVA2pDWnCC">Jag</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="ha" xml:id="i-PnyzZ65E3X2pRu8vN4xgYU">har</w>
+              <w msd="UPosTag=ADV" lemma="även" xml:id="i-PnyziFUdFzhuhK7ouvQatk">även</w>
+              <w msd="UPosTag=VERB|VerbForm=Sup|Voice=Act" lemma="informera" xml:id="i-Pnyzraa5dtEB2beSELGVkp">informerat</w>
+              <w msd="UPosTag=DET|Definite=Def|Gender=Com,Neut|Number=Plur,Sing" lemma="hans" xml:id="i-PnyzzufY1mkSMtB4Yk8Qct">Hans</w>
+              <name type="MISC">
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="majestät" xml:id="i-Pnz1AuNt4qaMZRcDL3AJTN">Majestät</w>
+              </name>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="konung" xml:id="i-Pnz1Lu6E7uQGky3N7LCCHr" join="right">Konungen</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnz1VEBgVnvY6FZzRk479v">,</pc>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="statschef" xml:id="i-Pnz1ePb5iGbdMfYsybW1WC" join="right">statschefen</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnz1pPJRmLRYZCz2ktXuLg">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-PnyzZ65E3X2pRu8vN4xgYU #i-PnyzPvfpq3MjAVA2pDWnCC"/>
+                <link ana="ud-syn:advmod" target="#i-PnyzZ65E3X2pRu8vN4xgYU #i-PnyziFUdFzhuhK7ouvQatk"/>
+                <link ana="ud-syn:dep" target="#i-PnyzZ65E3X2pRu8vN4xgYU #i-Pnyzraa5dtEB2beSELGVkp"/>
+                <link ana="ud-syn:det" target="#i-Pnz1AuNt4qaMZRcDL3AJTN #i-PnyzzufY1mkSMtB4Yk8Qct"/>
+                <link ana="ud-syn:obj" target="#i-Pnyzraa5dtEB2beSELGVkp #i-Pnz1AuNt4qaMZRcDL3AJTN"/>
+                <link ana="ud-syn:det" target="#i-Pnz1AuNt4qaMZRcDL3AJTN #i-Pnz1Lu6E7uQGky3N7LCCHr"/>
+                <link ana="ud-syn:punct" target="#i-Pnz1AuNt4qaMZRcDL3AJTN #i-Pnz1VEBgVnvY6FZzRk479v"/>
+                <link ana="ud-syn:appos" target="#i-Pnz1AuNt4qaMZRcDL3AJTN #i-Pnz1ePb5iGbdMfYsybW1WC"/>
+                <link ana="ud-syn:punct" target="#i-PnyzZ65E3X2pRu8vN4xgYU #i-Pnz1pPJRmLRYZCz2ktXuLg"/>
+                <link ana="ud-syn:root" target="#i-PnzDMDkeUAdAxPaur88nrp #i-PnyzZ65E3X2pRu8vN4xgYU"/>
+              </linkGrp>
+            </s>
+            <s xml:id="i-PnzDT3vGLHgxVHkkUDEjGG">
+              <w msd="UPosTag=PRON|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="jag" xml:id="i-Pnz1xiPt9DwotVWf5JPpCk">Jag</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="föreslå" xml:id="i-Pnz27soHMhcu9uVYd9qiZ2">föreslår</w>
+              <w msd="UPosTag=ADV" lemma="nu" xml:id="i-Pnz2H3CgaBHzRKUSB1HcuJ">nu</w>
+              <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-Pnz2SCc5ney5gjTKirjXFa">att</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="riksdag" xml:id="i-Pnz2cCKRqinztGtUW9mR64">riksdagen</w>
+              <w msd="UPosTag=ADP" lemma="till" xml:id="i-Pnz2kXQtDcKGDZR6pZdKx8">till</w>
+              <w msd="UPosTag=ADJ|Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing" lemma="ny" xml:id="i-Pnz2trWLbVqXYqwj8yVEpC">ny</w>
+              <w msd="UPosTag=NOUN|Case=Gen|Definite=Ind|Gender=Com|Number=Sing" lemma="statsminis" xml:id="i-Pnz34rDgeZfSkPNsvGX8eg">statsminis</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="­" xml:id="i-Pnz3E1d5s3LY1oMmU7y2zx">­</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="te" xml:id="i-Pnz3NLiYEvroM5tPnXpws2">ter</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="utse" xml:id="i-Pnz3WfozcpP4gNR26wgrj6">utser</w>
+              <name type="PER">
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="Stefan" xml:id="i-Pnz3fqDPqJ49wnPueo8m5N">Stefan</w>
+                <w msd="UPosTag=PROPN|Case=Nom" lemma="Löfven" xml:id="i-Pnz3qpvjtMt59Kq4S6Aeur">Löfven</w>
+              </name>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnz3zzL96qZAQjowywcZG8">,</pc>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="socialdemokrat" xml:id="i-Pnz49KRbUj5Rk2LaJMUU8C" join="right">Socialdemokraterna</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnz4JUpzhCkX1SKTrCvNUU">,</pc>
+              <w msd="UPosTag=PRON" lemma="som" xml:id="i-Pnz4UUYLkGaSCykcdVxGJx">som</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="avse" xml:id="i-Pnz4codo8A6hYGHEwupBB2">avser</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-Pnz4m8jFW3cxsYosGKg636">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="bilda" xml:id="i-Pnz4vJ8eiXJ48xnkpB7zPN">bilda</w>
+              <w msd="UPosTag=DET|Definite=Ind|Gender=Com|Number=Sing" lemma="en" xml:id="i-Pnz56Hqzmb7yLWDubU9tDr">en</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="reger" xml:id="i-Pnz5FTFPz4o4bvCo9Kbna8">reger</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Gender=Com|Number=Sing" lemma="­" xml:id="i-Pnz5PnLrMxKKwCjRTjThSC">­</w>
+              <w msd="UPosTag=NOUN|Abbr=Yes" lemma="ing" xml:id="i-Pnz5Zn4CR29F8kAaF2VbGg">ing</w>
+              <w msd="UPosTag=VERB|Case=Nom|Definite=Def,Ind|Gender=Com,Neut|Number=Plur,Sing|Tense=Pres|VerbForm=Part" lemma="bestående" xml:id="i-Pnz5jmmYU5yALHbj2KXV7A">bestående</w>
+              <w msd="UPosTag=ADP" lemma="av" xml:id="i-Pnz5t6rzqyVRfa8MLjPPyE">av</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Plur" lemma="företrädare" xml:id="i-Pnz63GGQ4TAWvz7EtaqJKW">företrädare</w>
+              <w msd="UPosTag=ADP" lemma="för" xml:id="i-Pnz6DFyk7WzS8XYPfssC9z">för</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Plur" lemma="socialdemokrat" xml:id="i-Pnz6NRP9KzfXPwXHDjK6WG">Socialdemokraterna</w>
+              <w msd="UPosTag=CCONJ" lemma="och" xml:id="i-Pnz6WkUbhtBnjE3uY9B1NL">och</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Neut|Number=Sing" lemma="miljöparti" xml:id="i-Pnz6fuszvMrsze2o5zcuic" join="right">Miljöpartiet</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnz6qubLyRgoCBTwsHeoZ6">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-Pnz27soHMhcu9uVYd9qiZ2 #i-Pnz1xiPt9DwotVWf5JPpCk"/>
+                <link ana="ud-syn:advmod" target="#i-Pnz27soHMhcu9uVYd9qiZ2 #i-Pnz2H3CgaBHzRKUSB1HcuJ"/>
+                <link ana="ud-syn:obj" target="#i-Pnz27soHMhcu9uVYd9qiZ2 #i-Pnz2SCc5ney5gjTKirjXFa"/>
+                <link ana="ud-syn:nsubj" target="#i-Pnz3NLiYEvroM5tPnXpws2 #i-Pnz2cCKRqinztGtUW9mR64"/>
+                <link ana="ud-syn:nmod" target="#i-Pnz2cCKRqinztGtUW9mR64 #i-Pnz2kXQtDcKGDZR6pZdKx8"/>
+                <link ana="ud-syn:amod" target="#i-Pnz34rDgeZfSkPNsvGX8eg #i-Pnz2trWLbVqXYqwj8yVEpC"/>
+                <link ana="ud-syn:det" target="#i-Pnz3E1d5s3LY1oMmU7y2zx #i-Pnz34rDgeZfSkPNsvGX8eg"/>
+                <link ana="ud-syn:advmod" target="#i-Pnz2kXQtDcKGDZR6pZdKx8 #i-Pnz3E1d5s3LY1oMmU7y2zx"/>
+                <link ana="ud-syn:advmod" target="#i-Pnz2SCc5ney5gjTKirjXFa #i-Pnz3NLiYEvroM5tPnXpws2"/>
+                <link ana="ud-syn:dep" target="#i-Pnz27soHMhcu9uVYd9qiZ2 #i-Pnz3WfozcpP4gNR26wgrj6"/>
+                <link ana="ud-syn:nsubj" target="#i-Pnz3WfozcpP4gNR26wgrj6 #i-Pnz3fqDPqJ49wnPueo8m5N"/>
+                <link ana="ud-syn:det" target="#i-Pnz3fqDPqJ49wnPueo8m5N #i-Pnz3qpvjtMt59Kq4S6Aeur"/>
+                <link ana="ud-syn:punct" target="#i-Pnz3fqDPqJ49wnPueo8m5N #i-Pnz3zzL96qZAQjowywcZG8"/>
+                <link ana="ud-syn:nmod" target="#i-Pnz3fqDPqJ49wnPueo8m5N #i-Pnz49KRbUj5Rk2LaJMUU8C"/>
+                <link ana="ud-syn:punct" target="#i-Pnz3fqDPqJ49wnPueo8m5N #i-Pnz4JUpzhCkX1SKTrCvNUU"/>
+                <link ana="ud-syn:nsubj" target="#i-Pnz4codo8A6hYGHEwupBB2 #i-Pnz4UUYLkGaSCykcdVxGJx"/>
+                <link ana="ud-syn:nmod" target="#i-Pnz3fqDPqJ49wnPueo8m5N #i-Pnz4codo8A6hYGHEwupBB2"/>
+                <link ana="ud-syn:obj" target="#i-Pnz4codo8A6hYGHEwupBB2 #i-Pnz4m8jFW3cxsYosGKg636"/>
+                <link ana="ud-syn:punct" target="#i-Pnz4m8jFW3cxsYosGKg636 #i-Pnz4vJ8eiXJ48xnkpB7zPN"/>
+                <link ana="ud-syn:det" target="#i-Pnz5FTFPz4o4bvCo9Kbna8 #i-Pnz56Hqzmb7yLWDubU9tDr"/>
+                <link ana="ud-syn:det" target="#i-Pnz5Zn4CR29F8kAaF2VbGg #i-Pnz5FTFPz4o4bvCo9Kbna8"/>
+                <link ana="ud-syn:det" target="#i-Pnz5Zn4CR29F8kAaF2VbGg #i-Pnz5PnLrMxKKwCjRTjThSC"/>
+                <link ana="ud-syn:obj" target="#i-Pnz4vJ8eiXJ48xnkpB7zPN #i-Pnz5Zn4CR29F8kAaF2VbGg"/>
+                <link ana="ud-syn:dep" target="#i-Pnz5Zn4CR29F8kAaF2VbGg #i-Pnz5jmmYU5yALHbj2KXV7A"/>
+                <link ana="ud-syn:dep" target="#i-Pnz5jmmYU5yALHbj2KXV7A #i-Pnz5t6rzqyVRfa8MLjPPyE"/>
+                <link ana="ud-syn:advmod" target="#i-Pnz5t6rzqyVRfa8MLjPPyE #i-Pnz63GGQ4TAWvz7EtaqJKW"/>
+                <link ana="ud-syn:nmod" target="#i-Pnz63GGQ4TAWvz7EtaqJKW #i-Pnz6DFyk7WzS8XYPfssC9z"/>
+                <link ana="ud-syn:dep" target="#i-Pnz6WkUbhtBnjE3uY9B1NL #i-Pnz6NRP9KzfXPwXHDjK6WG"/>
+                <link ana="ud-syn:advmod" target="#i-Pnz6DFyk7WzS8XYPfssC9z #i-Pnz6WkUbhtBnjE3uY9B1NL"/>
+                <link ana="ud-syn:dep" target="#i-Pnz6WkUbhtBnjE3uY9B1NL #i-Pnz6fuszvMrsze2o5zcuic"/>
+                <link ana="ud-syn:punct" target="#i-Pnz27soHMhcu9uVYd9qiZ2 #i-Pnz6qubLyRgoCBTwsHeoZ6"/>
+                <link ana="ud-syn:root" target="#i-PnzDT3vGLHgxVHkkUDEjGG #i-Pnz27soHMhcu9uVYd9qiZ2"/>
+              </linkGrp>
+            </s>
+          </seg>
+          <seg xml:id="i-9jYm6YFVJKop6KA6vGAkAG">
+            <s xml:id="i-PnzDYt5tCQkk2Bvb6JLffi">
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="omröstning" xml:id="i-Pnz714zkBuMtTbSqR96huN">Omröstningen</w>
+              <w msd="UPosTag=VERB|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="komma" xml:id="i-Pnz79Q6CZnt9nsyTjYxcmS">kommer</w>
+              <w msd="UPosTag=PART" lemma="att" xml:id="i-Pnz7HjBewgQR8AW63xpXdW">att</w>
+              <w msd="UPosTag=VERB|VerbForm=Inf|Voice=Act" lemma="äga" xml:id="i-Pnz7UZCwqLPAFqPW4hSQxC">äga</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="rum" xml:id="i-Pnz7ctJQDDuRb7v8P7JKpG">rum</w>
+              <w msd="UPosTag=ADP" lemma="på" xml:id="i-Pnz7n3hoRhaWrXu1vxkEAY">på</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="onsdag" xml:id="i-Pnz7wD7CeBFc7wsuUpC8Wp">onsdag</w>
+              <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="klocka" xml:id="i-Pnz8838VXqEMFcmKVYp1qW">klockan</w>
+              <w msd="UPosTag=NUM|Case=Nom" lemma="14" xml:id="i-Pnz8GNDwuikcauHwoxfvha" join="right">14</w>
+              <pc msd="UPosTag=PUNCT" xml:id="i-Pnz8RXdM8CRhrKGqMp7q3r">.</pc>
+              <linkGrp targFunc="head argument" type="UD-SYN">
+                <link ana="ud-syn:nsubj" target="#i-Pnz79Q6CZnt9nsyTjYxcmS #i-Pnz714zkBuMtTbSqR96huN"/>
+                <link ana="ud-syn:dep" target="#i-Pnz79Q6CZnt9nsyTjYxcmS #i-Pnz7HjBewgQR8AW63xpXdW"/>
+                <link ana="ud-syn:punct" target="#i-Pnz7HjBewgQR8AW63xpXdW #i-Pnz7UZCwqLPAFqPW4hSQxC"/>
+                <link ana="ud-syn:dep" target="#i-Pnz7UZCwqLPAFqPW4hSQxC #i-Pnz7ctJQDDuRb7v8P7JKpG"/>
+                <link ana="ud-syn:advmod" target="#i-Pnz7UZCwqLPAFqPW4hSQxC #i-Pnz7n3hoRhaWrXu1vxkEAY"/>
+                <link ana="ud-syn:advmod" target="#i-Pnz7n3hoRhaWrXu1vxkEAY #i-Pnz7wD7CeBFc7wsuUpC8Wp"/>
+                <link ana="ud-syn:det" target="#i-Pnz8GNDwuikcauHwoxfvha #i-Pnz8838VXqEMFcmKVYp1qW"/>
+                <link ana="ud-syn:advmod" target="#i-Pnz7UZCwqLPAFqPW4hSQxC #i-Pnz8GNDwuikcauHwoxfvha"/>
+                <link ana="ud-syn:punct" target="#i-Pnz79Q6CZnt9nsyTjYxcmS #i-Pnz8RXdM8CRhrKGqMp7q3r"/>
+                <link ana="ud-syn:root" target="#i-PnzDYt5tCQkk2Bvb6JLffi #i-Pnz79Q6CZnt9nsyTjYxcmS"/>
+              </linkGrp>
+            </s>
+          </seg>
+        </u>
+        <note>Detta förslag bordlades .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 2 Justering av protokoll</head>
+        <note>Protokollen för den 9 – 11 och 14 juni justerades .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 3 Anmälan om förändring i regeringens sammansättning</head>
+        <note>Från statsminister Stefan Löfven ( S ) hade följande skrivelse kommit in :</note>
+        <note>R iksdagens talman</note>
+        <note>R egeringens sammansättning</note>
+        <note>Jag har i dag fattat följande beslut om regeringens sammansättning .</note>
+        <note>Jennie Nilsson har entledigats som statsråd .</note>
+        <note>Stockholm den 30 juni 2021</note>
+        <note>Stefan Löfven</note>
+        <note>Skrivelsen lades till handlingarna .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 4 Anmälan om återtagande av plats i riksdagen</head>
+        <note>Talmannen meddelade att Jennie Nilsson ( S ) återtagit sin plats i riksdagen från och med den 30 juni , varigenom uppdraget som statsrådsersättare upphört för Sara Heikkinen Breitholtz ( S ) .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 5 Anmälan om ersättare</head>
+        <note>T almannen anmälde att Paula Örn ( S ) inträtt som ersättare för Aylin Fazelian ( S ) under tiden för henne s ledighet den 1 juli – 1 december .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 6 Meddelande om namnändring</head>
+        <note>Talmannen meddelade att Marianne Pettersson ( S ) ändrat namn till Marianne Fundahn .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 7 Anmälan om faktapromemoria</head>
+        <note>Talmannen anmälde att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott :</note>
+        <note>2020 / 21:FPM116 Meddelande om ett modernt regelverk för företagsbeskattning i EU C ( 2021 ) 3484 , COM ( 2021 ) 251 till skatteutskottet</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 8 Anmälan om granskningsrapport</head>
+        <note>Talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till trafikutskottet :</note>
+        <note>RiR 2021:22 Kostnadskontroll i infrastrukturinvesteringar</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 9 Anmälan om frågor för skriftliga svar</head>
+        <note>Följande frågor för skriftliga svar hade framställts :</note>
+        <note>den 29 juni</note>
+        <note>2020 / 21:3317 Koalitionens möte om Islamiska staten</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2020 / 21:3318 De svenska militära insatserna i Mali</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till försvarsminister Peter Hultqvist ( S )</note>
+        <note>2020 / 21:3319 Förtroendet för gd vid Folkhälsomyndigheten</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>den 1 juli</note>
+        <note>2020 / 21:3320 Vildsvin på Gotland</note>
+        <note>av Magnus Oscarsson ( KD )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 10 Anmälan om skriftliga svar på frågor</head>
+        <note>Skriftliga svar på följande frågor hade kommit in :</note>
+        <note>den 1 juli</note>
+        <note>2020 / 21:3274 Vaccinering av barn</note>
+        <note>av Camilla Waltersson Grönvall ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>den 5 juli</note>
+        <note>2020 / 21:3288 Rättsstatlighet i EU</note>
+        <note>av Jessika Roswall ( M )</note>
+        <note>till statsrådet Hans Dahlgren ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 11 Anmälan om uteblivna svar på skriftliga frågor</head>
+        <note>Talmannen anmälde att följande skriftliga frågor inte skulle besvaras :</note>
+        <note>2020 / 21:3263 Möjligheter för unga att flytta till egen bostad</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till statsrådet Märta Stenevi ( MP )</note>
+        <note>2020 / 21:3301 Klimatstyrande vägavgifter</note>
+        <note>av Jens Holm ( V )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3273 Utlandssvenskarna och den svenska utrikesrepresenta ­ tionen</note>
+        <note>av Jonas Andersson i Skellefteå ( SD )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2020 / 21:1069 Stöd till Armenien</note>
+        <note>av Boriana Åberg ( M )</note>
+        <note>till statsrådet Peter Eriksson ( MP )</note>
+        <note>2020 / 21:3291 Väntetider för personnummer</note>
+        <note>av Alexandra Anstrell ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2020 / 21:3318 De svenska militära insatserna i Mali</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till försvarsminister Peter Hultqvist ( S )</note>
+        <note>2020 / 21:3175 IS-kvinnors återvändande till Sverige</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3167 Byggande av gång- och cykelvägar</note>
+        <note>av Mikael Larsson ( C )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3170 Praktikplatser på statligt ägda fartyg</note>
+        <note>av Mikael Larsson ( C )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3177 Bristande underhåll som riskerar fler tågstopp och sämre vägar</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3187 Bristen på förvarsplatser</note>
+        <note>av Maria Malmer Stenergard ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3189 Ett helhetsgrepp om den svenska flygpolitiken</note>
+        <note>av Patrik Jönsson ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3205 Personalbrist i restaurangbranschen</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
+        <note>2020 / 21:3188 Bromma flygplats framtid efter utredningen</note>
+        <note>av Patrik Jönsson ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3198 Kostnadskontroll hos Trafikverket</note>
+        <note>av Martina Johansson ( C )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3199 Konkurrenskraftiga villkor för fjärrzonstrafik</note>
+        <note>av David Josefsson ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3213 Kompetensbristen i restaurangbranschen</note>
+        <note>av Lotta Olsson ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2020 / 21:3212 Transportbidraget</note>
+        <note>av Mattias Karlsson i Luleå ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2020 / 21:3272 Ökad beredskap mot skogsbränder</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2020 / 21:3214 Förtroendet för Sverige som gruv ­ nation</note>
+        <note>av Lars Hjälmered ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2020 / 21:3266 Vaccination mot TBE</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2020 / 21:3247 Den olagliga cabotage- och kombitrafiken</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3269 Låg miljöpåverkan från avlopp på landsbygden</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <note>2020 / 21:3216 Beslut gällande Kallakgruvan</note>
+        <note>av Lars Hjälmered ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2020 / 21:3228 Ett särskilt tortyrbrott</note>
+        <note>av Johan Pehrson ( L )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3239 Effektivitet i åtgärder mot arbetslöshet</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
+        <note>2020 / 21:3258 Den akuta veterinärbristen</note>
+        <note>av Marléne Lund Kopparklint ( M )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2020 / 21:3227 Den årliga tidsomställningen</note>
+        <note>av Ann-Christine From Utterstedt ( SD )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3255 Kinesiska provokationer mot Taiwan</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+        <note>2020 / 21:3238 Byggnation av nya djurstallar</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2020 / 21:3264 Försenade krisstöd till företag</note>
+        <note>av Lars Mejern Larsson ( S )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2020 / 21:3241 Brister i kontrollen av pensioner</note>
+        <note>av Katarina Brännström ( M )</note>
+        <note>till statsrådet Ardalan Shekarabi ( S )</note>
+        <note>2020 / 21:3250 Nya utförseltillstånd för krigsmateriel</note>
+        <note>av Håkan Svenneling ( V )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3245 Försörjningssäkerhet för livsmedel i händelse av kris och krig</note>
+        <note>av Alexandra Anstrell ( M )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2020 / 21:3302 Stundande elkris i Göteborg</note>
+        <note>av Lars Hjälmered ( M )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2020 / 21:3305 Trygg och stabil vård för de allra yngsta utsatta barnen</note>
+        <note>av Marléne Lund Kopparklint ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2020 / 21:3174 Bristande underhåll av vägar och järnvägar</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3279 Det misstänkta intrånget i en myndighets databas</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2020 / 21:3289 Trygghet för företagare i hela landet</note>
+        <note>av Eric Palmqvist ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2020 / 21:3281 Ivos befogenheter</note>
+        <note>av Linda Lindberg ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2020 / 21:3277 Äganderätten och minerallagen</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till näringsminister Ibrahim Baylan ( S )</note>
+        <note>2020 / 21:3304 Barnrättssäkrade skyddade boenden</note>
+        <note>av Marléne Lund Kopparklint ( M )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2020 / 21:3271 Årlig konkurrenskraftsredovisning för lantbruk</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2020 / 21:3275 Femårslicenser och samlingsvapen</note>
+        <note>av Eric Palmqvist ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2020 / 21:3298 Nya genomiska tekniker och EU</note>
+        <note>av Betty Malmberg ( M )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2020 / 21:3276 Fler trygga och säkra rastplatser</note>
+        <note>av Sten Bergheden ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3280 Missförhållanden på HVB-hem</note>
+        <note>av Linda Lindberg ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2020 / 21:3319 Förtroendet för gd vid Folkhälsomyndigheten</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2020 / 21:3299 Politiska vildar</note>
+        <note>av Louise Meijer ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3297 Miljöbilsdefinitionen</note>
+        <note>av Betty Malmberg ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3285 Platser i Kriminalvårdens häkten</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3286 Parallell rättskipning i Malmö</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3307 Stenkastning mot danska bilar</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3290 Trafiksituationen på Södra länken</note>
+        <note>av Alexandra Anstrell ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3287 Lotsplikten på inre vattenvägar</note>
+        <note>av Mikael Larsson ( C )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>2020 / 21:3283 Att se till djurens bästa</note>
+        <note>av Betty Malmberg ( M )</note>
+        <note>till statsrådet Jennie Nilsson ( S )</note>
+        <note>2020 / 21:3284 Sveriges säkerhet och införandet av 5G-nätet</note>
+        <note>av Pål Jonson ( M )</note>
+        <note>till statsrådet Anders Ygeman ( S )</note>
+        <note>2020 / 21:3310 Upplopp i invandrartät stadsdel i Borås</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3303 Handlingsplan för barn med skyddade personuppgifter i för- och grundskolan</note>
+        <note>av Marléne Lund Kopparklint ( M )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2020 / 21:3294 Farmakologisk behandling inom kriminalvården</note>
+        <note>av Marléne Lund Kopparklint ( M )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+        <note>2020 / 21:3282 Avfall och miljöbalken</note>
+        <note>av Betty Malmberg ( M )</note>
+        <note>till miljö- och klimatminister Per Bolund ( MP )</note>
+        <note>2020 / 21:3308 Väntetid för coronastöd</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2020 / 21:3293 Felaktiga utbetalningar från Pen ­ sionsmyndigheten</note>
+        <note>av Linda Lindberg ( SD )</note>
+        <note>till statsrådet Ardalan Shekarabi ( S )</note>
+        <note>2020 / 21:3296 Effekten av farmakologisk behandling</note>
+        <note>av Marléne Lund Kopparklint ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+        <note>2020 / 21:3278 Brister i Ivos granskning av HVB-hem</note>
+        <note>av Linda Lindberg ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 12 Kammaren åtskildes kl. 15 . 07 .</head>
+        <note>Sammanträdet leddes av talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANNALENA HANELL</note>
+      </div>
+    </body>
+  </text>
+</TEI>

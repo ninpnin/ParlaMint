@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2018-11-06-prot-201819--12.ana" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 12 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 12 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201819--12">2018/19--12</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="403">403 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="76"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="3"/>
+          <tagUsage gi="seg" occurs="3"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2018-11-06" ana="#parla.sitting">2018-11-06</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="commentSection">
+        <head>§ 1 Justering av protokoll</head>
+        <note>Protokollen för den 9 och 16 oktober justerades .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 2 Avsägelse</head>
+        <note>Andre vice t almannen meddelade att Matilda Ernkrans ( S ) avsagt sig uppdraget som ledamot i krigsdelegationen .</note>
+        <note>Kammaren biföll denna avsägelse .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 3 Anmälan om kompletteringsval</head>
+        <note>Andre vice talmannen meddelade att Socialdemokraternas riksdagsgrupp anmält Åsa Lindestam som ledamot i krigsdelegationen .</note>
+        <note>Andre vice talmannen förklarade vald till</note>
+        <note>ledamot i krigsdelegationen</note>
+        <note>Åsa Lindestam ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 4 Anmälan om återtagande av plats i riksdagen</head>
+        <note>Andre vice talmannen meddelade att Acko Ankarberg Johansson ( KD ) återta git sin plats i riksdagen från och med den 24 oktober , varigenom uppdraget som ersättare upphört för Mattias Ingeson ( KD ) .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 5 Anmälan om ordförande i utskott</head>
+        <note>Andre vice talmannen anmälde att Acko Ankarberg Johansson ( KD ) valts till ordförande i socialutskottet från och med den 25 oktober .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 6 Anmälan om subsidiaritetsprövning</head>
+        <note>Andre vice talmannen anmälde att utdrag ur prot . 2018 / 19:7 för torsdagen den 25 oktober i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från finansutskottet .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 7 Anmälan om faktapromemoria</head>
+        <note>Andre vice talmannen anmäl de att följande faktapromemoria om förslag från Europeiska kommissionen hade kommit in och överlämnats till utskott :</note>
+        <note>2018 / 19:FPM9 Gemensamt meddelande om förbindelserna mellan Europa och Asien – byggstenar för en EU-strategi JOIN ( 2018 ) 31 till trafikutskottet</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 8 Anmälan om granskningsrapport</head>
+        <note>Andre vice talmannen anmälde att följande granskningsrapport hade kommit in från Riksrevisionen och överlämnats till utbildningsutskottet :</note>
+        <note>RiR 2018:28 Långsiktiga effekter av utökade valmöjligheter till gymnasieskolan – från närhetsprincipen till betygsprincip</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 9 Ärenden för hänvisning till utskott</head>
+        <note>Följande dokument hänvisades till utskott :</note>
+        <note>Propositioner</note>
+        <note>2018 / 19:5 och 6 till utrikesutskottet</note>
+        <note>Skrivelse</note>
+        <note>2018 / 19:8 till socialförsäkringsutskottet</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 10 Ärenden för bordläggning</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Konstitutionsutskottets betänkande</note>
+        <note>2018 / 19:KU6 Riksrevisionens ledningsstruktur</note>
+        <note>Finansutskottets betänkanden</note>
+        <note>2018 / 19:FiU8 Extra ändringsbudget för 2018 – Stöd till djurägare inom lantbruket som drabbats av torkan 2018</note>
+        <note>2018 / 19:FiU9 Riksrevisorernas årliga rapport 2018</note>
+        <note>Justitieutskottets betänkande</note>
+        <note>2018 / 19:JuU3 Brottsdatalag – kompletterande lagstiftning</note>
+        <note>Socialutskottets betänkande</note>
+        <note>2018 / 19:SoU4 Biståndsbedömt trygghetsboende för äldre</note>
+        <note>Kulturutskottets betänkanden</note>
+        <note>2018 / 19:KrU3 En politik för engagemang – långsiktighet och oberoende för civilsamhället</note>
+        <note>2018 / 19:KrU4 Kultur i hela landet</note>
+        <note>Näringsutskottets betänkande</note>
+        <note>2018 / 19:NU5 Modernare regler om varumärken och en ny lag om företagsnamn</note>
+        <note>Arbetsmarknadsutskottets betänkande</note>
+        <note>2018 / 19:AU3 ILO:s konvention om anständiga arbetsvillkor för hushållsarbetare</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 1 1 Bordläggning</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2018 ) 641 Meddelande från kommissionen till Europeiska rådet och Europaparlamentet Ett EU som skyddar : ett initiativ för att utsträcka Europeiska åklagarmyndighetens befogenheter till att även omfatta gränsöverskridande terroristbrott Ett bidrag från Europeiska kommissionen vid ledarnas möte i Salzburg den 19 – 20 september 2018</note>
+        <note>Motion</note>
+        <note>med anledning av framst . 2018 / 19:RS5 Översyn av Riksrevisionen – övriga lagändringar</note>
+        <note>2018 / 19:236 av Jonas Millard m.fl. ( SD )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 1 2 Anmälan om fråga för skriftligt svar</head>
+        <note>Andre vice talmannen anmälde att följande fråga för skriftlig t svar hade framställts och inte skulle besvaras :</note>
+        <note>den 24 oktober</note>
+        <note>2018 / 19:2 Ratificering av CEPA</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till utrikesminister Margot Wallström ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 1 3 Kammaren åts kildes kl. 13.02 .</head>
+        <note>Sammanträdet leddes av andre vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>CHARLOTTE RYDELL</note>
+        <note>/ Olof Pilo</note>
+        <note>Innehållsförteckning</note>
+        <note>§ 1 Justering av protokoll</note>
+        <note>§ 2 Avsägelse</note>
+        <note>§ 3 Anmälan om kompletteringsval</note>
+        <note>§ 4 Anmälan om återtagande av plats i riksdagen</note>
+        <note>§ 5 Anmälan om ordförande i utskott</note>
+        <note>§ 6 Anmälan om subsidiaritetsprövning</note>
+        <note>§ 7 Anmälan om faktapromemoria</note>
+        <note>§ 8 Anmälan om granskningsrapport</note>
+        <note>§ 9 Ärenden för hänvisning till utskott</note>
+        <note>§ 10 Ärenden för bordläggning</note>
+      </div>
+      <div type="commentSection">
+        <note>§ 11 Bordläggning</note>
+      </div>
+      <div type="commentSection">
+        <note>§ 12 Anmälan om fråga för skriftligt svar</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 13 Kammaren åtskildes kl. 13.02 .</head>
+        <note>Tryck : Elanders Sverige AB , Vällingby 2018</note>
+      </div>
+    </body>
+  </text>
+</TEI>

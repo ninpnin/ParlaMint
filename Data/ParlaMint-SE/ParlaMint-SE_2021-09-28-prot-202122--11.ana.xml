@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2021-09-28-prot-202122--11.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2021/22 nr. 11 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2021/22 nr. 11 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="202122" ana="#parla.uni #parla.term">2021/22</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="202122--11">2021/22--11</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="1069">1069 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="109"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="12"/>
+          <tagUsage gi="seg" occurs="12"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2021-09-28" ana="#parla.sitting">2021-09-28</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="commentSection">
+        <head>§ 1 Anmälan om ersättare</head>
+        <note>Tredje vice talmannen anmälde att Stefan Plath ( S D ) inträtt som ersättare för Sara Gille ( SD ) under tiden för hennes ledighet den 27 september – 4 november .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 2 Meddelande om frågestund</head>
+        <note>Tredje vice talmannen meddelade att frågestund skulle äga rum torsdagen den 30 september kl. 14.00 .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 3 Anmälan om subsidiaritetsprövning</head>
+        <note>Tredje vice talmannen anmälde att utdrag ur prot . 2021 / 22:1 för torsdagen den 16 september i ärende om subsidiaritetsprövning av EU-förslag hade kommit in från justitieutskottet .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 4 Anmälan om fördröjda svar på interpellationer</head>
+        <note>Följande skrivelser hade kommit in :</note>
+        <note>Interpellation 2021 / 22 : 1</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2021 / 22:1 Försvunna yazidiska kvinnor</note>
+        <note>av Joar Forssell ( L )</note>
+        <note>Interpellationen kommer att besvaras tisdagen den 19 oktober 2021 .</note>
+        <note>Skälet till dröjsmålet är resa .</note>
+        <note>Stockholm den 27 september 2021</note>
+        <note>Utrikesdepartementet</note>
+        <note>Ann Linde ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Anna Hammargren</note>
+        <note>Expeditionschef</note>
+        <note>Interpellation 2021 / 22 : 4</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2021 / 22:4 Medlemsstaternas återhämtningsplaner</note>
+        <note>av Ludvig Aspling ( SD )</note>
+        <note>Interpellationen kommer att besvaras tisdagen den 26 oktober 2021 .</note>
+        <note>Skälet till dröjsmålet är tjänsteresor och sedan tidigare inbokade engagemang .</note>
+        <note>Stockholm den 23 september 2021</note>
+        <note>Finansdepartementet</note>
+        <note>Magdalena Andersson ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Johan Ndure</note>
+        <note>Departementsråd</note>
+        <note>Interpellation 2021 / 22 : 15</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2021 / 22:1 5 Armeniska krigsfångar</note>
+        <note>av Arin Karapet ( M )</note>
+        <note>Interpellationen kommer att besvaras tisdagen den 19 oktober 2021 .</note>
+        <note>Skälet till dröjsmålet är resa .</note>
+        <note>Stockholm den 27 september 2021</note>
+        <note>Utrikesdepartementet</note>
+        <note>Ann Linde ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Anna Hammargren</note>
+        <note>Expeditionschef</note>
+        <note>Interpellation 2021 / 22 : 16</note>
+        <note>Till riksdagen</note>
+        <note>Interpellation 2021 / 22:1 6 Situationen för mänskliga rättigheter i Iran</note>
+        <note>av Amineh Kakabaveh ( - )</note>
+        <note>Interpellationen kommer att besvaras tisdagen den 19 oktober 2021 .</note>
+        <note>Skälet till dröjsmålet är resa .</note>
+        <note>Stockholm den 27 september 2021</note>
+        <note>Utrikesdepartementet</note>
+        <note>Ann Linde ( S )</note>
+        <note>Enligt uppdrag</note>
+        <note>Anna Hammargren</note>
+        <note>Expeditionschef</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 5 Ärenden för hänvisning till utskott</head>
+        <note>Följande dokument hänvisades till utskott :</note>
+        <note>Motioner</note>
+        <note>2020 / 21:4113 , 2021 / 22:103 , 127 och 134 till justitieutskottet</note>
+        <note>2020 / 21:4112 , 2021 / 22:60 och 102 till näringsutskottet</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2021 ) 423 till finansutskottet</note>
+        <note>Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 18 november .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 6 Ärenden för bordläggning</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Miljö- och jordbruksutskottets betänkande</note>
+        <note>2021 / 22:MJU3 Ändrade regler för kontroll av ekologisk produktion</note>
+        <note>Konstitutionsutskottets betänkande</note>
+        <note>2021 / 22:KU2 Rättelse i lag om ändring i offentlighets ‑ och sekretesslagen</note>
+        <note>Skatteutskottets betänkande</note>
+        <note>2020 / 21:SkU37 Pausad BNP-indexering av skatten på bensin och diesel för 2022</note>
+        <note>Socialutskottets betänkande</note>
+        <note>2021 / 22:SoU2 Utbetalning av ersättning för personlig assistans endast vid tillstånd</note>
+        <note>Arbetsmarknadsutskottets betänkanden</note>
+        <note>2021 / 22:AU3 Genomförande av visselblåsardirektivet</note>
+        <note>2021 / 22:AU4 Samhall</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 7 Bordläggning</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2021 ) 346 Förslag till Europaparlamentets och rådets förordning om allmän produktsäkerhet , ändring av Europaparlamentets och rådets förordning ( EU ) nr 1025 / 2012 och om upphävande av rådets direktiv 87 / 357 / EEG och Europaparlamentets och rådets direktiv 2001 / 95 / EG</note>
+        <note>COM ( 2021 ) 420 Förslag till Europaparlamentets och rådets förordning om åtgärder för att förhindra att det finansiella systemet används för penningtvätt eller finansiering av terrorism</note>
+        <note>COM ( 2021 ) 547 Förslag till Europaparlamentets och rådets direktiv om ändring av direktiv 2014 / 53 / EU om harmonisering av medlemsstaternas lagstift ­ ning om tillhandahållande på marknaden av radioutrustning</note>
+        <note>Miljö- och jordbruksutskottets betänkande</note>
+        <note>2021 / 22 : M J U7 Regeringsprövning av kalkstenstäkter i undantagsfall</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 8 Anmälan om interpellation</head>
+        <note>Följande interpellation hade framställts :</note>
+        <note>den 27 september</note>
+        <note>2021 / 22:18 Migrationsverkets rutiner</note>
+        <note>av Niklas Wykman ( M )</note>
+        <note>till justitie- och migrationsminister Morgan Johansson ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 9 Anmälan om frågor för skriftliga svar</head>
+        <note>Följande frågor för skriftliga svar hade framställts :</note>
+        <note>den 24 september</note>
+        <note>2021 / 22:42 Säkerheten hos svensk vindkraft</note>
+        <note>av Mattias Bäckström Johansson ( SD )</note>
+        <note>till arbetsmarknadsminister Eva Nordmark ( S )</note>
+        <note>2021 / 22:43 Lundakarnevalen</note>
+        <note>av Mats Persson ( L )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+        <note>den 27 september</note>
+        <note>2021 / 22:44 Utökad polisarrest</note>
+        <note>av Adam Marttinen ( SD )</note>
+        <note>till statsrådet Mikael Damberg ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 10 Kammaren åtskildes kl. 13.01 .</head>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>GERGÖ KISCH</note>
+      </div>
+    </body>
+  </text>
+</TEI>

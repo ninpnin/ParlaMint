@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2020-03-24-prot-201920--92.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2019/20 nr. 92 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2019/20 nr. 92 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201920" ana="#parla.uni #parla.term">2019/20</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201920--92">2019/20--92</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="282">282 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="80"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="2"/>
+          <tagUsage gi="seg" occurs="2"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2020-03-24" ana="#parla.sitting">2020-03-24</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="commentSection">
+        <head>§ 1 Justering av protokoll</head>
+        <note>Protokollet för den 3 mars justerades .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 2 Meddelande om frågestund</head>
+        <note>Andre vice talmannen meddelade att frågestund skulle äga rum torsdagen den 26 mars kl. 14.00 .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 3 Anmälan om faktapromemoria</head>
+        <note>Andre vice talmannen anmälde att följande faktapromemoria om förslag från Europeiska kommissio ­ nen hade kommit in och överlämnats till utskott :</note>
+        <note>2019 / 20:FPM23 Digital strategi , AI-vitbok och datastrategi COM ( 2020 ) 65 , COM ( 2020 ) 66 , COM ( 2020 ) 67 till utbildningsutskottet</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 4 Ärenden för bordläggning</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Finansutskottets betänkanden</note>
+        <note>2019 / 20:FiU36 Finansiella företags uppgifter till Riksgäldskontoret och vissa betaltjänstfrågor</note>
+        <note>2019 / 20:FiU37 Presentation av betalningssätt vid marknadsföring av betaltjänster online</note>
+        <note>2019 / 20:FiU38 Ersättningsbeloppet i insättningsgarantin och vissa andra frågor</note>
+        <note>Arbetsmarknadsutskottets betänkande</note>
+        <note>2019 / 20:AU8 Arbetsrätt</note>
+        <note>Civilutskottets betänkande</note>
+        <note>2019 / 20:CU19 Tydligare regler vid konsumentavtal</note>
+        <note>Näringsutskottets betänkanden</note>
+        <note>2019 / 20:NU12 Näringspolitik</note>
+        <note>2019 / 20:NU13 Regional tillväxtpolitik</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 5 Bordläggning</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>Propositioner</note>
+        <note>2019 / 20:120 Nya befogenheter på konsumentskyddsområdet</note>
+        <note>2019 / 20:125 Några fastighetsrättsliga frågor</note>
+        <note>2019 / 20:126 Några frågor om rehabiliteringsersättning och vårdbidrag</note>
+        <note>2019 / 20:127 Fjärrundervisning , distansundervisning och vissa frågor om entreprenad</note>
+        <note>2019 / 20:129 Effektivare hantering av häktningar och minskad isolering</note>
+        <note>2019 / 20:131 Ökat skydd mot hedersrelaterad brottslighet</note>
+        <note>2019 / 20:135 Utvidgad tillträdesrätt för de regionala skyddsombuden</note>
+        <note>2019 / 20:137 Förbättrad tillsyn på miljöområdet</note>
+        <note>Skrivelse</note>
+        <note>2019 / 20:133 Riksrevisionens rapport om statens planering av höghastighetsjärnvägar</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2020 ) 111 Förslag till Europaparlamentets och rådets förordning om ändring av förordning ( EEG ) nr 95 / 93 om gemensamma regler för fördelning av ankomst- och avgångstider vid gemenskapens flygplatser</note>
+        <note>COM ( 2020 ) 114 Förslag till Europaparlamentets och rådets förordning om ändring av rådets förordning ( EG ) nr 2012 / 2002 i syfte att ge ekonomiskt bistånd till medlemsstater och länder som förhandlar om anslutning till unionen som allvarligt har drabbats av större hot mot folkhälsan</note>
+        <note>Motion</note>
+        <note>med anledning av prop . 2019 / 20:87 Inget grundavdrag vid bestämmande av brottsskadeersättning</note>
+        <note>2019 / 20:3508 av Johan Forssell m.fl. ( M )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 6 Anmälan om interpellation</head>
+        <note>Följande interpellation hade framställts :</note>
+        <note>den 20 mars</note>
+        <note>2019 / 20:372 Sveriges feministiska utrikespolitik</note>
+        <note>av Amineh Kakabaveh ( - )</note>
+        <note>till utrikesminister Ann Linde ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 7 Anmälan om frågor för skriftliga svar</head>
+        <note>Följande frågor för skriftliga svar hade framställts :</note>
+        <note>den 20 mars</note>
+        <note>2019 / 20:1109 En trygg finansiering för folkhögskolorna</note>
+        <note>av Roland Utbult ( KD )</note>
+        <note>till utbildningsminister Anna Ekström ( S )</note>
+        <note>2019 / 20:1110 Arbetsskadeförsäkringen</note>
+        <note>av Ida Gabrielsson ( V )</note>
+        <note>till statsrådet Ardalan Shekarabi ( S )</note>
+        <note>2019 / 20:1111 Kvinnojourer som drivs ideellt</note>
+        <note>av Maj Karlsson ( V )</note>
+        <note>till statsrådet Åsa Lindhagen ( MP )</note>
+        <note>den 23 mars</note>
+        <note>2019 / 20:1112 Stöd till högteknologiska företag</note>
+        <note>av Boriana Åberg ( M )</note>
+        <note>till finansminister Magdalena Andersson ( S )</note>
+        <note>2019 / 20:1113 Stöd till kulturarbetare med anledning av coronaviruset</note>
+        <note>av Lotta Finstorp ( M )</note>
+        <note>till kultur- och demokratiminister Amanda Lind ( MP )</note>
+        <note>2019 / 20:1114 Coronavirusets konsekvenser för bilverkstäder</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till infrastrukturminister Tomas Eneroth ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 8 Kammaren åtskildes kl. 13 . 01 .</head>
+        <note>Sammanträdet leddes av andre vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANDERS NORIN</note>
+      </div>
+    </body>
+  </text>
+</TEI>

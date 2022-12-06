@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2022-02-28-prot-202122--74.ana" ana="#parla.sitting #covid">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2021/22 nr. 74 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2021/22 nr. 74 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="202122" ana="#parla.uni #parla.term">2021/22</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="202122--74">2021/22--74</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="158">158 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="83"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="2"/>
+          <tagUsage gi="seg" occurs="2"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2022-02-28" ana="#parla.sitting">2022-02-28</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#covid">
+    <body>
+      <div type="commentSection">
+        <head>§ 1 Anmälan om kompletteringsval</head>
+        <note>Tredje vice talmannen meddelade att Socialdemokraternas parti grupp anmält Marie Granlund som suppleant i skatteutskottet under Hillevi Lars ­ sons ledighet .</note>
+        <note>Tredje vice talmannen förklarade vald under tiden den 1 – 31 mars till</note>
+        <note>supplean t i skatteutskottet</note>
+        <note>Marie Granlund ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 2 Meddelande om frågestund</head>
+        <note>Tredje vice talmannen meddelade att frågestund skulle äga rum torsdagen den 3 mars kl. 14.00 .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 3 Bordläggning</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2021 ) 804 Förslag till Europaparlamentets och rådets förordning om de inre marknaderna för förnybara gaser och naturgaser och för vätgas ( omarbetning )</note>
+        <note>COM ( 2021 ) 805 Förslag till Europaparlamentets och rådets förordning om minskade metanutsläpp inom energisektorn och om ändring av förordning ( EU ) 2019 / 942</note>
+        <note>COM ( 2022 ) 53 Förslag till Europaparlamentets och rådets direktiv om ändring av direktiv 2003 / 25 / EG vad gäller införandet av förbättrade stabilitetskrav och anpassningen av direktivet till de stabilitetskrav som fastställts av Internationella sjöfartsorganisationen</note>
+        <note>COM ( 2022 ) 55 Förslag till Europaparlamentets och rådets förordning om ändring av förordning ( EU ) 2021 / 954 om en ram för utfärdande , kontroll och godtagande av interoperabla intyg om vaccination mot , testning för och tillfrisknande från covid-19 ( EU:s digitala covidintyg ) vad gäller tredjelandsmedborgare som lagligen vistas eller är bosatta på medlemsstaternas territorier under covid-19-pandemin</note>
+        <note>Finansutskottets betänkande</note>
+        <note>2021 / 22 : FiU40 Ändringar i statens budget för 2022 – Ekonomiskt stöd och utrustning till Ukraina</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 4 Anmälan om interpellationer</head>
+        <note>Följande interpellationer hade framställts :</note>
+        <note>den 25 februari</note>
+        <note>2021 / 22:377 Riktlinjer för vindkraft</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till statsrådet Johan Danielsson ( S )</note>
+        <note>2021 / 22:378 Digital fastighetsbildning</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till statsrådet Johan Danielsson ( S )</note>
+        <note>2021 / 22:379 Näringsministerns dialog med näringslivet</note>
+        <note>av Lars Beckman ( M )</note>
+        <note>till näringsminister Karl-Petter Thorwaldsson ( S )</note>
+        <note>2021 / 22:380 Investeringsavtal</note>
+        <note>av Lorena Delgado Varas ( V )</note>
+        <note>till statsrådet Khashayar Farmanbar ( S )</note>
+        <note>2021 / 22:381 Jämlikhetsperspektivet i pandemihanteringen</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+        <note>2021 / 22:382 Elpriset</note>
+        <note>av Kjell Jansson ( M )</note>
+        <note>till finansminister Mikael Damberg ( S )</note>
+        <note>2021 / 22:383 Plastpåseskatten</note>
+        <note>av Helena Bouveng ( M )</note>
+        <note>till finansminister Mikael Damberg ( S )</note>
+        <note>2021 / 22:384 Prisutvecklingen på drivmedel</note>
+        <note>av Niklas Wykman ( M )</note>
+        <note>till finansminister Mikael Damberg ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 5 Anmälan om frågor för skriftliga svar</head>
+        <note>Följande frågor för skriftliga svar hade framställts :</note>
+        <note>den 25 februari</note>
+        <note>2021 / 22:1156 Tidsplan för permanent lag om digitala stämmor</note>
+        <note>av Mikael Eskilandersson ( SD )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:1157 Ägandeskapet av Mälsåkers slott</note>
+        <note>av Magnus Stuart ( M )</note>
+        <note>till statsrådet Max Elger ( S )</note>
+        <note>2021 / 22:1158 Tillsynen av driftssäkerheten i det nationella elsystemet</note>
+        <note>av Arman Teimouri ( L )</note>
+        <note>till statsrådet Khashayar Farmanbar ( S )</note>
+        <note>2021 / 22:1159 Reglering på säkerhetsskyddsområdet</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>2021 / 22:1160 Skadeståndsnivåer</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till justitie- och inrikesminister Morgan Johansson ( S )</note>
+        <note>den 28 februari</note>
+        <note>2021 / 22:1161 Hanteringen av covid-19 i skolans värld</note>
+        <note>av Markus Wiechel ( SD )</note>
+        <note>till socialminister Lena Hallengren ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 6 Anmälan om skriftligt svar på fråga</head>
+        <note>Skriftligt svar på följande fråga hade kommit in :</note>
+        <note>den 25 februari</note>
+        <note>2021 / 22:1075 Vindkraften och det kommunala vetot</note>
+        <note>av Camilla Brodin ( KD )</note>
+        <note>till klimat- och miljöminister Annika Strandhäll ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 7 Kammaren åtskildes kl. 14.00 .</head>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>ANNALENA HANELL</note>
+      </div>
+    </body>
+  </text>
+</TEI>

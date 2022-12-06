@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sv" xml:id="ParlaMint-SE_2019-01-17-prot-201819--38.ana" ana="#parla.sitting #reference">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="sv" type="main">Riksdagens protokoll 2018/19 nr. 38 [ParlaMint]</title>
+        <title xml:lang="en" type="main">Swedish parliamentary corpus ParlaMint-SE, 2018/19 nr. 38 [ParlaMint.ana SAMPLE]</title>
+        <meeting n="201819" ana="#parla.uni #parla.term">2018/19</meeting>
+        <meeting ana="#parla.sitting #parla.uni" n="201819--38">2018/19--38</meeting>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.0</edition>
+      </editionStmt>
+      <extent>
+        <measure xml:lang="sv" unit="speeches" quantity="0">0 tal</measure>
+        <measure xml:lang="sv" unit="words" quantity="721">721 ord</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+          <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+        </publisher>
+        <idno type="URI">https://github.com/clarin-eric/ParlaMint</idno>
+        <availability status="free">
+          <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+          <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+        </availability>
+        <date when="2022-11-29">2022-11-29</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Protokoll</title>
+          <idno type="URI" subtype="parliament">https://data.riksdagen.se/data/dokument/</idno>
+          <idno type="URI">https://github.com/welfare-state-analytics/riksdagen-corpus</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p xml:lang="sv">
+          <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+        </p>
+        <p xml:lang="en"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi="text" occurs="0"/>
+          <tagUsage gi="body" occurs="1"/>
+          <tagUsage gi="div" occurs="2"/>
+          <tagUsage gi="note" occurs="37"/>
+          <tagUsage gi="pb" occurs="0"/>
+          <tagUsage gi="u" occurs="5"/>
+          <tagUsage gi="seg" occurs="5"/>
+          <tagUsage gi="kinesic" occurs="0"/>
+          <tagUsage gi="vocal" occurs="0"/>
+          <tagUsage gi="incident" occurs="0"/>
+          <tagUsage gi="gap" occurs="0"/>
+          <tagUsage gi="desc" occurs="0"/>
+          <tagUsage gi="time" occurs="0"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <settingDesc>
+        <setting>
+          <name type="org">Sveriges riksdag</name>
+          <name type="address">Riksgatan 1</name>
+          <name type="city">Stockholm</name>
+          <name type="country">Sweden</name>
+          <date when="2019-01-17" ana="#parla.sitting">2019-01-17</date>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text ana="#reference">
+    <body>
+      <div type="commentSection">
+        <head>§ 1 Förnyad bordläggning av förslag till statsminister</head>
+        <note>Förslaget om att riksdagen till statsminister skulle utse Stefan Löfven föredrogs och bordlades åter .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 2 Anmälan om ersättare</head>
+        <note>Tredje vice talmannen anmälde att Nermina Mizimovic ( S ) skulle tjänstgöra som ersättare för Laila Naraghi ( S ) under tiden för henne s ledighet den 22 januari – 22 april .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 3 Anmälan om faktapromemoria</head>
+        <note>Tredje vice talmannen anmäl de att följande fakta ­ promemoria om förslag från Europeiska kommis ­ sionen hade kommit in och överlämnats till utskott :</note>
+        <note>2018 / 19:FPM25 Införandet av vissa krav för betalningstjänstleverantörer COM ( 2018 ) 813 , COM ( 2018 ) 812 till skatteutskottet</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 4 Ärenden för hänvisning till utskott</head>
+        <note>Följande dokument hänvisades till utskott :</note>
+        <note>Proposition</note>
+        <note>2018 / 19:36 till trafikutskottet</note>
+        <note>Skrivelse</note>
+        <note>2018 / 19:34 till socialutskottet</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2018 ) 825 till skatteutskottet</note>
+        <note>Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 12 mars .</note>
+        <note>COM ( 2019 ) 3 och COM ( 2019 ) 4 till justitieutskottet</note>
+        <note>Åttaveckorsfristen för att avge ett motiverat yttrande skulle gå ut den 12 mars .</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 5 Bordläggning</head>
+        <note>Följande dokument anmäldes och bordlades :</note>
+        <note>EU-dokument</note>
+        <note>COM ( 2018 ) 772 Meddelande från kommissionen till Europaparlamentet , Europeiska rådet , rådet , Europeiska ekonomiska och sociala kommittén och Regionkommittén Den inre marknaden i en värld som förändras – En unik tillgång som kräver ett nytt politiskt åtagande</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 6 Anmälan om fråga för skriftligt svar</head>
+        <note>Följande fråga för skriftligt svar hade framställts :</note>
+        <note>den 16 januari</note>
+        <note>2018 / 19:5 Försäljning av statliga bolag och känslig teknik till främmande makt</note>
+        <note>av Björn Söder ( SD )</note>
+        <note>till närings- och innovationsminister Mikael Damberg ( S )</note>
+      </div>
+      <div type="commentSection">
+        <head>§ 7 Kammaren åtskildes kl. 13.01 .</head>
+        <note>Sammanträdet leddes av tredje vice talmannen .</note>
+        <note>Vid protokollet</note>
+        <note>JOHAN WELANDER</note>
+      </div>
+    </body>
+  </text>
+</TEI>
