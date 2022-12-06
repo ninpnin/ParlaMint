@@ -21,7 +21,7 @@ def find_links(root, args):
             parent.remove(xi)
     
     print("Add links...")
-    for p in folder.glob("ParlaMint-SE_*.xml"):
+    for p in sorted(folder.glob("ParlaMint-SE_*.xml")):
         file_is_annotated = ".ana" in p.suffixes
         if corpus_is_annotated == file_is_annotated:
             nsmap = {"xi": xi_ns.replace("{", "").replace("}", "")}
