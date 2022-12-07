@@ -11770,7 +11770,6 @@
               <w msd="UPosTag=ADP" lemma="efter" xml:id="i-KM5Beid637ThC23fX2tnHA">efter</w>
               <name type="MISC">
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="Next" xml:id="i-KM5Bo3iYQzyxXJaHqSkh9E">Next</w>
-                <w msd="UPosTag=PROPN|Case=Nom" lemma="­" xml:id="i-KM5BxD7wdUf3niZBPJCbVW">­</w>
                 <w msd="UPosTag=PROPN|Case=Gen" lemma="jets" xml:id="i-KM5C6YDQ1NBK815ohi4WMa">jets</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="konkurs" xml:id="i-KM5CFhcoDqrQPR4hFZWQhr" join="right">konkurs</w>
@@ -22136,7 +22135,6 @@
               <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-KMH2Yz5Ck4XkQGZ8Hb3ADS">den</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing" lemma="internatio" xml:id="i-KMH2hKAf7x41jZ5kbzu55W">internatio</w>
               <name type="MISC">
-                <w msd="UPosTag=PROPN|Case=Nom" lemma="­" xml:id="i-KMH2qeG7VqaH4qcNvQkywa">­</w>
                 <w msd="UPosTag=PROPN|Case=Nom" lemma="nella" xml:id="i-KMH2zofWiKFNLFbGUGCtHr">nella</w>
               </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="arbetsgrupp" xml:id="i-KMH398ky6CmdfY7tng4o9v">arbetsgruppen</w>

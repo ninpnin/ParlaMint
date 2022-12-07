@@ -58,6 +58,12 @@ def remove_soft_hyphens(root):
             for elem in s:
                 content = "".join(elem.itertext()).strip()
                 tag = elem.tag
+                if tag == f"{tei_ns}name":
+                    for u in elem:
+                        if "".join(u.itertext()).strip() == "\xad":
+                            parent = u.getparent()
+                            parent.remove(u)
+
                 if tag in [f"{tei_ns}u", f"{tei_ns}name"] and len(content) <= 1:
                     #print(etree.tostring(elem, encoding="utf-8").decode("utf-8"))
                     words.add(content)
