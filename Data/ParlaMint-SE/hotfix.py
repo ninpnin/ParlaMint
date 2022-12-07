@@ -81,6 +81,12 @@ def section_types(root):
             div.attrib["type"] = "debateSection"
     return root
 
+def ana_titles(root):
+    for title in root.findall(f".//{tei_ns}title"):
+        title.text = title.text.replace("[ParlaMint]", "[ParlaMint.ana]")
+        title.text = title.text.replace("[ParlaMint SAMPLE]", "[ParlaMint.ana SAMPLE]")
+    return root
+
 def main(args):
     # Add talmän as 'chair'
     talman = None
@@ -101,6 +107,9 @@ def main(args):
             for date in profileDesc.findall(f".//{tei_ns}date"):
                 protocols_date = date.attrib.get("when")
 
+
+        if ".ana.xml" in str(path):
+            root = ana_titles(root)
         #ParlaMint-SE_2015-11-18-prot-201516--29.ana -> 29
         protocol_number = root.attrib[f"{xml_ns}id"].split(".")[0].split("--")[-1]
 
