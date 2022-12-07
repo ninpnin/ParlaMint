@@ -12064,9 +12064,6 @@
             </s>
             <s xml:id="i-S9UiR1VZ4QqsawoC5Lu612">
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="brottsförebyg" xml:id="i-S91mxPwaH3Wt4PJH7zcgGU">Brottsförebyg</w>
-              <name type="MISC">
-                <w msd="UPosTag=PROPN|Case=Nom" lemma="­" xml:id="i-S91n7ZLyVXByKoHAfr4ack">­</w>
-              </name>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def,Ind|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="gand" xml:id="i-S91nHZ4KYb1tXLiKT96UTE">gande</w>
               <w msd="UPosTag=NOUN|Case=Gen|Definite=Def|Gender=Neut|Number=Sing" lemma="råd" xml:id="i-S91nSiTim4gynkhCzzYNoW">rådets</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="statistik" xml:id="i-S91nbss7yYN54Ag6YqzH9n">statistik</w>
@@ -20477,9 +20474,6 @@
               <w msd="UPosTag=DET|Definite=Def|Gender=Com|Number=Sing" lemma="den" xml:id="i-S9CDRAktAjaDovxSfrFHFS">den</w>
               <w msd="UPosTag=ADJ|Case=Nom|Definite=Def|Degree=Pos|Gender=Com,Neut|Number=Sing" lemma="negativ" xml:id="i-S9CDbAUEDoQ91UPbT9HB5v">negativa</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="utveck" xml:id="i-S9CDjVZgbgvQLkvDmZ95wz">utveck</w>
-              <name type="MISC">
-                <w msd="UPosTag=PROPN|Case=Nom" lemma="­" xml:id="i-S9CDtey5pAbVcAu7KQazJG">­</w>
-              </name>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Def|Gender=Com|Number=Sing" lemma="ling" xml:id="i-S9CE3pNV2eGasaszsG2teY" join="right">lingen</w>
               <pc msd="UPosTag=PUNCT" xml:id="i-S9CECymtF7wg8zrtR7Unzp">.</pc>
               <linkGrp targFunc="head argument" type="UD-SYN">
@@ -27532,9 +27526,6 @@
               <w msd="UPosTag=ADV" lemma="därför" xml:id="i-S9LYrcZTo8ZLje9A6MB8vQ">därför</w>
               <w msd="UPosTag=SCONJ" lemma="att" xml:id="i-S9LYzwevB25c4vfnQm33nU">att</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Com|Number=Sing" lemma="reger" xml:id="i-S9LZAwNGE5uXGU6wC44wcx">reger</w>
-              <name type="MISC">
-                <w msd="UPosTag=PROPN|Case=Nom" lemma="­" xml:id="i-S9LZKGTibyRnbkdZWTvrV2">­</w>
-              </name>
               <w msd="UPosTag=NOUN|Case=Gen|Definite=Ind|Gender=Com|Number=Sing" lemma="ing" xml:id="i-S9LZTbZAyrx3w3ABpsnmM6">ingens</w>
               <w msd="UPosTag=ADJ|Case=Nom" lemma="första" xml:id="i-S9LZckxaCLd9CT95NjEfhN">första</w>
               <w msd="UPosTag=NOUN|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing" lemma="förslag" xml:id="i-S9LZnkfvFQT4PzaEA2GZXr">förslag</w>
