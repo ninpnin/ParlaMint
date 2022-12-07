@@ -51,6 +51,21 @@ def remove_joins(root):
                 name[0].attrib["join"] = "right"
     return root
 
+def remove_soft_hyphens(root):
+    words = set()
+    for body in root.findall(f".//{tei_ns}body"):
+        for s in body.findall(f".//{tei_ns}s"):
+            for elem in s:
+                content = "".join(elem.itertext()).strip()
+                tag = elem.tag
+                if tag in [f"{tei_ns}u", f"{tei_ns}name"] and len(content) <= 1:
+                    #print(etree.tostring(elem, encoding="utf-8").decode("utf-8"))
+                    words.add(content)
+                    if content == "\xad":
+                        parent = elem.getparent()
+                        parent.remove(elem)
+    return root
+
 def section_types(root):
     for div in root.findall(f".//{tei_ns}div"):
         speeches = div.findall(f".//{tei_ns}u")
@@ -117,6 +132,7 @@ def main(args):
         root = remove_unknowns(root)
         root = remove_joins(root)
         root = section_types(root)
+        root = remove_soft_hyphens(root)
         b = etree.tostring(
             root, pretty_print=True, encoding="utf-8", xml_declaration=True
         )
