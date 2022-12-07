@@ -13,6 +13,7 @@ import pandas as pd
 import progressbar
 import numpy as np
 import datetime
+import re
 
 tei_ns ="{http://www.tei-c.org/ns/1.0}"
 xml_ns = "{http://www.w3.org/XML/1998/namespace}"
@@ -152,6 +153,14 @@ def remove_toc(root):
 
     return root
 
+def remove_soft_hyphens(root):
+    for u in root.findall(f".//{tei_ns}u"):
+        for seg in u:
+            text = seg.text
+            seg.text = re.sub(' ?\u00ad ?','',text)
+
+    return root
+
 def main(args):
     p = Path(".")
     parser = etree.XMLParser(remove_blank_text=True)
@@ -172,6 +181,8 @@ def main(args):
         elif args.phase == 1:
             print("Phase 1")
             root = remove_toc(root)
+        elif args.phase == 2:
+            root = remove_soft_hyphens(root)
         else:
             print("Phase not recognized")
 
